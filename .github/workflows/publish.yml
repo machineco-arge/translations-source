@@ -56,14 +56,30 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Bump version
+      - name: Bump version if tag does not exist
+        id: version_bumper
         run: |
-          npm version patch -m "chore(release): publish %s"
+          # Calculate the next version string (e.g., "v1.0.3") without creating a tag
+          NEXT_VERSION=$(npm version patch --no-git-tag-version)
+          
+          # Check if the tag for the next version already exists
+          if git rev-parse -q --verify "refs/tags/${NEXT_VERSION}"; then
+            echo "Tag ${NEXT_VERSION} already exists. Skipping version bump and publish."
+            echo "SKIPPED=true" >> $GITHUB_OUTPUT
+          else
+            echo "Tag ${NEXT_VERSION} does not exist. Proceeding with version bump."
+            git add package.json
+            git commit -m "chore(release): publish ${NEXT_VERSION}"
+            git tag "${NEXT_VERSION}"
+            echo "SKIPPED=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Publish to GitHub Packages
+        if: steps.version_bumper.outputs.SKIPPED == 'false'
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push changes and tags to the repository
+        if: steps.version_bumper.outputs.SKIPPED == 'false'
         run: git push && git push --tags 
