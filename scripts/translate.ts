@@ -221,24 +221,24 @@ async function run() {
     const sourceKeys = Object.keys(flatSourceJson);
 
     const targetLanguages = argv.languages ? argv.languages.split(',') : ALL_SUPPORTED_LANGUAGES;
-    const namespace = path.basename(argv.source, '.json');
 
-    console.log(`   - Namespace:   ${namespace}`);
     console.log(`   - Languages:   ${targetLanguages.join(', ')}`);
 
     for (const lang of targetLanguages) {
-      const outputDir = path.resolve(argv.output, namespace);
+      // The output path is now directly the output directory + lang.json
+      // The namespace is handled by the overall folder structure defined in the package.json script
+      const outputPath = path.resolve(argv.output, `${lang}.json`);
+      const outputDir = path.dirname(outputPath);
       await fs.mkdir(outputDir, { recursive: true });
 
       if (lang.toLowerCase() === BASE_LANGUAGE) {
-        const outputPath = path.join(outputDir, `${lang}.json`);
+        // Source file is already at the root of the namespace, just copy to output
         await fs.copyFile(argv.source, outputPath);
-        console.log(`Source language '${BASE_LANGUAGE}' copied to dist.`);
+        console.log(`Source language '${BASE_LANGUAGE}' copied to ${outputPath}.`);
         continue;
       }
       console.log(`\nTranslating to ${lang.toUpperCase()}...`);
 
-      const outputPath = path.join(outputDir, `${lang}.json`);
       let existingTranslations: { [key: string]: any } = {};
 
       try {
