@@ -222,7 +222,7 @@ async function run() {
       }
 
       console.log(`   - Found ${textsToTranslate.length} new key(s) to translate.`);
-      let translatedTexts: string[];
+      let translatedTexts: string[] | null = null;
 
       if (DEEPL_SUPPORTED_TARGET_LANGS.has(lang.toLowerCase())) {
         try {
@@ -230,12 +230,33 @@ async function run() {
           translatedTexts = await translateWithDeepL(textsToTranslate, lang);
         } catch (error) {
           console.warn(`   - DeepL failed: ${(error as Error).message}`);
-          console.log(`   - Using fallback service: Google Cloud Translate`);
-          translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+          if (GOOGLE_API_KEY) {
+            console.log(`   - Using fallback service: Google Cloud Translate`);
+            try {
+              translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+            } catch (googleError) {
+              console.error(`   - Google Translate fallback also failed: ${(googleError as Error).message}`);
+            }
+          } else {
+            console.warn(`   - SKIPPING ${lang.toUpperCase()}: Fallback service Google Translate is not available (API key missing).`);
+          }
         }
       } else {
-        console.log(`   - Language '${lang}' not directly supported by DeepL. Using Google Cloud Translate.`);
-        translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+        if (GOOGLE_API_KEY) {
+          console.log(`   - Language '${lang}' not directly supported by DeepL. Using Google Cloud Translate.`);
+          try {
+            translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+          } catch (googleError) {
+            console.error(`   - Google Translate failed: ${(googleError as Error).message}`);
+          }
+        } else {
+          console.warn(`   - SKIPPING ${lang.toUpperCase()}: Language not supported by DeepL and Google Translate is not available (API key missing).`);
+        }
+      }
+
+      if (!translatedTexts) {
+        console.log(`   - No translation could be generated for ${lang.toUpperCase()}. Continuing to next language.`);
+        continue;
       }
 
       keysToTranslate.forEach((key, index) => {
