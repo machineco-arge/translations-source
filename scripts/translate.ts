@@ -82,8 +82,11 @@ function preprocessTextsForTranslation(texts: string[]): {
 
 // --- API HELPER FUNCTIONS ---
 
-async function translateWithDeepL(texts: string[], targetLang: string): Promise<string[]> {
-  if (!DEEPL_API_KEY) throw new Error('DeepL API key is missing. Please check your .env file.');
+async function translateWithDeepL(texts: string[], targetLang: string): Promise<string[] | null> {
+  if (!DEEPL_API_KEY) {
+    console.warn('DeepL API key is missing. Cannot use DeepL service.');
+    return null;
+  }
   
   const { processedTexts, placeholderMaps } = preprocessTextsForTranslation(texts);
 
@@ -111,16 +114,23 @@ async function translateWithDeepL(texts: string[], targetLang: string): Promise<
   } catch (error) {
     if (axios.isAxiosError(error) && error.response) {
       if (error.response.status === 456 || error.response.status === 429) {
-        throw new Error(`DeepL quota exceeded (HTTP ${error.response.status}).`);
+        console.warn(`DeepL quota exceeded (HTTP ${error.response.status}). Will attempt fallback.`);
+      } else {
+        console.error(`DeepL API Error: ${error.response.status} - ${JSON.stringify(error.response.data, null, 2)}`);
       }
-      throw new Error(`DeepL API Error: ${error.response.status} - ${JSON.stringify(error.response.data, null, 2)}`);
+    } else {
+      console.error('An unknown error occurred in translateWithDeepL:', error);
     }
-    throw error;
+    return null;
   }
 }
 
-async function translateWithGoogle(texts: string[], targetLang: string): Promise<string[]> {
-  if (!GOOGLE_API_KEY) throw new Error('Google API key is missing. Please check your .env file.');
+async function translateWithGoogle(texts: string[], targetLang: string): Promise<string[] | null> {
+  if (!GOOGLE_API_KEY) {
+    // This function should only be called if the key exists, but as a safeguard:
+    console.warn('Google API key is missing. Cannot use Google Translate service.');
+    return null;
+  }
 
   const { processedTexts, placeholderMaps } = preprocessTextsForTranslation(texts);
 
@@ -138,9 +148,11 @@ async function translateWithGoogle(texts: string[], targetLang: string): Promise
     return translatedTexts.map((text: string, index: number) => restorePlaceholders(text, placeholderMaps[index]));
   } catch (error) {
     if (axios.isAxiosError(error) && error.response) {
-      throw new Error(`Google Translate API Error: ${error.response.status} - ${JSON.stringify(error.response.data, null, 2)}`);
+      console.error(`Google Translate API Error: ${error.response.status} - ${JSON.stringify(error.response.data, null, 2)}`);
+    } else {
+      console.error('An unknown error occurred in translateWithGoogle:', error);
     }
-    throw error;
+    return null;
   }
 }
 
@@ -225,37 +237,28 @@ async function run() {
       let translatedTexts: string[] | null = null;
 
       if (DEEPL_SUPPORTED_TARGET_LANGS.has(lang.toLowerCase())) {
-        try {
-          console.log(`   - Using primary service: DeepL`);
-          translatedTexts = await translateWithDeepL(textsToTranslate, lang);
-        } catch (error) {
-          console.warn(`   - DeepL failed: ${(error as Error).message}`);
-          if (GOOGLE_API_KEY) {
-            console.log(`   - Using fallback service: Google Cloud Translate`);
-            try {
-              translatedTexts = await translateWithGoogle(textsToTranslate, lang);
-            } catch (googleError) {
-              console.error(`   - Google Translate fallback also failed: ${(googleError as Error).message}`);
-            }
-          } else {
-            console.warn(`   - SKIPPING ${lang.toUpperCase()}: Fallback service Google Translate is not available (API key missing).`);
-          }
+        console.log(`   - Using primary service: DeepL`);
+        translatedTexts = await translateWithDeepL(textsToTranslate, lang);
+        
+        // If DeepL fails (returns null) and a Google key exists, try the fallback.
+        if (!translatedTexts && GOOGLE_API_KEY) {
+          console.log(`   - DeepL failed. Using fallback service: Google Cloud Translate`);
+          translatedTexts = await translateWithGoogle(textsToTranslate, lang);
         }
       } else {
+        // Language not supported by DeepL, try Google directly if the key exists.
         if (GOOGLE_API_KEY) {
           console.log(`   - Language '${lang}' not directly supported by DeepL. Using Google Cloud Translate.`);
-          try {
-            translatedTexts = await translateWithGoogle(textsToTranslate, lang);
-          } catch (googleError) {
-            console.error(`   - Google Translate failed: ${(googleError as Error).message}`);
-          }
+          translatedTexts = await translateWithGoogle(textsToTranslate, lang);
         } else {
-          console.warn(`   - SKIPPING ${lang.toUpperCase()}: Language not supported by DeepL and Google Translate is not available (API key missing).`);
+          // Not supported by DeepL and no Google key, so we must skip.
+          console.warn(`   - SKIPPING ${lang.toUpperCase()}: Language not supported by DeepL and no Google API key is available.`);
         }
       }
-
+      
+      // If after all attempts, we still have no translations, skip to the next language.
       if (!translatedTexts) {
-        console.log(`   - No translation could be generated for ${lang.toUpperCase()}. Continuing to next language.`);
+        console.log(`   - Could not generate translation for ${lang.toUpperCase()}. Continuing to next language.`);
         continue;
       }
 
