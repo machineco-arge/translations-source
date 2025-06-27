@@ -65,6 +65,46 @@ function restorePlaceholders(translatedText: string, placeholderMap: Map<string,
   return result.replace(/\s+/g, ' ').trim();
 }
 
+// --- UTILITY FUNCTIONS for nested JSON ---
+
+function flattenObject(obj: any, prefix: string = ''): { [key: string]: any } {
+  const result: { [key: string]: any } = {};
+
+  for (const key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      const newKey = prefix ? `${prefix}.${key}` : key;
+      const value = obj[key];
+
+      if (typeof value === 'object' && value !== null && !Array.isArray(value)) {
+        Object.assign(result, flattenObject(value, newKey));
+      } else {
+        result[newKey] = value;
+      }
+    }
+  }
+  return result;
+}
+
+function unflattenObject(obj: { [key: string]: any }): any {
+  if (Object.keys(obj).length === 0) return {};
+  const result: any = {};
+
+  for (const key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      const keys = key.split('.');
+      keys.reduce((acc, currentKey, index) => {
+        if (index === keys.length - 1) {
+          acc[currentKey] = obj[key];
+        } else {
+          acc[currentKey] = acc[currentKey] || {};
+        }
+        return acc[currentKey];
+      }, result);
+    }
+  }
+  return result;
+}
+
 // --- Pre-processing Function ---
 function preprocessTextsForTranslation(texts: string[]): {
   processedTexts: string[];
@@ -148,7 +188,8 @@ async function translateWithGoogle(texts: string[], targetLang: string): Promise
     return translatedTexts.map((text: string, index: number) => restorePlaceholders(text, placeholderMaps[index]));
   } catch (error) {
     if (axios.isAxiosError(error) && error.response) {
-      console.error(`Google Translate API Error: ${error.response.status} - ${JSON.stringify(error.response.data, null, 2)}`);
+      const errorMessage = error.response.data?.error?.message || JSON.stringify(error.response.data);
+      console.error(`Google Translate API Error: ${error.response.status} - ${errorMessage}`);
     } else {
       console.error('An unknown error occurred in translateWithGoogle:', error);
     }
@@ -176,8 +217,8 @@ async function run() {
   try {
     const sourceContent = await fs.readFile(argv.source, 'utf-8');
     const sourceJson = JSON.parse(sourceContent);
-    const sourceKeys = Object.keys(sourceJson);
-    const sourceTexts = Object.values(sourceJson) as string[];
+    const flatSourceJson = flattenObject(sourceJson);
+    const sourceKeys = Object.keys(flatSourceJson);
 
     const targetLanguages = argv.languages ? argv.languages.split(',') : ALL_SUPPORTED_LANGUAGES;
     const namespace = path.basename(argv.source, '.json');
@@ -198,11 +239,11 @@ async function run() {
       console.log(`\nTranslating to ${lang.toUpperCase()}...`);
 
       const outputPath = path.join(outputDir, `${lang}.json`);
-      let existingTranslations: { [key: string]: string } = {};
+      let existingTranslations: { [key: string]: any } = {};
 
       try {
         const existingContent = await fs.readFile(outputPath, 'utf-8');
-        existingTranslations = JSON.parse(existingContent);
+        existingTranslations = flattenObject(JSON.parse(existingContent));
         console.log(`   - Found existing translations for ${lang.toUpperCase()}.`);
       } catch (error) {
         // File doesn't exist, which is fine.
@@ -210,30 +251,43 @@ async function run() {
 
       const keysToTranslate: string[] = [];
       const textsToTranslate: string[] = [];
-      const finalTranslations: { [key: string]: string } = { ...existingTranslations };
+      const finalTranslations: { [key: string]: any } = { ...existingTranslations };
 
-      sourceKeys.forEach((key, index) => {
-        if (!existingTranslations[key]) {
+      sourceKeys.forEach(key => {
+        // If the key is already in the destination file, skip it.
+        if (finalTranslations.hasOwnProperty(key)) {
+          return;
+        }
+
+        const value = flatSourceJson[key];
+
+        // If the source value is a string, add it to the list for translation.
+        if (typeof value === 'string') {
           keysToTranslate.push(key);
-          textsToTranslate.push(sourceTexts[index]);
+          textsToTranslate.push(value);
+        } else {
+          // If it's not a string (number, boolean, null), copy it directly.
+          console.log(`   - Copying non-string value for key '${key}'.`);
+          finalTranslations[key] = value;
         }
       });
       
       if (textsToTranslate.length === 0) {
-        console.log(`All keys already translated for ${lang.toUpperCase()}. Nothing to do.`);
+        console.log(`All keys already translated or copied for ${lang.toUpperCase()}. Nothing to do.`);
         // Ensure the final file has the same key order as the source
-        const reorderedJson: { [key: string]: string } = {};
+        const reorderedFlatJson: { [key: string]: any } = {};
         sourceKeys.forEach(key => {
-            if (finalTranslations[key]) {
-                reorderedJson[key] = finalTranslations[key];
+            if (finalTranslations[key] !== undefined) {
+                reorderedFlatJson[key] = finalTranslations[key];
             }
         });
+        const reorderedNestedJson = unflattenObject(reorderedFlatJson);
         await fs.mkdir(outputDir, { recursive: true });
-        await fs.writeFile(outputPath, JSON.stringify(reorderedJson, null, 2), 'utf-8');
+        await fs.writeFile(outputPath, JSON.stringify(reorderedNestedJson, null, 2), 'utf-8');
         continue;
       }
 
-      console.log(`   - Found ${textsToTranslate.length} new key(s) to translate.`);
+      console.log(`   - Found ${textsToTranslate.length} new string key(s) to translate.`);
       let translatedTexts: string[] | null = null;
 
       if (DEEPL_SUPPORTED_TARGET_LANGS.has(lang.toLowerCase())) {
@@ -267,15 +321,17 @@ async function run() {
       });
 
       // Re-order the final JSON to match the source file's key order
-      const finalOrderedJson: { [key: string]: string } = {};
+      const finalOrderedFlatJson: { [key: string]: any } = {};
       sourceKeys.forEach(key => {
-        if (finalTranslations[key]) {
-            finalOrderedJson[key] = finalTranslations[key];
+        if (finalTranslations[key] !== undefined) {
+            finalOrderedFlatJson[key] = finalTranslations[key];
         }
       });
 
+      const finalNestedJson = unflattenObject(finalOrderedFlatJson);
+
       await fs.mkdir(outputDir, { recursive: true });
-      await fs.writeFile(outputPath, JSON.stringify(finalOrderedJson, null, 2), 'utf-8');
+      await fs.writeFile(outputPath, JSON.stringify(finalNestedJson, null, 2), 'utf-8');
       console.log(`Successfully updated and saved translation to ${outputPath}`);
     }
 
