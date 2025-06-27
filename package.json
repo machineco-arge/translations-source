@@ -1,0 +1,36 @@
+{
+  "name": "@machineco-arge/translations-source",
+  "version": "1.0.0",
+  "description": "Centralized translation source and build scripts for Machine Co. Arge projects.",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machineco-arge/translations-source.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "build": "tsc",
+    "translate": "ts-node scripts/translate.ts",
+    "translate:login": "npm run translate -- --source ./source/login.json --output ./dist",
+    "translate:photo-app": "npm run translate -- --source ./source/photo-app.json --output ./dist",
+    "translate:all": "npm run translate:login && npm run translate:photo-app"
+  },
+  "files": [
+    "source"
+  ],
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/yargs": "^17.0.32",
+    "@types/dotenv": "^6.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+} 

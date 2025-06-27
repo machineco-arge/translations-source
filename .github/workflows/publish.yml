@@ -1,0 +1,69 @@
+name: Publish Package and Deploy Translations
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'source/**'
+      - 'scripts/**'
+      - 'package.json'
+      - '.github/workflows/publish.yml'
+
+jobs:
+  build-and-deploy:
+    # Versiyonlama commit'lerinin sonsuz bir döngüye girmesini engeller
+    if: ${{ !contains(github.event.head_commit.message, 'chore(release)') }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Versiyon artışı commit'lerini ve etiketleri push'lamak için
+      pages: write    # GitHub Pages'e dağıtım için
+      packages: write # GitHub Packages'e yayınlamak için
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Versiyonlama için tam git geçmişini yükle
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          registry-url: 'https://npm.pkg.github.com'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate all translation files
+        run: npm run translate:all
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+      - name: Deploy Translations to GitHub Pages (CDN)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Configure Git for version bump
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Bump version
+        run: |
+          npm version patch -m "chore(release): publish %s"
+
+      - name: Publish to GitHub Packages
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push changes and tags to the repository
+        run: git push && git push --tags 
