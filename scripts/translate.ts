@@ -24,7 +24,7 @@ const BASE_LANGUAGE = 'tr';
 
 // All supported languages by the application, from TranslationService.ts
 const ALL_SUPPORTED_LANGUAGES = [
-  'en', 'az', 'de', 'es', 'fr', 'it', 'pt', 'ru', 'ja', 'ko', 'zh', 'ar'
+  'tr', 'en', 'az', 'de', 'es', 'fr', 'it', 'pt', 'ru', 'ja', 'ko', 'zh', 'ar'
 ];
 
 // --- PLACEHOLDER HANDLING LOGIC (from TranslationService.ts) ---
