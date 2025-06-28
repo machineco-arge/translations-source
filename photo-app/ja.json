@@ -37,7 +37,7 @@
   "_filmScreen_photosDrying": "写真が干されている...。",
   "_filmScreen_photosReady": "写真は準備できている！",
   "_filmScreen_noActiveFilmsMessage": "アクティブカメラなし",
-  "_filmScreen_printRequestFailedMessage": "弾圧の要請は失敗した。",
+  "_filmScreen_printRequestFailedMessage": "弾圧の要請は失敗に終わった。",
   "_filmScreen_activityNotActiveErrorMessage": "このカメラは現在使われていません。",
   "_filmScreen_selectDevelopmentTime": "配達時間の選択",
   "_homeScreen_loadingMoreContent": "より多くのコンテンツを読み込む...",

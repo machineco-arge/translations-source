@@ -69,7 +69,7 @@
   "invalidNameMessage": "無効なユーザー名",
   "nameUpdatedSuccessMessage": "ユーザー名が正常に更新されました。",
   "nameUpdateErrorMessage": "ユーザー名の更新にエラーが発生しました。",
-  "logOut": "サインアウト",
+  "logOut": "ログアウト",
   "languageSettings": "言語設定",
   "languageChanged": "言語の変更",
   "languageChangedMessage": "言語の変更に成功。すべてのテキストが新しい言語に翻訳された。",

@@ -13,7 +13,7 @@
   "_albumScreen_deleteAIPhotoFailedAlertMessage": "Beim Löschen des AI-Fotos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
   "_albumScreen_LocatingImageFile": "Es gibt eine Bilddatei...",
   "_albumScreen_ImageCouldNotLoaded": "Bild konnte nicht geladen werden",
-  "_albumScreen_ErrorCausingFilePathsChange": "Die Anwendung wurde möglicherweise neu erstellt, wodurch sich die Dateipfade geändert haben können.",
+  "_albumScreen_ErrorCausingFilePathsChange": "Die Anwendung wurde möglicherweise neu erstellt, wodurch sich die Dateipfade ändern können.",
   "_albumScreen_RemoveFromLibrary": "Aus Album entfernen",
   "_albumScreen_cancelProcessing": "Prozess anhalten",
   "_albumScreen_cancelProcessingAlertTitle": "Transaktion anhalten und löschen",
