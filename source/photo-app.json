@@ -48,8 +48,8 @@
     "_homeScreen_noCamerasFound": "Hiç Kamera Bulunamadı",
 
     "cameras": {
-        "analoguescanline": "Tarama Çizgili Kameram",
-        "analogue": "Analog Kameram",
+        "analoguescanline": "Tarama Çizgili Analog",
+        "analogue": "Analog",
         "grainyfilm": "Tozlu Analog",
         "nineties": "Mavisiz Doksanlar",
         "nostalgia": "Nostalji",
