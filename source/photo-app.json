@@ -48,9 +48,9 @@
     "_homeScreen_noCamerasFound": "Hiç Kamera Bulunamadı",
 
     "cameras": {
-        "analoguescanline": "Tarama Çizgili",
+        "analoguescanline": "Tarama Çizgili Analog",
         "analogue": "Analog",
-        "grainyfilm": "Tozlu Analog",
+        "grainyfilm": "Kirli Analog",
         "nineties": "Mavisiz Doksanlar",
         "nostalgia": "Nostalji",
         "oldanalogue": "Eski Analog",
@@ -68,7 +68,7 @@
         "warmedanalogue": "Yanmış Analog"
     },
 
-    "_navigation_home": "Dükkan",
+    "_navigation_home": "Mağaza",
     "_navigation_films": "Kameralar",
     "_navigation_album": "Albüm",
     "_navigation_albums": "Albümler",
