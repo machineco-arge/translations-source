@@ -298,7 +298,9 @@ async function run() {
 
       const keysToTranslate: string[] = [];
       const textsToTranslate: { key: string, text: string }[] = [];
-      const finalTranslations: { [key: string]: TranslationEntry } = {};
+      // Start with all cached translations. If a key is updated, it will be overwritten.
+      // This ensures that if translation fails, we still have the old values.
+      const finalTranslations: { [key: string]: TranslationEntry | any } = { ...cachedTranslations };
 
       sourceKeys.forEach(key => {
         const sourceText = flatSourceJson[key];
@@ -311,13 +313,14 @@ async function run() {
         const sourceHash = md5(sourceText);
         const cachedEntry = cachedTranslations[key];
 
-        if (cachedEntry && cachedEntry.sourceHash === sourceHash) {
-          // The source text hasn't changed, reuse the old translation.
-          finalTranslations[key] = cachedEntry;
-        } else {
-          // New key or source text has changed, add it to the translation list.
+        // We check if the cached entry is a valid TranslationEntry object.
+        // If the source text has changed (different hash) or the key is new, translate it.
+        if (!isTranslationEntry(cachedEntry) || cachedEntry.sourceHash !== sourceHash) {
           keysToTranslate.push(key);
           textsToTranslate.push({ key, text: sourceText });
+        } else {
+          // The source text hasn't changed, so we keep the existing entry.
+          // This is already handled by initializing finalTranslations with cachedTranslations.
         }
       });
       
@@ -356,20 +359,10 @@ async function run() {
       }
       
       if (!translatedTexts) {
-        console.error(`   - FATAL: Could not generate translation for ${lang.toUpperCase()}.`);
-        textsToTranslate.forEach(({key}) => {
-            const cachedValue = cachedTranslations[key];
-            if (cachedValue) {
-                if (isTranslationEntry(cachedValue)) {
-                    finalTranslations[key] = cachedValue;
-                } else {
-                    finalTranslations[key] = {
-                        translation: String(cachedValue),
-                        sourceHash: 'stale_cache_fallback',
-                    };
-                }
-            }
-        });
+        console.error(`   - FATAL: Could not generate translation for ${lang.toUpperCase()}. Reverting to cached versions for affected keys.`);
+        // The finalTranslations object already contains the old cached values,
+        // so no specific action is needed here. The script will proceed to write
+        // the file with the old data for the keys that failed.
       } else {
         // --- MERGE RESULTS ---
         textsToTranslate.forEach(({ key, text }, index) => {
