@@ -58,6 +58,9 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Create Manifest File
+        run: echo "{\"version\":\"${{ github.sha }}\"}" > ./dist/manifest.json
+
       - name: Configure Git for version bump
         run: |
           git config user.name "github-actions[bot]"
