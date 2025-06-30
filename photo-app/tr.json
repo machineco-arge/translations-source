@@ -173,12 +173,12 @@
   },
   "cameras": {
     "analoguescanline": {
-      "translation": "Tarama Çizgili Kamera",
-      "sourceHash": "364d1c7ec0f5a33e774c53e0ede6c5cf"
+      "translation": "Tarama Çizgili Kameram",
+      "sourceHash": "602ae4010271872060759ddaab037985"
     },
     "analogue": {
-      "translation": "Analog",
-      "sourceHash": "3d953aa7cfa5ffe0fde34551d918c76c"
+      "translation": "Analog Kameram",
+      "sourceHash": "68998a7153f844359b76321e70d2c212"
     },
     "grainyfilm": {
       "translation": "Tozlu Analog",
