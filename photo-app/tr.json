@@ -173,8 +173,8 @@
   },
   "cameras": {
     "analoguescanline": {
-      "translation": "Tarama Çizgili Analog",
-      "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
+      "translation": "Tarama Çizgili",
+      "sourceHash": "e485f0d0518a9b36de3355d3a3587b61"
     },
     "analogue": {
       "translation": "Analog",
