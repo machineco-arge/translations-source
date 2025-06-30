@@ -357,10 +357,17 @@ async function run() {
       
       if (!translatedTexts) {
         console.error(`   - FATAL: Could not generate translation for ${lang.toUpperCase()}.`);
-        // Copying over old translations for keys that were not re-translated
         textsToTranslate.forEach(({key}) => {
-            if(cachedTranslations[key]){
-                finalTranslations[key] = cachedTranslations[key];
+            const cachedValue = cachedTranslations[key];
+            if (cachedValue) {
+                if (isTranslationEntry(cachedValue)) {
+                    finalTranslations[key] = cachedValue;
+                } else {
+                    finalTranslations[key] = {
+                        translation: String(cachedValue),
+                        sourceHash: 'stale_cache_fallback',
+                    };
+                }
             }
         });
       } else {
