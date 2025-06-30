@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Versiyon artışı commit'lerini ve etiketleri push'lamak için
-      pages: write    # GitHub Pages'e dağıtım için
+      pages: write # GitHub Pages'e dağıtım için
       packages: write # GitHub Packages'e yayınlamak için
 
     steps:
@@ -26,6 +26,11 @@ jobs:
         with:
           # Versiyonlama için tam git geçmişini yükle
           fetch-depth: 0
+
+      - name: Cache previous translations from gh-pages
+        # gh-pages dalını dist-cache klasörüne klonla. Dal yoksa (ilk çalıştırma), hata vermeden devam et.
+        run: |
+          git clone --branch gh-pages --single-branch --depth 1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} ./dist-cache || echo "No previous translations found, proceeding with a clean build."
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -42,6 +47,8 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          # Betiğin okuyabilmesi için önbellek dizinini ortam değişkeni olarak ayarla
+          TRANSLATION_CACHE_DIR: ./dist-cache
 
       - name: Deploy Translations to GitHub Pages (CDN)
         uses: peaceiris/actions-gh-pages@v4
@@ -61,7 +68,7 @@ jobs:
         run: |
           # Calculate the next version string (e.g., "v1.0.3") without creating a tag
           NEXT_VERSION=$(npm version patch --no-git-tag-version)
-          
+
           # Check if the tag for the next version already exists
           if git rev-parse -q --verify "refs/tags/${NEXT_VERSION}"; then
             echo "Tag ${NEXT_VERSION} already exists. Skipping version bump and publish."
@@ -82,4 +89,4 @@ jobs:
 
       - name: Push changes and tags to the repository
         if: steps.version_bumper.outputs.SKIPPED == 'false'
-        run: git push && git push --tags 
+        run: git push && git push --tags
