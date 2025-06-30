@@ -39,6 +39,10 @@ function md5(text: string): string {
   return createHash('md5').update(text).digest('hex');
 }
 
+function isTranslationEntry(obj: any): obj is TranslationEntry {
+  return typeof obj === 'object' && obj !== null && 'translation' in obj && 'sourceHash' in obj;
+}
+
 // --- PLACEHOLDER HANDLING LOGIC (from TranslationService.ts) ---
 
 function extractPlaceholders(text: string): { textWithMarkers: string; placeholderMap: Map<string, string> } {
@@ -87,10 +91,18 @@ function flattenObject(obj: any, prefix: string = ''): { [key: string]: any } {
       const newKey = prefix ? `${prefix}.${key}` : key;
       const value = obj[key];
 
-      if (typeof value === 'object' && value !== null && !Array.isArray(value)) {
-        Object.assign(result, flattenObject(value, newKey));
-      } else {
+      // If it's a TranslationEntry, we treat it as a final value and don't flatten it further.
+      // Also, if it's not an object, treat it as a final value.
+      if (
+        isTranslationEntry(value) ||
+        typeof value !== 'object' ||
+        value === null ||
+        Array.isArray(value)
+      ) {
         result[newKey] = value;
+      } else {
+        // Otherwise, it's a nested structure of more keys, so we recurse.
+        Object.assign(result, flattenObject(value, newKey));
       }
     }
   }
@@ -275,11 +287,11 @@ async function run() {
       const cacheFilePath = CACHE_DIR ? path.resolve(CACHE_DIR, namespace, `${lang}.json`) : null;
 
       if (cacheFilePath) {
-        try {
+      try {
           const cachedContent = await fs.readFile(cacheFilePath, 'utf-8');
           cachedTranslations = flattenObject(JSON.parse(cachedContent));
           console.log(`   - Found cached translations for ${lang.toUpperCase()}.`);
-        } catch (error) {
+      } catch (error) {
           console.log(`   - No cache file found for ${lang.toUpperCase()}. Will perform a full translation.`);
         }
       }
@@ -293,7 +305,7 @@ async function run() {
         // Directly copy non-string values (numbers, booleans, etc.)
         if(typeof sourceText !== 'string'){
             finalTranslations[key] = sourceText;
-            return;
+          return;
         }
 
         const sourceHash = md5(sourceText);
@@ -313,9 +325,9 @@ async function run() {
         console.log(`All keys are up-to-date for ${lang.toUpperCase()}. Nothing to do.`);
         const finalOrderedFlatJson: { [key: string]: any } = {};
         sourceKeys.forEach(key => {
-          if (finalTranslations[key] !== undefined) {
+            if (finalTranslations[key] !== undefined) {
               finalOrderedFlatJson[key] = finalTranslations[key];
-          }
+            }
         });
         const finalNestedJson = unflattenObject(finalOrderedFlatJson);
         await fs.writeFile(outputPath, JSON.stringify(finalNestedJson, null, 2), 'utf-8');
