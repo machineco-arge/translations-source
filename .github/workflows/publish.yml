@@ -50,6 +50,9 @@ jobs:
           # Betiğin okuyabilmesi için önbellek dizinini ortam değişkeni olarak ayarla
           TRANSLATION_CACHE_DIR: ./dist-cache
 
+      - name: Create Manifest File
+        run: echo "{\"version\":\"${{ github.sha }}\"}" > ./dist/manifest.json
+
       - name: Deploy Translations to GitHub Pages (CDN)
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -57,9 +60,6 @@ jobs:
           publish_dir: ./dist
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-
-      - name: Create Manifest File
-        run: echo "{\"version\":\"${{ github.sha }}\"}" > ./dist/manifest.json
 
       - name: Configure Git for version bump
         run: |
