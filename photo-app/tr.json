@@ -173,16 +173,16 @@
   },
   "cameras": {
     "analoguescanline": {
-      "translation": "Tarama Çizgili Analog",
-      "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
+      "translation": "Tarama Çizgili Kamera",
+      "sourceHash": "364d1c7ec0f5a33e774c53e0ede6c5cf"
     },
     "analogue": {
       "translation": "Analog",
       "sourceHash": "3d953aa7cfa5ffe0fde34551d918c76c"
     },
     "grainyfilm": {
-      "translation": "Kirli Analog",
-      "sourceHash": "9b0c42829fa38918b0095e56f749cd5d"
+      "translation": "Tozlu Analog",
+      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
     },
     "nineties": {
       "translation": "Mavisiz Doksanlar",
@@ -246,8 +246,8 @@
     }
   },
   "_navigation_home": {
-    "translation": "Mağaza",
-    "sourceHash": "defaa28be44d5fa26989c169683b034b"
+    "translation": "Dükkan",
+    "sourceHash": "6216cb12cb28dfd6931d0771eccbd019"
   },
   "_navigation_films": {
     "translation": "Kameralar",
