@@ -266,7 +266,7 @@ async function run() {
         sourceKeys.forEach(key => {
           const sourceText = flatSourceJson[key];
           if(typeof sourceText !== 'string'){
-             baseLangTranslations[key] = sourceText; // Copy non-strings directly
+             baseLangTranslations[key] = sourceText;  // Copy non-strings directly
              return;
           }
           baseLangTranslations[key] = {
