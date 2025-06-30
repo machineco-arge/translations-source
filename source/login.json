@@ -63,7 +63,7 @@
     "profilePhotoResetSuccessMessage": "Profil fotoğrafın başarılı bir şekilde varsayılana sıfırlandı",
     "profilePhotoResetErrorMessage": "Profil fotoğrafı sıfırlanırken hata oluştu",
     "deleteProfilePhotoMessage": "Profil fotoğrafını silmek istediğinden emin misin?",
-    "delete": "Sil",
+    "delete": "Silmek",
     "profilePhotoDeletedSuccessMessage": "Profil fotoğrafın başarılı bir şekilde silindi.",
     "profilePhotoDeleteErrorMessage": "Profil fotoğrafı silinirken hata oluştu",
     "invalidNameMessage": "Geçersiz Kullanıcı Adı",
