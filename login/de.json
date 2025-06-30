@@ -1,81 +1,318 @@
 {
-  "_success_": "Erfolgreich",
-  "_error_": "Fehler",
-  "userSignInErrorAlertMessage": "Bei der Anmeldung ist ein Problem aufgetreten. Fehler: {{error}}",
-  "userRegisterErrorAlertMessage": "Während der Aufnahme ist ein Problem aufgetreten. Fehler: {{error}}",
-  "userSignInEnterEmailAndPasswordAlert": "Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein.",
-  "userSignInEnterValidEmailAlert": "Bitte geben Sie eine gültige E-Mail Adresse ein.",
-  "userSignInLoginYourAccount": "Bei Ihrem Konto anmelden",
-  "userSignInLoginToGetStarted": "Einloggen und loslegen",
-  "userSignInLogin": "Einloggen",
-  "userSignInHaveNotAccount": "Haben Sie noch kein Konto?",
-  "placeholderEnterEmail": "Geben Sie Ihre E-Mail Adresse ein",
-  "placeholderEnterPassword": "Geben Sie Ihr Passwort ein",
-  "userSignInOr": "oder",
-  "userRegisterPleaseEnterAllInformation": "Bitte geben Sie alle Informationen ein.",
-  "userRegisterPasswordsNotMatchErrorAlert": "Passwörter stimmen nicht überein",
-  "userRegister": "Jetzt registrieren",
-  "userRegisterToGetStarted": "Registrieren Sie sich, um loszulegen!",
-  "placeholderEnterFullName": "Geben Sie Ihren vollständigen Namen ein",
-  "placeholderConfirmPassword": "Bestätigen Sie Ihr Passwort",
-  "userRegisterAlreadyHaveAccount": "Haben Sie bereits ein Konto?",
-  "userRegisterCreateAccount": "Konto erstellen",
-  "socialLoginWithGoogle": "Weiter mit Google-Konto",
-  "socialLoginWithApple": "Weiter mit Apple-Konto",
-  "PrivacyPolicy": "Sie können fortfahren, indem Sie unseren Nutzungsbedingungen und unserer Datenschutzrichtlinie zustimmen.",
-  "cropperToolbarTitle": "Profilfoto einstellen",
-  "loadingLabelText": "Einstellen...",
-  "cropperChooseText": "Bewerbung",
-  "cropperCancelText": "Aufgeben",
-  "setProfilePhotoTitle": "Als Profilfoto festlegen",
-  "setProfilePhotoDescription": "Das Foto wird so zugeschnitten, dass es in den runden Rahmen passt.",
-  "setAsProfilePhoto": "Weiter",
-  "profilePhotoUpdatedMessage": "Ihr Profilbild wurde aktualisiert!",
-  "profilePhotoErrorMessage": "Es ist ein Fehler bei der Aktualisierung des Profilfotos aufgetreten.",
-  "cancel": "Stornierung",
-  "ok": "Also gut.",
-  "noUserLoggedIn": "Zurzeit sind keine Benutzer angemeldet.",
-  "accountSettings": "Kontoeinstellungen",
-  "manageProfileSettings": "Profilfoto verwalten",
-  "editCurrentPhoto": "Aktuelles Foto bearbeiten",
-  "editPhoto": "bearbeiten",
-  "selectFromGallery": "Wählen Sie",
-  "resetToDefault": "Zurücksetzen",
-  "name": "Name des Benutzers",
-  "noName": "Kein Benutzername",
-  "editName": "Benutzernamen bearbeiten",
-  "email": "E-Mail",
-  "noEmail": "Keine E-Mail",
-  "loginMethod": "Eintrag Methode",
-  "emailLogin": "Anmeldung per E-Mail",
-  "googleLogin": "Google-Konto",
-  "appleLogin": "Apple-Konto",
-  "unknown": "Unbekannt",
-  "editNameTitle": "Benutzernamen bearbeiten",
-  "enterNamePlaceholder": "Neuen Benutzernamen eingeben",
-  "save": "Speichern Sie",
-  "saving": "Sparen",
-  "noProfilePhotoTitle": "Kein Profilfoto",
-  "noProfilePhotoMessage": "Profilfoto nicht verfügbar",
-  "selectPhotoErrorMessage": "Fehler bei der Auswahl eines Fotos aus der Galerie",
-  "resetProfilePhotoTitle": "Profilfoto zurücksetzen",
-  "resetProfilePhotoMessage": "Sind Sie sicher, dass Sie Ihr Profilfoto auf die Standardeinstellungen zurücksetzen möchten?",
-  "profilePhotoResetSuccessMessage": "Ihr Profilfoto wurde erfolgreich auf die Standardeinstellungen zurückgesetzt",
-  "profilePhotoResetErrorMessage": "Fehler beim Zurücksetzen des Profilfotos",
-  "deleteProfilePhotoMessage": "Sind Sie sicher, dass Sie Ihr Profilbild löschen möchten?",
-  "delete": "Löschen",
-  "profilePhotoDeletedSuccessMessage": "Ihr Profilbild wurde erfolgreich gelöscht.",
-  "profilePhotoDeleteErrorMessage": "Fehler beim Löschen des Profilfotos",
-  "invalidNameMessage": "Ungültiger Benutzername",
-  "nameUpdatedSuccessMessage": "Ihr Benutzername wurde erfolgreich aktualisiert.",
-  "nameUpdateErrorMessage": "Es ist ein Fehler bei der Aktualisierung Ihres Benutzernamens aufgetreten.",
-  "logOut": "Abmelden",
-  "languageSettings": "Spracheinstellungen",
-  "languageChanged": "Sprache Geändert",
-  "languageChangedMessage": "Die Sprache wurde erfolgreich geändert. Alle Texte wurden in die neue Sprache übersetzt.",
-  "languageChangeError": "Es ist ein Fehler beim Ändern der Sprache aufgetreten. Bitte versuchen Sie es erneut.",
-  "applyLanguage": "Ausgewählte Sprache anwenden",
-  "applying": "Ausgewählte Sprache wird implementiert",
-  "translatingContent": "Inhalte übersetzen",
-  "completed": "abgeschlossen"
+  "_success_": {
+    "translation": "Erfolgreich",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_error_": {
+    "translation": "Fehler",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "userSignInErrorAlertMessage": {
+    "translation": "Bei der Anmeldung ist ein Problem aufgetreten. Fehler: {{error}}",
+    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+  },
+  "userRegisterErrorAlertMessage": {
+    "translation": "Während der Aufnahme ist ein Problem aufgetreten. Fehler: {{error}}",
+    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+  },
+  "userSignInEnterEmailAndPasswordAlert": {
+    "translation": "Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein.",
+    "sourceHash": "03f0667fea3257a691d1362512391160"
+  },
+  "userSignInEnterValidEmailAlert": {
+    "translation": "Bitte geben Sie eine gültige E-Mail Adresse ein.",
+    "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
+  },
+  "userSignInLoginYourAccount": {
+    "translation": "Bei Ihrem Konto anmelden",
+    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  },
+  "userSignInLoginToGetStarted": {
+    "translation": "Einloggen und loslegen",
+    "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
+  },
+  "userSignInLogin": {
+    "translation": "Einloggen",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
+  "userSignInHaveNotAccount": {
+    "translation": "Haben Sie noch kein Konto?",
+    "sourceHash": "35d0ca8319f3e094f9ca860c07a28545"
+  },
+  "placeholderEnterEmail": {
+    "translation": "Geben Sie Ihre E-Mail Adresse ein",
+    "sourceHash": "4055a242859da2bd6f0c4defa13becef"
+  },
+  "placeholderEnterPassword": {
+    "translation": "Geben Sie Ihr Passwort ein",
+    "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
+  },
+  "userSignInOr": {
+    "translation": "oder",
+    "sourceHash": "f1d550c114648c8eef64a85fb165e004"
+  },
+  "userRegisterPleaseEnterAllInformation": {
+    "translation": "Bitte geben Sie alle Informationen ein.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
+  },
+  "userRegisterPasswordsNotMatchErrorAlert": {
+    "translation": "Passwörter stimmen nicht überein",
+    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+  },
+  "userRegister": {
+    "translation": "Jetzt registrieren",
+    "sourceHash": "8d155a5a1e8467419d1ac595b94ea227"
+  },
+  "userRegisterToGetStarted": {
+    "translation": "Registrieren Sie sich, um loszulegen!",
+    "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
+  },
+  "placeholderEnterFullName": {
+    "translation": "Geben Sie Ihren vollständigen Namen ein",
+    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  },
+  "placeholderConfirmPassword": {
+    "translation": "Bestätigen Sie Ihr Passwort",
+    "sourceHash": "33af2ec273163f216928d8b520c242ef"
+  },
+  "userRegisterAlreadyHaveAccount": {
+    "translation": "Haben Sie bereits ein Konto?",
+    "sourceHash": "9148c4f72b5e8b7125eb89afa92d5b94"
+  },
+  "userRegisterCreateAccount": {
+    "translation": "Konto erstellen",
+    "sourceHash": "c8a8414d3556605f76536e5400271916"
+  },
+  "socialLoginWithGoogle": {
+    "translation": "Weiter mit Google-Konto",
+    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+  },
+  "socialLoginWithApple": {
+    "translation": "Weiter mit Apple-Konto",
+    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+  },
+  "PrivacyPolicy": {
+    "translation": "Sie können fortfahren, indem Sie unseren Nutzungsbedingungen und unserer Datenschutzrichtlinie zustimmen.",
+    "sourceHash": "aab146b51d8186a09d50eab308ac055c"
+  },
+  "cropperToolbarTitle": {
+    "translation": "Profilfoto einstellen",
+    "sourceHash": "e5a961e2b159b7df662fa816f00a349c"
+  },
+  "loadingLabelText": {
+    "translation": "Einstellen...",
+    "sourceHash": "79180c12670b03c40415e18777d32fe4"
+  },
+  "cropperChooseText": {
+    "translation": "Bewerbung",
+    "sourceHash": "f8c2e3e1c9e0a7c979977a87e4f6278c"
+  },
+  "cropperCancelText": {
+    "translation": "Aufgeben",
+    "sourceHash": "bf814f7c632e88e19215ef4a5cdce4db"
+  },
+  "setProfilePhotoTitle": {
+    "translation": "Als Profilfoto festlegen",
+    "sourceHash": "319caad62edae15ee09a1b75fbbc8567"
+  },
+  "setProfilePhotoDescription": {
+    "translation": "Das Foto wird so zugeschnitten, dass es in den runden Rahmen passt.",
+    "sourceHash": "19ba18f17a08c0858059cc2ef6f5ee3a"
+  },
+  "setAsProfilePhoto": {
+    "translation": "Weiter",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "profilePhotoUpdatedMessage": {
+    "translation": "Ihr Profilbild wurde aktualisiert!",
+    "sourceHash": "df99f7535f29a38f3797c1d806d1c33a"
+  },
+  "profilePhotoErrorMessage": {
+    "translation": "Es ist ein Fehler bei der Aktualisierung des Profilfotos aufgetreten.",
+    "sourceHash": "6a5080568e0c8f568b36d3a2656e5369"
+  },
+  "cancel": {
+    "translation": "Stornierung",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "ok": {
+    "translation": "Also gut.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "noUserLoggedIn": {
+    "translation": "Zurzeit sind keine Benutzer angemeldet.",
+    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+  },
+  "accountSettings": {
+    "translation": "Kontoeinstellungen",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "manageProfileSettings": {
+    "translation": "Profilfoto verwalten",
+    "sourceHash": "979bafdfe15295445e0c46cc95dda317"
+  },
+  "editCurrentPhoto": {
+    "translation": "Aktuelles Foto bearbeiten",
+    "sourceHash": "8183ab820901608fbd8b2d8cbd6cf5e9"
+  },
+  "editPhoto": {
+    "translation": "bearbeiten",
+    "sourceHash": "cc6f2779ad4221f33d05d8fd947e7551"
+  },
+  "selectFromGallery": {
+    "translation": "Wählen Sie",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
+  },
+  "resetToDefault": {
+    "translation": "Zurücksetzen",
+    "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
+  },
+  "name": {
+    "translation": "Name des Benutzers",
+    "sourceHash": "739574e21be8e41e667661b927c94e1e"
+  },
+  "noName": {
+    "translation": "Kein Benutzername",
+    "sourceHash": "baead46135a7d5e8614f2448eff61f43"
+  },
+  "editName": {
+    "translation": "Benutzernamen bearbeiten",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "email": {
+    "translation": "E-Mail",
+    "sourceHash": "628f52c9359bdc447f385ae2e61a5b92"
+  },
+  "noEmail": {
+    "translation": "Keine E-Mail",
+    "sourceHash": "8181b2fcfd543b4a0e92a3db00170638"
+  },
+  "loginMethod": {
+    "translation": "Eintrag Methode",
+    "sourceHash": "65caa094f22ef2ddfc5b54a937983efe"
+  },
+  "emailLogin": {
+    "translation": "Anmeldung per E-Mail",
+    "sourceHash": "8083e7373bf0737a602e209e5021d6d2"
+  },
+  "googleLogin": {
+    "translation": "Google-Konto",
+    "sourceHash": "cd50dc89f9526f808d2e22ed8e23e9d2"
+  },
+  "appleLogin": {
+    "translation": "Apple-Konto",
+    "sourceHash": "5f45629e8c3c818f092f99b31ed431b0"
+  },
+  "unknown": {
+    "translation": "Unbekannt",
+    "sourceHash": "5c6d1b240565049ef5ba4758bb571615"
+  },
+  "editNameTitle": {
+    "translation": "Benutzernamen bearbeiten",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "enterNamePlaceholder": {
+    "translation": "Neuen Benutzernamen eingeben",
+    "sourceHash": "6c0ad837c3e8bd7ec3ac1fbd1157d477"
+  },
+  "save": {
+    "translation": "Speichern Sie",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "saving": {
+    "translation": "Sparen",
+    "sourceHash": "ff0d2ebdc501be626aec51853c7cd182"
+  },
+  "noProfilePhotoTitle": {
+    "translation": "Kein Profilfoto",
+    "sourceHash": "6df1f67ae93e55563c6d065b08425972"
+  },
+  "noProfilePhotoMessage": {
+    "translation": "Profilfoto nicht verfügbar",
+    "sourceHash": "3608839692d6593ad41514c06b9d9c8c"
+  },
+  "selectPhotoErrorMessage": {
+    "translation": "Fehler bei der Auswahl eines Fotos aus der Galerie",
+    "sourceHash": "217acf9f5233cf034401549d7444e87d"
+  },
+  "resetProfilePhotoTitle": {
+    "translation": "Profilfoto zurücksetzen",
+    "sourceHash": "ba9347233b4548f252738c1c932f08fb"
+  },
+  "resetProfilePhotoMessage": {
+    "translation": "Sind Sie sicher, dass Sie Ihr Profilfoto auf die Standardeinstellungen zurücksetzen möchten?",
+    "sourceHash": "1d4cb7a3a6b7dc3ca8c95196919ae390"
+  },
+  "profilePhotoResetSuccessMessage": {
+    "translation": "Ihr Profilfoto wurde erfolgreich auf die Standardeinstellungen zurückgesetzt",
+    "sourceHash": "f75958007c218487aeaf9a88d9fc1c65"
+  },
+  "profilePhotoResetErrorMessage": {
+    "translation": "Fehler beim Zurücksetzen des Profilfotos",
+    "sourceHash": "60e1f6916f834c32a152bfd0cfce8620"
+  },
+  "deleteProfilePhotoMessage": {
+    "translation": "Sind Sie sicher, dass Sie Ihr Profilbild löschen möchten?",
+    "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
+  },
+  "delete": {
+    "translation": "Löschen",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "profilePhotoDeletedSuccessMessage": {
+    "translation": "Ihr Profilbild wurde erfolgreich gelöscht.",
+    "sourceHash": "6d5ae5bd816c2ea4458a490579619284"
+  },
+  "profilePhotoDeleteErrorMessage": {
+    "translation": "Fehler beim Löschen des Profilfotos",
+    "sourceHash": "11ee0d0a6d38240ec8afeb629d15de30"
+  },
+  "invalidNameMessage": {
+    "translation": "Ungültiger Benutzername",
+    "sourceHash": "a3ed9736b4ff569f91a9235cd804e16d"
+  },
+  "nameUpdatedSuccessMessage": {
+    "translation": "Ihr Benutzername wurde erfolgreich aktualisiert.",
+    "sourceHash": "c07d9efd4996ddba0e483361b05e1848"
+  },
+  "nameUpdateErrorMessage": {
+    "translation": "Es ist ein Fehler bei der Aktualisierung Ihres Benutzernamens aufgetreten.",
+    "sourceHash": "1595f8b7d2565177a22703e087002186"
+  },
+  "logOut": {
+    "translation": "Abmeldung",
+    "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
+  },
+  "languageSettings": {
+    "translation": "Spracheinstellungen",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "languageChanged": {
+    "translation": "Sprache Geändert",
+    "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
+  },
+  "languageChangedMessage": {
+    "translation": "Die Sprache wurde erfolgreich geändert. Alle Texte wurden in die neue Sprache übersetzt.",
+    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+  },
+  "languageChangeError": {
+    "translation": "Es ist ein Fehler beim Ändern der Sprache aufgetreten. Bitte versuchen Sie es erneut.",
+    "sourceHash": "3c87a1a1d220291568f7115d53852852"
+  },
+  "applyLanguage": {
+    "translation": "Ausgewählte Sprache anwenden",
+    "sourceHash": "63bb3a6c2499b11370c5e5c72a4ee89e"
+  },
+  "applying": {
+    "translation": "Ausgewählte Sprache wird implementiert",
+    "sourceHash": "46d2538820ebcdae189c6024c35e4002"
+  },
+  "translatingContent": {
+    "translation": "Inhalte übersetzen",
+    "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
+  },
+  "completed": {
+    "translation": "abgeschlossen",
+    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  }
 }

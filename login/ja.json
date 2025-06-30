@@ -1,81 +1,318 @@
 {
-  "_success_": "成功",
-  "_error_": "エラー",
-  "userSignInErrorAlertMessage": "ログインに問題が発生しました。エラーが発生しました： {{error}}",
-  "userRegisterErrorAlertMessage": "録画中に問題が発生しました。エラーが発生しました： {{error}}",
-  "userSignInEnterEmailAndPasswordAlert": "Eメールアドレスとパスワードを入力してください。",
-  "userSignInEnterValidEmailAlert": "有効なEメールアドレスを入力してください。",
-  "userSignInLoginYourAccount": "アカウントにログインする",
-  "userSignInLoginToGetStarted": "ログイン",
-  "userSignInLogin": "ログイン",
-  "userSignInHaveNotAccount": "アカウントを持っていないのですか？",
-  "placeholderEnterEmail": "Eメールアドレスを入力してください。",
-  "placeholderEnterPassword": "パスワードを入力してください",
-  "userSignInOr": "または",
-  "userRegisterPleaseEnterAllInformation": "すべての情報を入力してください。",
-  "userRegisterPasswordsNotMatchErrorAlert": "パスワードが一致しない",
-  "userRegister": "今すぐ登録",
-  "userRegisterToGetStarted": "まずはご登録ください！",
-  "placeholderEnterFullName": "フルネームを入力",
-  "placeholderConfirmPassword": "パスワードの確認",
-  "userRegisterAlreadyHaveAccount": "すでにアカウントをお持ちですか？",
-  "userRegisterCreateAccount": "アカウント作成",
-  "socialLoginWithGoogle": "Googleアカウントで続ける",
-  "socialLoginWithApple": "Appleアカウントで続ける",
-  "PrivacyPolicy": "当社の利用規約とプライバシーポリシーに同意していただくことで継続できます。",
-  "cropperToolbarTitle": "プロフィール写真の設定",
-  "loadingLabelText": "調整...",
-  "cropperChooseText": "応募する",
-  "cropperCancelText": "あきらめる",
-  "setProfilePhotoTitle": "プロフィール写真に設定",
-  "setProfilePhotoDescription": "写真は円形のフレームに合わせてトリミングされます。",
-  "setAsProfilePhoto": "続ける",
-  "profilePhotoUpdatedMessage": "プロフィール写真が更新されました！",
-  "profilePhotoErrorMessage": "プロフィール写真の更新にエラーが発生しました。",
-  "cancel": "キャンセル",
-  "ok": "分かった。",
-  "noUserLoggedIn": "現在、ログインしているユーザーはいません。",
-  "accountSettings": "アカウント設定",
-  "manageProfileSettings": "プロフィール写真の管理",
-  "editCurrentPhoto": "現在の写真を編集する",
-  "editPhoto": "編集",
-  "selectFromGallery": "選択",
-  "resetToDefault": "リセット",
-  "name": "ユーザー名",
-  "noName": "ユーザー名なし",
-  "editName": "ユーザー名の編集",
-  "email": "電子メール",
-  "noEmail": "Eメールなし",
-  "loginMethod": "エントリー方法",
-  "emailLogin": "メールでログイン",
-  "googleLogin": "グーグルアカウント",
-  "appleLogin": "アップルアカウント",
-  "unknown": "不明",
-  "editNameTitle": "ユーザー名の編集",
-  "enterNamePlaceholder": "新しいユーザー名を入力",
-  "save": "セーブ",
-  "saving": "節約",
-  "noProfilePhotoTitle": "プロフィール写真なし",
-  "noProfilePhotoMessage": "プロフィール写真がありません",
-  "selectPhotoErrorMessage": "ギャラリーからの写真選択エラー",
-  "resetProfilePhotoTitle": "プロフィール写真をリセット",
-  "resetProfilePhotoMessage": "プロフィール写真をデフォルトに戻してもよろしいですか？",
-  "profilePhotoResetSuccessMessage": "プロフィール写真がデフォルトにリセットされました",
-  "profilePhotoResetErrorMessage": "プロフィール写真のリセットエラー",
-  "deleteProfilePhotoMessage": "本当にプロフィール写真を削除しますか？",
-  "delete": "削除",
-  "profilePhotoDeletedSuccessMessage": "プロフィール写真の削除に成功しました。",
-  "profilePhotoDeleteErrorMessage": "プロフィール写真の削除エラー",
-  "invalidNameMessage": "無効なユーザー名",
-  "nameUpdatedSuccessMessage": "ユーザー名が正常に更新されました。",
-  "nameUpdateErrorMessage": "ユーザー名の更新にエラーが発生しました。",
-  "logOut": "ログアウト",
-  "languageSettings": "言語設定",
-  "languageChanged": "言語の変更",
-  "languageChangedMessage": "言語の変更に成功。すべてのテキストが新しい言語に翻訳された。",
-  "languageChangeError": "言語の変更でエラーが発生しました。もう一度お試しください。",
-  "applyLanguage": "選択した言語を適用する",
-  "applying": "選択した言語を実装",
-  "translatingContent": "コンテンツの翻訳",
-  "completed": "完成"
+  "_success_": {
+    "translation": "成功",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_error_": {
+    "translation": "エラー",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "userSignInErrorAlertMessage": {
+    "translation": "ログインに問題が発生しました。エラーが発生しました： {{error}}",
+    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+  },
+  "userRegisterErrorAlertMessage": {
+    "translation": "録画中に問題が発生しました。エラーが発生しました： {{error}}",
+    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+  },
+  "userSignInEnterEmailAndPasswordAlert": {
+    "translation": "Eメールアドレスとパスワードを入力してください。",
+    "sourceHash": "03f0667fea3257a691d1362512391160"
+  },
+  "userSignInEnterValidEmailAlert": {
+    "translation": "有効なEメールアドレスを入力してください。",
+    "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
+  },
+  "userSignInLoginYourAccount": {
+    "translation": "アカウントにログインする",
+    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  },
+  "userSignInLoginToGetStarted": {
+    "translation": "ログイン",
+    "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
+  },
+  "userSignInLogin": {
+    "translation": "ログイン",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
+  "userSignInHaveNotAccount": {
+    "translation": "アカウントを持っていないのですか？",
+    "sourceHash": "35d0ca8319f3e094f9ca860c07a28545"
+  },
+  "placeholderEnterEmail": {
+    "translation": "Eメールアドレスを入力してください。",
+    "sourceHash": "4055a242859da2bd6f0c4defa13becef"
+  },
+  "placeholderEnterPassword": {
+    "translation": "パスワードを入力してください",
+    "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
+  },
+  "userSignInOr": {
+    "translation": "または",
+    "sourceHash": "f1d550c114648c8eef64a85fb165e004"
+  },
+  "userRegisterPleaseEnterAllInformation": {
+    "translation": "すべての情報を入力してください。",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
+  },
+  "userRegisterPasswordsNotMatchErrorAlert": {
+    "translation": "パスワードが一致しない",
+    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+  },
+  "userRegister": {
+    "translation": "今すぐ登録",
+    "sourceHash": "8d155a5a1e8467419d1ac595b94ea227"
+  },
+  "userRegisterToGetStarted": {
+    "translation": "まずはご登録ください！",
+    "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
+  },
+  "placeholderEnterFullName": {
+    "translation": "フルネームを入力",
+    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  },
+  "placeholderConfirmPassword": {
+    "translation": "パスワードの確認",
+    "sourceHash": "33af2ec273163f216928d8b520c242ef"
+  },
+  "userRegisterAlreadyHaveAccount": {
+    "translation": "すでにアカウントをお持ちですか？",
+    "sourceHash": "9148c4f72b5e8b7125eb89afa92d5b94"
+  },
+  "userRegisterCreateAccount": {
+    "translation": "アカウント作成",
+    "sourceHash": "c8a8414d3556605f76536e5400271916"
+  },
+  "socialLoginWithGoogle": {
+    "translation": "Googleアカウントで続ける",
+    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+  },
+  "socialLoginWithApple": {
+    "translation": "Appleアカウントで続ける",
+    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+  },
+  "PrivacyPolicy": {
+    "translation": "当社の利用規約とプライバシーポリシーに同意していただくことで継続できます。",
+    "sourceHash": "aab146b51d8186a09d50eab308ac055c"
+  },
+  "cropperToolbarTitle": {
+    "translation": "プロフィール写真の設定",
+    "sourceHash": "e5a961e2b159b7df662fa816f00a349c"
+  },
+  "loadingLabelText": {
+    "translation": "調整...",
+    "sourceHash": "79180c12670b03c40415e18777d32fe4"
+  },
+  "cropperChooseText": {
+    "translation": "応募する",
+    "sourceHash": "f8c2e3e1c9e0a7c979977a87e4f6278c"
+  },
+  "cropperCancelText": {
+    "translation": "あきらめる",
+    "sourceHash": "bf814f7c632e88e19215ef4a5cdce4db"
+  },
+  "setProfilePhotoTitle": {
+    "translation": "プロフィール写真に設定",
+    "sourceHash": "319caad62edae15ee09a1b75fbbc8567"
+  },
+  "setProfilePhotoDescription": {
+    "translation": "写真は円形のフレームに合わせてトリミングされます。",
+    "sourceHash": "19ba18f17a08c0858059cc2ef6f5ee3a"
+  },
+  "setAsProfilePhoto": {
+    "translation": "続ける",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "profilePhotoUpdatedMessage": {
+    "translation": "プロフィール写真が更新されました！",
+    "sourceHash": "df99f7535f29a38f3797c1d806d1c33a"
+  },
+  "profilePhotoErrorMessage": {
+    "translation": "プロフィール写真の更新にエラーが発生しました。",
+    "sourceHash": "6a5080568e0c8f568b36d3a2656e5369"
+  },
+  "cancel": {
+    "translation": "キャンセル",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "ok": {
+    "translation": "分かった。",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "noUserLoggedIn": {
+    "translation": "現在、ログインしているユーザーはいません。",
+    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+  },
+  "accountSettings": {
+    "translation": "アカウント設定",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "manageProfileSettings": {
+    "translation": "プロフィール写真の管理",
+    "sourceHash": "979bafdfe15295445e0c46cc95dda317"
+  },
+  "editCurrentPhoto": {
+    "translation": "現在の写真を編集する",
+    "sourceHash": "8183ab820901608fbd8b2d8cbd6cf5e9"
+  },
+  "editPhoto": {
+    "translation": "編集",
+    "sourceHash": "cc6f2779ad4221f33d05d8fd947e7551"
+  },
+  "selectFromGallery": {
+    "translation": "選択",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
+  },
+  "resetToDefault": {
+    "translation": "リセット",
+    "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
+  },
+  "name": {
+    "translation": "ユーザー名",
+    "sourceHash": "739574e21be8e41e667661b927c94e1e"
+  },
+  "noName": {
+    "translation": "ユーザー名なし",
+    "sourceHash": "baead46135a7d5e8614f2448eff61f43"
+  },
+  "editName": {
+    "translation": "ユーザー名の編集",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "email": {
+    "translation": "電子メール",
+    "sourceHash": "628f52c9359bdc447f385ae2e61a5b92"
+  },
+  "noEmail": {
+    "translation": "Eメールなし",
+    "sourceHash": "8181b2fcfd543b4a0e92a3db00170638"
+  },
+  "loginMethod": {
+    "translation": "エントリー方法",
+    "sourceHash": "65caa094f22ef2ddfc5b54a937983efe"
+  },
+  "emailLogin": {
+    "translation": "メールでログイン",
+    "sourceHash": "8083e7373bf0737a602e209e5021d6d2"
+  },
+  "googleLogin": {
+    "translation": "グーグルアカウント",
+    "sourceHash": "cd50dc89f9526f808d2e22ed8e23e9d2"
+  },
+  "appleLogin": {
+    "translation": "アップルアカウント",
+    "sourceHash": "5f45629e8c3c818f092f99b31ed431b0"
+  },
+  "unknown": {
+    "translation": "不明",
+    "sourceHash": "5c6d1b240565049ef5ba4758bb571615"
+  },
+  "editNameTitle": {
+    "translation": "ユーザー名の編集",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "enterNamePlaceholder": {
+    "translation": "新しいユーザー名を入力",
+    "sourceHash": "6c0ad837c3e8bd7ec3ac1fbd1157d477"
+  },
+  "save": {
+    "translation": "セーブ",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "saving": {
+    "translation": "節約",
+    "sourceHash": "ff0d2ebdc501be626aec51853c7cd182"
+  },
+  "noProfilePhotoTitle": {
+    "translation": "プロフィール写真なし",
+    "sourceHash": "6df1f67ae93e55563c6d065b08425972"
+  },
+  "noProfilePhotoMessage": {
+    "translation": "プロフィール写真がありません",
+    "sourceHash": "3608839692d6593ad41514c06b9d9c8c"
+  },
+  "selectPhotoErrorMessage": {
+    "translation": "ギャラリーからの写真選択エラー",
+    "sourceHash": "217acf9f5233cf034401549d7444e87d"
+  },
+  "resetProfilePhotoTitle": {
+    "translation": "プロフィール写真をリセット",
+    "sourceHash": "ba9347233b4548f252738c1c932f08fb"
+  },
+  "resetProfilePhotoMessage": {
+    "translation": "プロフィール写真をデフォルトに戻してもよろしいですか？",
+    "sourceHash": "1d4cb7a3a6b7dc3ca8c95196919ae390"
+  },
+  "profilePhotoResetSuccessMessage": {
+    "translation": "プロフィール写真がデフォルトにリセットされました",
+    "sourceHash": "f75958007c218487aeaf9a88d9fc1c65"
+  },
+  "profilePhotoResetErrorMessage": {
+    "translation": "プロフィール写真のリセットエラー",
+    "sourceHash": "60e1f6916f834c32a152bfd0cfce8620"
+  },
+  "deleteProfilePhotoMessage": {
+    "translation": "本当にプロフィール写真を削除しますか？",
+    "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
+  },
+  "delete": {
+    "translation": "削除",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "profilePhotoDeletedSuccessMessage": {
+    "translation": "プロフィール写真の削除に成功しました。",
+    "sourceHash": "6d5ae5bd816c2ea4458a490579619284"
+  },
+  "profilePhotoDeleteErrorMessage": {
+    "translation": "プロフィール写真の削除エラー",
+    "sourceHash": "11ee0d0a6d38240ec8afeb629d15de30"
+  },
+  "invalidNameMessage": {
+    "translation": "無効なユーザー名",
+    "sourceHash": "a3ed9736b4ff569f91a9235cd804e16d"
+  },
+  "nameUpdatedSuccessMessage": {
+    "translation": "ユーザー名が正常に更新されました。",
+    "sourceHash": "c07d9efd4996ddba0e483361b05e1848"
+  },
+  "nameUpdateErrorMessage": {
+    "translation": "ユーザー名の更新にエラーが発生しました。",
+    "sourceHash": "1595f8b7d2565177a22703e087002186"
+  },
+  "logOut": {
+    "translation": "サインアウト",
+    "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
+  },
+  "languageSettings": {
+    "translation": "言語設定",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "languageChanged": {
+    "translation": "言語の変更",
+    "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
+  },
+  "languageChangedMessage": {
+    "translation": "言語の変更に成功。すべてのテキストが新しい言語に翻訳された。",
+    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+  },
+  "languageChangeError": {
+    "translation": "言語の変更でエラーが発生しました。もう一度お試しください。",
+    "sourceHash": "3c87a1a1d220291568f7115d53852852"
+  },
+  "applyLanguage": {
+    "translation": "選択した言語を適用する",
+    "sourceHash": "63bb3a6c2499b11370c5e5c72a4ee89e"
+  },
+  "applying": {
+    "translation": "選択した言語を実装",
+    "sourceHash": "46d2538820ebcdae189c6024c35e4002"
+  },
+  "translatingContent": {
+    "translation": "コンテンツの翻訳",
+    "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
+  },
+  "completed": {
+    "translation": "完成",
+    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  }
 }

@@ -1,101 +1,392 @@
 {
-  "_aiScreen_notFoundAiFilters": "Les caméras d'IA n'ont pas été trouvées.",
-  "_albumScreen_noAlbumPhotos": "Il n'y a pas de photos dans l'album.",
-  "_albumScreen_noAIPhoto": "Il n'y a pas de photos d'intelligence artificielle dans cet album.",
-  "_albumScreen_savePhotoToGallery": "Enregistrer dans la galerie",
-  "_albumScreen_sharePhoto": "Partager",
-  "_albumScreen_deletePhoto": "Supprimer la photo",
-  "_albumScreen_deletePhotoAlertMessage": "Êtes-vous sûr de vouloir supprimer cette photo ? Cette action ne peut être annulée.",
-  "_albumScreen_deletePhotoFailedAlertMessage": "Une erreur s'est produite lors de la suppression de la photo. Veuillez réessayer.",
-  "_albumScreen_sharePhotoErrorMessage": "Une erreur s'est produite lors du partage de la photo.",
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": "Sauvegardé dans votre galerie de photos !",
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": "La photo n'est pas encore disponible au téléchargement ou n'a pas été trouvée.",
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": "Une erreur s'est produite lors de la suppression de la photo AI. Veuillez réessayer.",
-  "_albumScreen_LocatingImageFile": "Il existe un fichier image...",
-  "_albumScreen_ImageCouldNotLoaded": "L'image n'a pas pu être chargée",
-  "_albumScreen_ErrorCausingFilePathsChange": "L'application peut avoir été reconstruite, ce qui peut entraîner une modification des chemins d'accès aux fichiers.",
-  "_albumScreen_RemoveFromLibrary": "Retirer de l'album",
-  "_albumScreen_cancelProcessing": "Arrêter le processus",
-  "_albumScreen_cancelProcessingAlertTitle": "Arrêter et supprimer une transaction",
-  "_albumScreen_cancelProcessingAlertMessage": "Êtes-vous sûr ? Si vous annulez cette opération, la photo sera supprimée.",
-  "_cameraScreen_filmEndedMessage": "Vous pouvez envoyer le rouleau de film ' {{resolvedActivityTitle}} ' à l'imprimante.",
-  "_cameraScreen_switchCamera": "Changement de caméra",
-  "_cameraScreen_capturePhotoErrorAlertMessage": "Une erreur s'est produite lors de la prise de vue ou de la mise à jour du film.",
-  "_cameraScreen_noDevice": "L'appareil photo n'a pas été trouvé.",
-  "_filmScreen_location": "Localisation",
-  "_filmScreen_date": "L'histoire",
-  "_filmScreen_remainingPhoto": "Photo restante",
-  "_filmScreen_editActivityTitle": "Modifier le titre de l'activité",
-  "_filmScreen_enterNewActivityTitle": "Saisir un nouveau titre (maximum {{maxTitleLength}} caractères, laisser vide pour revenir à la valeur par défaut).",
-  "_filmScreen_placeholder": "Saisissez le titre...",
-  "_filmScreen_filmIsFullAlertMessage": "Vous avez utilisé toutes les expositions de ce rouleau de film. Vous pouvez maintenant envoyer le film à l'imprimante.",
-  "_filmScreen_filmCreateActivityErrorAlertMessage": "Une erreur s'est produite lors de la création d'un nouveau rouleau de film. Veuillez réessayer.",
-  "_filmScreen_photosInPrint": "Photos imprimées !",
-  "_filmScreen_filmsPreparing": "Des films sont en préparation...",
-  "_filmScreen_photosDeveloping": "Les photographies ont été prises au bain...",
-  "_filmScreen_photosClarifying": "Photos clarifiantes...",
-  "_filmScreen_photosDrying": "Les photographies sont séchées...",
-  "_filmScreen_photosReady": "Les photos sont prêtes !",
-  "_filmScreen_noActiveFilmsMessage": "Pas de caméra active",
-  "_filmScreen_printRequestFailedMessage": "La demande de répression a échoué.",
-  "_filmScreen_activityNotActiveErrorMessage": "Cette caméra n'est plus active.",
-  "_filmScreen_selectDevelopmentTime": "Sélectionner le délai de livraison",
-  "_homeScreen_loadingMoreContent": "Chargement Plus de contenu...",
-  "_homeScreen_noCamerasFound": "Aucun appareil photo n'a été trouvé",
-  "cameras": {
-    "analoguescanline": "Balayage des bandes analogiques",
-    "analogue": "Analogique",
-    "grainyfilm": "Sale",
-    "nineties": "Années 90 sans bleu",
-    "nostalgia": "Nostalgie",
-    "oldanalogue": "Vieil Analogique",
-    "pink": "Explosion rose",
-    "retroanalogue": "Rétro analogique",
-    "retroanaloguegrainy": "Analogique poussiéreux",
-    "retroblurred": "Rétro flou",
-    "retrocolorless": "Rétro incolore",
-    "retrograiny": "Les temps anciens",
-    "retrohairlake": "Trace de cheveux rétro",
-    "retroneon": "Néon",
-    "retro": "Rétro",
-    "shinyanalogue": "Analogique brillant",
-    "vhspreset": "Préréglage VHS",
-    "warmedanalogue": "Analogique brûlé"
+  "_aiScreen_notFoundAiFilters": {
+    "translation": "Les caméras d'IA n'ont pas été trouvées.",
+    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
   },
-  "_navigation_home": "Boutique",
-  "_navigation_films": "Caméras",
-  "_navigation_album": "Album",
-  "_navigation_albums": "Albums",
-  "_permissions_RequiredTextTitle": "Vous devez accorder les autorisations nécessaires à l'utilisation de l'application.",
-  "_permissions_RequiredTextDetail": "Veuillez fermer et rouvrir l'application et accorder les autorisations.",
-  "_permissions_RequiredAlertTitle": "Permis requis",
-  "_permissions_RequiredAlertMessage": "Les autorisations relatives à l'appareil photo, à la localisation et à la galerie de photos sont nécessaires pour que l'application fonctionne pleinement.",
-  "_permissions_RequiredAlertAllow": "Permettez-moi",
-  "_permissions_MissingAlertTitle": "Permis manquants",
-  "_permissions_MissingAlertMessage": "Certaines autorisations ne sont pas accordées. Toutes les autorisations doivent être accordées pour que l'application fonctionne correctement.",
-  "_permissions_MissingAlertGoToSetting": "Accéder aux paramètres",
-  "_settings_profileSettings": "Profil et paramètres",
-  "_settings_accountSettings": "Paramètres du compte",
-  "_settings_darkOrLightModeSettings": "Paramètres du thème",
-  "_settings_languageSettings": "Paramètres linguistiques",
-  "_selectFilm_filmCreateWaitingTimeAlertTitle": "Vous n'avez plus de droits sur les bobines de film",
-  "_selectFilm_filmCreateWaitingTimeAlertMessage": "Durée de veille {{remainingMinutes}} minutes.",
-  "_theme_switchTheme": "Passer du mode clair au mode foncé",
-  "_theme_lightMode": "Mode lumineux",
-  "_theme_darkMode": "Mode sombre",
-  "_common_photo": "Photo",
-  "_common_saving": "Enregistrement...",
-  "_common_save": "Économiser",
-  "_common_cancel": "Annulation",
-  "_common_delete": "Supprimer",
-  "_common_failed": "Échec",
-  "_common_success": "Réussite",
-  "_common_error": "Erreur",
-  "_common_invalidDate": "Date invalide",
-  "_common_processing": "Traitement...",
-  "_common_ok": "D'accord.",
-  "_common_sendToPrint": "Envoyer à l'impression",
-  "_common_filmEnded": "Rouleau de film plein",
-  "_common_confirm": "Confirmer",
-  "_common_loading": "Chargement..."
+  "_albumScreen_noAlbumPhotos": {
+    "translation": "Il n'y a pas de photos dans l'album.",
+    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+  },
+  "_albumScreen_noAIPhoto": {
+    "translation": "Il n'y a pas de photos d'intelligence artificielle dans cet album.",
+    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+  },
+  "_albumScreen_savePhotoToGallery": {
+    "translation": "Enregistrer dans la galerie",
+    "sourceHash": "42f9c92411994859e2b23ca3eea90858"
+  },
+  "_albumScreen_sharePhoto": {
+    "translation": "Partager",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_albumScreen_deletePhoto": {
+    "translation": "Supprimer la photo",
+    "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
+  },
+  "_albumScreen_deletePhotoAlertMessage": {
+    "translation": "Êtes-vous sûr de vouloir supprimer cette photo ? Cette action ne peut être annulée.",
+    "sourceHash": "27f3742cadc88a069cb50512446c646f"
+  },
+  "_albumScreen_deletePhotoFailedAlertMessage": {
+    "translation": "Une erreur s'est produite lors de la suppression de la photo. Veuillez réessayer.",
+    "sourceHash": "29fd142021d336f5c6fad9f16466c354"
+  },
+  "_albumScreen_sharePhotoErrorMessage": {
+    "translation": "Une erreur s'est produite lors du partage de la photo.",
+    "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
+  },
+  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
+    "translation": "Sauvegardé dans votre galerie de photos !",
+    "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
+  },
+  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
+    "translation": "La photo n'est pas encore disponible au téléchargement ou n'a pas été trouvée.",
+    "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
+  },
+  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
+    "translation": "Une erreur s'est produite lors de la suppression de la photo AI. Veuillez réessayer.",
+    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
+  },
+  "_albumScreen_LocatingImageFile": {
+    "translation": "Il existe un fichier image...",
+    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+  },
+  "_albumScreen_ImageCouldNotLoaded": {
+    "translation": "L'image n'a pas pu être chargée",
+    "sourceHash": "b58886963d120fe109892d34d23bc4a4"
+  },
+  "_albumScreen_ErrorCausingFilePathsChange": {
+    "translation": "L'application peut avoir été reconstruite, ce qui peut entraîner une modification des chemins d'accès aux fichiers.",
+    "sourceHash": "6d9c4669ed6d509e73b4da51e8748a23"
+  },
+  "_albumScreen_RemoveFromLibrary": {
+    "translation": "Retirer de l'album",
+    "sourceHash": "d5f5689bde3897a2433be2d1c927b7e9"
+  },
+  "_albumScreen_cancelProcessing": {
+    "translation": "Arrêter le processus",
+    "sourceHash": "02e06d4f577b8c1cced8eb9095ad0b1b"
+  },
+  "_albumScreen_cancelProcessingAlertTitle": {
+    "translation": "Arrêter et supprimer une transaction",
+    "sourceHash": "04018f05f7bcae9b21f53e5c6f6781e1"
+  },
+  "_albumScreen_cancelProcessingAlertMessage": {
+    "translation": "Êtes-vous sûr ? Si vous annulez cette opération, la photo sera supprimée.",
+    "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
+  },
+  "_cameraScreen_filmEndedMessage": {
+    "translation": "Vous pouvez envoyer le rouleau de film ' {{resolvedActivityTitle}} ' à l'imprimante.",
+    "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
+  },
+  "_cameraScreen_switchCamera": {
+    "translation": "Changement de caméra",
+    "sourceHash": "2927fad14171dd20bf412185f35f2a20"
+  },
+  "_cameraScreen_capturePhotoErrorAlertMessage": {
+    "translation": "Une erreur s'est produite lors de la prise de vue ou de la mise à jour du film.",
+    "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
+  },
+  "_cameraScreen_noDevice": {
+    "translation": "L'appareil photo n'a pas été trouvé.",
+    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+  },
+  "_filmScreen_location": {
+    "translation": "Localisation",
+    "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
+  },
+  "_filmScreen_date": {
+    "translation": "L'histoire",
+    "sourceHash": "27486dc0fa9db689a0a3fefeab58bda7"
+  },
+  "_filmScreen_remainingPhoto": {
+    "translation": "Photo restante",
+    "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
+  },
+  "_filmScreen_editActivityTitle": {
+    "translation": "Modifier le titre de l'activité",
+    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+  },
+  "_filmScreen_enterNewActivityTitle": {
+    "translation": "Saisir un nouveau titre (maximum {{maxTitleLength}} caractères, laisser vide pour revenir à la valeur par défaut).",
+    "sourceHash": "84096af473d232cf673f23b948ef96d0"
+  },
+  "_filmScreen_placeholder": {
+    "translation": "Saisissez le titre...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
+  "_filmScreen_filmIsFullAlertMessage": {
+    "translation": "Vous avez utilisé toutes les expositions de ce rouleau de film. Vous pouvez maintenant envoyer le film à l'imprimante.",
+    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+  },
+  "_filmScreen_filmCreateActivityErrorAlertMessage": {
+    "translation": "Une erreur s'est produite lors de la création d'un nouveau rouleau de film. Veuillez réessayer.",
+    "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
+  },
+  "_filmScreen_photosInPrint": {
+    "translation": "Photos imprimées !",
+    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+  },
+  "_filmScreen_filmsPreparing": {
+    "translation": "Des films sont en préparation...",
+    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+  },
+  "_filmScreen_photosDeveloping": {
+    "translation": "Les photographies ont été prises au bain...",
+    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+  },
+  "_filmScreen_photosClarifying": {
+    "translation": "Photos clarifiantes...",
+    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+  },
+  "_filmScreen_photosDrying": {
+    "translation": "Les photographies sont séchées...",
+    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+  },
+  "_filmScreen_photosReady": {
+    "translation": "Les photos sont prêtes !",
+    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+  },
+  "_filmScreen_noActiveFilmsMessage": {
+    "translation": "Pas de caméra active",
+    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+  },
+  "_filmScreen_printRequestFailedMessage": {
+    "translation": "La demande de répression a échoué.",
+    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+  },
+  "_filmScreen_activityNotActiveErrorMessage": {
+    "translation": "Cette caméra n'est plus active.",
+    "sourceHash": "bd683d624d343f80c90b81c2742f75f7"
+  },
+  "_filmScreen_selectDevelopmentTime": {
+    "translation": "Sélectionner le délai de livraison",
+    "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
+  },
+  "_homeScreen_loadingMoreContent": {
+    "translation": "Chargement Plus de contenu...",
+    "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
+  },
+  "_homeScreen_noCamerasFound": {
+    "translation": "Aucun appareil photo n'a été trouvé",
+    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+  },
+  "cameras": {
+    "analoguescanline": {
+      "translation": "Balayage des bandes analogiques",
+      "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
+    },
+    "analogue": {
+      "translation": "Analogique",
+      "sourceHash": "3d953aa7cfa5ffe0fde34551d918c76c"
+    },
+    "grainyfilm": {
+      "translation": "Sale",
+      "sourceHash": "8d72ec2eba8d2302c3f318395fae2520"
+    },
+    "nineties": {
+      "translation": "Années 90 sans bleu",
+      "sourceHash": "437fb56344bef307d333807aaa034056"
+    },
+    "nostalgia": {
+      "translation": "Nostalgie",
+      "sourceHash": "4104f0eb27b6654983a6894c249d6136"
+    },
+    "oldanalogue": {
+      "translation": "Vieil Analogique",
+      "sourceHash": "5b4f8e1f76567bb2915a8372e5433276"
+    },
+    "pink": {
+      "translation": "Explosion rose",
+      "sourceHash": "a3bbfbbef31090e53e305f00df3a52f3"
+    },
+    "retroanalogue": {
+      "translation": "Rétro analogique",
+      "sourceHash": "d8dcf23a8c6d04d2df6db4f6a3146411"
+    },
+    "retroanaloguegrainy": {
+      "translation": "Analogique poussiéreux",
+      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
+    },
+    "retroblurred": {
+      "translation": "Rétro flou",
+      "sourceHash": "6f6f97990686bb28fda3ce5c02bcd5c7"
+    },
+    "retrocolorless": {
+      "translation": "Rétro incolore",
+      "sourceHash": "6a23f51a8ce7a55dfb92361740150b33"
+    },
+    "retrograiny": {
+      "translation": "Les temps anciens",
+      "sourceHash": "e23b6e55609e1a7406314df8e1533116"
+    },
+    "retrohairlake": {
+      "translation": "Trace de cheveux rétro",
+      "sourceHash": "2e9d25bb6e9921ea60d510e33fb67256"
+    },
+    "retroneon": {
+      "translation": "Néon",
+      "sourceHash": "7a5ea03d401ee10e7b9dfe5648d07816"
+    },
+    "retro": {
+      "translation": "Rétro",
+      "sourceHash": "20efa99be08e58f30a55ba40b8f986cb"
+    },
+    "shinyanalogue": {
+      "translation": "Analogique brillant",
+      "sourceHash": "a314461b8e46ad9acfe5a7db01fb90a9"
+    },
+    "vhspreset": {
+      "translation": "Préréglage VHS",
+      "sourceHash": "674dbf88c26b923b3e20f44577ebd034"
+    },
+    "warmedanalogue": {
+      "translation": "Analogique brûlé",
+      "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
+    }
+  },
+  "_navigation_home": {
+    "translation": "Boutique",
+    "sourceHash": "6216cb12cb28dfd6931d0771eccbd019"
+  },
+  "_navigation_films": {
+    "translation": "Caméras",
+    "sourceHash": "b0ea2974181d128d23707cf20463517c"
+  },
+  "_navigation_album": {
+    "translation": "Album",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_navigation_albums": {
+    "translation": "Albums",
+    "sourceHash": "cec6c56a01e82b4d9261b29cd7cc3c0d"
+  },
+  "_permissions_RequiredTextTitle": {
+    "translation": "Vous devez accorder les autorisations nécessaires pour utiliser l'application.",
+    "sourceHash": "8e6c546c16280f2451c392efd60932ba"
+  },
+  "_permissions_RequiredTextDetail": {
+    "translation": "Veuillez fermer et rouvrir l'application et accorder les autorisations.",
+    "sourceHash": "b26b844e1db07a87a57c438ad0765dbc"
+  },
+  "_permissions_RequiredAlertTitle": {
+    "translation": "Permis requis",
+    "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
+  },
+  "_permissions_RequiredAlertMessage": {
+    "translation": "Les autorisations relatives à l'appareil photo, à la localisation et à la galerie de photos sont nécessaires pour que l'application fonctionne pleinement.",
+    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+  },
+  "_permissions_RequiredAlertAllow": {
+    "translation": "Permettez-moi",
+    "sourceHash": "e2e6bca2728d0b91dd7bd03015a81ad2"
+  },
+  "_permissions_MissingAlertTitle": {
+    "translation": "Permis manquants",
+    "sourceHash": "91ea386d44af2504a14aa6b741eedab7"
+  },
+  "_permissions_MissingAlertMessage": {
+    "translation": "Certaines autorisations ne sont pas accordées. Toutes les autorisations doivent être accordées pour que l'application fonctionne correctement.",
+    "sourceHash": "c7abe27d8a8f994a31c0a77c2197b708"
+  },
+  "_permissions_MissingAlertGoToSetting": {
+    "translation": "Accéder aux paramètres",
+    "sourceHash": "77f3094ca38f69bf417a6e1d3d5de793"
+  },
+  "_settings_profileSettings": {
+    "translation": "Profil et paramètres",
+    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
+  },
+  "_settings_accountSettings": {
+    "translation": "Paramètres du compte",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "_settings_darkOrLightModeSettings": {
+    "translation": "Paramètres du thème",
+    "sourceHash": "286fd7a44546000884657e2c3090476c"
+  },
+  "_settings_languageSettings": {
+    "translation": "Paramètres linguistiques",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertTitle": {
+    "translation": "Vous n'avez plus de droits sur les bobines de film",
+    "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertMessage": {
+    "translation": "Durée de veille {{remainingMinutes}} minutes.",
+    "sourceHash": "226c93618bb62791af1583ffbf591388"
+  },
+  "_theme_switchTheme": {
+    "translation": "Passer du mode clair au mode foncé",
+    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  },
+  "_theme_lightMode": {
+    "translation": "Mode lumineux",
+    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  },
+  "_theme_darkMode": {
+    "translation": "Mode sombre",
+    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  },
+  "_common_photo": {
+    "translation": "Photo",
+    "sourceHash": "a5163fe21f330316158294f4b906f597"
+  },
+  "_common_saving": {
+    "translation": "Enregistrement...",
+    "sourceHash": "92256d5c7fac12936b38479068a0b161"
+  },
+  "_common_save": {
+    "translation": "Économiser",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "_common_cancel": {
+    "translation": "Annulation",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "_common_delete": {
+    "translation": "Supprimer",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "_common_failed": {
+    "translation": "Échec",
+    "sourceHash": "3260d004408874f578227615e418e077"
+  },
+  "_common_success": {
+    "translation": "Réussite",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_common_error": {
+    "translation": "Erreur",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "_common_invalidDate": {
+    "translation": "Date invalide",
+    "sourceHash": "9a86d6ab34cf36101a9081a8fe25004f"
+  },
+  "_common_processing": {
+    "translation": "Traitement...",
+    "sourceHash": "78f846c11e39ce1b953b48da037d28ee"
+  },
+  "_common_ok": {
+    "translation": "D'accord.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "_common_sendToPrint": {
+    "translation": "Envoyer à l'impression",
+    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+  },
+  "_common_filmEnded": {
+    "translation": "Rouleau de film plein",
+    "sourceHash": "0f745291d77d78d6cee8b67e79a34950"
+  },
+  "_common_confirm": {
+    "translation": "Confirmer",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
+  },
+  "_common_loading": {
+    "translation": "Chargement...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  }
 }

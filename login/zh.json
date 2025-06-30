@@ -1,81 +1,318 @@
 {
-  "_success_": "成功",
-  "_error_": "错误",
-  "userSignInErrorAlertMessage": "登录有问题。错误： {{error}}",
-  "userRegisterErrorAlertMessage": "录制时出现问题。错误： {{error}}",
-  "userSignInEnterEmailAndPasswordAlert": "请输入您的电子邮件和密码。",
-  "userSignInEnterValidEmailAlert": "请输入有效的电子邮件地址。",
-  "userSignInLoginYourAccount": "登录您的账户",
-  "userSignInLoginToGetStarted": "登录开始",
-  "userSignInLogin": "登录",
-  "userSignInHaveNotAccount": "你没有账户吗？",
-  "placeholderEnterEmail": "输入您的电子邮件地址",
-  "placeholderEnterPassword": "输入密码",
-  "userSignInOr": "或",
-  "userRegisterPleaseEnterAllInformation": "请输入所有信息。",
-  "userRegisterPasswordsNotMatchErrorAlert": "密码不匹配",
-  "userRegister": "立即注册",
-  "userRegisterToGetStarted": "注册后即可开始！",
-  "placeholderEnterFullName": "输入您的全名",
-  "placeholderConfirmPassword": "确认密码",
-  "userRegisterAlreadyHaveAccount": "您已经有账户了吗？",
-  "userRegisterCreateAccount": "创建账户",
-  "socialLoginWithGoogle": "继续使用 Google 帐户",
-  "socialLoginWithApple": "继续使用 Apple 帐户",
-  "PrivacyPolicy": "同意我们的服务条款和隐私政策后，您可以继续使用。",
-  "cropperToolbarTitle": "设置个人照片",
-  "loadingLabelText": "调整...",
-  "cropperChooseText": "申请",
-  "cropperCancelText": "放弃",
-  "setProfilePhotoTitle": "设置为个人照片",
-  "setProfilePhotoDescription": "照片将被裁剪以适合圆形边框",
-  "setAsProfilePhoto": "继续",
-  "profilePhotoUpdatedMessage": "您的个人照片已更新！",
-  "profilePhotoErrorMessage": "更新个人照片时出现错误。",
-  "cancel": "取消预订",
-  "ok": "好吧",
-  "noUserLoggedIn": "目前没有用户登录。",
-  "accountSettings": "账户设置",
-  "manageProfileSettings": "管理个人照片",
-  "editCurrentPhoto": "编辑当前照片",
-  "editPhoto": "编辑",
-  "selectFromGallery": "选择",
-  "resetToDefault": "重置",
-  "name": "用户名",
-  "noName": "无用户名",
-  "editName": "编辑用户名",
-  "email": "电子邮件",
-  "noEmail": "无电子邮件",
-  "loginMethod": "输入方法",
-  "emailLogin": "通过电子邮件登录",
-  "googleLogin": "谷歌账户",
-  "appleLogin": "苹果账户",
-  "unknown": "未知",
-  "editNameTitle": "编辑用户名",
-  "enterNamePlaceholder": "输入新用户名",
-  "save": "节省",
-  "saving": "节约",
-  "noProfilePhotoTitle": "无个人照片",
-  "noProfilePhotoMessage": "没有个人照片",
-  "selectPhotoErrorMessage": "从图库中选择照片出错",
-  "resetProfilePhotoTitle": "重置个人照片",
-  "resetProfilePhotoMessage": "您确定要将个人照片重设为默认照片吗？",
-  "profilePhotoResetSuccessMessage": "您的个人照片已成功重设为默认值",
-  "profilePhotoResetErrorMessage": "重置个人照片出错",
-  "deleteProfilePhotoMessage": "您确定要删除您的个人照片吗？",
-  "delete": "删除",
-  "profilePhotoDeletedSuccessMessage": "您的个人照片已成功删除。",
-  "profilePhotoDeleteErrorMessage": "删除个人照片出错",
-  "invalidNameMessage": "无效用户名",
-  "nameUpdatedSuccessMessage": "您的用户名已成功更新。",
-  "nameUpdateErrorMessage": "更新您的用户名时出现错误。",
-  "logOut": "签出",
-  "languageSettings": "语言设置",
-  "languageChanged": "语言已更改",
-  "languageChangedMessage": "成功更改了语言。所有文本均已翻译成新语言。",
-  "languageChangeError": "更改语言时出现错误。请重试。",
-  "applyLanguage": "应用所选语言",
-  "applying": "所选语言已实施",
-  "translatingContent": "翻译内容",
-  "completed": "完成"
+  "_success_": {
+    "translation": "成功",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_error_": {
+    "translation": "错误",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "userSignInErrorAlertMessage": {
+    "translation": "登录有问题。错误： {{error}}",
+    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+  },
+  "userRegisterErrorAlertMessage": {
+    "translation": "录制时出现问题。错误： {{error}}",
+    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+  },
+  "userSignInEnterEmailAndPasswordAlert": {
+    "translation": "请输入您的电子邮件和密码。",
+    "sourceHash": "03f0667fea3257a691d1362512391160"
+  },
+  "userSignInEnterValidEmailAlert": {
+    "translation": "请输入有效的电子邮件地址。",
+    "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
+  },
+  "userSignInLoginYourAccount": {
+    "translation": "登录您的账户",
+    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  },
+  "userSignInLoginToGetStarted": {
+    "translation": "登录开始",
+    "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
+  },
+  "userSignInLogin": {
+    "translation": "登录",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
+  "userSignInHaveNotAccount": {
+    "translation": "你没有账户吗？",
+    "sourceHash": "35d0ca8319f3e094f9ca860c07a28545"
+  },
+  "placeholderEnterEmail": {
+    "translation": "输入您的电子邮件地址",
+    "sourceHash": "4055a242859da2bd6f0c4defa13becef"
+  },
+  "placeholderEnterPassword": {
+    "translation": "输入密码",
+    "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
+  },
+  "userSignInOr": {
+    "translation": "或",
+    "sourceHash": "f1d550c114648c8eef64a85fb165e004"
+  },
+  "userRegisterPleaseEnterAllInformation": {
+    "translation": "请输入所有信息。",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
+  },
+  "userRegisterPasswordsNotMatchErrorAlert": {
+    "translation": "密码不匹配",
+    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+  },
+  "userRegister": {
+    "translation": "立即注册",
+    "sourceHash": "8d155a5a1e8467419d1ac595b94ea227"
+  },
+  "userRegisterToGetStarted": {
+    "translation": "注册后即可开始！",
+    "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
+  },
+  "placeholderEnterFullName": {
+    "translation": "输入您的全名",
+    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  },
+  "placeholderConfirmPassword": {
+    "translation": "确认密码",
+    "sourceHash": "33af2ec273163f216928d8b520c242ef"
+  },
+  "userRegisterAlreadyHaveAccount": {
+    "translation": "您已经有账户了吗？",
+    "sourceHash": "9148c4f72b5e8b7125eb89afa92d5b94"
+  },
+  "userRegisterCreateAccount": {
+    "translation": "创建账户",
+    "sourceHash": "c8a8414d3556605f76536e5400271916"
+  },
+  "socialLoginWithGoogle": {
+    "translation": "继续使用 Google 帐户",
+    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+  },
+  "socialLoginWithApple": {
+    "translation": "继续使用 Apple 帐户",
+    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+  },
+  "PrivacyPolicy": {
+    "translation": "同意我们的服务条款和隐私政策后，您可以继续使用。",
+    "sourceHash": "aab146b51d8186a09d50eab308ac055c"
+  },
+  "cropperToolbarTitle": {
+    "translation": "设置个人照片",
+    "sourceHash": "e5a961e2b159b7df662fa816f00a349c"
+  },
+  "loadingLabelText": {
+    "translation": "调整...",
+    "sourceHash": "79180c12670b03c40415e18777d32fe4"
+  },
+  "cropperChooseText": {
+    "translation": "申请",
+    "sourceHash": "f8c2e3e1c9e0a7c979977a87e4f6278c"
+  },
+  "cropperCancelText": {
+    "translation": "放弃",
+    "sourceHash": "bf814f7c632e88e19215ef4a5cdce4db"
+  },
+  "setProfilePhotoTitle": {
+    "translation": "设置为个人照片",
+    "sourceHash": "319caad62edae15ee09a1b75fbbc8567"
+  },
+  "setProfilePhotoDescription": {
+    "translation": "照片将被裁剪以适合圆形边框",
+    "sourceHash": "19ba18f17a08c0858059cc2ef6f5ee3a"
+  },
+  "setAsProfilePhoto": {
+    "translation": "继续",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "profilePhotoUpdatedMessage": {
+    "translation": "您的个人照片已更新！",
+    "sourceHash": "df99f7535f29a38f3797c1d806d1c33a"
+  },
+  "profilePhotoErrorMessage": {
+    "translation": "更新个人照片时出现错误。",
+    "sourceHash": "6a5080568e0c8f568b36d3a2656e5369"
+  },
+  "cancel": {
+    "translation": "取消预订",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "ok": {
+    "translation": "好的",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "noUserLoggedIn": {
+    "translation": "目前没有用户登录。",
+    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+  },
+  "accountSettings": {
+    "translation": "账户设置",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "manageProfileSettings": {
+    "translation": "管理个人照片",
+    "sourceHash": "979bafdfe15295445e0c46cc95dda317"
+  },
+  "editCurrentPhoto": {
+    "translation": "编辑当前照片",
+    "sourceHash": "8183ab820901608fbd8b2d8cbd6cf5e9"
+  },
+  "editPhoto": {
+    "translation": "编辑",
+    "sourceHash": "cc6f2779ad4221f33d05d8fd947e7551"
+  },
+  "selectFromGallery": {
+    "translation": "选择",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
+  },
+  "resetToDefault": {
+    "translation": "重置",
+    "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
+  },
+  "name": {
+    "translation": "用户名",
+    "sourceHash": "739574e21be8e41e667661b927c94e1e"
+  },
+  "noName": {
+    "translation": "无用户名",
+    "sourceHash": "baead46135a7d5e8614f2448eff61f43"
+  },
+  "editName": {
+    "translation": "编辑用户名",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "email": {
+    "translation": "电子邮件",
+    "sourceHash": "628f52c9359bdc447f385ae2e61a5b92"
+  },
+  "noEmail": {
+    "translation": "无电子邮件",
+    "sourceHash": "8181b2fcfd543b4a0e92a3db00170638"
+  },
+  "loginMethod": {
+    "translation": "输入方法",
+    "sourceHash": "65caa094f22ef2ddfc5b54a937983efe"
+  },
+  "emailLogin": {
+    "translation": "通过电子邮件登录",
+    "sourceHash": "8083e7373bf0737a602e209e5021d6d2"
+  },
+  "googleLogin": {
+    "translation": "谷歌账户",
+    "sourceHash": "cd50dc89f9526f808d2e22ed8e23e9d2"
+  },
+  "appleLogin": {
+    "translation": "苹果账户",
+    "sourceHash": "5f45629e8c3c818f092f99b31ed431b0"
+  },
+  "unknown": {
+    "translation": "未知",
+    "sourceHash": "5c6d1b240565049ef5ba4758bb571615"
+  },
+  "editNameTitle": {
+    "translation": "编辑用户名",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "enterNamePlaceholder": {
+    "translation": "输入新用户名",
+    "sourceHash": "6c0ad837c3e8bd7ec3ac1fbd1157d477"
+  },
+  "save": {
+    "translation": "节省",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "saving": {
+    "translation": "节约",
+    "sourceHash": "ff0d2ebdc501be626aec51853c7cd182"
+  },
+  "noProfilePhotoTitle": {
+    "translation": "无个人照片",
+    "sourceHash": "6df1f67ae93e55563c6d065b08425972"
+  },
+  "noProfilePhotoMessage": {
+    "translation": "没有个人照片",
+    "sourceHash": "3608839692d6593ad41514c06b9d9c8c"
+  },
+  "selectPhotoErrorMessage": {
+    "translation": "从图库中选择照片出错",
+    "sourceHash": "217acf9f5233cf034401549d7444e87d"
+  },
+  "resetProfilePhotoTitle": {
+    "translation": "重置个人照片",
+    "sourceHash": "ba9347233b4548f252738c1c932f08fb"
+  },
+  "resetProfilePhotoMessage": {
+    "translation": "您确定要将个人照片重设为默认照片吗？",
+    "sourceHash": "1d4cb7a3a6b7dc3ca8c95196919ae390"
+  },
+  "profilePhotoResetSuccessMessage": {
+    "translation": "您的个人照片已成功重设为默认值",
+    "sourceHash": "f75958007c218487aeaf9a88d9fc1c65"
+  },
+  "profilePhotoResetErrorMessage": {
+    "translation": "重置个人照片出错",
+    "sourceHash": "60e1f6916f834c32a152bfd0cfce8620"
+  },
+  "deleteProfilePhotoMessage": {
+    "translation": "您确定要删除您的个人照片吗？",
+    "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
+  },
+  "delete": {
+    "translation": "删除",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "profilePhotoDeletedSuccessMessage": {
+    "translation": "您的个人照片已成功删除。",
+    "sourceHash": "6d5ae5bd816c2ea4458a490579619284"
+  },
+  "profilePhotoDeleteErrorMessage": {
+    "translation": "删除个人照片出错",
+    "sourceHash": "11ee0d0a6d38240ec8afeb629d15de30"
+  },
+  "invalidNameMessage": {
+    "translation": "无效用户名",
+    "sourceHash": "a3ed9736b4ff569f91a9235cd804e16d"
+  },
+  "nameUpdatedSuccessMessage": {
+    "translation": "您的用户名已成功更新。",
+    "sourceHash": "c07d9efd4996ddba0e483361b05e1848"
+  },
+  "nameUpdateErrorMessage": {
+    "translation": "更新您的用户名时出现错误。",
+    "sourceHash": "1595f8b7d2565177a22703e087002186"
+  },
+  "logOut": {
+    "translation": "签出",
+    "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
+  },
+  "languageSettings": {
+    "translation": "语言设置",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "languageChanged": {
+    "translation": "语言已更改",
+    "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
+  },
+  "languageChangedMessage": {
+    "translation": "成功更改了语言。所有文本均已翻译成新语言。",
+    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+  },
+  "languageChangeError": {
+    "translation": "更改语言时出现错误。请重试。",
+    "sourceHash": "3c87a1a1d220291568f7115d53852852"
+  },
+  "applyLanguage": {
+    "translation": "应用所选语言",
+    "sourceHash": "63bb3a6c2499b11370c5e5c72a4ee89e"
+  },
+  "applying": {
+    "translation": "所选语言已实施",
+    "sourceHash": "46d2538820ebcdae189c6024c35e4002"
+  },
+  "translatingContent": {
+    "translation": "翻译内容",
+    "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
+  },
+  "completed": {
+    "translation": "完成",
+    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  }
 }

@@ -1,81 +1,318 @@
 {
-  "_success_": "성공",
-  "_error_": "오류",
-  "userSignInErrorAlertMessage": "로그인하는 동안 문제가 발생했습니다. 오류입니다: x플레이스홀더x0x플레이스홀더x",
-  "userRegisterErrorAlertMessage": "녹화하는 동안 문제가 발생했습니다. 오류입니다: X플레이스홀더X0X플레이스홀더X",
-  "userSignInEnterEmailAndPasswordAlert": "이메일과 비밀번호를 입력하세요.",
-  "userSignInEnterValidEmailAlert": "유효한 이메일 주소를 입력하세요.",
-  "userSignInLoginYourAccount": "계정에 로그인",
-  "userSignInLoginToGetStarted": "시작하려면 로그인하세요.",
-  "userSignInLogin": "로그인",
-  "userSignInHaveNotAccount": "계정이 없으신가요?",
-  "placeholderEnterEmail": "이메일 주소 입력",
-  "placeholderEnterPassword": "비밀번호 입력",
-  "userSignInOr": "또는",
-  "userRegisterPleaseEnterAllInformation": "모든 정보를 입력하세요.",
-  "userRegisterPasswordsNotMatchErrorAlert": "비밀번호가 일치하지 않습니다.",
-  "userRegister": "지금 등록하기",
-  "userRegisterToGetStarted": "등록하여 시작하세요!",
-  "placeholderEnterFullName": "성명을 입력하세요.",
-  "placeholderConfirmPassword": "비밀번호 확인",
-  "userRegisterAlreadyHaveAccount": "이미 계정이 있으신가요?",
-  "userRegisterCreateAccount": "계정 만들기",
-  "socialLoginWithGoogle": "Google 계정으로 계속하기",
-  "socialLoginWithApple": "Apple 계정으로 계속하기",
-  "PrivacyPolicy": "서비스 약관 및 개인정보 취급방침에 동의하면 계속 진행할 수 있습니다.",
-  "cropperToolbarTitle": "프로필 사진 설정",
-  "loadingLabelText": "조정...",
-  "cropperChooseText": "신청하기",
-  "cropperCancelText": "포기",
-  "setProfilePhotoTitle": "프로필 사진으로 설정",
-  "setProfilePhotoDescription": "원형 프레임에 맞게 사진이 잘립니다.",
-  "setAsProfilePhoto": "계속하기",
-  "profilePhotoUpdatedMessage": "프로필 사진이 업데이트되었습니다!",
-  "profilePhotoErrorMessage": "프로필 사진을 업데이트하는 동안 오류가 발생했습니다.",
-  "cancel": "취소",
-  "ok": "알겠습니다.",
-  "noUserLoggedIn": "현재 로그인한 사용자가 없습니다.",
-  "accountSettings": "계정 설정",
-  "manageProfileSettings": "프로필 사진 관리",
-  "editCurrentPhoto": "현재 사진 편집",
-  "editPhoto": "편집",
-  "selectFromGallery": "선택",
-  "resetToDefault": "초기화",
-  "name": "사용자 이름",
-  "noName": "사용자 이름 없음",
-  "editName": "사용자 이름 수정",
-  "email": "이메일",
-  "noEmail": "이메일 없음",
-  "loginMethod": "참가 방법",
-  "emailLogin": "이메일로 로그인",
-  "googleLogin": "Google 계정",
-  "appleLogin": "Apple 계정",
-  "unknown": "알 수 없음",
-  "editNameTitle": "사용자 이름 수정",
-  "enterNamePlaceholder": "새 사용자 이름 입력",
-  "save": "저장",
-  "saving": "저장",
-  "noProfilePhotoTitle": "프로필 사진 없음",
-  "noProfilePhotoMessage": "프로필 사진을 사용할 수 없습니다.",
-  "selectPhotoErrorMessage": "갤러리에서 사진을 선택하는 중 오류가 발생했습니다.",
-  "resetProfilePhotoTitle": "프로필 사진 초기화",
-  "resetProfilePhotoMessage": "프로필 사진을 기본값으로 재설정하시겠습니까?",
-  "profilePhotoResetSuccessMessage": "프로필 사진이 기본값으로 성공적으로 재설정되었습니다.",
-  "profilePhotoResetErrorMessage": "프로필 사진 재설정 오류",
-  "deleteProfilePhotoMessage": "프로필 사진을 삭제하시겠습니까?",
-  "delete": "삭제",
-  "profilePhotoDeletedSuccessMessage": "프로필 사진이 성공적으로 삭제되었습니다.",
-  "profilePhotoDeleteErrorMessage": "프로필 사진 삭제 오류",
-  "invalidNameMessage": "잘못된 사용자 이름",
-  "nameUpdatedSuccessMessage": "사용자 아이디가 성공적으로 업데이트되었습니다.",
-  "nameUpdateErrorMessage": "사용자 아이디를 업데이트하는 동안 오류가 발생했습니다.",
-  "logOut": "로그아웃",
-  "languageSettings": "언어 설정",
-  "languageChanged": "언어 변경",
-  "languageChangedMessage": "언어가 성공적으로 변경되었습니다. 모든 텍스트가 새 언어로 번역되었습니다.",
-  "languageChangeError": "언어를 변경하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
-  "applyLanguage": "선택한 언어 적용",
-  "applying": "선택한 언어가 구현됩니다.",
-  "translatingContent": "콘텐츠 번역",
-  "completed": "완료"
+  "_success_": {
+    "translation": "성공",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_error_": {
+    "translation": "오류",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "userSignInErrorAlertMessage": {
+    "translation": "로그인하는 동안 문제가 발생했습니다. 오류입니다: x플레이스홀더x0x플레이스홀더x",
+    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+  },
+  "userRegisterErrorAlertMessage": {
+    "translation": "녹화하는 동안 문제가 발생했습니다. 오류입니다: X플레이스홀더X0X플레이스홀더X",
+    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+  },
+  "userSignInEnterEmailAndPasswordAlert": {
+    "translation": "이메일과 비밀번호를 입력하세요.",
+    "sourceHash": "03f0667fea3257a691d1362512391160"
+  },
+  "userSignInEnterValidEmailAlert": {
+    "translation": "유효한 이메일 주소를 입력하세요.",
+    "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
+  },
+  "userSignInLoginYourAccount": {
+    "translation": "계정에 로그인",
+    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  },
+  "userSignInLoginToGetStarted": {
+    "translation": "시작하려면 로그인하세요.",
+    "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
+  },
+  "userSignInLogin": {
+    "translation": "로그인",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
+  "userSignInHaveNotAccount": {
+    "translation": "계정이 없으신가요?",
+    "sourceHash": "35d0ca8319f3e094f9ca860c07a28545"
+  },
+  "placeholderEnterEmail": {
+    "translation": "이메일 주소 입력",
+    "sourceHash": "4055a242859da2bd6f0c4defa13becef"
+  },
+  "placeholderEnterPassword": {
+    "translation": "비밀번호 입력",
+    "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
+  },
+  "userSignInOr": {
+    "translation": "또는",
+    "sourceHash": "f1d550c114648c8eef64a85fb165e004"
+  },
+  "userRegisterPleaseEnterAllInformation": {
+    "translation": "모든 정보를 입력하세요.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
+  },
+  "userRegisterPasswordsNotMatchErrorAlert": {
+    "translation": "비밀번호가 일치하지 않습니다.",
+    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+  },
+  "userRegister": {
+    "translation": "지금 등록하기",
+    "sourceHash": "8d155a5a1e8467419d1ac595b94ea227"
+  },
+  "userRegisterToGetStarted": {
+    "translation": "등록하여 시작하세요!",
+    "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
+  },
+  "placeholderEnterFullName": {
+    "translation": "성명을 입력하세요.",
+    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  },
+  "placeholderConfirmPassword": {
+    "translation": "비밀번호 확인",
+    "sourceHash": "33af2ec273163f216928d8b520c242ef"
+  },
+  "userRegisterAlreadyHaveAccount": {
+    "translation": "이미 계정이 있으신가요?",
+    "sourceHash": "9148c4f72b5e8b7125eb89afa92d5b94"
+  },
+  "userRegisterCreateAccount": {
+    "translation": "계정 만들기",
+    "sourceHash": "c8a8414d3556605f76536e5400271916"
+  },
+  "socialLoginWithGoogle": {
+    "translation": "Google 계정으로 계속하기",
+    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+  },
+  "socialLoginWithApple": {
+    "translation": "Apple 계정으로 계속하기",
+    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+  },
+  "PrivacyPolicy": {
+    "translation": "서비스 약관 및 개인정보 취급방침에 동의하면 계속 진행할 수 있습니다.",
+    "sourceHash": "aab146b51d8186a09d50eab308ac055c"
+  },
+  "cropperToolbarTitle": {
+    "translation": "프로필 사진 설정",
+    "sourceHash": "e5a961e2b159b7df662fa816f00a349c"
+  },
+  "loadingLabelText": {
+    "translation": "조정...",
+    "sourceHash": "79180c12670b03c40415e18777d32fe4"
+  },
+  "cropperChooseText": {
+    "translation": "신청하기",
+    "sourceHash": "f8c2e3e1c9e0a7c979977a87e4f6278c"
+  },
+  "cropperCancelText": {
+    "translation": "포기",
+    "sourceHash": "bf814f7c632e88e19215ef4a5cdce4db"
+  },
+  "setProfilePhotoTitle": {
+    "translation": "프로필 사진으로 설정",
+    "sourceHash": "319caad62edae15ee09a1b75fbbc8567"
+  },
+  "setProfilePhotoDescription": {
+    "translation": "원형 프레임에 맞게 사진이 잘립니다.",
+    "sourceHash": "19ba18f17a08c0858059cc2ef6f5ee3a"
+  },
+  "setAsProfilePhoto": {
+    "translation": "계속하기",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "profilePhotoUpdatedMessage": {
+    "translation": "프로필 사진이 업데이트되었습니다!",
+    "sourceHash": "df99f7535f29a38f3797c1d806d1c33a"
+  },
+  "profilePhotoErrorMessage": {
+    "translation": "프로필 사진을 업데이트하는 동안 오류가 발생했습니다.",
+    "sourceHash": "6a5080568e0c8f568b36d3a2656e5369"
+  },
+  "cancel": {
+    "translation": "취소",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "ok": {
+    "translation": "알겠습니다.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "noUserLoggedIn": {
+    "translation": "현재 로그인한 사용자가 없습니다.",
+    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+  },
+  "accountSettings": {
+    "translation": "계정 설정",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "manageProfileSettings": {
+    "translation": "프로필 사진 관리",
+    "sourceHash": "979bafdfe15295445e0c46cc95dda317"
+  },
+  "editCurrentPhoto": {
+    "translation": "현재 사진 편집",
+    "sourceHash": "8183ab820901608fbd8b2d8cbd6cf5e9"
+  },
+  "editPhoto": {
+    "translation": "편집",
+    "sourceHash": "cc6f2779ad4221f33d05d8fd947e7551"
+  },
+  "selectFromGallery": {
+    "translation": "선택",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
+  },
+  "resetToDefault": {
+    "translation": "초기화",
+    "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
+  },
+  "name": {
+    "translation": "사용자 이름",
+    "sourceHash": "739574e21be8e41e667661b927c94e1e"
+  },
+  "noName": {
+    "translation": "사용자 이름 없음",
+    "sourceHash": "baead46135a7d5e8614f2448eff61f43"
+  },
+  "editName": {
+    "translation": "사용자 이름 수정",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "email": {
+    "translation": "이메일",
+    "sourceHash": "628f52c9359bdc447f385ae2e61a5b92"
+  },
+  "noEmail": {
+    "translation": "이메일 없음",
+    "sourceHash": "8181b2fcfd543b4a0e92a3db00170638"
+  },
+  "loginMethod": {
+    "translation": "참가 방법",
+    "sourceHash": "65caa094f22ef2ddfc5b54a937983efe"
+  },
+  "emailLogin": {
+    "translation": "이메일로 로그인",
+    "sourceHash": "8083e7373bf0737a602e209e5021d6d2"
+  },
+  "googleLogin": {
+    "translation": "Google 계정",
+    "sourceHash": "cd50dc89f9526f808d2e22ed8e23e9d2"
+  },
+  "appleLogin": {
+    "translation": "Apple 계정",
+    "sourceHash": "5f45629e8c3c818f092f99b31ed431b0"
+  },
+  "unknown": {
+    "translation": "알 수 없음",
+    "sourceHash": "5c6d1b240565049ef5ba4758bb571615"
+  },
+  "editNameTitle": {
+    "translation": "사용자 이름 수정",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "enterNamePlaceholder": {
+    "translation": "새 사용자 이름 입력",
+    "sourceHash": "6c0ad837c3e8bd7ec3ac1fbd1157d477"
+  },
+  "save": {
+    "translation": "저장",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "saving": {
+    "translation": "저장",
+    "sourceHash": "ff0d2ebdc501be626aec51853c7cd182"
+  },
+  "noProfilePhotoTitle": {
+    "translation": "프로필 사진 없음",
+    "sourceHash": "6df1f67ae93e55563c6d065b08425972"
+  },
+  "noProfilePhotoMessage": {
+    "translation": "프로필 사진을 사용할 수 없습니다.",
+    "sourceHash": "3608839692d6593ad41514c06b9d9c8c"
+  },
+  "selectPhotoErrorMessage": {
+    "translation": "갤러리에서 사진을 선택하는 중 오류가 발생했습니다.",
+    "sourceHash": "217acf9f5233cf034401549d7444e87d"
+  },
+  "resetProfilePhotoTitle": {
+    "translation": "프로필 사진 초기화",
+    "sourceHash": "ba9347233b4548f252738c1c932f08fb"
+  },
+  "resetProfilePhotoMessage": {
+    "translation": "프로필 사진을 기본값으로 재설정하시겠습니까?",
+    "sourceHash": "1d4cb7a3a6b7dc3ca8c95196919ae390"
+  },
+  "profilePhotoResetSuccessMessage": {
+    "translation": "프로필 사진이 기본값으로 성공적으로 재설정되었습니다.",
+    "sourceHash": "f75958007c218487aeaf9a88d9fc1c65"
+  },
+  "profilePhotoResetErrorMessage": {
+    "translation": "프로필 사진 재설정 오류",
+    "sourceHash": "60e1f6916f834c32a152bfd0cfce8620"
+  },
+  "deleteProfilePhotoMessage": {
+    "translation": "프로필 사진을 삭제하시겠습니까?",
+    "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
+  },
+  "delete": {
+    "translation": "삭제",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "profilePhotoDeletedSuccessMessage": {
+    "translation": "프로필 사진이 성공적으로 삭제되었습니다.",
+    "sourceHash": "6d5ae5bd816c2ea4458a490579619284"
+  },
+  "profilePhotoDeleteErrorMessage": {
+    "translation": "프로필 사진 삭제 오류",
+    "sourceHash": "11ee0d0a6d38240ec8afeb629d15de30"
+  },
+  "invalidNameMessage": {
+    "translation": "잘못된 사용자 이름",
+    "sourceHash": "a3ed9736b4ff569f91a9235cd804e16d"
+  },
+  "nameUpdatedSuccessMessage": {
+    "translation": "사용자 아이디가 성공적으로 업데이트되었습니다.",
+    "sourceHash": "c07d9efd4996ddba0e483361b05e1848"
+  },
+  "nameUpdateErrorMessage": {
+    "translation": "사용자 아이디를 업데이트하는 동안 오류가 발생했습니다.",
+    "sourceHash": "1595f8b7d2565177a22703e087002186"
+  },
+  "logOut": {
+    "translation": "로그아웃",
+    "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
+  },
+  "languageSettings": {
+    "translation": "언어 설정",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "languageChanged": {
+    "translation": "언어 변경",
+    "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
+  },
+  "languageChangedMessage": {
+    "translation": "언어가 성공적으로 변경되었습니다. 모든 텍스트가 새 언어로 번역되었습니다.",
+    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+  },
+  "languageChangeError": {
+    "translation": "언어를 변경하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
+    "sourceHash": "3c87a1a1d220291568f7115d53852852"
+  },
+  "applyLanguage": {
+    "translation": "선택한 언어 적용",
+    "sourceHash": "63bb3a6c2499b11370c5e5c72a4ee89e"
+  },
+  "applying": {
+    "translation": "선택한 언어가 구현됩니다.",
+    "sourceHash": "46d2538820ebcdae189c6024c35e4002"
+  },
+  "translatingContent": {
+    "translation": "콘텐츠 번역",
+    "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
+  },
+  "completed": {
+    "translation": "완료",
+    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  }
 }

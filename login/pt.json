@@ -1,81 +1,318 @@
 {
-  "_success_": "Bem-sucedido",
-  "_error_": "Erro",
-  "userSignInErrorAlertMessage": "Houve um problema ao iniciar a sessão. Erro: {{error}}",
-  "userRegisterErrorAlertMessage": "Ocorreu um problema durante a gravação. Erro: {{error}}",
-  "userSignInEnterEmailAndPasswordAlert": "Introduza o seu e-mail e a sua palavra-passe.",
-  "userSignInEnterValidEmailAlert": "Introduza um endereço de correio eletrónico válido.",
-  "userSignInLoginYourAccount": "Iniciar sessão na sua conta",
-  "userSignInLoginToGetStarted": "Iniciar sessão para começar",
-  "userSignInLogin": "Iniciar sessão",
-  "userSignInHaveNotAccount": "Não tem uma conta?",
-  "placeholderEnterEmail": "Introduza o seu endereço de correio eletrónico",
-  "placeholderEnterPassword": "Introduza a sua palavra-passe",
-  "userSignInOr": "ou",
-  "userRegisterPleaseEnterAllInformation": "Introduzir todas as informações.",
-  "userRegisterPasswordsNotMatchErrorAlert": "As palavras-passe não coincidem",
-  "userRegister": "Registar agora",
-  "userRegisterToGetStarted": "Registe-se para começar!",
-  "placeholderEnterFullName": "Introduza o seu nome completo",
-  "placeholderConfirmPassword": "Confirmar a sua palavra-passe",
-  "userRegisterAlreadyHaveAccount": "Já tem uma conta?",
-  "userRegisterCreateAccount": "Criar conta",
-  "socialLoginWithGoogle": "Continuar com a conta Google",
-  "socialLoginWithApple": "Continuar com a conta Apple",
-  "PrivacyPolicy": "Pode continuar aceitando os nossos Termos de Serviço e a nossa Política de Privacidade.",
-  "cropperToolbarTitle": "Definir foto do perfil",
-  "loadingLabelText": "Ajustar...",
-  "cropperChooseText": "Aplicar",
-  "cropperCancelText": "Desistir",
-  "setProfilePhotoTitle": "Definir como fotografia de perfil",
-  "setProfilePhotoDescription": "A fotografia será cortada para caber na moldura circular",
-  "setAsProfilePhoto": "Continuar",
-  "profilePhotoUpdatedMessage": "A sua fotografia de perfil foi actualizada!",
-  "profilePhotoErrorMessage": "Ocorreu um erro ao atualizar a fotografia do perfil.",
-  "cancel": "Cancelamento",
-  "ok": "Muito bem.",
-  "noUserLoggedIn": "Não existem utilizadores com sessão iniciada neste momento.",
-  "accountSettings": "Definições da conta",
-  "manageProfileSettings": "Gerir a fotografia do perfil",
-  "editCurrentPhoto": "Editar fotografia atual",
-  "editPhoto": "Editar",
-  "selectFromGallery": "Selecionar",
-  "resetToDefault": "Reiniciar",
-  "name": "Nome do utilizador",
-  "noName": "Sem nome de utilizador",
-  "editName": "Editar nome de utilizador",
-  "email": "Correio eletrónico",
-  "noEmail": "Sem e-mail",
-  "loginMethod": "Método de entrada",
-  "emailLogin": "Iniciar sessão por correio eletrónico",
-  "googleLogin": "Conta Google",
-  "appleLogin": "Conta Apple",
-  "unknown": "Desconhecido",
-  "editNameTitle": "Editar nome de utilizador",
-  "enterNamePlaceholder": "Introduzir novo nome de utilizador",
-  "save": "Guardar",
-  "saving": "Poupança",
-  "noProfilePhotoTitle": "Sem foto de perfil",
-  "noProfilePhotoMessage": "Foto de perfil não disponível",
-  "selectPhotoErrorMessage": "Erro ao selecionar uma fotografia da galeria",
-  "resetProfilePhotoTitle": "Redefinir foto do perfil",
-  "resetProfilePhotoMessage": "Tem a certeza de que pretende repor a sua fotografia de perfil para a predefinição?",
-  "profilePhotoResetSuccessMessage": "A sua fotografia de perfil foi reposta com êxito para a predefinição",
-  "profilePhotoResetErrorMessage": "Erro ao repor a fotografia de perfil",
-  "deleteProfilePhotoMessage": "Tem a certeza de que pretende apagar a sua fotografia de perfil?",
-  "delete": "Eliminar",
-  "profilePhotoDeletedSuccessMessage": "A sua fotografia de perfil foi eliminada com êxito.",
-  "profilePhotoDeleteErrorMessage": "Erro ao apagar a foto do perfil",
-  "invalidNameMessage": "Nome de utilizador inválido",
-  "nameUpdatedSuccessMessage": "O seu nome de utilizador foi atualizado com sucesso.",
-  "nameUpdateErrorMessage": "Ocorreu um erro ao atualizar o seu nome de utilizador.",
-  "logOut": "Sair do sistema",
-  "languageSettings": "Definições de idioma",
-  "languageChanged": "Língua alterada",
-  "languageChangedMessage": "A língua foi alterada com êxito. Todos os textos foram traduzidos para a nova língua.",
-  "languageChangeError": "Ocorreu um erro ao alterar a língua. Por favor, tente novamente.",
-  "applyLanguage": "Aplicar a língua selecionada",
-  "applying": "A língua selecionada é implementada",
-  "translatingContent": "Tradução de conteúdos",
-  "completed": "concluído"
+  "_success_": {
+    "translation": "Bem-sucedido",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_error_": {
+    "translation": "Erro",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "userSignInErrorAlertMessage": {
+    "translation": "Houve um problema ao iniciar a sessão. Erro: {{error}}",
+    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+  },
+  "userRegisterErrorAlertMessage": {
+    "translation": "Ocorreu um problema durante a gravação. Erro: {{error}}",
+    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+  },
+  "userSignInEnterEmailAndPasswordAlert": {
+    "translation": "Introduza o seu e-mail e a sua palavra-passe.",
+    "sourceHash": "03f0667fea3257a691d1362512391160"
+  },
+  "userSignInEnterValidEmailAlert": {
+    "translation": "Introduza um endereço de correio eletrónico válido.",
+    "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
+  },
+  "userSignInLoginYourAccount": {
+    "translation": "Iniciar sessão na sua conta",
+    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  },
+  "userSignInLoginToGetStarted": {
+    "translation": "Iniciar sessão para começar",
+    "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
+  },
+  "userSignInLogin": {
+    "translation": "Iniciar sessão",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
+  "userSignInHaveNotAccount": {
+    "translation": "Não tem uma conta?",
+    "sourceHash": "35d0ca8319f3e094f9ca860c07a28545"
+  },
+  "placeholderEnterEmail": {
+    "translation": "Introduza o seu endereço de correio eletrónico",
+    "sourceHash": "4055a242859da2bd6f0c4defa13becef"
+  },
+  "placeholderEnterPassword": {
+    "translation": "Introduza a sua palavra-passe",
+    "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
+  },
+  "userSignInOr": {
+    "translation": "ou",
+    "sourceHash": "f1d550c114648c8eef64a85fb165e004"
+  },
+  "userRegisterPleaseEnterAllInformation": {
+    "translation": "Introduzir todas as informações.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
+  },
+  "userRegisterPasswordsNotMatchErrorAlert": {
+    "translation": "As palavras-passe não coincidem",
+    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+  },
+  "userRegister": {
+    "translation": "Registar agora",
+    "sourceHash": "8d155a5a1e8467419d1ac595b94ea227"
+  },
+  "userRegisterToGetStarted": {
+    "translation": "Registe-se para começar!",
+    "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
+  },
+  "placeholderEnterFullName": {
+    "translation": "Introduza o seu nome completo",
+    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  },
+  "placeholderConfirmPassword": {
+    "translation": "Confirmar a sua palavra-passe",
+    "sourceHash": "33af2ec273163f216928d8b520c242ef"
+  },
+  "userRegisterAlreadyHaveAccount": {
+    "translation": "Já tem uma conta?",
+    "sourceHash": "9148c4f72b5e8b7125eb89afa92d5b94"
+  },
+  "userRegisterCreateAccount": {
+    "translation": "Criar conta",
+    "sourceHash": "c8a8414d3556605f76536e5400271916"
+  },
+  "socialLoginWithGoogle": {
+    "translation": "Continuar com a conta Google",
+    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+  },
+  "socialLoginWithApple": {
+    "translation": "Continuar com a conta Apple",
+    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+  },
+  "PrivacyPolicy": {
+    "translation": "Pode continuar aceitando os nossos Termos de Serviço e a nossa Política de Privacidade.",
+    "sourceHash": "aab146b51d8186a09d50eab308ac055c"
+  },
+  "cropperToolbarTitle": {
+    "translation": "Definir foto do perfil",
+    "sourceHash": "e5a961e2b159b7df662fa816f00a349c"
+  },
+  "loadingLabelText": {
+    "translation": "Ajustar...",
+    "sourceHash": "79180c12670b03c40415e18777d32fe4"
+  },
+  "cropperChooseText": {
+    "translation": "Aplicar",
+    "sourceHash": "f8c2e3e1c9e0a7c979977a87e4f6278c"
+  },
+  "cropperCancelText": {
+    "translation": "Desistir",
+    "sourceHash": "bf814f7c632e88e19215ef4a5cdce4db"
+  },
+  "setProfilePhotoTitle": {
+    "translation": "Definir como fotografia de perfil",
+    "sourceHash": "319caad62edae15ee09a1b75fbbc8567"
+  },
+  "setProfilePhotoDescription": {
+    "translation": "A fotografia será cortada para caber na moldura circular",
+    "sourceHash": "19ba18f17a08c0858059cc2ef6f5ee3a"
+  },
+  "setAsProfilePhoto": {
+    "translation": "Continuar",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "profilePhotoUpdatedMessage": {
+    "translation": "A sua fotografia de perfil foi actualizada!",
+    "sourceHash": "df99f7535f29a38f3797c1d806d1c33a"
+  },
+  "profilePhotoErrorMessage": {
+    "translation": "Ocorreu um erro ao atualizar a fotografia do perfil.",
+    "sourceHash": "6a5080568e0c8f568b36d3a2656e5369"
+  },
+  "cancel": {
+    "translation": "Cancelamento",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "ok": {
+    "translation": "Muito bem.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "noUserLoggedIn": {
+    "translation": "Não existem utilizadores com sessão iniciada neste momento.",
+    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+  },
+  "accountSettings": {
+    "translation": "Definições da conta",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "manageProfileSettings": {
+    "translation": "Gerir a fotografia do perfil",
+    "sourceHash": "979bafdfe15295445e0c46cc95dda317"
+  },
+  "editCurrentPhoto": {
+    "translation": "Editar fotografia atual",
+    "sourceHash": "8183ab820901608fbd8b2d8cbd6cf5e9"
+  },
+  "editPhoto": {
+    "translation": "Editar",
+    "sourceHash": "cc6f2779ad4221f33d05d8fd947e7551"
+  },
+  "selectFromGallery": {
+    "translation": "Selecionar",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
+  },
+  "resetToDefault": {
+    "translation": "Reiniciar",
+    "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
+  },
+  "name": {
+    "translation": "Nome do utilizador",
+    "sourceHash": "739574e21be8e41e667661b927c94e1e"
+  },
+  "noName": {
+    "translation": "Sem nome de utilizador",
+    "sourceHash": "baead46135a7d5e8614f2448eff61f43"
+  },
+  "editName": {
+    "translation": "Editar nome de utilizador",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "email": {
+    "translation": "Correio eletrónico",
+    "sourceHash": "628f52c9359bdc447f385ae2e61a5b92"
+  },
+  "noEmail": {
+    "translation": "Sem e-mail",
+    "sourceHash": "8181b2fcfd543b4a0e92a3db00170638"
+  },
+  "loginMethod": {
+    "translation": "Método de entrada",
+    "sourceHash": "65caa094f22ef2ddfc5b54a937983efe"
+  },
+  "emailLogin": {
+    "translation": "Iniciar sessão por correio eletrónico",
+    "sourceHash": "8083e7373bf0737a602e209e5021d6d2"
+  },
+  "googleLogin": {
+    "translation": "Conta Google",
+    "sourceHash": "cd50dc89f9526f808d2e22ed8e23e9d2"
+  },
+  "appleLogin": {
+    "translation": "Conta Apple",
+    "sourceHash": "5f45629e8c3c818f092f99b31ed431b0"
+  },
+  "unknown": {
+    "translation": "Desconhecido",
+    "sourceHash": "5c6d1b240565049ef5ba4758bb571615"
+  },
+  "editNameTitle": {
+    "translation": "Editar nome de utilizador",
+    "sourceHash": "39ad0739ccf183fd38153076c1a9ff6c"
+  },
+  "enterNamePlaceholder": {
+    "translation": "Introduzir novo nome de utilizador",
+    "sourceHash": "6c0ad837c3e8bd7ec3ac1fbd1157d477"
+  },
+  "save": {
+    "translation": "Guardar",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "saving": {
+    "translation": "Poupança",
+    "sourceHash": "ff0d2ebdc501be626aec51853c7cd182"
+  },
+  "noProfilePhotoTitle": {
+    "translation": "Sem foto de perfil",
+    "sourceHash": "6df1f67ae93e55563c6d065b08425972"
+  },
+  "noProfilePhotoMessage": {
+    "translation": "Foto de perfil não disponível",
+    "sourceHash": "3608839692d6593ad41514c06b9d9c8c"
+  },
+  "selectPhotoErrorMessage": {
+    "translation": "Erro ao selecionar uma fotografia da galeria",
+    "sourceHash": "217acf9f5233cf034401549d7444e87d"
+  },
+  "resetProfilePhotoTitle": {
+    "translation": "Redefinir foto do perfil",
+    "sourceHash": "ba9347233b4548f252738c1c932f08fb"
+  },
+  "resetProfilePhotoMessage": {
+    "translation": "Tem a certeza de que pretende repor a sua fotografia de perfil para a predefinição?",
+    "sourceHash": "1d4cb7a3a6b7dc3ca8c95196919ae390"
+  },
+  "profilePhotoResetSuccessMessage": {
+    "translation": "A sua fotografia de perfil foi reposta com êxito para a predefinição",
+    "sourceHash": "f75958007c218487aeaf9a88d9fc1c65"
+  },
+  "profilePhotoResetErrorMessage": {
+    "translation": "Erro ao repor a fotografia de perfil",
+    "sourceHash": "60e1f6916f834c32a152bfd0cfce8620"
+  },
+  "deleteProfilePhotoMessage": {
+    "translation": "Tem a certeza de que pretende apagar a sua fotografia de perfil?",
+    "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
+  },
+  "delete": {
+    "translation": "Eliminar",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "profilePhotoDeletedSuccessMessage": {
+    "translation": "A sua fotografia de perfil foi eliminada com êxito.",
+    "sourceHash": "6d5ae5bd816c2ea4458a490579619284"
+  },
+  "profilePhotoDeleteErrorMessage": {
+    "translation": "Erro ao apagar a foto do perfil",
+    "sourceHash": "11ee0d0a6d38240ec8afeb629d15de30"
+  },
+  "invalidNameMessage": {
+    "translation": "Nome de utilizador inválido",
+    "sourceHash": "a3ed9736b4ff569f91a9235cd804e16d"
+  },
+  "nameUpdatedSuccessMessage": {
+    "translation": "O seu nome de utilizador foi atualizado com sucesso.",
+    "sourceHash": "c07d9efd4996ddba0e483361b05e1848"
+  },
+  "nameUpdateErrorMessage": {
+    "translation": "Ocorreu um erro ao atualizar o seu nome de utilizador.",
+    "sourceHash": "1595f8b7d2565177a22703e087002186"
+  },
+  "logOut": {
+    "translation": "Sair",
+    "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
+  },
+  "languageSettings": {
+    "translation": "Definições de idioma",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "languageChanged": {
+    "translation": "Língua alterada",
+    "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
+  },
+  "languageChangedMessage": {
+    "translation": "A língua foi alterada com êxito. Todos os textos foram traduzidos para a nova língua.",
+    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+  },
+  "languageChangeError": {
+    "translation": "Ocorreu um erro ao alterar a língua. Por favor, tente novamente.",
+    "sourceHash": "3c87a1a1d220291568f7115d53852852"
+  },
+  "applyLanguage": {
+    "translation": "Aplicar a língua selecionada",
+    "sourceHash": "63bb3a6c2499b11370c5e5c72a4ee89e"
+  },
+  "applying": {
+    "translation": "A língua selecionada é implementada",
+    "sourceHash": "46d2538820ebcdae189c6024c35e4002"
+  },
+  "translatingContent": {
+    "translation": "Tradução de conteúdos",
+    "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
+  },
+  "completed": {
+    "translation": "concluído",
+    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  }
 }
