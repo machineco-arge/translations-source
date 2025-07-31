@@ -20,8 +20,8 @@
     "_albumScreen_cancelProcessingAlertTitle": "İşlemi Durdur ve Sil",
     "_albumScreen_cancelProcessingAlertMessage": "Emin misiniz? Bu işlemi iptal ederseniz fotoğraf silinir.",
 
-    "_cameraScreen_filmEndedMessage": "'{{resolvedActivityTitle}}' film rulosunu baskıya göndere bilirsin.",
-    "_cameraScreen_participantFilmEndedMessage": "'{{resolvedActivityTitle}}' film rulosunu baskıya gönderilmesini bekleyebilirsiniz.",
+    "_cameraScreen_filmEndedMessage": "'Film rulosunu baskıya göndere bilirsin.",
+    "_cameraScreen_participantFilmEndedMessage": "'Bu film rulosunun baskıya gönderilmesini bekleyebilirsiniz.",
     "_cameraScreen_switchCamera": "Kamerayı Değiştir",
     "_cameraScreen_capturePhotoErrorAlertMessage": "Fotoğraf çekilirken veya film güncellenirken bir hata oluştu.",
     "_cameraScreen_noDevice": "Kamera cihazı bulunamadı.",
