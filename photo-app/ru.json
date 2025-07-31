@@ -1,101 +1,512 @@
 {
-  "_aiScreen_notFoundAiFilters": "Камеры искусственного интеллекта не были найдены.",
-  "_albumScreen_noAlbumPhotos": "В альбоме нет ни одной фотографии.",
-  "_albumScreen_noAIPhoto": "В этом альбоме нет фотографий, посвященных искусственному интеллекту.",
-  "_albumScreen_savePhotoToGallery": "Сохранить в галерее",
-  "_albumScreen_sharePhoto": "Поделиться",
-  "_albumScreen_deletePhoto": "Удалить фото",
-  "_albumScreen_deletePhotoAlertMessage": "Вы уверены, что хотите удалить эту фотографию? Это действие нельзя отменить.",
-  "_albumScreen_deletePhotoFailedAlertMessage": "При удалении фотографии произошла ошибка. Пожалуйста, попробуйте еще раз.",
-  "_albumScreen_sharePhotoErrorMessage": "При передаче фотографии произошла ошибка.",
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": "Сохранено в вашей фотогалерее!",
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": "Фотография еще не доступна для загрузки или не найдена.",
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": "Произошла ошибка при удалении фотографии AI. Пожалуйста, попробуйте еще раз.",
-  "_albumScreen_LocatingImageFile": "Есть файл с картинками...",
-  "_albumScreen_ImageCouldNotLoaded": "Изображение не удалось загрузить",
-  "_albumScreen_ErrorCausingFilePathsChange": "Возможно, приложение было перестроено, в результате чего изменились пути к файлам.",
-  "_albumScreen_RemoveFromLibrary": "Удалить из альбома",
-  "_albumScreen_cancelProcessing": "Остановить процесс",
-  "_albumScreen_cancelProcessingAlertTitle": "Остановка и удаление транзакции",
-  "_albumScreen_cancelProcessingAlertMessage": "Вы уверены? Если отменить эту операцию, фотография будет удалена.",
-  "_cameraScreen_filmEndedMessage": "Вы можете отправить рулон пленки ' {{resolvedActivityTitle}} ' на принтер.",
-  "_cameraScreen_switchCamera": "Переключить камеру",
-  "_cameraScreen_capturePhotoErrorAlertMessage": "Во время съемки или обновления пленки произошла ошибка.",
-  "_cameraScreen_noDevice": "Устройство камеры не найдено.",
-  "_filmScreen_location": "Расположение",
-  "_filmScreen_date": "История",
-  "_filmScreen_remainingPhoto": "Оставшаяся фотография",
-  "_filmScreen_editActivityTitle": "Редактировать название мероприятия",
-  "_filmScreen_enterNewActivityTitle": "Введите новое название (максимум символов {{maxTitleLength}} , оставьте пустым, чтобы вернуть название по умолчанию)",
-  "_filmScreen_placeholder": "Введите название...",
-  "_filmScreen_filmIsFullAlertMessage": "Вы использовали все экспозиции на этом рулоне пленки. Теперь вы можете отправить пленку в принтер.",
-  "_filmScreen_filmCreateActivityErrorAlertMessage": "При создании нового рулона пленки произошла ошибка. Пожалуйста, попробуйте еще раз.",
-  "_filmScreen_photosInPrint": "Фотографии в печати!",
-  "_filmScreen_filmsPreparing": "Готовятся фильмы...",
-  "_filmScreen_photosDeveloping": "Фотографии были сделаны в процессе купания...",
-  "_filmScreen_photosClarifying": "Осветляющие фотографии...",
-  "_filmScreen_photosDrying": "Фотографии высушиваются...",
-  "_filmScreen_photosReady": "Фотографии готовы!",
-  "_filmScreen_noActiveFilmsMessage": "Нет активной камеры",
-  "_filmScreen_printRequestFailedMessage": "Запрос на репрессии провалился.",
-  "_filmScreen_activityNotActiveErrorMessage": "Эта камера больше не активна.",
-  "_filmScreen_selectDevelopmentTime": "Выберите время доставки",
-  "_homeScreen_loadingMoreContent": "Loading More Content...",
-  "_homeScreen_noCamerasFound": "Камера не найдена",
-  "cameras": {
-    "analoguescanline": "Сканирующий полосатый аналог",
-    "analogue": "Аналог",
-    "grainyfilm": "Грязный",
-    "nineties": "Девяностые без голубизны",
-    "nostalgia": "Ностальгия",
-    "oldanalogue": "Старый аналог",
-    "pink": "Розовый взрыв",
-    "retroanalogue": "Ретро-аналог",
-    "retroanaloguegrainy": "Пыльный аналог",
-    "retroblurred": "Размытое ретро",
-    "retrocolorless": "Бесцветное ретро",
-    "retrograiny": "Старые времена",
-    "retrohairlake": "Ретро-шлейф для волос",
-    "retroneon": "Неоновый",
-    "retro": "Ретро",
-    "shinyanalogue": "Яркий аналог",
-    "vhspreset": "Предварительная настройка VHS",
-    "warmedanalogue": "Сожженный аналог"
+  "_aiScreen_notFoundAiFilters": {
+    "translation": "Камеры искусственного интеллекта не были найдены.",
+    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
   },
-  "_navigation_home": "Магазин",
-  "_navigation_films": "Камеры",
-  "_navigation_album": "Альбом",
-  "_navigation_albums": "Альбомы",
-  "_permissions_RequiredTextTitle": "Вы должны предоставить необходимые разрешения для использования приложения.",
-  "_permissions_RequiredTextDetail": "Пожалуйста, закройте и снова откройте приложение и предоставьте разрешения.",
-  "_permissions_RequiredAlertTitle": "Необходимые разрешения",
-  "_permissions_RequiredAlertMessage": "Для полноценной работы приложения необходимы разрешения камеры, местоположения и фотогалереи.",
-  "_permissions_RequiredAlertAllow": "Позвольте мне",
-  "_permissions_MissingAlertTitle": "Отсутствие разрешений",
-  "_permissions_MissingAlertMessage": "Некоторые разрешения не предоставляются. Для правильной работы приложения необходимо предоставить все разрешения.",
-  "_permissions_MissingAlertGoToSetting": "Перейдите в раздел Настройки",
-  "_settings_profileSettings": "Профиль и настройки",
-  "_settings_accountSettings": "Настройки учетной записи",
-  "_settings_darkOrLightModeSettings": "Настройки темы",
-  "_settings_languageSettings": "Настройки языка",
-  "_selectFilm_filmCreateWaitingTimeAlertTitle": "У вас закончились права на рулон пленки",
-  "_selectFilm_filmCreateWaitingTimeAlertMessage": "Время работы в режиме ожидания {{remainingMinutes}} минут.",
-  "_theme_switchTheme": "Переключение между светлым и темным режимами",
-  "_theme_lightMode": "Яркий режим",
-  "_theme_darkMode": "Темный режим",
-  "_common_photo": "Фото",
-  "_common_saving": "Запись...",
-  "_common_save": "Сохранить",
-  "_common_cancel": "Отмена",
-  "_common_delete": "Удалить",
-  "_common_failed": "Не удалось",
-  "_common_success": "Успешный",
-  "_common_error": "Ошибка",
-  "_common_invalidDate": "Неверная дата",
-  "_common_processing": "Обработка...",
-  "_common_ok": "Хорошо.",
-  "_common_sendToPrint": "Отправить на печать",
-  "_common_filmEnded": "Полный рулон пленки",
-  "_common_confirm": "Подтвердите",
-  "_common_loading": "Загрузка..."
+  "_albumScreen_noAlbumPhotos": {
+    "translation": "В альбоме нет ни одной фотографии.",
+    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+  },
+  "_albumScreen_noAIPhoto": {
+    "translation": "В этом альбоме нет фотографий, посвященных искусственному интеллекту.",
+    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+  },
+  "_albumScreen_savePhotoToGallery": {
+    "translation": "Сохранить в галерее",
+    "sourceHash": "42f9c92411994859e2b23ca3eea90858"
+  },
+  "_albumScreen_sharePhoto": {
+    "translation": "Поделиться",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_albumScreen_deletePhoto": {
+    "translation": "Удалить фото",
+    "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
+  },
+  "_albumScreen_deletePhotoAlertMessage": {
+    "translation": "Вы уверены, что хотите удалить эту фотографию? Это действие нельзя отменить.",
+    "sourceHash": "27f3742cadc88a069cb50512446c646f"
+  },
+  "_albumScreen_deletePhotoFailedAlertMessage": {
+    "translation": "При удалении фотографии произошла ошибка. Пожалуйста, попробуйте еще раз.",
+    "sourceHash": "29fd142021d336f5c6fad9f16466c354"
+  },
+  "_albumScreen_sharePhotoErrorMessage": {
+    "translation": "При передаче фотографии произошла ошибка.",
+    "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
+  },
+  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
+    "translation": "Сохранено в вашей фотогалерее!",
+    "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
+  },
+  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
+    "translation": "Фотография еще не доступна для загрузки или не найдена.",
+    "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
+  },
+  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
+    "translation": "Произошла ошибка при удалении фотографии AI. Пожалуйста, попробуйте еще раз.",
+    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
+  },
+  "_albumScreen_LocatingImageFile": {
+    "translation": "Есть файл с картинками...",
+    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+  },
+  "_albumScreen_ImageCouldNotLoaded": {
+    "translation": "Изображение не удалось загрузить",
+    "sourceHash": "b58886963d120fe109892d34d23bc4a4"
+  },
+  "_albumScreen_ErrorCausingFilePathsChange": {
+    "translation": "Возможно, приложение было перестроено, в результате чего изменились пути к файлам.",
+    "sourceHash": "6d9c4669ed6d509e73b4da51e8748a23"
+  },
+  "_albumScreen_RemoveFromLibrary": {
+    "translation": "Удалить из альбома",
+    "sourceHash": "d5f5689bde3897a2433be2d1c927b7e9"
+  },
+  "_albumScreen_cancelProcessing": {
+    "translation": "Остановить процесс",
+    "sourceHash": "02e06d4f577b8c1cced8eb9095ad0b1b"
+  },
+  "_albumScreen_cancelProcessingAlertTitle": {
+    "translation": "Остановка и удаление транзакции",
+    "sourceHash": "04018f05f7bcae9b21f53e5c6f6781e1"
+  },
+  "_albumScreen_cancelProcessingAlertMessage": {
+    "translation": "Вы уверены? Если отменить эту операцию, фотография будет удалена.",
+    "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
+  },
+  "_cameraScreen_filmEndedMessage": {
+    "translation": "Вы можете отправить рулон пленки ' {{resolvedActivityTitle}} ' на принтер.",
+    "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
+  },
+  "_cameraScreen_participantFilmEndedMessage": {
+    "translation": "Вы можете подождать, пока рулон пленки ' {{resolvedActivityTitle}} ' будет отправлен на принтер.",
+    "sourceHash": "dd36564ab073b863f0d987827243822c"
+  },
+  "_cameraScreen_switchCamera": {
+    "translation": "Переключить камеру",
+    "sourceHash": "2927fad14171dd20bf412185f35f2a20"
+  },
+  "_cameraScreen_capturePhotoErrorAlertMessage": {
+    "translation": "Во время съемки или обновления пленки произошла ошибка.",
+    "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
+  },
+  "_cameraScreen_noDevice": {
+    "translation": "Устройство камеры не найдено.",
+    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+  },
+  "_filmScreen_location": {
+    "translation": "Расположение",
+    "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
+  },
+  "_filmScreen_date": {
+    "translation": "История",
+    "sourceHash": "27486dc0fa9db689a0a3fefeab58bda7"
+  },
+  "_filmScreen_remainingPhoto": {
+    "translation": "Оставшаяся фотография",
+    "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
+  },
+  "_filmScreen_editActivityTitle": {
+    "translation": "Редактировать название мероприятия",
+    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+  },
+  "_filmScreen_enterNewActivityTitle": {
+    "translation": "Введите новое название (максимум символов {{maxTitleLength}} , оставьте пустым, чтобы вернуть название по умолчанию)",
+    "sourceHash": "84096af473d232cf673f23b948ef96d0"
+  },
+  "_filmScreen_placeholder": {
+    "translation": "Введите название...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
+  "_filmScreen_filmIsFullAlertMessage": {
+    "translation": "Вы использовали все экспозиции на этом рулоне пленки. Теперь вы можете отправить пленку в принтер.",
+    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+  },
+  "_filmScreen_filmCreateActivityErrorAlertMessage": {
+    "translation": "При создании нового рулона пленки произошла ошибка. Пожалуйста, попробуйте еще раз.",
+    "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
+  },
+  "_filmScreen_photosInPrint": {
+    "translation": "Фотографии в печати!",
+    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+  },
+  "_filmScreen_filmsPreparing": {
+    "translation": "Готовятся фильмы...",
+    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+  },
+  "_filmScreen_photosDeveloping": {
+    "translation": "Фотографии были сделаны в процессе купания...",
+    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+  },
+  "_filmScreen_photosClarifying": {
+    "translation": "Осветляющие фотографии...",
+    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+  },
+  "_filmScreen_photosDrying": {
+    "translation": "Фотографии высушиваются...",
+    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+  },
+  "_filmScreen_photosReady": {
+    "translation": "Фотографии готовы!",
+    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+  },
+  "_filmScreen_noActiveFilmsMessage": {
+    "translation": "Нет активной камеры",
+    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+  },
+  "_filmScreen_printRequestFailedMessage": {
+    "translation": "Запрос на репрессии провалился.",
+    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+  },
+  "_filmScreen_activityNotActiveErrorMessage": {
+    "translation": "Эта камера больше не активна.",
+    "sourceHash": "bd683d624d343f80c90b81c2742f75f7"
+  },
+  "_filmScreen_selectDevelopmentTime": {
+    "translation": "Выберите время доставки",
+    "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
+  },
+  "_filmScreen_joinActivityTitle": {
+    "translation": "Присоединяйтесь к деятельности",
+    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+  },
+  "_filmScreen_joinActivityMessage": {
+    "translation": "Хотите ли вы принять участие в этом мероприятии?",
+    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+  },
+  "_filmScreen_invalidInvitationLink": {
+    "translation": "Неверная ссылка на приглашение.",
+    "sourceHash": "f9155dc822a7742c3d1f9bb37bdcf090"
+  },
+  "_filmScreen_joinRequestSentMessage": {
+    "translation": "Ваш запрос на присоединение успешно отправлен.",
+    "sourceHash": "28ad45922dbef4387fd88c5d40a34614"
+  },
+  "_filmScreen_joinRequestError": {
+    "translation": "При отправке запроса на присоединение произошла ошибка.",
+    "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
+  },
+  "_filmScreen_waitingForApproval": {
+    "translation": "Ожидает утверждения",
+    "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
+  },
+  "_filmScreen_joinRequestNotificationsTitle": {
+    "translation": "Готовность к участию",
+    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+  },
+  "_filmScreen_noJoinRequests": {
+    "translation": "У вас нет нерассмотренных или отклоненных заявок на участие.",
+    "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
+  },
+  "_filmScreen_sharedActivity": {
+    "translation": "Совместная деятельность",
+    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+  },
+  "_filmScreen_joinRequestStatusPending": {
+    "translation": "В режиме ожидания",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_filmScreen_joinRequestStatusRejected": {
+    "translation": "Отклонено",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_filmScreen_shareActivityTitle": {
+    "translation": "Активность акций",
+    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+  },
+  "_filmScreen_shareActivityMessage": {
+    "translation": "Хотите поделиться этим занятием?",
+    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+  },
+  "_filmScreen_shareInviteTitle": {
+    "translation": "Ссылка для приглашения на мероприятие",
+    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+  },
+  "_filmScreen_shareFailedErrorMessage": {
+    "translation": "При передаче информации о деятельности произошла ошибка.",
+    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+  },
+  "_filmScreen_filmIsFullAlertMessageParticipant": {
+    "translation": "Вы использовали все экспозиции на этом рулоне пленки. Теперь вы можете ждать, когда пленка будет отправлена в принтер.",
+    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+  },
+  "_participantModal_statusActive": {
+    "translation": "Активный",
+    "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
+  },
+  "_participantModal_statusPending": {
+    "translation": "В режиме ожидания",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_participantModal_statusRejected": {
+    "translation": "Отклонено",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_participantModal_statusMissedUpload": {
+    "translation": "Пропущенная загрузка",
+    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+  },
+  "_participantModal_title": {
+    "translation": "Участники",
+    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+  },
+  "_participantModal_noParticipants": {
+    "translation": "В этом мероприятии пока нет участников.",
+    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+  },
+  "_participantModal_noRequestId": {
+    "translation": "Информация об участнике не найдена.",
+    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+  },
+  "_participantModal_approveError": {
+    "translation": "При подтверждении участника произошла ошибка.",
+    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+  },
+  "_participantModal_rejectError": {
+    "translation": "Произошла ошибка при отклонении участника.",
+    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+  },
+  "_homeScreen_loadingMoreContent": {
+    "translation": "Loading More Content...",
+    "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
+  },
+  "_homeScreen_noCamerasFound": {
+    "translation": "Камера не найдена",
+    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+  },
+  "cameras": {
+    "analoguescanline": {
+      "translation": "Сканирующий полосатый аналог",
+      "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
+    },
+    "analogue": {
+      "translation": "Моя аналоговая камера",
+      "sourceHash": "68998a7153f844359b76321e70d2c212"
+    },
+    "grainyfilm": {
+      "translation": "Пыльный аналог",
+      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
+    },
+    "nineties": {
+      "translation": "Девяностые без голубизны",
+      "sourceHash": "437fb56344bef307d333807aaa034056"
+    },
+    "nostalgia": {
+      "translation": "Ностальгия",
+      "sourceHash": "4104f0eb27b6654983a6894c249d6136"
+    },
+    "oldanalogue": {
+      "translation": "Старый аналог",
+      "sourceHash": "5b4f8e1f76567bb2915a8372e5433276"
+    },
+    "pink": {
+      "translation": "Розовый взрыв",
+      "sourceHash": "a3bbfbbef31090e53e305f00df3a52f3"
+    },
+    "retroanalogue": {
+      "translation": "Ультрааналог",
+      "sourceHash": "98c7cc7d5deee688988d955cd15596f8"
+    },
+    "retroanaloguegrainy": {
+      "translation": "Гранулированный аналог",
+      "sourceHash": "ab02a32af47762c35d28215453d330d3"
+    },
+    "retroblurred": {
+      "translation": "Размытое ретро",
+      "sourceHash": "6f6f97990686bb28fda3ce5c02bcd5c7"
+    },
+    "retrocolorless": {
+      "translation": "Бесцветное ретро",
+      "sourceHash": "6a23f51a8ce7a55dfb92361740150b33"
+    },
+    "retrograiny": {
+      "translation": "Старые времена",
+      "sourceHash": "e23b6e55609e1a7406314df8e1533116"
+    },
+    "retrohairlake": {
+      "translation": "Ретро-шлейф для волос",
+      "sourceHash": "2e9d25bb6e9921ea60d510e33fb67256"
+    },
+    "retroneon": {
+      "translation": "Неоновый",
+      "sourceHash": "7a5ea03d401ee10e7b9dfe5648d07816"
+    },
+    "retro": {
+      "translation": "Классическое ретро",
+      "sourceHash": "811b63a7396520b4ba4bf42ea32a8d82"
+    },
+    "shinyanalogue": {
+      "translation": "Яркий аналог",
+      "sourceHash": "a314461b8e46ad9acfe5a7db01fb90a9"
+    },
+    "vhspreset": {
+      "translation": "Предварительная настройка VHS",
+      "sourceHash": "674dbf88c26b923b3e20f44577ebd034"
+    },
+    "warmedanalogue": {
+      "translation": "Сожженный аналог",
+      "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
+    }
+  },
+  "_navigation_home": {
+    "translation": "Магазин",
+    "sourceHash": "defaa28be44d5fa26989c169683b034b"
+  },
+  "_navigation_films": {
+    "translation": "Камеры",
+    "sourceHash": "b0ea2974181d128d23707cf20463517c"
+  },
+  "_navigation_album": {
+    "translation": "Альбом",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_navigation_albums": {
+    "translation": "Альбомы",
+    "sourceHash": "cec6c56a01e82b4d9261b29cd7cc3c0d"
+  },
+  "_permissions_RequiredTextTitle": {
+    "translation": "Вы должны предоставить необходимые разрешения для использования приложения.",
+    "sourceHash": "8e6c546c16280f2451c392efd60932ba"
+  },
+  "_permissions_RequiredTextDetail": {
+    "translation": "Пожалуйста, закройте и снова откройте приложение и предоставьте разрешения.",
+    "sourceHash": "b26b844e1db07a87a57c438ad0765dbc"
+  },
+  "_permissions_RequiredAlertTitle": {
+    "translation": "Необходимые разрешения",
+    "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
+  },
+  "_permissions_RequiredAlertMessage": {
+    "translation": "Для полноценной работы приложения необходимы разрешения камеры, местоположения и фотогалереи.",
+    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+  },
+  "_permissions_RequiredAlertAllow": {
+    "translation": "Позвольте мне",
+    "sourceHash": "e2e6bca2728d0b91dd7bd03015a81ad2"
+  },
+  "_permissions_MissingAlertTitle": {
+    "translation": "Отсутствие разрешений",
+    "sourceHash": "91ea386d44af2504a14aa6b741eedab7"
+  },
+  "_permissions_MissingAlertMessage": {
+    "translation": "Некоторые разрешения не предоставляются. Для правильной работы приложения необходимо предоставить все разрешения.",
+    "sourceHash": "c7abe27d8a8f994a31c0a77c2197b708"
+  },
+  "_permissions_MissingAlertGoToSetting": {
+    "translation": "Перейдите в раздел Настройки",
+    "sourceHash": "77f3094ca38f69bf417a6e1d3d5de793"
+  },
+  "_settings_profileSettings": {
+    "translation": "Профиль и настройки",
+    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
+  },
+  "_settings_accountSettings": {
+    "translation": "Настройки учетной записи",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "_settings_darkOrLightModeSettings": {
+    "translation": "Настройки темы",
+    "sourceHash": "286fd7a44546000884657e2c3090476c"
+  },
+  "_settings_languageSettings": {
+    "translation": "Настройки языка",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertTitle": {
+    "translation": "У вас закончились права на рулон пленки",
+    "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertMessage": {
+    "translation": "Время работы в режиме ожидания {{remainingMinutes}} минут.",
+    "sourceHash": "226c93618bb62791af1583ffbf591388"
+  },
+  "_theme_switchTheme": {
+    "translation": "Переключение между светлым и темным режимом",
+    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  },
+  "_theme_lightMode": {
+    "translation": "Яркий режим",
+    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  },
+  "_theme_darkMode": {
+    "translation": "Темный режим",
+    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  },
+  "_common_photo": {
+    "translation": "Фото.",
+    "sourceHash": "a5163fe21f330316158294f4b906f597"
+  },
+  "_common_saving": {
+    "translation": "Запись...",
+    "sourceHash": "92256d5c7fac12936b38479068a0b161"
+  },
+  "_common_save": {
+    "translation": "Сохранить",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "_common_cancel": {
+    "translation": "Отмена",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "_common_delete": {
+    "translation": "Удалить",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "_common_failed": {
+    "translation": "Не удалось",
+    "sourceHash": "3260d004408874f578227615e418e077"
+  },
+  "_common_success": {
+    "translation": "Успешный",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_common_error": {
+    "translation": "Ошибка",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "_common_invalidDate": {
+    "translation": "Неверная дата",
+    "sourceHash": "9a86d6ab34cf36101a9081a8fe25004f"
+  },
+  "_common_processing": {
+    "translation": "Обработка...",
+    "sourceHash": "78f846c11e39ce1b953b48da037d28ee"
+  },
+  "_common_ok": {
+    "translation": "Хорошо.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "_common_sendToPrint": {
+    "translation": "Отправить на печать",
+    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+  },
+  "_common_filmEnded": {
+    "translation": "Полный рулон пленки",
+    "sourceHash": "0f745291d77d78d6cee8b67e79a34950"
+  },
+  "_common_confirm": {
+    "translation": "Подтвердите",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
+  },
+  "_common_loading": {
+    "translation": "Загрузка...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "_common_join": {
+    "translation": "Присоединяйтесь к",
+    "sourceHash": "020de6817cadc88937eb0eb35ed9892b"
+  },
+  "_common_close": {
+    "translation": "Закрыть",
+    "sourceHash": "43364e71c6c542b73570f359aa108eff"
+  },
+  "_common_accept": {
+    "translation": "Принять",
+    "sourceHash": "23b08a7d6a36972b7d21ad0a8e8684ea"
+  },
+  "_common_reject": {
+    "translation": "Отклонить",
+    "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
+  }
 }

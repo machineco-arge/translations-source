@@ -79,6 +79,10 @@
     "translation": "'{{resolvedActivityTitle}}' film rulosunu baskıya göndere bilirsin.",
     "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
   },
+  "_cameraScreen_participantFilmEndedMessage": {
+    "translation": "'{{resolvedActivityTitle}}' film rulosunu baskıya gönderilmesini bekleyebilirsiniz.",
+    "sourceHash": "dd36564ab073b863f0d987827243822c"
+  },
   "_cameraScreen_switchCamera": {
     "translation": "Kamerayı Değiştir",
     "sourceHash": "2927fad14171dd20bf412185f35f2a20"
@@ -162,6 +166,106 @@
   "_filmScreen_selectDevelopmentTime": {
     "translation": "Teslim Süresi Seçin",
     "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
+  },
+  "_filmScreen_joinActivityTitle": {
+    "translation": "Aktiviteye Katıl",
+    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+  },
+  "_filmScreen_joinActivityMessage": {
+    "translation": "Bu aktiviteye katılmak istiyor musunuz?",
+    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+  },
+  "_filmScreen_invalidInvitationLink": {
+    "translation": "Geçersiz davet bağlantısı.",
+    "sourceHash": "f9155dc822a7742c3d1f9bb37bdcf090"
+  },
+  "_filmScreen_joinRequestSentMessage": {
+    "translation": "Katılma isteğiniz başarıyla gönderildi.",
+    "sourceHash": "28ad45922dbef4387fd88c5d40a34614"
+  },
+  "_filmScreen_joinRequestError": {
+    "translation": "Katılma isteği gönderilirken bir hata oluştu.",
+    "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
+  },
+  "_filmScreen_waitingForApproval": {
+    "translation": "Onay Bekleniyor",
+    "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
+  },
+  "_filmScreen_joinRequestNotificationsTitle": {
+    "translation": "Katılma İstekleri",
+    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+  },
+  "_filmScreen_noJoinRequests": {
+    "translation": "Bekleyen veya reddedilen katılım isteğiniz yok.",
+    "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
+  },
+  "_filmScreen_sharedActivity": {
+    "translation": "Paylaşımlı Aktivite",
+    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+  },
+  "_filmScreen_joinRequestStatusPending": {
+    "translation": "Beklemede",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_filmScreen_joinRequestStatusRejected": {
+    "translation": "Reddedildi",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_filmScreen_shareActivityTitle": {
+    "translation": "Aktiviteyi Paylaş",
+    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+  },
+  "_filmScreen_shareActivityMessage": {
+    "translation": "Bu aktiviteyi paylaşmak istiyor musunuz?",
+    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+  },
+  "_filmScreen_shareInviteTitle": {
+    "translation": "Aktivite Davet Bağlantısı",
+    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+  },
+  "_filmScreen_shareFailedErrorMessage": {
+    "translation": "Aktivite paylaşılırken bir hata oluştu.",
+    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+  },
+  "_filmScreen_filmIsFullAlertMessageParticipant": {
+    "translation": "Bu film rulosundaki tüm pozları kullandınız. Artık filmin baskıya gönderilmesini bekleyebilirsiniz.",
+    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+  },
+  "_participantModal_statusActive": {
+    "translation": "Aktif",
+    "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
+  },
+  "_participantModal_statusPending": {
+    "translation": "Beklemede",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_participantModal_statusRejected": {
+    "translation": "Reddedildi",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_participantModal_statusMissedUpload": {
+    "translation": "Yükleme Kaçırıldı",
+    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+  },
+  "_participantModal_title": {
+    "translation": "Katılımcılar",
+    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+  },
+  "_participantModal_noParticipants": {
+    "translation": "Bu aktivitede henüz katılımcı yok.",
+    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+  },
+  "_participantModal_noRequestId": {
+    "translation": "Katılımcı bilgisi bulunamadı.",
+    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+  },
+  "_participantModal_approveError": {
+    "translation": "Katılımcıyı onaylarken bir hata oluştu.",
+    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+  },
+  "_participantModal_rejectError": {
+    "translation": "Katılımcıyı reddederken bir hata oluştu.",
+    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
   },
   "_homeScreen_loadingMoreContent": {
     "translation": "Daha Fazla İçerik Yükleniyor...",
@@ -388,5 +492,21 @@
   "_common_loading": {
     "translation": "Yükleniyor...",
     "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "_common_join": {
+    "translation": "Katıl",
+    "sourceHash": "020de6817cadc88937eb0eb35ed9892b"
+  },
+  "_common_close": {
+    "translation": "Kapat",
+    "sourceHash": "43364e71c6c542b73570f359aa108eff"
+  },
+  "_common_accept": {
+    "translation": "Kabul Et",
+    "sourceHash": "23b08a7d6a36972b7d21ad0a8e8684ea"
+  },
+  "_common_reject": {
+    "translation": "Reddet",
+    "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
   }
 }

@@ -1,101 +1,512 @@
 {
-  "_aiScreen_notFoundAiFilters": "AI 카메라를 찾을 수 없습니다.",
-  "_albumScreen_noAlbumPhotos": "앨범에 사진이 없습니다.",
-  "_albumScreen_noAIPhoto": "이 앨범에는 인공 지능의 사진이 없습니다.",
-  "_albumScreen_savePhotoToGallery": "갤러리에 저장",
-  "_albumScreen_sharePhoto": "공유",
-  "_albumScreen_deletePhoto": "사진 삭제",
-  "_albumScreen_deletePhotoAlertMessage": "이 사진을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
-  "_albumScreen_deletePhotoFailedAlertMessage": "사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
-  "_albumScreen_sharePhotoErrorMessage": "사진을 공유하는 동안 오류가 발생했습니다.",
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": "사진 갤러리에 저장되었습니다!",
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": "사진을 아직 다운로드할 수 없거나 찾을 수 없습니다.",
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": "AI 사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
-  "_albumScreen_LocatingImageFile": "사진 파일이 있습니다...",
-  "_albumScreen_ImageCouldNotLoaded": "이미지를 로드하지 못했습니다.",
-  "_albumScreen_ErrorCausingFilePathsChange": "애플리케이션이 다시 빌드되어 파일 경로가 변경되었을 수 있습니다.",
-  "_albumScreen_RemoveFromLibrary": "앨범에서 제거",
-  "_albumScreen_cancelProcessing": "프로세스 중지",
-  "_albumScreen_cancelProcessingAlertTitle": "거래 중지 및 삭제",
-  "_albumScreen_cancelProcessingAlertMessage": "정말인가요? 이 작업을 취소하면 사진이 삭제됩니다.",
-  "_cameraScreen_filmEndedMessage": "필름 롤 ' {{resolvedActivityTitle}} '를 프린터로 보낼 수 있습니다.",
-  "_cameraScreen_switchCamera": "카메라 전환",
-  "_cameraScreen_capturePhotoErrorAlertMessage": "사진을 찍거나 필름을 업데이트하는 동안 오류가 발생했습니다.",
-  "_cameraScreen_noDevice": "카메라 장치를 찾을 수 없습니다.",
-  "_filmScreen_location": "위치",
-  "_filmScreen_date": "역사",
-  "_filmScreen_remainingPhoto": "남은 사진",
-  "_filmScreen_editActivityTitle": "활동 제목 수정",
-  "_filmScreen_enterNewActivityTitle": "새 제목을 입력합니다(최대 {{maxTitleLength}} 자, 기본값으로 돌아가려면 비워 두세요).",
-  "_filmScreen_placeholder": "제목 입력...",
-  "_filmScreen_filmIsFullAlertMessage": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름을 프린터로 보낼 수 있습니다.",
-  "_filmScreen_filmCreateActivityErrorAlertMessage": "새 필름 롤을 만드는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
-  "_filmScreen_photosInPrint": "사진 인쇄!",
-  "_filmScreen_filmsPreparing": "영화 준비 중...",
-  "_filmScreen_photosDeveloping": "사진은 목욕 과정으로 촬영되었습니다...",
-  "_filmScreen_photosClarifying": "사진 설명하기...",
-  "_filmScreen_photosDrying": "사진 건조 중...",
-  "_filmScreen_photosReady": "사진이 준비되었습니다!",
-  "_filmScreen_noActiveFilmsMessage": "활성 카메라 없음",
-  "_filmScreen_printRequestFailedMessage": "억압 요청이 실패했습니다.",
-  "_filmScreen_activityNotActiveErrorMessage": "이 카메라는 더 이상 활성화되지 않습니다.",
-  "_filmScreen_selectDevelopmentTime": "배송 시간 선택",
-  "_homeScreen_loadingMoreContent": "콘텐츠 더 보기...",
-  "_homeScreen_noCamerasFound": "카메라를 찾을 수 없음",
-  "cameras": {
-    "analoguescanline": "줄무늬 아날로그 스캔",
-    "analogue": "아날로그",
-    "grainyfilm": "Dirty",
-    "nineties": "블루 없는 90년대",
-    "nostalgia": "노스탤지어",
-    "oldanalogue": "오래된 아날로그",
-    "pink": "핑크 블라스트",
-    "retroanalogue": "레트로 아날로그",
-    "retroanaloguegrainy": "더스티 아날로그",
-    "retroblurred": "흐릿한 복고풍",
-    "retrocolorless": "무색 레트로",
-    "retrograiny": "오래된 시간",
-    "retrohairlake": "레트로 헤어 트레이스",
-    "retroneon": "네온",
-    "retro": "레트로",
-    "shinyanalogue": "밝은 아날로그",
-    "vhspreset": "VHS 프리셋",
-    "warmedanalogue": "번트 아날로그"
+  "_aiScreen_notFoundAiFilters": {
+    "translation": "AI 카메라를 찾을 수 없습니다.",
+    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
   },
-  "_navigation_home": "쇼핑",
-  "_navigation_films": "카메라",
-  "_navigation_album": "앨범",
-  "_navigation_albums": "앨범",
-  "_permissions_RequiredTextTitle": "애플리케이션을 사용하려면 필요한 권한을 부여해야 합니다.",
-  "_permissions_RequiredTextDetail": "앱을 닫았다가 다시 열고 권한을 부여하세요.",
-  "_permissions_RequiredAlertTitle": "필요한 허가",
-  "_permissions_RequiredAlertMessage": "애플리케이션이 완전히 작동하려면 카메라, 위치, 사진 갤러리 권한이 필요합니다.",
-  "_permissions_RequiredAlertAllow": "허용",
-  "_permissions_MissingAlertTitle": "누락된 권한",
-  "_permissions_MissingAlertMessage": "일부 권한은 부여되지 않습니다. 애플리케이션이 제대로 작동하려면 모든 권한이 부여되어야 합니다.",
-  "_permissions_MissingAlertGoToSetting": "설정으로 이동",
-  "_settings_profileSettings": "프로필 및 설정",
-  "_settings_accountSettings": "계정 설정",
-  "_settings_darkOrLightModeSettings": "테마 설정",
-  "_settings_languageSettings": "언어 설정",
-  "_selectFilm_filmCreateWaitingTimeAlertTitle": "필름 롤 권한이 부족합니다.",
-  "_selectFilm_filmCreateWaitingTimeAlertMessage": "대기 시간 {{remainingMinutes}} 분.",
-  "_theme_switchTheme": "라이트 모드와 다크 모드 간 전환",
-  "_theme_lightMode": "밝은 모드",
-  "_theme_darkMode": "다크 모드",
-  "_common_photo": "사진",
-  "_common_saving": "녹화...",
-  "_common_save": "저장",
-  "_common_cancel": "취소",
-  "_common_delete": "삭제",
-  "_common_failed": "실패",
-  "_common_success": "성공",
-  "_common_error": "오류",
-  "_common_invalidDate": "유효하지 않은 날짜",
-  "_common_processing": "처리 중...",
-  "_common_ok": "알겠습니다.",
-  "_common_sendToPrint": "인쇄로 보내기",
-  "_common_filmEnded": "필름 롤 가득",
-  "_common_confirm": "확인",
-  "_common_loading": "로드 중..."
+  "_albumScreen_noAlbumPhotos": {
+    "translation": "앨범에 사진이 없습니다.",
+    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+  },
+  "_albumScreen_noAIPhoto": {
+    "translation": "이 앨범에는 인공 지능의 사진이 없습니다.",
+    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+  },
+  "_albumScreen_savePhotoToGallery": {
+    "translation": "갤러리에 저장",
+    "sourceHash": "42f9c92411994859e2b23ca3eea90858"
+  },
+  "_albumScreen_sharePhoto": {
+    "translation": "공유",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_albumScreen_deletePhoto": {
+    "translation": "사진 삭제",
+    "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
+  },
+  "_albumScreen_deletePhotoAlertMessage": {
+    "translation": "이 사진을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
+    "sourceHash": "27f3742cadc88a069cb50512446c646f"
+  },
+  "_albumScreen_deletePhotoFailedAlertMessage": {
+    "translation": "사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
+    "sourceHash": "29fd142021d336f5c6fad9f16466c354"
+  },
+  "_albumScreen_sharePhotoErrorMessage": {
+    "translation": "사진을 공유하는 동안 오류가 발생했습니다.",
+    "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
+  },
+  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
+    "translation": "사진 갤러리에 저장되었습니다!",
+    "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
+  },
+  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
+    "translation": "사진을 아직 다운로드할 수 없거나 찾을 수 없습니다.",
+    "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
+  },
+  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
+    "translation": "AI 사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
+    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
+  },
+  "_albumScreen_LocatingImageFile": {
+    "translation": "사진 파일이 있습니다...",
+    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+  },
+  "_albumScreen_ImageCouldNotLoaded": {
+    "translation": "이미지를 로드하지 못했습니다.",
+    "sourceHash": "b58886963d120fe109892d34d23bc4a4"
+  },
+  "_albumScreen_ErrorCausingFilePathsChange": {
+    "translation": "애플리케이션이 다시 빌드되어 파일 경로가 변경될 수 있습니다.",
+    "sourceHash": "6d9c4669ed6d509e73b4da51e8748a23"
+  },
+  "_albumScreen_RemoveFromLibrary": {
+    "translation": "앨범에서 제거",
+    "sourceHash": "d5f5689bde3897a2433be2d1c927b7e9"
+  },
+  "_albumScreen_cancelProcessing": {
+    "translation": "프로세스 중지",
+    "sourceHash": "02e06d4f577b8c1cced8eb9095ad0b1b"
+  },
+  "_albumScreen_cancelProcessingAlertTitle": {
+    "translation": "거래 중지 및 삭제",
+    "sourceHash": "04018f05f7bcae9b21f53e5c6f6781e1"
+  },
+  "_albumScreen_cancelProcessingAlertMessage": {
+    "translation": "정말인가요? 이 작업을 취소하면 사진이 삭제됩니다.",
+    "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
+  },
+  "_cameraScreen_filmEndedMessage": {
+    "translation": "필름 롤 ' {{resolvedActivityTitle}} '를 프린터로 보낼 수 있습니다.",
+    "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
+  },
+  "_cameraScreen_participantFilmEndedMessage": {
+    "translation": "필름 롤이 프린터로 전송될 때까지 기다릴 수 있습니다.",
+    "sourceHash": "dd36564ab073b863f0d987827243822c"
+  },
+  "_cameraScreen_switchCamera": {
+    "translation": "카메라 전환",
+    "sourceHash": "2927fad14171dd20bf412185f35f2a20"
+  },
+  "_cameraScreen_capturePhotoErrorAlertMessage": {
+    "translation": "사진을 찍거나 필름을 업데이트하는 동안 오류가 발생했습니다.",
+    "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
+  },
+  "_cameraScreen_noDevice": {
+    "translation": "카메라 장치를 찾을 수 없습니다.",
+    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+  },
+  "_filmScreen_location": {
+    "translation": "위치",
+    "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
+  },
+  "_filmScreen_date": {
+    "translation": "역사",
+    "sourceHash": "27486dc0fa9db689a0a3fefeab58bda7"
+  },
+  "_filmScreen_remainingPhoto": {
+    "translation": "남은 사진",
+    "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
+  },
+  "_filmScreen_editActivityTitle": {
+    "translation": "활동 제목 수정",
+    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+  },
+  "_filmScreen_enterNewActivityTitle": {
+    "translation": "새 제목을 입력합니다(최대 {{maxTitleLength}} 자, 기본값으로 돌아가려면 비워 두세요).",
+    "sourceHash": "84096af473d232cf673f23b948ef96d0"
+  },
+  "_filmScreen_placeholder": {
+    "translation": "제목 입력...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
+  "_filmScreen_filmIsFullAlertMessage": {
+    "translation": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름을 프린터로 보낼 수 있습니다.",
+    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+  },
+  "_filmScreen_filmCreateActivityErrorAlertMessage": {
+    "translation": "새 필름 롤을 만드는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
+    "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
+  },
+  "_filmScreen_photosInPrint": {
+    "translation": "사진 인쇄!",
+    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+  },
+  "_filmScreen_filmsPreparing": {
+    "translation": "영화 준비 중...",
+    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+  },
+  "_filmScreen_photosDeveloping": {
+    "translation": "사진은 목욕 과정으로 촬영되었습니다...",
+    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+  },
+  "_filmScreen_photosClarifying": {
+    "translation": "사진 설명하기...",
+    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+  },
+  "_filmScreen_photosDrying": {
+    "translation": "사진 건조 중...",
+    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+  },
+  "_filmScreen_photosReady": {
+    "translation": "사진이 준비되었습니다!",
+    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+  },
+  "_filmScreen_noActiveFilmsMessage": {
+    "translation": "활성 카메라 없음",
+    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+  },
+  "_filmScreen_printRequestFailedMessage": {
+    "translation": "억압 요청이 실패했습니다.",
+    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+  },
+  "_filmScreen_activityNotActiveErrorMessage": {
+    "translation": "이 카메라는 더 이상 활성화되지 않습니다.",
+    "sourceHash": "bd683d624d343f80c90b81c2742f75f7"
+  },
+  "_filmScreen_selectDevelopmentTime": {
+    "translation": "배송 시간 선택",
+    "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
+  },
+  "_filmScreen_joinActivityTitle": {
+    "translation": "활동 참여하기",
+    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+  },
+  "_filmScreen_joinActivityMessage": {
+    "translation": "이 활동에 참여하시겠습니까?",
+    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+  },
+  "_filmScreen_invalidInvitationLink": {
+    "translation": "잘못된 초대 링크입니다.",
+    "sourceHash": "f9155dc822a7742c3d1f9bb37bdcf090"
+  },
+  "_filmScreen_joinRequestSentMessage": {
+    "translation": "가입 요청이 성공적으로 전송되었습니다.",
+    "sourceHash": "28ad45922dbef4387fd88c5d40a34614"
+  },
+  "_filmScreen_joinRequestError": {
+    "translation": "가입 요청을 보내는 동안 오류가 발생했습니다.",
+    "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
+  },
+  "_filmScreen_waitingForApproval": {
+    "translation": "승인 대기 중",
+    "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
+  },
+  "_filmScreen_joinRequestNotificationsTitle": {
+    "translation": "참여 의향",
+    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+  },
+  "_filmScreen_noJoinRequests": {
+    "translation": "보류 중이거나 거부된 참여 요청이 없습니다.",
+    "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
+  },
+  "_filmScreen_sharedActivity": {
+    "translation": "공유 활동",
+    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+  },
+  "_filmScreen_joinRequestStatusPending": {
+    "translation": "대기 중",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_filmScreen_joinRequestStatusRejected": {
+    "translation": "거부됨",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_filmScreen_shareActivityTitle": {
+    "translation": "활동 공유",
+    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+  },
+  "_filmScreen_shareActivityMessage": {
+    "translation": "이 활동을 공유하시겠습니까?",
+    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+  },
+  "_filmScreen_shareInviteTitle": {
+    "translation": "활동 초대 링크",
+    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+  },
+  "_filmScreen_shareFailedErrorMessage": {
+    "translation": "활동을 공유하는 동안 오류가 발생했습니다.",
+    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+  },
+  "_filmScreen_filmIsFullAlertMessageParticipant": {
+    "translation": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름이 프린터로 전송될 때까지 기다릴 수 있습니다.",
+    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+  },
+  "_participantModal_statusActive": {
+    "translation": "활성",
+    "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
+  },
+  "_participantModal_statusPending": {
+    "translation": "대기 중",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_participantModal_statusRejected": {
+    "translation": "거부됨",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_participantModal_statusMissedUpload": {
+    "translation": "로드 누락",
+    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+  },
+  "_participantModal_title": {
+    "translation": "참가자",
+    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+  },
+  "_participantModal_noParticipants": {
+    "translation": "이 활동에는 아직 참가자가 없습니다.",
+    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+  },
+  "_participantModal_noRequestId": {
+    "translation": "참가자 정보를 찾을 수 없습니다.",
+    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+  },
+  "_participantModal_approveError": {
+    "translation": "참가자를 확인하는 동안 오류가 발생했습니다.",
+    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+  },
+  "_participantModal_rejectError": {
+    "translation": "참가자를 거부하는 동안 오류가 발생했습니다.",
+    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+  },
+  "_homeScreen_loadingMoreContent": {
+    "translation": "콘텐츠 더 보기...",
+    "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
+  },
+  "_homeScreen_noCamerasFound": {
+    "translation": "카메라를 찾을 수 없음",
+    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+  },
+  "cameras": {
+    "analoguescanline": {
+      "translation": "줄무늬 아날로그 스캔",
+      "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
+    },
+    "analogue": {
+      "translation": "내 아날로그 카메라",
+      "sourceHash": "68998a7153f844359b76321e70d2c212"
+    },
+    "grainyfilm": {
+      "translation": "더스티 아날로그",
+      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
+    },
+    "nineties": {
+      "translation": "블루 없는 90년대",
+      "sourceHash": "437fb56344bef307d333807aaa034056"
+    },
+    "nostalgia": {
+      "translation": "노스탤지어",
+      "sourceHash": "4104f0eb27b6654983a6894c249d6136"
+    },
+    "oldanalogue": {
+      "translation": "오래된 아날로그",
+      "sourceHash": "5b4f8e1f76567bb2915a8372e5433276"
+    },
+    "pink": {
+      "translation": "핑크 블라스트",
+      "sourceHash": "a3bbfbbef31090e53e305f00df3a52f3"
+    },
+    "retroanalogue": {
+      "translation": "울트라 아날로그",
+      "sourceHash": "98c7cc7d5deee688988d955cd15596f8"
+    },
+    "retroanaloguegrainy": {
+      "translation": "세분화된 아날로그",
+      "sourceHash": "ab02a32af47762c35d28215453d330d3"
+    },
+    "retroblurred": {
+      "translation": "흐릿한 복고풍",
+      "sourceHash": "6f6f97990686bb28fda3ce5c02bcd5c7"
+    },
+    "retrocolorless": {
+      "translation": "무색 레트로",
+      "sourceHash": "6a23f51a8ce7a55dfb92361740150b33"
+    },
+    "retrograiny": {
+      "translation": "오래된 시간",
+      "sourceHash": "e23b6e55609e1a7406314df8e1533116"
+    },
+    "retrohairlake": {
+      "translation": "레트로 헤어 트레이스",
+      "sourceHash": "2e9d25bb6e9921ea60d510e33fb67256"
+    },
+    "retroneon": {
+      "translation": "네온",
+      "sourceHash": "7a5ea03d401ee10e7b9dfe5648d07816"
+    },
+    "retro": {
+      "translation": "클래식 레트로",
+      "sourceHash": "811b63a7396520b4ba4bf42ea32a8d82"
+    },
+    "shinyanalogue": {
+      "translation": "밝은 아날로그",
+      "sourceHash": "a314461b8e46ad9acfe5a7db01fb90a9"
+    },
+    "vhspreset": {
+      "translation": "VHS 프리셋",
+      "sourceHash": "674dbf88c26b923b3e20f44577ebd034"
+    },
+    "warmedanalogue": {
+      "translation": "번트 아날로그",
+      "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
+    }
+  },
+  "_navigation_home": {
+    "translation": "쇼핑",
+    "sourceHash": "defaa28be44d5fa26989c169683b034b"
+  },
+  "_navigation_films": {
+    "translation": "카메라",
+    "sourceHash": "b0ea2974181d128d23707cf20463517c"
+  },
+  "_navigation_album": {
+    "translation": "앨범",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_navigation_albums": {
+    "translation": "앨범",
+    "sourceHash": "cec6c56a01e82b4d9261b29cd7cc3c0d"
+  },
+  "_permissions_RequiredTextTitle": {
+    "translation": "애플리케이션을 사용하려면 필요한 권한을 부여해야 합니다.",
+    "sourceHash": "8e6c546c16280f2451c392efd60932ba"
+  },
+  "_permissions_RequiredTextDetail": {
+    "translation": "앱을 닫았다가 다시 열고 권한을 부여하세요.",
+    "sourceHash": "b26b844e1db07a87a57c438ad0765dbc"
+  },
+  "_permissions_RequiredAlertTitle": {
+    "translation": "필요한 허가",
+    "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
+  },
+  "_permissions_RequiredAlertMessage": {
+    "translation": "애플리케이션이 완전히 작동하려면 카메라, 위치, 사진 갤러리 권한이 필요합니다.",
+    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+  },
+  "_permissions_RequiredAlertAllow": {
+    "translation": "허용",
+    "sourceHash": "e2e6bca2728d0b91dd7bd03015a81ad2"
+  },
+  "_permissions_MissingAlertTitle": {
+    "translation": "누락된 권한",
+    "sourceHash": "91ea386d44af2504a14aa6b741eedab7"
+  },
+  "_permissions_MissingAlertMessage": {
+    "translation": "일부 권한은 부여되지 않습니다. 애플리케이션이 제대로 작동하려면 모든 권한이 부여되어야 합니다.",
+    "sourceHash": "c7abe27d8a8f994a31c0a77c2197b708"
+  },
+  "_permissions_MissingAlertGoToSetting": {
+    "translation": "설정으로 이동",
+    "sourceHash": "77f3094ca38f69bf417a6e1d3d5de793"
+  },
+  "_settings_profileSettings": {
+    "translation": "프로필 및 설정",
+    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
+  },
+  "_settings_accountSettings": {
+    "translation": "계정 설정",
+    "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
+  },
+  "_settings_darkOrLightModeSettings": {
+    "translation": "테마 설정",
+    "sourceHash": "286fd7a44546000884657e2c3090476c"
+  },
+  "_settings_languageSettings": {
+    "translation": "언어 설정",
+    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertTitle": {
+    "translation": "필름 롤 권한이 부족합니다.",
+    "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
+  },
+  "_selectFilm_filmCreateWaitingTimeAlertMessage": {
+    "translation": "대기 시간 {{remainingMinutes}} 분.",
+    "sourceHash": "226c93618bb62791af1583ffbf591388"
+  },
+  "_theme_switchTheme": {
+    "translation": "라이트 모드와 다크 모드 간 전환",
+    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  },
+  "_theme_lightMode": {
+    "translation": "밝은 모드",
+    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  },
+  "_theme_darkMode": {
+    "translation": "다크 모드",
+    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  },
+  "_common_photo": {
+    "translation": "사진",
+    "sourceHash": "a5163fe21f330316158294f4b906f597"
+  },
+  "_common_saving": {
+    "translation": "녹화...",
+    "sourceHash": "92256d5c7fac12936b38479068a0b161"
+  },
+  "_common_save": {
+    "translation": "저장",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
+  },
+  "_common_cancel": {
+    "translation": "취소",
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+  },
+  "_common_delete": {
+    "translation": "삭제",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+  },
+  "_common_failed": {
+    "translation": "실패",
+    "sourceHash": "3260d004408874f578227615e418e077"
+  },
+  "_common_success": {
+    "translation": "성공",
+    "sourceHash": "b27d14f2aa7e56019addff3c9e0f28f1"
+  },
+  "_common_error": {
+    "translation": "오류",
+    "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "_common_invalidDate": {
+    "translation": "유효하지 않은 날짜",
+    "sourceHash": "9a86d6ab34cf36101a9081a8fe25004f"
+  },
+  "_common_processing": {
+    "translation": "처리 중...",
+    "sourceHash": "78f846c11e39ce1b953b48da037d28ee"
+  },
+  "_common_ok": {
+    "translation": "알겠습니다.",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+  },
+  "_common_sendToPrint": {
+    "translation": "인쇄로 보내기",
+    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+  },
+  "_common_filmEnded": {
+    "translation": "필름 롤 가득",
+    "sourceHash": "0f745291d77d78d6cee8b67e79a34950"
+  },
+  "_common_confirm": {
+    "translation": "확인",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
+  },
+  "_common_loading": {
+    "translation": "로드 중...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "_common_join": {
+    "translation": "가입",
+    "sourceHash": "020de6817cadc88937eb0eb35ed9892b"
+  },
+  "_common_close": {
+    "translation": "닫기",
+    "sourceHash": "43364e71c6c542b73570f359aa108eff"
+  },
+  "_common_accept": {
+    "translation": "수락",
+    "sourceHash": "23b08a7d6a36972b7d21ad0a8e8684ea"
+  },
+  "_common_reject": {
+    "translation": "거부",
+    "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
+  }
 }

@@ -256,8 +256,8 @@
     "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
   },
   "delete": {
-    "translation": "Delete",
-    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+    "translation": "Sil",
+    "sourceHash": "491dea9b956aa3e5ec7c8f71889c86ba"
   },
   "profilePhotoDeletedSuccessMessage": {
     "translation": "Your profile photo has been successfully deleted.",

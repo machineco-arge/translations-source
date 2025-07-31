@@ -257,7 +257,7 @@
   },
   "delete": {
     "translation": "삭제",
-    "sourceHash": "625223c183057e4748ae6abfb40596dd"
+    "sourceHash": "491dea9b956aa3e5ec7c8f71889c86ba"
   },
   "profilePhotoDeletedSuccessMessage": {
     "translation": "프로필 사진이 성공적으로 삭제되었습니다.",

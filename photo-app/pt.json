@@ -79,6 +79,10 @@
     "translation": "Pode enviar o rolo de filme ' {{resolvedActivityTitle}} ' para a impressora.",
     "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
   },
+  "_cameraScreen_participantFilmEndedMessage": {
+    "translation": "Pode esperar que o rolo de filme ' {{resolvedActivityTitle}} ' seja enviado para a impressora.",
+    "sourceHash": "dd36564ab073b863f0d987827243822c"
+  },
   "_cameraScreen_switchCamera": {
     "translation": "Mudar de câmara",
     "sourceHash": "2927fad14171dd20bf412185f35f2a20"
@@ -163,6 +167,106 @@
     "translation": "Selecionar prazo de entrega",
     "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
   },
+  "_filmScreen_joinActivityTitle": {
+    "translation": "Participar na atividade",
+    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+  },
+  "_filmScreen_joinActivityMessage": {
+    "translation": "Deseja participar nesta atividade?",
+    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+  },
+  "_filmScreen_invalidInvitationLink": {
+    "translation": "Ligação de convite inválida.",
+    "sourceHash": "f9155dc822a7742c3d1f9bb37bdcf090"
+  },
+  "_filmScreen_joinRequestSentMessage": {
+    "translation": "O seu pedido de adesão foi enviado com sucesso.",
+    "sourceHash": "28ad45922dbef4387fd88c5d40a34614"
+  },
+  "_filmScreen_joinRequestError": {
+    "translation": "Ocorreu um erro ao enviar o pedido de junção.",
+    "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
+  },
+  "_filmScreen_waitingForApproval": {
+    "translation": "A aguardar aprovação",
+    "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
+  },
+  "_filmScreen_joinRequestNotificationsTitle": {
+    "translation": "Disponibilidade para participar",
+    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+  },
+  "_filmScreen_noJoinRequests": {
+    "translation": "Não tem pedidos de participação pendentes ou rejeitados.",
+    "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
+  },
+  "_filmScreen_sharedActivity": {
+    "translation": "Atividade partilhada",
+    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+  },
+  "_filmScreen_joinRequestStatusPending": {
+    "translation": "Em espera",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_filmScreen_joinRequestStatusRejected": {
+    "translation": "Rejeitado",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_filmScreen_shareActivityTitle": {
+    "translation": "Atividade das acções",
+    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+  },
+  "_filmScreen_shareActivityMessage": {
+    "translation": "Quer partilhar esta atividade?",
+    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+  },
+  "_filmScreen_shareInviteTitle": {
+    "translation": "Ligação do convite para a atividade",
+    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+  },
+  "_filmScreen_shareFailedErrorMessage": {
+    "translation": "Ocorreu um erro ao partilhar a atividade.",
+    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+  },
+  "_filmScreen_filmIsFullAlertMessageParticipant": {
+    "translation": "Utilizou todas as exposições deste rolo de filme. Agora pode esperar que o filme seja enviado para a impressora.",
+    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+  },
+  "_participantModal_statusActive": {
+    "translation": "Ativo",
+    "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
+  },
+  "_participantModal_statusPending": {
+    "translation": "Em espera",
+    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+  },
+  "_participantModal_statusRejected": {
+    "translation": "Rejeitado",
+    "sourceHash": "ad7766303cac803f47a7a544e8023ace"
+  },
+  "_participantModal_statusMissedUpload": {
+    "translation": "Carregamento falhado",
+    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+  },
+  "_participantModal_title": {
+    "translation": "Participantes",
+    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+  },
+  "_participantModal_noParticipants": {
+    "translation": "Ainda não há participantes nesta atividade.",
+    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+  },
+  "_participantModal_noRequestId": {
+    "translation": "Não foram encontradas informações sobre os participantes.",
+    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+  },
+  "_participantModal_approveError": {
+    "translation": "Ocorreu um erro ao confirmar o participante.",
+    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+  },
+  "_participantModal_rejectError": {
+    "translation": "Ocorreu um erro ao rejeitar o participante.",
+    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "Carregando mais conteúdo...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
@@ -177,12 +281,12 @@
       "sourceHash": "ef8ea9791d2c8ea461f40459aab6fc1a"
     },
     "analogue": {
-      "translation": "Analógico",
-      "sourceHash": "3d953aa7cfa5ffe0fde34551d918c76c"
+      "translation": "A minha câmara analógica",
+      "sourceHash": "68998a7153f844359b76321e70d2c212"
     },
     "grainyfilm": {
-      "translation": "Sujo",
-      "sourceHash": "8d72ec2eba8d2302c3f318395fae2520"
+      "translation": "Analógico empoeirado",
+      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
     },
     "nineties": {
       "translation": "Anos noventa sem azul",
@@ -201,12 +305,12 @@
       "sourceHash": "a3bbfbbef31090e53e305f00df3a52f3"
     },
     "retroanalogue": {
-      "translation": "Retro Analógico",
-      "sourceHash": "d8dcf23a8c6d04d2df6db4f6a3146411"
+      "translation": "Ultra analógico",
+      "sourceHash": "98c7cc7d5deee688988d955cd15596f8"
     },
     "retroanaloguegrainy": {
-      "translation": "Analógico empoeirado",
-      "sourceHash": "fb12e6d35689596aea06f7bbbaae4437"
+      "translation": "Analógico granular",
+      "sourceHash": "ab02a32af47762c35d28215453d330d3"
     },
     "retroblurred": {
       "translation": "Retro desfocado",
@@ -229,8 +333,8 @@
       "sourceHash": "7a5ea03d401ee10e7b9dfe5648d07816"
     },
     "retro": {
-      "translation": "Retro",
-      "sourceHash": "20efa99be08e58f30a55ba40b8f986cb"
+      "translation": "Clássico Retro",
+      "sourceHash": "811b63a7396520b4ba4bf42ea32a8d82"
     },
     "shinyanalogue": {
       "translation": "Analógico brilhante",
@@ -247,7 +351,7 @@
   },
   "_navigation_home": {
     "translation": "Loja",
-    "sourceHash": "6216cb12cb28dfd6931d0771eccbd019"
+    "sourceHash": "defaa28be44d5fa26989c169683b034b"
   },
   "_navigation_films": {
     "translation": "Câmaras",
@@ -388,5 +492,21 @@
   "_common_loading": {
     "translation": "Carregando...",
     "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "_common_join": {
+    "translation": "Aderir",
+    "sourceHash": "020de6817cadc88937eb0eb35ed9892b"
+  },
+  "_common_close": {
+    "translation": "Fechar",
+    "sourceHash": "43364e71c6c542b73570f359aa108eff"
+  },
+  "_common_accept": {
+    "translation": "Aceitar",
+    "sourceHash": "23b08a7d6a36972b7d21ad0a8e8684ea"
+  },
+  "_common_reject": {
+    "translation": "Rejeitar",
+    "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
   }
 }
