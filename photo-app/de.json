@@ -76,12 +76,12 @@
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "Sie können die Filmrolle ' {{resolvedActivityTitle}} ' an den Drucker senden.",
-    "sourceHash": "76ddd9fde998b860b1d80211df0ccff7"
+    "translation": "Sie können die Filmrolle an den Drucker schicken.",
+    "sourceHash": "33b9c406f4068ae877b64aae28ddf37d"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "Sie können warten, bis die ' {{resolvedActivityTitle}} ' Filmrolle zum Drucker geschickt wird.",
-    "sourceHash": "dd36564ab073b863f0d987827243822c"
+    "translation": "Sie können darauf warten, dass diese Filmrolle an den Drucker geschickt wird.",
+    "sourceHash": "c9676cc0588300ed44a28abb5fcf76ef"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Kamera wechseln",
