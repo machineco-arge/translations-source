@@ -192,8 +192,8 @@
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
   },
   "_filmScreen_joinRequestNotificationsTitle": {
-    "translation": "参加意欲",
-    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+    "translation": "招待状況",
+    "sourceHash": "0f22bd2ade6f798ba47eb08376fc9d77"
   },
   "_filmScreen_noJoinRequests": {
     "translation": "保留または拒否されている参加要請はありません。",
@@ -204,8 +204,8 @@
     "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
   },
   "_filmScreen_joinRequestStatusPending": {
-    "translation": "待機中",
-    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+    "translation": "認可待ち",
+    "sourceHash": "05c1b3782175bbf9f70e75300e233f1d"
   },
   "_filmScreen_joinRequestStatusRejected": {
     "translation": "不採用",
@@ -236,8 +236,8 @@
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
   },
   "_participantModal_statusPending": {
-    "translation": "待機中",
-    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+    "translation": "認可待ち",
+    "sourceHash": "05c1b3782175bbf9f70e75300e233f1d"
   },
   "_participantModal_statusRejected": {
     "translation": "不採用",

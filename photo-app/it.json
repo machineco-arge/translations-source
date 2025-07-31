@@ -192,8 +192,8 @@
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
   },
   "_filmScreen_joinRequestNotificationsTitle": {
-    "translation": "Disponibilità a partecipare",
-    "sourceHash": "45d49ef129b7573977efc8c7c3b3ed76"
+    "translation": "Stato dell'invito",
+    "sourceHash": "0f22bd2ade6f798ba47eb08376fc9d77"
   },
   "_filmScreen_noJoinRequests": {
     "translation": "Non ci sono richieste di partecipazione pendenti o rifiutate.",
@@ -204,8 +204,8 @@
     "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
   },
   "_filmScreen_joinRequestStatusPending": {
-    "translation": "In standby",
-    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+    "translation": "In attesa di autorizzazione",
+    "sourceHash": "05c1b3782175bbf9f70e75300e233f1d"
   },
   "_filmScreen_joinRequestStatusRejected": {
     "translation": "Rifiutato",
@@ -236,8 +236,8 @@
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
   },
   "_participantModal_statusPending": {
-    "translation": "In standby",
-    "sourceHash": "563e0d458cb07c90dda3c4fef89983ad"
+    "translation": "In attesa di autorizzazione",
+    "sourceHash": "05c1b3782175bbf9f70e75300e233f1d"
   },
   "_participantModal_statusRejected": {
     "translation": "Rifiutato",
