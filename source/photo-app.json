@@ -21,6 +21,7 @@
     "_albumScreen_cancelProcessingAlertMessage": "Emin misiniz? Bu işlemi iptal ederseniz fotoğraf silinir.",
 
     "_cameraScreen_filmEndedMessage": "'{{resolvedActivityTitle}}' film rulosunu baskıya göndere bilirsin.",
+    "_cameraScreen_participantFilmEndedMessage": "'{{resolvedActivityTitle}}' film rulosunu baskıya gönderilmesini bekleyebilirsiniz.",
     "_cameraScreen_switchCamera": "Kamerayı Değiştir",
     "_cameraScreen_capturePhotoErrorAlertMessage": "Fotoğraf çekilirken veya film güncellenirken bir hata oluştu.",
     "_cameraScreen_noDevice": "Kamera cihazı bulunamadı.",
@@ -43,6 +44,33 @@
     "_filmScreen_printRequestFailedMessage": "Baskı isteği başarısız oldu.",
     "_filmScreen_activityNotActiveErrorMessage": "Bu kamera artık aktif değil.",
     "_filmScreen_selectDevelopmentTime": "Teslim Süresi Seçin",
+
+    "_filmScreen_joinActivityTitle": "Aktiviteye Katıl",
+    "_filmScreen_joinActivityMessage": "Bu aktiviteye katılmak istiyor musunuz?",
+    "_filmScreen_invalidInvitationLink": "Geçersiz davet bağlantısı.",
+    "_filmScreen_joinRequestSentMessage": "Katılma isteğiniz başarıyla gönderildi.",
+    "_filmScreen_joinRequestError": "Katılma isteği gönderilirken bir hata oluştu.",
+    "_filmScreen_waitingForApproval": "Onay Bekleniyor",
+    "_filmScreen_joinRequestNotificationsTitle": "Katılma İstekleri",
+    "_filmScreen_noJoinRequests": "Bekleyen veya reddedilen katılım isteğiniz yok.",
+    "_filmScreen_sharedActivity": "Paylaşımlı Aktivite",
+    "_filmScreen_joinRequestStatusPending": "Beklemede",
+    "_filmScreen_joinRequestStatusRejected": "Reddedildi",
+    "_filmScreen_shareActivityTitle": "Aktiviteyi Paylaş",
+    "_filmScreen_shareActivityMessage": "Bu aktiviteyi paylaşmak istiyor musunuz?",
+    "_filmScreen_shareInviteTitle": "Aktivite Davet Bağlantısı",
+    "_filmScreen_shareFailedErrorMessage": "Aktivite paylaşılırken bir hata oluştu.",
+    "_filmScreen_filmIsFullAlertMessageParticipant": "Bu film rulosundaki tüm pozları kullandınız. Artık filmin baskıya gönderilmesini bekleyebilirsiniz.",
+
+    "_participantModal_statusActive": "Aktif",
+    "_participantModal_statusPending": "Beklemede",
+    "_participantModal_statusRejected": "Reddedildi",
+    "_participantModal_statusMissedUpload": "Yükleme Kaçırıldı",
+    "_participantModal_title": "Katılımcılar",
+    "_participantModal_noParticipants": "Bu aktivitede henüz katılımcı yok.",
+    "_participantModal_noRequestId": "Katılımcı bilgisi bulunamadı.",
+    "_participantModal_approveError": "Katılımcıyı onaylarken bir hata oluştu.",
+    "_participantModal_rejectError": "Katılımcıyı reddederken bir hata oluştu.",
 
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
     "_homeScreen_noCamerasFound": "Hiç Kamera Bulunamadı",
@@ -108,6 +136,10 @@
     "_common_sendToPrint": "Baskıya Gönder",
     "_common_filmEnded": "Film Rulosu Doldu",
     "_common_confirm": "Onayla",
-    "_common_loading": "Yükleniyor..."
+    "_common_loading": "Yükleniyor...",
+    "_common_join": "Katıl",
+    "_common_close": "Kapat",
+    "_common_accept": "Kabul Et",
+    "_common_reject": "Reddet"
 
 }
