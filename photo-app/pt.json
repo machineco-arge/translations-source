@@ -271,6 +271,10 @@
     "translation": "Ocorreu um erro ao rejeitar o participante.",
     "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
   },
+  "_participantModal_owner": {
+    "translation": "Proprietário da atividade",
+    "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "Carregando mais conteúdo...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
