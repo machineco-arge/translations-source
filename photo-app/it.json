@@ -95,6 +95,10 @@
     "translation": "Dispositivo fotocamera non trovato.",
     "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
   },
+  "_cameraScreen_activitySendedPrintError": {
+    "translation": "Non è più possibile scattare foto perché il rullino per questa attività è stato mandato in stampa.",
+    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+  },
   "_filmScreen_location": {
     "translation": "Posizione",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"

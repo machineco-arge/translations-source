@@ -95,6 +95,10 @@
     "translation": "카메라 장치를 찾을 수 없습니다.",
     "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
   },
+  "_cameraScreen_activitySendedPrintError": {
+    "translation": "이 활동의 필름 롤이 인쇄용으로 전송되었으므로 더 이상 사진을 찍을 수 없습니다.",
+    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+  },
   "_filmScreen_location": {
     "translation": "위치",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"

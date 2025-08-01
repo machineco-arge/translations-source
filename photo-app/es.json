@@ -95,6 +95,10 @@
     "translation": "Dispositivo de cámara no encontrado.",
     "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
   },
+  "_cameraScreen_activitySendedPrintError": {
+    "translation": "Ya no puedes hacer fotos porque el rollo de película para esta actividad se ha enviado a imprimir.",
+    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+  },
   "_filmScreen_location": {
     "translation": "Ubicación",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
