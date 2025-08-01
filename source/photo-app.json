@@ -25,6 +25,7 @@
     "_cameraScreen_switchCamera": "Kamerayı Değiştir",
     "_cameraScreen_capturePhotoErrorAlertMessage": "Fotoğraf çekilirken veya film güncellenirken bir hata oluştu.",
     "_cameraScreen_noDevice": "Kamera cihazı bulunamadı.",
+    "_cameraScreen_activitySendedPrintError": "Bu aktiviteye ait film rulosu baskıya gönderildiği için artık fotoğraf çekemezsiniz.",
 
     "_filmScreen_location": "Konum",
     "_filmScreen_date": "Tarih",
