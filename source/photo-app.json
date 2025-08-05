@@ -62,6 +62,7 @@
     "_filmScreen_shareInviteTitle": "Aktivite Davet Bağlantısı",
     "_filmScreen_shareFailedErrorMessage": "Aktivite paylaşılırken bir hata oluştu.",
     "_filmScreen_filmIsFullAlertMessageParticipant": "Bu film rulosundaki tüm pozları kullandınız. Artık filmin baskıya gönderilmesini bekleyebilirsiniz.",
+    "_filmScreen_linkShareError": "Bu aktivite için davet bağlantısı bulunamadı.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
