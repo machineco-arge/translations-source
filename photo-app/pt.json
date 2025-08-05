@@ -235,6 +235,10 @@
     "translation": "Utilizou todas as exposições deste rolo de filme. Agora pode esperar que o filme seja enviado para a impressora.",
     "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
   },
+  "_filmScreen_linkShareError": {
+    "translation": "Não foi encontrada nenhuma ligação de convite para esta atividade.",
+    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+  },
   "_participantModal_statusActive": {
     "translation": "Ativo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

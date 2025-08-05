@@ -235,6 +235,10 @@
     "translation": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름이 프린터로 전송될 때까지 기다릴 수 있습니다.",
     "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
   },
+  "_filmScreen_linkShareError": {
+    "translation": "이 활동에 대한 초대 링크를 찾을 수 없습니다.",
+    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+  },
   "_participantModal_statusActive": {
     "translation": "활성",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

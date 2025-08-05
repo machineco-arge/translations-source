@@ -235,6 +235,10 @@
     "translation": "您已经用完了这卷胶片上的所有曝光。现在您可以等待胶片被送往印片机。",
     "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
   },
+  "_filmScreen_linkShareError": {
+    "translation": "未找到该活动的邀请链接。",
+    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+  },
   "_participantModal_statusActive": {
     "translation": "活跃",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

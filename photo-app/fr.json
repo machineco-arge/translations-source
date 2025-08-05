@@ -235,6 +235,10 @@
     "translation": "Vous avez utilisé toutes les expositions de ce rouleau de film. Vous pouvez maintenant attendre que le film soit envoyé à l'imprimante.",
     "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
   },
+  "_filmScreen_linkShareError": {
+    "translation": "Aucun lien d'invitation n'a été trouvé pour cette activité.",
+    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+  },
   "_participantModal_statusActive": {
     "translation": "Actif",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

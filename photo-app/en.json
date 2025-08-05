@@ -235,6 +235,10 @@
     "translation": "You have used all the exposures on this roll of film. Now you can wait for the film to be sent to the printer.",
     "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
   },
+  "_filmScreen_linkShareError": {
+    "translation": "No invitation link found for this activity.",
+    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+  },
   "_participantModal_statusActive": {
     "translation": "Active",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
