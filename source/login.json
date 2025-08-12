@@ -1,8 +1,9 @@
 {
     "_success_": "Başarılı",
     "_error_": "Hata",
-    "userSignInErrorAlertMessage": "Giriş yaparken bir sorun oluştu. Hata: {{error}}",
-    "userRegisterErrorAlertMessage": "Kayıt yaparken bir sorun oluştu. Hata: {{error}}",
+    "userSignInErrorWrongPasswordAlertMessage": "Şifre yanlış. Lütfen tekrar deneyin.",
+    "userSignInErrorAlertMessage": "Giriş yaparken bir sorun oluştu.",
+    "userRegisterErrorAlertMessage": "Kayıt yaparken bir sorun oluştu.",
     "userSignInEnterEmailAndPasswordAlert": "Lütfen email ve şifre girin.",
     "userSignInEnterValidEmailAlert": "Lütfen geçerli bir e-posta adresi girin.",
     "userSignInLoginYourAccount": "Hesabınıza Giriş Yapın",
