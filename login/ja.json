@@ -7,13 +7,17 @@
     "translation": "エラー",
     "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
   },
+  "userSignInErrorWrongPasswordAlertMessage": {
+    "translation": "パスワードが間違っています。もう一度お試しください。",
+    "sourceHash": "eb5d4f0713b08bc5d596a18a68389475"
+  },
   "userSignInErrorAlertMessage": {
-    "translation": "ログインに問題が発生しました。エラーが発生しました： {{error}}",
-    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+    "translation": "ログインに問題がありました。",
+    "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
   "userRegisterErrorAlertMessage": {
-    "translation": "録画中に問題が発生しました。エラーが発生しました： {{error}}",
-    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+    "translation": "録音に問題がありました。",
+    "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Eメールアドレスとパスワードを入力してください。",

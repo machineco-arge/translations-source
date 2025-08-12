@@ -7,13 +7,17 @@
     "translation": "Errore",
     "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
   },
+  "userSignInErrorWrongPasswordAlertMessage": {
+    "translation": "La password non è corretta. Riprovare.",
+    "sourceHash": "eb5d4f0713b08bc5d596a18a68389475"
+  },
   "userSignInErrorAlertMessage": {
-    "translation": "Si è verificato un problema di accesso. Errore: {{error}}",
-    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+    "translation": "Si è verificato un problema di accesso.",
+    "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
   "userRegisterErrorAlertMessage": {
-    "translation": "Si è verificato un problema durante la registrazione. Errore: {{error}}",
-    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+    "translation": "C'è stato un problema di registrazione.",
+    "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Inserire l'e-mail e la password.",

@@ -7,13 +7,17 @@
     "translation": "Erro",
     "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
   },
+  "userSignInErrorWrongPasswordAlertMessage": {
+    "translation": "A palavra-passe está incorrecta. Por favor, tente novamente.",
+    "sourceHash": "eb5d4f0713b08bc5d596a18a68389475"
+  },
   "userSignInErrorAlertMessage": {
-    "translation": "Houve um problema ao iniciar a sessão. Erro: {{error}}",
-    "sourceHash": "51cf5ffd83f2c26f4246142da2f34a13"
+    "translation": "Houve um problema ao iniciar a sessão.",
+    "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
   "userRegisterErrorAlertMessage": {
-    "translation": "Ocorreu um problema durante a gravação. Erro: {{error}}",
-    "sourceHash": "817da03d556aa0310a925b21ad8a8f3f"
+    "translation": "Houve um problema na gravação.",
+    "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Introduza o seu e-mail e a sua palavra-passe.",
