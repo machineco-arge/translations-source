@@ -46,6 +46,7 @@
     "_filmScreen_activityNotActiveErrorMessage": "Bu kamera artık aktif değil.",
     "_filmScreen_selectDevelopmentTime": "Teslim Süresi Seçin",
 
+
     "_filmScreen_joinActivityTitle": "Aktiviteye Katıl",
     "_filmScreen_joinActivityMessage": "Bu aktiviteye katılmak istiyor musunuz?",
     "_filmScreen_invalidInvitationLink": "Geçersiz davet bağlantısı.",
@@ -74,6 +75,8 @@
     "_participantModal_approveError": "Katılımcıyı onaylarken bir hata oluştu.",
     "_participantModal_rejectError": "Katılımcıyı reddederken bir hata oluştu.",
     "_participantModal_owner": "Aktivite Sahibi",
+    "_participantModal_sessionKeyError": "Aktivite anahtarı gönderilemedi. Lütfen tekrar deneyin.",
+    "_participantModal_sessionKeySuccess": "Aktivite anahtarı başarıyla gönderildi.",
 
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
     "_homeScreen_noCamerasFound": "Hiç Kamera Bulunamadı",
