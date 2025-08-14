@@ -64,6 +64,7 @@
     "_filmScreen_shareFailedErrorMessage": "Aktivite paylaşılırken bir hata oluştu.",
     "_filmScreen_filmIsFullAlertMessageParticipant": "Bu film rulosundaki tüm pozları kullandınız. Artık filmin baskıya gönderilmesini bekleyebilirsiniz.",
     "_filmScreen_linkShareError": "Bu aktivite için davet bağlantısı bulunamadı.",
+    "_filmScreen_editNameError": "Aktivite ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
@@ -75,7 +76,7 @@
     "_participantModal_approveError": "Katılımcıyı onaylarken bir hata oluştu.",
     "_participantModal_rejectError": "Katılımcıyı reddederken bir hata oluştu.",
     "_participantModal_owner": "Aktivite Sahibi",
-    "_participantModal_sessionKeyError": "Aktivite anahtarı gönderilemedi. Lütfen tekrar deneyin.",
+    "_participantModal_sessionKeyError": "Aktivite anahtarı gönderilemedi. Lütfen daha sonra tekrar deneyin.",
     "_participantModal_sessionKeySuccess": "Aktivite anahtarı başarıyla gönderildi.",
 
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
