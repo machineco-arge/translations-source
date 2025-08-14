@@ -279,6 +279,14 @@
     "translation": "Eigentümer der Aktivität",
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
+  "_participantModal_sessionKeyError": {
+    "translation": "Der Aktivitätsschlüssel konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+  },
+  "_participantModal_sessionKeySuccess": {
+    "translation": "Der Aktivitätsschlüssel wurde erfolgreich gesendet.",
+    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "Mehr Inhalt laden...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"

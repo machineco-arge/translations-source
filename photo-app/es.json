@@ -279,6 +279,14 @@
     "translation": "Propietario de la actividad",
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
+  "_participantModal_sessionKeyError": {
+    "translation": "No se ha podido enviar la clave de actividad. Por favor, inténtelo de nuevo.",
+    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+  },
+  "_participantModal_sessionKeySuccess": {
+    "translation": "La clave de actividad se ha enviado correctamente.",
+    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "Cargando más contenido...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"

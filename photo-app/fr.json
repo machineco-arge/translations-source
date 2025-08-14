@@ -279,6 +279,14 @@
     "translation": "Propriétaire de l'activité",
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
+  "_participantModal_sessionKeyError": {
+    "translation": "La clé d'activité n'a pas pu être envoyée. Veuillez réessayer.",
+    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+  },
+  "_participantModal_sessionKeySuccess": {
+    "translation": "La clé d'activité a été envoyée avec succès.",
+    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "Chargement Plus de contenu...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"

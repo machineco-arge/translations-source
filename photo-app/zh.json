@@ -279,6 +279,14 @@
     "translation": "活动负责人",
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
+  "_participantModal_sessionKeyError": {
+    "translation": "活动密钥无法发送。请重试。",
+    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+  },
+  "_participantModal_sessionKeySuccess": {
+    "translation": "活动密钥已成功发送。",
+    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
   "_homeScreen_loadingMoreContent": {
     "translation": "加载更多内容...",
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
