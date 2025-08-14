@@ -239,6 +239,10 @@
     "translation": "Aucun lien d'invitation n'a été trouvé pour cette activité.",
     "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
   },
+  "_filmScreen_editNameError": {
+    "translation": "Une erreur s'est produite lors de la mise à jour du nom de l'activité. Veuillez réessayer plus tard.",
+    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+  },
   "_participantModal_statusActive": {
     "translation": "Actif",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -280,8 +284,8 @@
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "La clé d'activité n'a pas pu être envoyée. Veuillez réessayer.",
-    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+    "translation": "La clé d'activité n'a pas pu être envoyée. Veuillez réessayer plus tard.",
+    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
   },
   "_participantModal_sessionKeySuccess": {
     "translation": "La clé d'activité a été envoyée avec succès.",

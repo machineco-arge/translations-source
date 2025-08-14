@@ -239,6 +239,10 @@
     "translation": "Não foi encontrada nenhuma ligação de convite para esta atividade.",
     "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
   },
+  "_filmScreen_editNameError": {
+    "translation": "Ocorreu um erro ao atualizar o nome da atividade. Tente novamente mais tarde.",
+    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+  },
   "_participantModal_statusActive": {
     "translation": "Ativo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -280,8 +284,8 @@
     "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "Não foi possível enviar a chave de atividade. Por favor, tente novamente.",
-    "sourceHash": "0b7805e8eff932aa432c94d689c212ba"
+    "translation": "Não foi possível enviar a chave de atividade. Por favor, tente novamente mais tarde.",
+    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
   },
   "_participantModal_sessionKeySuccess": {
     "translation": "A chave de atividade foi enviada com sucesso.",
