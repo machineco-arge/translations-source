@@ -243,6 +243,14 @@
     "translation": "更新活动名称时出现错误。请稍后再试。",
     "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
   },
+  "_filmScreen_requestKeyError": {
+    "translation": "请求活动密钥时发生错误。",
+    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+  },
+  "_filmScreen_requestKeySuccess": {
+    "translation": "活动密钥请求已成功发送。",
+    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+  },
   "_participantModal_statusActive": {
     "translation": "活跃",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -290,6 +298,18 @@
   "_participantModal_sessionKeySuccess": {
     "translation": "活动密钥已成功发送。",
     "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
+  "_participantModal_sendSessionKey": {
+    "translation": "发送活动密钥",
+    "sourceHash": "19789df66647c81a679daec245f546b1"
+  },
+  "_participantModal_noHasSessionKey": {
+    "translation": "您没有活动钥匙。",
+    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+  },
+  "_participantModal_requestSessionKey": {
+    "translation": "再问一次",
+    "sourceHash": "1aa5ee8ec8d0977e45f077c44156958d"
   },
   "_homeScreen_loadingMoreContent": {
     "translation": "加载更多内容...",

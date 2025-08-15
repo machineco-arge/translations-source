@@ -243,6 +243,14 @@
     "translation": "There was an error updating the activity name. Please try again later.",
     "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
   },
+  "_filmScreen_requestKeyError": {
+    "translation": "An error occurred while requesting the activity key.",
+    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+  },
+  "_filmScreen_requestKeySuccess": {
+    "translation": "Activity key request sent successfully.",
+    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+  },
   "_participantModal_statusActive": {
     "translation": "Active",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -290,6 +298,18 @@
   "_participantModal_sessionKeySuccess": {
     "translation": "Activity key sent successfully.",
     "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
+  "_participantModal_sendSessionKey": {
+    "translation": "Send activity key",
+    "sourceHash": "19789df66647c81a679daec245f546b1"
+  },
+  "_participantModal_noHasSessionKey": {
+    "translation": "You don't have an activity key.",
+    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+  },
+  "_participantModal_requestSessionKey": {
+    "translation": "Ask again",
+    "sourceHash": "1aa5ee8ec8d0977e45f077c44156958d"
   },
   "_homeScreen_loadingMoreContent": {
     "translation": "Loading More Content...",

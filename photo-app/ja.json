@@ -243,6 +243,14 @@
     "translation": "アクティビティ名の更新にエラーが発生しました。後でもう一度お試しください。",
     "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
   },
+  "_filmScreen_requestKeyError": {
+    "translation": "アクティビティ・キーのリクエスト中にエラーが発生しました。",
+    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+  },
+  "_filmScreen_requestKeySuccess": {
+    "translation": "アクティビティ・キーのリクエストは正常に送信された。",
+    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+  },
   "_participantModal_statusActive": {
     "translation": "アクティブ",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -290,6 +298,18 @@
   "_participantModal_sessionKeySuccess": {
     "translation": "アクティビティ・キーの送信に成功した。",
     "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
+  "_participantModal_sendSessionKey": {
+    "translation": "アクティビティ・キーの送信",
+    "sourceHash": "19789df66647c81a679daec245f546b1"
+  },
+  "_participantModal_noHasSessionKey": {
+    "translation": "あなたはアクティビティ・キーを持っていない。",
+    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+  },
+  "_participantModal_requestSessionKey": {
+    "translation": "もう一度聞く",
+    "sourceHash": "1aa5ee8ec8d0977e45f077c44156958d"
   },
   "_homeScreen_loadingMoreContent": {
     "translation": "より多くのコンテンツを読み込む...",

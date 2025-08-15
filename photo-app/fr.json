@@ -243,6 +243,14 @@
     "translation": "Une erreur s'est produite lors de la mise à jour du nom de l'activité. Veuillez réessayer plus tard.",
     "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
   },
+  "_filmScreen_requestKeyError": {
+    "translation": "Une erreur s'est produite lors de la demande de la clé d'activité.",
+    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+  },
+  "_filmScreen_requestKeySuccess": {
+    "translation": "La demande de clé d'activité a été envoyée avec succès.",
+    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+  },
   "_participantModal_statusActive": {
     "translation": "Actif",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -290,6 +298,18 @@
   "_participantModal_sessionKeySuccess": {
     "translation": "La clé d'activité a été envoyée avec succès.",
     "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+  },
+  "_participantModal_sendSessionKey": {
+    "translation": "Envoyer la clé d'activité",
+    "sourceHash": "19789df66647c81a679daec245f546b1"
+  },
+  "_participantModal_noHasSessionKey": {
+    "translation": "Vous n'avez pas de clé d'activité.",
+    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+  },
+  "_participantModal_requestSessionKey": {
+    "translation": "Demander à nouveau",
+    "sourceHash": "1aa5ee8ec8d0977e45f077c44156958d"
   },
   "_homeScreen_loadingMoreContent": {
     "translation": "Chargement Plus de contenu...",
