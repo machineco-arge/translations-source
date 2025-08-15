@@ -65,6 +65,8 @@
     "_filmScreen_filmIsFullAlertMessageParticipant": "Bu film rulosundaki tüm pozları kullandınız. Artık filmin baskıya gönderilmesini bekleyebilirsiniz.",
     "_filmScreen_linkShareError": "Bu aktivite için davet bağlantısı bulunamadı.",
     "_filmScreen_editNameError": "Aktivite ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "_filmScreen_requestKeyError": "Aktivite anahtarı istenirken bir hata oluştu.",
+    "_filmScreen_requestKeySuccess": "Aktivite anahtarı isteği başarıyla gönderildi.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
@@ -78,6 +80,9 @@
     "_participantModal_owner": "Aktivite Sahibi",
     "_participantModal_sessionKeyError": "Aktivite anahtarı gönderilemedi. Lütfen daha sonra tekrar deneyin.",
     "_participantModal_sessionKeySuccess": "Aktivite anahtarı başarıyla gönderildi.",
+    "_participantModal_sendSessionKey": "Aktivite anahtarını gönder",
+    "_participantModal_noHasSessionKey": "Aktivite anahtarın yok.",
+    "_participantModal_requestSessionKey": "Tekrar iste",
 
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
     "_homeScreen_noCamerasFound": "Hiç Kamera Bulunamadı",
