@@ -477,6 +477,190 @@
     "translation": "黑暗模式",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "帮助和常见问题",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "帮助和常见问题 (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "本指南旨在帮助您更好地了解 Foto App 并充分利用其功能。",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "基本概念",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "什么是虚拟摄像机？",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "相机活动 \"就像一卷数码胶卷。它将您喜欢的**商店**的相机滤镜与一卷有曝光次数限制（如 12、24、36 次曝光）的胶卷结合在一起。您创建的每台相机都会将您拍摄的照片归类到一个特殊的相册中。",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "什么是照片洗印（打印）？",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "当您在相机活动中或在任何时候拍摄完胶卷上的所有曝光后，可以 \"发送打印 \"相机中的胶卷。这将启动一个倒计时，让您的照片 \"冲洗 \"出来，并在您选择的时间段（如 8、24、36 小时）后显示出来。时间一到，您的加密照片就会被解密并出现在您的相册中。",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "主要功能",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "我能在商店里做些什么？",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "在商店中，您可以发现应用程序中所有独特的相机滤镜。每个相机代表一种滤镜，都有自己独特的颜色、质感和个性。点击相机，就能看到使用该滤镜拍摄的 \"前后 \"样照，然后选择最适合自己风格的滤镜。",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "如何创建新的相机活动？",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "从商店中点击喜欢的相机，进入 \"选择相机胶卷 \"界面。在此，您可以选择不同曝光次数（如 12、24、36）的胶卷之一，与您选择的滤镜一起使用，从而创建新的相机活动。",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "照相机",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "相机卡是什么意思？",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "每张卡片代表一个虚拟摄像机，并显示以下信息：\n- 标题：** 相机名称，您可以更改。\n- 日期和地点：** 相机的创建日期以及（如果有）最后一张照片的拍摄地点。\n- 照片信息：** 所用胶卷的曝光次数（例如 15/24）。",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "如何为现有相机添加照片？",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "如果胶卷上有空闲曝光，您可以点击 \"我的相机 \"屏幕上相应的相机活动，直接切换到相机屏幕继续拍照。",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "如何更改相机名称？",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "点击每张相机卡旁边的铅笔图标，即可为相机取一个特殊的名字。",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "如何发送照片以供打印？",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "点击相机活动下的 \"发送到打印 \"按钮。然后选择照片的准备时间（如 8、12、24、36 小时）。记住，如果时间较短（Express），您可能需要观看有奖广告。",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "共享摄像头",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "如何共享照相机？",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "在 \"我的相机 \"界面中，轻按要共享的相机卡上的共享图标。这将使相机成为共享相机活动，并为活动创建一个邀请链接。您可以将此链接发送给朋友邀请他们。",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "如何加入共享摄像头？",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "点击发送给您的邀请链接。应用程序打开后，您加入相机的请求将发送给相机所有者。相机所有者批准您的请求后，相机就会出现在您的 \"我的相机 \"屏幕上，您就可以开始拍照了。",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "参与申请和通知",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "摄像机所有者可以通过轻按摄像机卡上的 \"参与者 \"图标来查看、批准或拒绝收到的请求。批准或拒绝时，您都会收到通知。您可以通过 \"我的摄像机 \"界面右上角的铃铛图标跟踪所有通知。",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "安全与隐私（端到端加密）",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "您在共享相机上的所有照片都经过**端到端加密**。这意味着，除了相机所有者和经批准的参与者，**任何人（包括 FotoApp 团队）都无法看到您的照片。每个共享相机都会生成一个私人 \"会话密钥\"，只有参与者的设备才能使用该密钥，所有加密/解密都直接在您的设备上完成。这样，您和您的朋友就可以完全私密地保存您的记忆。\n- 如果您在进行共享摄像头活动时不小心删除了应用程序并丢失了 \"会话密钥\"，那么在重新下载应用程序后，您将在相关的摄像头活动中看到警告。对于所有看到此警告的共享照相机活动，您都可以再次向该活动的参与者索取 \"会话密钥\"。",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "相册",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "什么是 \"专辑 \"和 \"人工智能 \"选项卡？",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- 相册：** 在此，您可以分组查找用普通相机冲洗的照片。\n- AI：** 使用人工智能（AI）相机创建的照片将在此选项卡中单独列出。",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "如何处理我的照片？",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "在全屏模式下：\n- 保存：** 您可以将照片保存到设备的相册中。\n- 分享：** 您可以通过其他应用程序分享照片。\n- 删除：** 您可以从应用程序中永久删除照片。\n- 制作个人照片：** 您可以将照片设置为应用程序内的个人照片。",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "人工智能摄像头",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "如何使用人工智能摄像头？",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "进入主导航中的 \"AI \"选项卡。选择喜欢的 AI 效果并拍照。照片处理完成后，将出现在 \"相册\"->\"AI \"选项卡中。",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "设置和简介",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "如何整理我的个人资料？",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "进入 \"相册 \"选项卡后，您可以在顶部的 \"个人资料 \"部分或设置菜单中的 \"账户 \"更新个人资料信息和照片。",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "如何更改应用程序主题（深色/浅色模式）？",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "您可以从 \"设置\">\"暗/亮模式 \"菜单中选择所需的主题。",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "如何更改应用程序语言？",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "您可以在 \"设置\">\"语言 \"菜单中更改应用程序语言。",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

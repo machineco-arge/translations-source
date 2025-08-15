@@ -477,6 +477,190 @@
     "translation": "Modo oscuro",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Ayuda y FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Ayuda y preguntas frecuentes (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Esta guía está diseñada para ayudarle a comprender mejor Foto App y a utilizar plenamente sus funciones.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Conceptos básicos",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "¿Qué es la cámara virtual?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Una \"Actividad de cámara\" es como un rollo de película digital. Combina un filtro de cámara que te guste de **Tienda** con un rollo de película con un número limitado de derechos de exposición (por ejemplo, 12, 24, 36 exposiciones). Cada cámara que creas agrupa las fotos que haces en un álbum especial.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "¿Qué es el baño fotográfico (impresión)?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Cuando haya completado todas las exposiciones del rollo de película en una actividad de la cámara, o en cualquier momento, puede \"enviar a imprimir\" el rollo de película de la cámara. Esto inicia una cuenta atrás que permite que tus fotos se \"revelen\" y sean visibles tras un periodo de tiempo de tu elección (por ejemplo, 8, 24, 36 horas). Una vez transcurrido el tiempo, tus fotos encriptadas se desencriptan y aparecen en tu álbum.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Características principales",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "¿Qué puedo hacer en la Tienda?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "En la Tienda podrás descubrir todos los filtros de cámara exclusivos de la aplicación. Cada cámara representa un filtro con su propio color, textura y carácter únicos. Al tocar en las cámaras, puedes ver fotos de muestra del \"antes y el después\" tomadas con ese filtro y elegir la que mejor se adapte a tu estilo.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "¿Cómo puedo crear una nueva actividad de cámara?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Pulse sobre una cámara que le guste de la Tienda para ir a la pantalla \"Seleccionar rollo de cámara\". Aquí puede crear su nueva actividad de cámara seleccionando uno de los rollos de película con diferentes números de exposición (como 12, 24, 36) para utilizarlo con el filtro que desee.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Cámaras",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "¿Qué significan las tarjetas de cámara?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Cada tarjeta representa una cámara virtual y muestra la siguiente información:\n- **Título:** El nombre de la cámara, que puedes cambiar.\n- Fecha y ubicación:** La fecha de creación de la cámara y (si está disponible) la ubicación donde se tomó la última foto.\n- Información de la foto:** El número de exposiciones utilizadas en el rollo de película que está utilizando (por ejemplo, 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "¿Cómo añado una foto a una cámara existente?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Si hay una exposición vacía en el rollo de película, puedes tocar la actividad de cámara correspondiente en la pantalla \"Mis cámaras\" para cambiar directamente a la pantalla de la cámara y seguir haciendo fotos.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "¿Cómo cambio el nombre de mi cámara?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "Puedes dar un nombre especial a tu cámara tocando el icono del lápiz situado junto a cada tarjeta de cámara.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "¿Cómo envío mis fotos a imprimir?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Pulse el botón \"Enviar a imprimir\" bajo la actividad de la cámara. A continuación, seleccione el tiempo que desea que sus fotos estén listas (por ejemplo, 8, 12, 24, 36 horas). Recuerde que para tiempos más cortos (Express) puede que necesite ver un anuncio premiado.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Cámaras compartidas",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "¿Cómo puedo compartir una cámara?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "En la pantalla \"Mis cámaras\", toca el icono de compartir en la tarjeta de la cámara que quieras compartir. Esto convertirá la cámara en una actividad de cámara compartida y creará un enlace de invitación para la actividad. Puedes enviar este enlace a tus amigos para invitarles.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "¿Cómo me uno a una cámara compartida?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Haz clic en el enlace de invitación que se te ha enviado. Cuando se abra la aplicación, tu solicitud para unirte a la cámara se enviará al propietario de la cámara. Una vez que el propietario de la cámara apruebe tu solicitud, la cámara aparecerá en tu pantalla \"Mis cámaras\" y podrás empezar a hacer fotos.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Solicitudes de participación y notificaciones",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "El propietario de la cámara puede ver, aprobar o rechazar las solicitudes entrantes tocando el icono \"Participantes\" en la tarjeta de la cámara. Recibirá una notificación cuando sea aprobada o rechazada. Puede realizar un seguimiento de todas las notificaciones mediante el icono de campana situado en la esquina superior derecha de la pantalla \"Mis cámaras\".",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Seguridad y privacidad (cifrado de extremo a extremo)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Todas tus fotos en cámaras compartidas están **encriptadas de extremo a extremo**. Esto significa que **NADIE** (incluido el equipo de FotoApp) puede ver tus fotos excepto el propietario de la cámara y los participantes aprobados. Se genera una \"clave de sesión\" privada para cada cámara compartida, que sólo está disponible en los dispositivos de los participantes, y todo el cifrado/descifrado se realiza directamente en tu dispositivo. Esto mantiene tus recuerdos completamente privados para ti y tus amigos.\n- Si borras accidentalmente la aplicación y pierdes la \"clave de sesión\" mientras estás en una actividad de cámara compartida, verás un aviso en la actividad de cámara correspondiente después de volver a descargar la aplicación. Para todas las actividades de cámara compartida en las que veas esta advertencia, puedes volver a solicitar una \"clave de sesión\" a los participantes de esa actividad.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Álbum",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "¿Qué son las pestañas Álbumes y AI?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- **Álbumes:** Aquí puedes encontrar tus fotos reveladas desde tus cámaras normales en grupos.\n- **AI:** Las fotos creadas con cámaras de inteligencia artificial (AI) aparecen por separado en esta pestaña.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "¿Qué puedo hacer con mis fotos?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "En modo de pantalla completa:\n- **Guardar:** Puedes guardar la foto en la galería de tu dispositivo.\n- Compartir:** Puedes compartir la foto a través de otras aplicaciones.\n- Eliminar:** Puedes eliminar permanentemente la foto de la aplicación.\n- Hacer foto de perfil:** Puedes establecer la foto como tu foto de perfil dentro de la aplicación.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "Cámaras AI",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "¿Cómo utilizar las cámaras AI?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Ve a la pestaña \"AI\" en la navegación principal. Selecciona un efecto AI que te guste y haz la foto. Una vez procesada la foto, aparecerá en la pestaña \"Álbum\" -> \"AI\".",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Configuración y perfil",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "¿Cómo organizo mi perfil?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "Cuando estés en la pestaña \"Álbum\", puedes actualizar la información de tu perfil y tu foto en la sección de perfil de la parte superior o yendo a \"Cuenta\" en el menú Configuración.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "¿Cómo puedo cambiar el tema de la aplicación (modo oscuro/claro)?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "Puedes seleccionar el tema deseado en el menú Ajustes > \"Modo oscuro/claro\".",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "¿Cómo puedo cambiar el idioma de la aplicación?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "Puedes cambiar el idioma de la aplicación en el menú Ajustes > \"Idioma\".",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

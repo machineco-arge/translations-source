@@ -477,6 +477,190 @@
     "translation": "Modalità scura",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Aiuto e FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Aiuto e domande frequenti (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Questa guida è stata pensata per aiutarvi a comprendere meglio Foto App e a utilizzarne appieno le funzioni.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Concetti di base",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "Che cos'è la telecamera virtuale?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Un'\"Attività fotocamera\" è come un rullino digitale. Combina un filtro per fotocamera a scelta dal **Store** con un rullino con un numero limitato di diritti di esposizione (ad esempio, 12, 24, 36 esposizioni). Ogni fotocamera creata raggruppa le foto scattate in un album speciale.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "Che cos'è il bagno fotografico (stampa)?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Quando si sono riempite tutte le esposizioni del rullino in un'attività della fotocamera, o in qualsiasi momento, è possibile \"inviare in stampa\" il rullino nella fotocamera. In questo modo si avvia un conto alla rovescia che consente alle foto di essere \"sviluppate\" e di diventare visibili dopo un periodo di tempo a scelta (ad esempio 8, 24, 36 ore). Allo scadere del tempo, le foto criptate vengono decriptate e appaiono nell'album.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Caratteristiche principali",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "Cosa posso fare nel Negozio?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "Lo Store è il luogo in cui è possibile scoprire tutti gli esclusivi filtri della fotocamera presenti nell'app. Ogni fotocamera rappresenta un filtro con un colore, una texture e un carattere unici. Toccando le fotocamere, è possibile vedere le foto campione \"prima e dopo\" scattate con quel filtro e scegliere quella che meglio si adatta al proprio stile.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "Come si crea una nuova attività della fotocamera?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Toccare una fotocamera di proprio gradimento dallo Store per accedere alla schermata \"Seleziona rullino fotografico\". Qui è possibile creare la nuova attività della fotocamera selezionando uno dei rullini con diversi numeri di esposizione (ad esempio 12, 24, 36) da utilizzare con il filtro desiderato.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Telecamere",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "Cosa significano le schede delle fotocamere?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Ogni scheda rappresenta una telecamera virtuale e mostra le seguenti informazioni:\n- **Titolo:** Il nome della fotocamera, che può essere modificato.\n- Data e luogo:** La data di creazione della fotocamera e (se disponibile) il luogo in cui è stata scattata l'ultima foto.\n- Info foto:** Il numero di esposizioni utilizzate sul rullino in uso (ad esempio, 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "Come si aggiunge una foto a una fotocamera esistente?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Se nel rullino c'è un'esposizione vuota, è possibile toccare l'attività corrispondente della fotocamera nella schermata \"Le mie fotocamere\" per passare direttamente alla schermata della fotocamera e continuare a scattare foto.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "Come posso cambiare il nome della mia fotocamera?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "È possibile assegnare un nome speciale alla fotocamera toccando l'icona della matita accanto a ciascuna scheda.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "Come posso inviare le mie foto da stampare?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Toccare il pulsante \"Invia a stampa\" sotto l'attività della fotocamera. Quindi selezionare per quanto tempo si desidera che le foto siano pronte (ad esempio 8, 12, 24, 36 ore). Ricordare che per tempi più brevi (Express) potrebbe essere necessario guardare una pubblicità a pagamento.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Telecamere condivise",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "Come si fa a condividere una fotocamera?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "Nella schermata \"Le mie fotocamere\", toccare l'icona di condivisione sulla scheda della fotocamera che si desidera condividere. In questo modo la fotocamera diventerà un'attività condivisa e verrà creato un link di invito per l'attività. È possibile inviare questo link agli amici per invitarli.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "Come si fa a partecipare a una telecamera condivisa?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Fare clic sul link di invito inviato. All'apertura dell'applicazione, la richiesta di adesione alla fotocamera verrà inviata al proprietario della stessa. Dopo che il proprietario della fotocamera avrà approvato la richiesta, la fotocamera apparirà nella schermata \"Le mie fotocamere\" e si potrà iniziare a scattare foto.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Richieste di partecipazione e notifiche",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "Il proprietario della telecamera può visualizzare, approvare o rifiutare le richieste in arrivo toccando l'icona \"Partecipanti\" sulla scheda della telecamera. Riceverà una notifica quando la richiesta viene approvata o rifiutata. È possibile tenere traccia di tutte le notifiche tramite l'icona della campanella nell'angolo in alto a destra della schermata \"Le mie telecamere\".",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Sicurezza e privacy (crittografia end-to-end)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Tutte le foto sulle fotocamere condivise sono **crittografate end-to-end**. Ciò significa che **NESSUNO** (compreso il team di FotoApp) può vedere le foto, tranne il proprietario della fotocamera e i partecipanti approvati. Per ogni fotocamera condivisa viene generata una \"chiave di sessione\" privata, disponibile solo sui dispositivi dei partecipanti, e tutte le operazioni di crittografia/decrittografia vengono eseguite direttamente sul vostro dispositivo. In questo modo i ricordi sono completamente privati per voi e per i vostri amici.\n- Se si cancella accidentalmente l'app e si perde la \"chiave di sessione\" durante un'attività con telecamera condivisa, dopo aver scaricato nuovamente l'app verrà visualizzato un avviso sull'attività con telecamera correlata. Per tutte le attività con telecamera condivisa in cui viene visualizzato questo avviso, è possibile richiedere nuovamente la \"chiave di sessione\" ai partecipanti dell'attività.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Album",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "Cosa sono le schede Album e AI?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- **Album: ** Qui si trovano le foto sviluppate con le normali fotocamere, suddivise in gruppi.\n- Le foto create con le fotocamere con intelligenza artificiale (AI) sono elencate separatamente in questa scheda.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "Cosa posso fare con le mie foto?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "In modalità schermo intero:\n- Salva:** È possibile salvare la foto nella galleria del dispositivo.\n- Condividi:** È possibile condividere la foto tramite altre applicazioni.\n- Elimina:** È possibile eliminare definitivamente la foto dall'applicazione.\n- Crea foto profilo:** È possibile impostare la foto come immagine del profilo dell'applicazione.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "Telecamere AI",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "Come utilizzare le telecamere AI?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Andare alla scheda \"AI\" nella navigazione principale. Selezionare l'effetto AI desiderato e scattare la foto. Una volta elaborata, la foto apparirà nella scheda \"Album\" -> \"AI\".",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Impostazioni e profilo",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "Come posso organizzare il mio profilo?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "Quando si è nella scheda \"Album\", è possibile aggiornare le informazioni e la foto del profilo nella sezione del profilo in alto o andando su \"Account\" nel menu Impostazioni.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "Come si cambia il tema dell'applicazione (modalità Dark/Light)?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "È possibile selezionare il tema desiderato dal menu Impostazioni > \"Modalità scura/luminosa\".",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "Come si cambia la lingua dell'applicazione?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "È possibile modificare la lingua dell'applicazione nel menu Impostazioni > \"Lingua\".",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

@@ -477,6 +477,190 @@
     "translation": "Mode sombre",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Aide et FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Aide et questions fréquemment posées (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Ce guide est conçu pour vous aider à mieux comprendre l'application Foto et à utiliser pleinement ses fonctionnalités.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Concepts de base",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "Qu'est-ce que la caméra virtuelle ?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Une \"activité photo\" est comparable à un rouleau de pellicule numérique. Il combine un filtre d'appareil photo que vous aimez dans le **Magasin** et un rouleau de film avec un nombre limité de droits d'exposition (par exemple, 12, 24, 36 expositions). Chaque appareil photo que vous créez regroupe les photos que vous prenez dans un album spécial.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "Qu'est-ce que le bain photo (impression) ?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Lorsque vous avez effectué toutes les expositions sur le rouleau de film dans le cadre d'une activité de l'appareil photo, ou à tout moment, vous pouvez \"envoyer à l'impression\" le rouleau de film dans l'appareil photo. Cela déclenche un compte à rebours qui permet à vos photos d'être \"développées\" et de devenir visibles après une période de temps de votre choix (par exemple, 8, 24, 36 heures). Une fois le délai écoulé, vos photos cryptées sont décryptées et apparaissent dans votre album.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Caractéristiques principales",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "Que puis-je faire dans le magasin ?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "La boutique est l'endroit où vous pouvez découvrir tous les filtres d'appareil photo uniques de l'application. Chaque appareil photo représente un filtre dont la couleur, la texture et le caractère sont uniques. En appuyant sur les appareils photo, vous pouvez voir des exemples de photos \"avant et après\" prises avec ce filtre et choisir celui qui correspond le mieux à votre style.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "Comment créer une nouvelle activité photo ?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Tapez sur l'appareil photo de votre choix dans la boutique pour accéder à l'écran \"Sélectionner le rouleau d'appareil photo\". Ici, vous pouvez créer votre nouvelle activité photo en sélectionnant l'un des rouleaux de film avec différents numéros d'exposition (tels que 12, 24, 36) à utiliser avec le filtre de votre choix.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Caméras",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "Que signifient les cartes d'appareil photo ?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Chaque carte représente une caméra virtuelle et affiche les informations suivantes :\n- **Titre:** Nom de l'appareil photo, que vous pouvez modifier.\n- Date et lieu:** La date de création de l'appareil photo et (si disponible) le lieu où la dernière photo a été prise.\n- Info photo:** Le nombre d'expositions utilisées sur le rouleau de film que vous utilisez (par exemple, 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "Comment ajouter une photo à un appareil photo existant ?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Si le rouleau de film est vide, vous pouvez appuyer sur l'activité de l'appareil photo correspondant sur l'écran \"Mes appareils photo\" pour passer directement à l'écran de l'appareil photo et continuer à prendre des photos.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "Comment modifier le nom de mon appareil photo ?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "Vous pouvez donner un nom spécial à votre appareil photo en appuyant sur l'icône en forme de crayon à côté de chaque carte d'appareil photo.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "Comment envoyer mes photos à imprimer ?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Appuyez sur le bouton \"Envoyer à l'impression\" sous l'activité de l'appareil photo. Sélectionnez ensuite la durée pendant laquelle vous souhaitez que vos photos soient prêtes (par exemple, 8, 12, 24, 36 heures). N'oubliez pas que pour les délais plus courts (Express), vous devrez peut-être regarder une publicité récompensée.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Caméras partagées",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "Comment partager un appareil photo ?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "Sur l'écran \"Mes appareils photo\", appuyez sur l'icône de partage de la carte de l'appareil photo que vous souhaitez partager. L'appareil photo devient alors une activité partagée et un lien d'invitation est créé pour l'activité. Vous pouvez envoyer ce lien à vos amis pour les inviter.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "Comment rejoindre une caméra partagée ?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Cliquez sur le lien d'invitation qui vous a été envoyé. Lorsque l'application s'ouvre, votre demande de participation à l'appareil photo est envoyée au propriétaire de l'appareil. Une fois que le propriétaire de la caméra a approuvé votre demande, la caméra apparaît sur votre écran \"Mes caméras\" et vous pouvez commencer à prendre des photos.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Demandes de participation et notifications",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "Le propriétaire de la caméra peut visualiser, approuver ou rejeter les demandes entrantes en appuyant sur l'icône \"Participants\" de la carte de la caméra. Vous recevrez une notification lorsque votre demande sera approuvée ou rejetée. Vous pouvez suivre toutes vos notifications grâce à l'icône de cloche située dans le coin supérieur droit de l'écran \"Mes caméras\".",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Sécurité et protection de la vie privée (chiffrement de bout en bout)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Toutes vos photos sur les caméras partagées sont **encryptées de bout en bout**. Cela signifie que **PERSONNE** (y compris l'équipe de FotoApp) ne peut voir vos photos à l'exception du propriétaire de l'appareil et des participants approuvés. Une \"clé de session\" privée est générée pour chaque appareil photo partagé, qui n'est disponible que sur les appareils des participants, et tout le cryptage/décryptage est effectué directement sur votre appareil. Ainsi, vos souvenirs restent totalement confidentiels pour vous et vos amis.\n- Si vous supprimez accidentellement l'application et perdez la \"clé de session\" alors que vous êtes dans une activité de caméra partagée, vous verrez un avertissement sur l'activité de caméra concernée après avoir téléchargé l'application à nouveau. Pour toutes les activités de caméra partagée pour lesquelles vous voyez cet avertissement, vous pouvez demander une \"clé de session\" aux participants de cette activité.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Album",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "Qu'est-ce que les onglets Albums et AI ?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- Albums:** Vous trouverez ici les photos créées avec vos appareils photo habituels, classées par groupes.\n- Les photos créées avec des appareils photo à intelligence artificielle (IA) sont répertoriées séparément dans cet onglet.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "Que puis-je faire avec mes photos ?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "En mode plein écran :\n- Sauvegarder:** Vous pouvez sauvegarder la photo dans la galerie de votre appareil.\n- Partager:** Vous pouvez partager la photo via d'autres applications.\n- Supprimer:** Vous pouvez supprimer définitivement la photo de l'application.\n- Faire une photo de profil:** Vous pouvez définir la photo comme votre photo de profil dans l'application.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "Caméras IA",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "Comment utiliser les caméras d'IA ?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Accédez à l'onglet \"AI\" dans la navigation principale. Sélectionnez un effet AI qui vous plaît et prenez votre photo. Une fois votre photo traitée, elle apparaîtra dans l'onglet \"Album\" -> \"AI\".",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Paramètres et profil",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "Comment organiser mon profil ?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "Lorsque vous êtes dans l'onglet \"Album\", vous pouvez mettre à jour vos informations de profil et votre photo dans la section de profil en haut de la page ou en allant dans \"Compte\" dans le menu \"Paramètres\".",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "Comment modifier le thème de l'application (mode sombre/clair) ?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "Vous pouvez sélectionner le thème souhaité dans le menu Paramètres > \"Mode sombre/clair\".",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "Comment changer la langue de l'application ?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "Vous pouvez changer la langue de l'application dans le menu Paramètres > \"Langue\".",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Photo",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

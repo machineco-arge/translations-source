@@ -477,6 +477,190 @@
     "translation": "ダークモード",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "ヘルプとFAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "ヘルプとよくある質問 (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "このガイドは、Foto Appをよりよく理解し、その機能を十分に活用していただくためのものです。",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "基本コンセプト",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "バーチャルカメラとは？",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "カメラ・アクティビティ \"はデジタルフィルムのようなものです。これは、**Store**から気に入ったカメラフィルターと、露光回数に制限のあるロールフィルム（12回、24回、36回など）を組み合わせたものです。あなたが作成した各カメラは、特別なアルバムに撮影した写真をグループ化します。",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "フォトバス（プリント）とは？",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "カメラのアクティビティでロールフィルムの露光がすべて終わったとき、またはいつでも、カメラ内のロールフィルムを「プリントに送る」ことができます。これによりカウントダウンが開始され、選択した時間（8時間、24時間、36時間など）が経過すると、写真が「現像」されて見えるようになります。時間が経過すると、暗号化された写真が復号化され、アルバムに表示されます。",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "主な特徴",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "ショップでは何ができますか？",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "ストアは、アプリ内のすべてのユニークなカメラフィルターを発見できる場所です。各カメラは、独自の色、質感、個性を持つフィルターを表しています。カメラをタップすると、そのフィルターで撮影された「ビフォー・アフター」のサンプル写真を見ることができ、あなたのスタイルに最も適したものを選ぶことができます。",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "新しいカメラ・アクティビティを作成するには？",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "ストアから気に入ったカメラをタップして、「カメラロールを選択」画面に進みます。ここで、異なる露出番号（12、24、36など）のフィルムロールから1つを選択し、お好みのフィルターで使用することで、新しいカメラ・アクティビティを作成できます。",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "カメラ",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "カメラカードとは？",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "各カードは仮想カメラを表し、以下の情報を表示します：\n- カメラ名（変更可能）。\n- 日付と撮影場所:** カメラが作成された日付と、（もしあれば）最後に撮影された場所。\n- Photo Info:**使用しているフィルムの露光回数（例：15/24）。",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "既存のカメラに写真を追加するには？",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "フィルムロールに空の露光がある場合は、「マイカメラ」画面で対応するカメラのアクティビティをタップすると、直接カメラ画面に切り替わり、撮影を続けることができます。",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "カメラの名前を変更するには？",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "各カメラカードの横にある鉛筆のアイコンをタップすると、カメラに特別な名前を付けることができます。",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "どのように写真を送ればプリントできますか？",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "カメラアクティビティの下にある \"プリントに送る \"ボタンをタップします。次に、写真の準備期間を選択します（例：8時間、12時間、24時間、36時間）。短い時間（エクスプレス）の場合は、リワード広告を見る必要があるかもしれないことを覚えておいてください。",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "共用カメラ",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "カメラを共有するには？",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "マイカメラ」画面で、共有したいカメラカードの共有アイコンをタップします。これにより、カメラが共有カメラ・アクティビティになり、アクティビティの招待リンクが作成されます。このリンクを友達に送って招待することができます。",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "共有カメラに参加するには？",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "送信された招待リンクをクリックします。アプリケーションが開くと、カメラへの参加リクエストがカメラオーナーに送信されます。カメラオーナーがあなたのリクエストを承認すると、カメラがあなたの \"マイカメラ \"画面に表示され、撮影を開始することができます。",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "参加要請と通知",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "カメラのオーナーは、カメラカードの「参加者」アイコンをタップすることで、受信リクエストの表示、承認、拒否ができます。承認または拒否されると、通知が届きます。マイ・カメラ \"画面の右上にあるベル・アイコンを使って、すべての通知を追跡できます。",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "セキュリティとプライバシー（エンドツーエンドの暗号化）",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "共有カメラの写真はすべて**エンドツーエンドで暗号化**されます。つまり、カメラの所有者と承認された参加者以外の**誰も**（FotoAppチームを含む）あなたの写真を見ることができません。共有カメラごとにプライベートな「セッションキー」が生成され、参加者のデバイスでのみ使用できます。このため、思い出を完全に非公開に保つことができます。\n- 共有カメラ・アクティビティ中に誤ってアプリケーションを削除し、「セッション・キー」を紛失した場合、アプリケーションを再度ダウンロードすると、該当するカメラ・アクティビティに警告が表示されます。この警告が表示されたすべての共有カメラ・アクティビティでは、そのアクティビティの参加者に再度「セッション・キー」をリクエストできます。",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "アルバム",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "アルバムとAIタブとは何ですか？",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- アルバム:** ここでは、通常のカメラで現像した写真をグループで見つけることができます。\n- AI:**人工知能(AI)カメラで作成された写真は、このタブに個別に表示されます。",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "自分の写真で何ができますか？",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "フルスクリーンモードで\n- 保存:**デバイスのギャラリーに写真を保存することができます。\n- 共有：**他のアプリケーションを介して写真を共有することができます。\n- 削除:** アプリケーションから写真を完全に削除できます。\n- プロフィール写真にする：** 写真をアプリ内のプロフィール写真に設定できます。",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "AIカメラ",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "AIカメラの使い方",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "メインナビゲーションの \"AI \"タブに移動します。お好みのAIエフェクトを選択し、写真を撮影します。写真が処理されると、「アルバム」→「AI」タブに表示されます。",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "設定とプロフィール",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "自分のプロフィールを整理するには？",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "アルバム \"タブでは、上部のプロフィールセクション、または設定メニューの \"アカウント \"からプロフィール情報と写真を更新することができます。",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "アプリケーションのテーマ（ダーク/ライトモード）を変更する方法を教えてください。",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "設定 > \"ダーク/ライトモード \"メニューから希望のテーマを選択できます。",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "アプリケーションの言語を変更するには？",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "アプリケーションの言語は、設定 > \"言語 \"メニューで変更できます。",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "写真",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

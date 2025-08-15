@@ -477,6 +477,190 @@
     "translation": "다크 모드",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "도움말 및 FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "도움말 및 자주 묻는 질문(FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "이 가이드는 포토 앱을 더 잘 이해하고 기능을 최대한 활용할 수 있도록 돕기 위해 마련되었습니다.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "기본 개념",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "가상 카메라란 무엇인가요?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "'카메라 활동'은 디지털 필름 롤과 같습니다. 스토어**에서 원하는 카메라 필터를 노출 수가 제한된 필름 롤(예: 12, 24, 36 노출)과 결합합니다. 생성한 각 카메라는 촬영한 사진을 특별한 앨범에 그룹화합니다.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "포토 배스(인쇄)란 무엇인가요?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "카메라 활동에서 필름 롤의 노출을 모두 채웠을 때 또는 언제든지 카메라에서 필름 롤을 \"인쇄하도록 보내기\"를 할 수 있습니다. 그러면 선택한 시간(예: 8시간, 24시간, 36시간) 후에 사진을 \"현상\"하고 볼 수 있도록 카운트다운이 시작됩니다. 시간이 다 되면 암호화된 사진이 해독되어 앨범에 표시됩니다.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "주요 기능",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "상점에서 무엇을 할 수 있나요?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "스토어에서는 앱의 모든 독특한 카메라 필터를 찾을 수 있습니다. 각 카메라는 고유한 색상, 질감 및 특성을 가진 필터를 나타냅니다. 카메라를 탭하면 해당 필터로 촬영한 '전후' 샘플 사진을 보고 자신의 스타일에 가장 잘 맞는 필터를 선택할 수 있습니다.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "새 카메라 활동을 만들려면 어떻게 하나요?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "스토어에서 마음에 드는 카메라를 탭하여 '카메라 롤 선택' 화면으로 이동합니다. 여기에서 노출 번호가 다른 필름 롤(예: 12, 24, 36) 중 하나를 선택하여 원하는 필터와 함께 사용할 새 카메라 활동을 만들 수 있습니다.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "카메라",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "카메라 카드란 무엇인가요?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "각 카드는 가상 카메라를 나타내며 다음 정보를 표시합니다:\n- **제목:** 카메라 이름(변경할 수 있음).\n- 날짜 및 위치:** 카메라를 만든 날짜와 (가능한 경우) 마지막 사진을 촬영한 위치입니다.\n- 사진 정보:** 사용 중인 필름 롤에 사용된 노출 횟수(예: 15/24)입니다.",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "기존 카메라에 사진을 추가하려면 어떻게 하나요?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "필름 롤에 노출이 비어 있는 경우 '내 카메라' 화면에서 해당 카메라 활동을 탭하여 카메라 화면으로 바로 전환하고 사진 촬영을 계속할 수 있습니다.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "카메라 이름은 어떻게 변경하나요?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "각 카메라 카드 옆에 있는 연필 아이콘을 탭하여 카메라에 특별한 이름을 지정할 수 있습니다.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "인쇄할 사진을 보내려면 어떻게 하나요?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "카메라 활동 아래의 '인쇄로 보내기' 버튼을 탭합니다. 그런 다음 사진을 준비할 시간을 선택합니다(예: 8시간, 12시간, 24시간, 36시간). 더 짧은 시간(익스프레스)의 경우 리워드 광고를 시청해야 할 수도 있습니다.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "공유 카메라",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "카메라를 공유하려면 어떻게 하나요?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "'내 카메라' 화면에서 공유하려는 카메라 카드의 공유 아이콘을 탭합니다. 그러면 카메라가 공유 카메라 활동이 되고 해당 활동에 대한 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "공유 카메라에 참여하려면 어떻게 하나요?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "전송된 초대 링크를 클릭합니다. 애플리케이션이 열리면 카메라에 참여하라는 요청이 카메라 소유자에게 전송됩니다. 카메라 소유자가 요청을 승인하면 카메라가 '내 카메라' 화면에 나타나고 사진 촬영을 시작할 수 있습니다.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "참여 요청 및 알림",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "카메라 소유자는 카메라 카드의 '참가자' 아이콘을 탭하여 수신 요청을 확인하거나 승인 또는 거부할 수 있습니다. 승인 또는 거부되면 알림을 받게 됩니다. '내 카메라' 화면의 오른쪽 상단에 있는 종 아이콘을 통해 모든 알림을 추적할 수 있습니다.",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "보안 및 개인정보 보호(종단 간 암호화)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "공유 카메라에 있는 모든 사진은 **종단간 암호화**됩니다. 즉, 카메라 소유자와 승인된 참가자를 제외하고는 **아무도**(FotoApp 팀 포함)가 사진을 볼 수 없습니다. 각 공유 카메라에 대해 개인 \"세션 키\"가 생성되며, 이는 참가자의 기기에서만 사용할 수 있고 모든 암호화/복호화는 기기에서 직접 수행됩니다. 따라서 나와 친구들의 추억은 완전히 비공개로 유지됩니다.\n- 공유 카메라 활동 중에 실수로 애플리케이션을 삭제하고 '세션 키'를 분실한 경우, 애플리케이션을 다시 다운로드한 후 관련 카메라 활동에 경고 메시지가 표시됩니다. 이 경고가 표시되는 모든 공유 카메라 활동의 경우, 해당 활동의 참가자에게 '세션 키'를 다시 요청할 수 있습니다.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "앨범",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "앨범 및 AI 탭이란 무엇인가요?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- 앨범:** 일반 카메라로 현상한 사진을 그룹으로 찾을 수 있습니다.\n- AI:** 인공지능(AI) 카메라로 촬영한 사진은 이 탭에 별도로 나열됩니다.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "내 사진으로 무엇을 할 수 있나요?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "전체 화면 모드에서:\n- 저장:** 사진을 디바이스의 갤러리에 저장할 수 있습니다.\n- 공유:** 다른 애플리케이션을 통해 사진을 공유할 수 있습니다.\n- 삭제:** 애플리케이션에서 사진을 영구적으로 삭제할 수 있습니다.\n- 프로필 사진 만들기:** 사진을 앱 내 프로필 사진으로 설정할 수 있습니다.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "AI 카메라",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "AI 카메라는 어떻게 사용하나요?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "메인 탐색에서 'AI' 탭으로 이동합니다. 원하는 AI 효과를 선택하고 사진을 찍습니다. 사진이 처리되면 '앨범' -> 'AI' 탭에 표시됩니다.",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "설정 및 프로필",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "내 프로필은 어떻게 구성하나요?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "'앨범' 탭에 있는 경우 상단의 프로필 섹션 또는 설정 메뉴의 '계정'으로 이동하여 프로필 정보와 사진을 업데이트할 수 있습니다.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "애플리케이션 테마(다크/라이트 모드)는 어떻게 변경하나요?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "설정 > '어둡게/밝게 모드' 메뉴에서 원하는 테마를 선택할 수 있습니다.",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "애플리케이션 언어를 변경하려면 어떻게 해야 하나요?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "설정 > '언어' 메뉴에서 애플리케이션 언어를 변경할 수 있습니다.",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

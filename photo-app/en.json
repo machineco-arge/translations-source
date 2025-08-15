@@ -477,6 +477,190 @@
     "translation": "Dark Mode",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Help and FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Help and Frequently Asked Questions (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "This guide is designed to help you better understand Foto App and fully utilize its features.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Basic Concepts",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "What is a Virtual Camera?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "A \"Camera Activity\" is like a digital roll of film. It combines a camera filter you like from **Store** with a roll of film with a limited number of exposures (e.g. 12, 24, 36 exposures). Each camera you create groups your photos in a special album.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "What is Photo Bath (Printing)?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "When you have filled all the exposures on a roll of film in a camera activity, or at any time, you can \"send to print\" the roll of film in the camera. This starts a countdown that allows your photos to be \"developed\" and visible after a period of time of your choice (e.g. 8, 24, 36 hours). When the time is up, your encrypted photos are decrypted and appear in your album.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Main Features",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "What can I do in the Store?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "The Store is where you can discover all the unique camera filters in the app. Each camera represents a filter with its own unique color, texture and character. By tapping on the cameras, you can see \"before and after\" sample photos taken with that filter and choose the one that best suits your style.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "How do I create a new camera activity?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Tap on a camera you like from the Store to go to the \"Select Camera Roll\" screen. Here you can create your new camera activity by selecting one of the rolls of film with different exposure numbers (12, 24, 36, etc.) to use with the filter of your choice.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Cameras",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "What do camera cards mean?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Each card represents a virtual camera and shows the following information:\n- **Title:** The camera name, which you can change.\n- Date and Location:** The date the camera was created and (if available) the location where the last photo was taken.\n- Photo Info:** The number of exposures used on the roll of film you are using (e.g. 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "How do I add a photo to an existing camera?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "If there is an empty exposure on the camera roll, you can tap on the corresponding camera activity on the \"My Cameras\" screen to switch directly to the camera screen and continue taking pictures.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "How do I change the name of my camera?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "You can give your camera a custom name by tapping the pencil icon next to each camera card.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "How do I send my photos to print?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Tap the \"Send to Print\" button under the camera activity. Then choose how long you want your photos to be ready (e.g. 8, 12, 24, 36 hours). Remember, for shorter times (Express) you may need to watch a rewarded ad.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Shared Cameras",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "How do I share a camera?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "On the \"My Cameras\" screen, tap the share icon on the camera card you want to share. This will make the camera a shared camera activity and create an invitation link specific to the activity. You can send this link to your friends to invite them.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "How do I join a shared camera?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Click on the invitation link sent to you. When the app opens, your request to join the camera will be sent to the camera owner. After the camera owner approves your request, the camera will appear on your \"My Cameras\" screen and you can start taking photos.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Participation Requests and Notifications",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "The camera owner can view, approve or reject incoming requests by tapping the \"Participants\" icon on the camera card. You will receive a notification when you are approved or rejected. You can keep track of all your notifications via the bell icon in the top right corner of the \"My Cameras\" screen.",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Security and Privacy (End-to-End Encryption)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "All your photos on shared cameras are **end-to-end encrypted**. This means that **NOBODY** (including the FotoApp team) can see your photos except the camera owner and approved participants. A private \"session key\" is generated for each shared camera that only resides on the participants' devices, and all encryption/decryption is done directly on your device. This keeps your memories completely private to you and your friends.\n- If you accidentally delete the app while on a shared camera activity and the \"session key\" is lost, you will see a warning on the camera activity after you download the app again. For all shared camera activities where you see this warning, you can request a \"session key\" from the participants of that activity again.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Album",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "What are the Albums and AI tabs?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- **Albums:** Here you can find your developed photos from your regular cameras in groups.\n- **AI:** Photos created with artificial intelligence (AI) cameras are listed separately in this tab.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "What can I do with my photos?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "In full screen mode:\n- **Save:** You can save the photo to your device's gallery.\n- Share:** You can share the photo via other apps.\n- Delete:** You can permanently delete the photo from the app.\n- Make Profile Photo:** You can set the photo as your in-app profile picture.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "AI Cameras",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "How to use AI Cameras?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Go to the \"AI\" tab in the main navigation. Choose an AI effect you like and take your photo. After your photo is processed, it will appear in the \"Album\" -> \"AI\" tab.",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Settings and Profile",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "How do I edit my profile?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "When you are in the \"Album\" tab, you can update your profile information and photo in the profile section at the top or by going to \"Account\" in the Settings menu.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "How do I change the app theme (Dark/Light Mode)?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "You can select the desired theme from the Settings > \"Dark/Light Mode\" menu.",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "How do I change the application language?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "You can change the application language in Settings > \"Language\".",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Photo.",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

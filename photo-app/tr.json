@@ -477,6 +477,190 @@
     "translation": "Karanlık Mod",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Yardım ve SSS",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Yardım ve Sıkça Sorulan Sorular (SSS)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Bu kılavuz, Foto App'i daha iyi anlamanıza ve özelliklerini tam olarak kullanmanıza yardımcı olmak için tasarlanmıştır.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Temel Kavramlar",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "Sanal Kamera Nedir?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Bir \"Kamera Aktivitesi\", dijital bir film rulosu gibidir. **Mağaza**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her kamera, çektiğiniz fotoğrafları kendi içinde özel bir albümde gruplandırır.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "Fotoğraf Banyosu (Printing) Nedir?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Bir kamera aktivitesinde bulunan film rulosundaki tüm pozları doldurduğunuzda veya istediğiniz zaman, kameradaki film rulosunu \"baskıya gönderebilirsiniz\". Bu işlem, seçtiğiniz süre (örn. 8, 24, 36 saat) sonunda fotoğraflarınızın \"banyo edilerek\" görünür hale gelmesini sağlayan bir geri sayım başlatır. Süre dolduğunda, şifrelenmiş fotoğraflarınız çözülür ve albümünüzde belirir.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Ana Özellikler",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "Mağaza'da ne yapabilirim?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "Mağaza, uygulamadaki tüm benzersiz kamera filtrelerini keşfedebileceğiniz yerdir. Her bir kamera, kendine özgü bir renk, doku ve karaktere sahip bir filtreyi temsil eder. Kameraların üzerine dokunarak, o filtreyle çekilmiş \"öncesi ve sonrası\" örnek fotoğrafları görebilir ve tarzınıza en uygun olanı seçebilirsiniz.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "Yeni bir kamera aktivitesi nasıl oluştururum?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Mağaza'dan beğendiğiniz bir kameranın üzerine dokunarak \"Film Rulosu Seç\" ekranına gidin. Burada, seçtiğiniz filtre ile kullanmak üzere farklı poz sayılarına sahip (12, 24, 36 gibi) film rulolarından birini seçerek yeni kamera aktivitenizi oluşturabilirsiniz.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Kameralarım",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "Kamera kartları ne anlama geliyor?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Her kart bir sanal kamerayı temsil eder ve üzerinde şu bilgileri gösterir:\n- **Başlık:** Değiştirebileceğiniz kamera adı.\n- **Tarih ve Konum:** Kameranın oluşturulduğu tarih ve (varsa) son fotoğrafın çekildiği konum.\n- **Fotoğraf Bilgisi:** Kullandığınız film rulosundaki kullanılan poz sayısı (örn. 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "Mevcut bir kameraya nasıl fotoğraf eklerim?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Eğer film rulosunda boş poz varsa, \"Kameralarım\" ekranındaki ilgili kamera aktivitesinin üzerine dokunarak doğrudan kamera ekranına geçiş yapabilir ve fotoğraf çekmeye devam edebilirsiniz.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "Kameramın adını nasıl değiştiririm?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "Her kamera kartının yanındaki kalem simgesine dokunarak kameranıza özel bir isim verebilirsiniz.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "Fotoğraflarımı nasıl baskıya gönderirim?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Kamera aktivitesinin altındaki \"Baskıya Gönder\" butonuna dokunun. Ardından, fotoğraflarınızın ne kadar sürede hazırlanmasını istediğinizi seçin (örn. 8, 12, 24, 36 saat). Unutmayın, daha kısa süreler (Express) için ödüllü reklam izlemeniz gerekebilir.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Paylaşımlı Kameralar",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "Bir kamerayı nasıl paylaşıma açarım?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "\"Kameralarım\" ekranında, paylaşmak istediğiniz kamera kartındaki paylaş simgesine dokunun. Bu, kamerayı paylaşımlı kamera aktivitesi hale getirecek ve aktiviteye özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "Paylaşımlı bir kameraya nasıl katılırım?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Size gönderilen davet linkine tıklayın. Uygulama açıldığında, kameraya katılma isteğiniz kamera sahibine gönderilecektir. Kamera sahibi isteğinizi onayladıktan sonra, kamera sizin \"Kameralarım\" ekranınızda görünecek ve fotoğraf çekmeye başlayabileceksiniz.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Katılım İstekleri ve Bildirimler",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "Kamera sahibi, kamera kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir. Tüm bildirimlerinizi, \"Kameralarım\" ekranının sağ üst köşesindeki zil simgesinden takip edebilirsiniz.",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Güvenlik ve Gizlilik (Uçtan Uca Şifreleme)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Paylaşımlı kameralardaki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, kamera sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (FotoApp ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı kamera için sadece katılımcıların cihazlarında bulunan özel bir \"oturum anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı kamera aktivitesindeyken, uygulamayı yanlışlıkla siler ve \"oturum anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili kamera aktivitesi üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı kamera aktiviteleri için, o aktivitenin katılımcılarından tekrar \"oturum anahtar\" isteyebilirsiniz.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Albüm",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "Albümler ve AI sekmeleri nedir?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- **Albümler:** Normal kameralarınızdan banyo edilmiş fotoğraflarınızı gruplar halinde burada bulabilirsiniz.\n- **AI:** Yapay zeka (AI) kameraları ile oluşturduğunuz fotoğraflar bu sekmede ayrı olarak listelenir.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "Fotoğraflarımla ne yapabilirim?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "Tam ekran modundayken:\n- **Kaydet:** Fotoğrafı cihazınızın galerisine kaydedebilirsiniz.\n- **Paylaş:** Fotoğrafı diğer uygulamalar üzerinden paylaşabilirsiniz.\n- **Sil:** Fotoğrafı uygulamadan kalıcı olarak silebilirsiniz.\n- **Profil Fotoğrafı Yap:** Fotoğrafı uygulama içi profil resminiz olarak ayarlayabilirsiniz.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "AI Kameralar",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "AI Kameraları nasıl kullanılır?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Ana navigasyondaki \"AI\" sekmesine gidin. Beğendiğiniz bir AI efektini seçin ve fotoğrafınızı çekin. Fotoğrafınız işlendikten sonra \"Albüm\" -> \"AI\" sekmesinde görünecektir.",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Ayarlar ve Profil",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "Profilimi nasıl düzenlerim?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "\"Albüm\" sekmesindeyken en üstteki profil bölümünden veya Ayarlar menüsünden \"Hesap\" seçeneğine giderek profil bilgilerinizi ve fotoğrafınızı güncelleyebilirsiniz.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "Uygulama temasını (Koyu/Açık Mod) nasıl değiştiririm?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "Ayarlar > \"Koyu/Açık Mod\" menüsünden istediğiniz temayı seçebilirsiniz.",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "Uygulama dilini nasıl değiştiririm?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "Ayarlar > \"Dil\" menüsünden uygulama dilini değiştirebilirsiniz.",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

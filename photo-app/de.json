@@ -477,6 +477,190 @@
     "translation": "Dunkler Modus",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Hilfe und FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Hilfe und häufig gestellte Fragen (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Dieser Leitfaden soll Ihnen helfen, die Foto App besser zu verstehen und ihre Funktionen vollständig zu nutzen.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Grundlegende Konzepte",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "Was ist eine virtuelle Kamera?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Eine \"Kamera-Aktivität\" ist wie eine digitale Filmrolle. Sie kombiniert einen Kamerafilter aus **Store** mit einem Film mit einer begrenzten Anzahl von Belichtungsrechten (z. B. 12, 24, 36 Belichtungen). Jede von Ihnen erstellte Kamera gruppiert die von Ihnen aufgenommenen Fotos in einem speziellen Album.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "Was ist ein Fotobad (Druck)?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Wenn Sie alle Aufnahmen auf der Filmrolle in einer Kameraaktivität gemacht haben, oder zu einem beliebigen Zeitpunkt, können Sie die Filmrolle in der Kamera \"zum Drucken senden\". Dadurch wird ein Countdown gestartet, der es ermöglicht, dass Ihre Fotos \"entwickelt\" werden und nach einer von Ihnen gewählten Zeitspanne (z. B. 8, 24 oder 36 Stunden) sichtbar werden. Wenn die Zeit abgelaufen ist, werden die verschlüsselten Fotos entschlüsselt und erscheinen in Ihrem Album.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Hauptmerkmale",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "Was kann ich im Shop tun?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "Im Store können Sie alle einzigartigen Kamerafilter der App entdecken. Jede Kamera repräsentiert einen Filter mit seiner eigenen einzigartigen Farbe, Textur und Charakter. Wenn Sie auf die Kameras tippen, können Sie \"Vorher-Nachher\"-Beispielfotos sehen, die mit diesem Filter aufgenommen wurden, und denjenigen auswählen, der am besten zu Ihrem Stil passt.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "Wie kann ich eine neue Kameraaktivität erstellen?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Tippen Sie im Store auf eine Kamera, die Ihnen gefällt, um den Bildschirm \"Kamerarolle auswählen\" aufzurufen. Hier können Sie Ihre neue Kameraaktivität erstellen, indem Sie eine der Filmrollen mit verschiedenen Belichtungsnummern (z. B. 12, 24, 36) auswählen und mit dem Filter Ihrer Wahl verwenden.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Kameras",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "Was bedeuten die Kamerakarten?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Jede Karte stellt eine virtuelle Kamera dar und zeigt die folgenden Informationen an:\n- **Titel:** Der Kameraname, den Sie ändern können.\n- Datum und Ort:** Das Datum, an dem die Kamera erstellt wurde, und (falls verfügbar) der Ort, an dem das letzte Foto aufgenommen wurde.\n- Fotoinfo:** Die Anzahl der Belichtungen, die auf dem verwendeten Film verwendet wurden (z. B. 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "Wie füge ich ein Foto zu einer vorhandenen Kamera hinzu?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Wenn sich auf der Filmrolle eine leere Aufnahme befindet, können Sie auf dem Bildschirm \"Meine Kameras\" auf die entsprechende Kameraaktivität tippen, um direkt zum Kamerabildschirm zu wechseln und mit der Aufnahme fortzufahren.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "Wie kann ich den Namen meiner Kamera ändern?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "Sie können Ihrer Kamera einen speziellen Namen geben, indem Sie auf das Stiftsymbol neben jeder Kamerakarte tippen.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "Wie sende ich meine Fotos zum Drucken?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Tippen Sie auf die Schaltfläche \"Zum Drucken senden\" unter der Kameraaktivität. Wählen Sie dann, wie lange Ihre Fotos bereitstehen sollen (z. B. 8, 12, 24, 36 Stunden). Denken Sie daran, dass Sie bei kürzeren Zeiten (Express) möglicherweise eine belohnte Werbung sehen müssen.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Gemeinsame Kameras",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "Wie kann ich eine Kamera gemeinsam nutzen?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "Tippen Sie auf dem Bildschirm \"Meine Kameras\" auf das Freigabesymbol auf der Kamerakarte, die Sie freigeben möchten. Dadurch wird die Kamera zu einer freigegebenen Kameraaktivität und es wird ein Einladungslink für die Aktivität erstellt. Sie können diesen Link an Ihre Freunde senden, um sie einzuladen.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "Wie kann ich einer gemeinsamen Kamera beitreten?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Klicken Sie auf den Ihnen zugesandten Einladungslink. Wenn die Anwendung geöffnet wird, wird Ihre Anfrage, der Kamera beizutreten, an den Kamerabesitzer gesendet. Nachdem der Kamerabesitzer Ihre Anfrage genehmigt hat, erscheint die Kamera auf Ihrem Bildschirm \"Meine Kameras\" und Sie können mit der Aufnahme von Fotos beginnen.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Teilnahmeanträge und Benachrichtigungen",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "Der Eigentümer der Kamera kann eingehende Anfragen anzeigen, genehmigen oder ablehnen, indem er auf das Symbol \"Teilnehmer\" auf der Kamerakarte tippt. Sie erhalten eine Benachrichtigung, wenn Sie genehmigt oder abgelehnt wurden. Sie können alle Ihre Benachrichtigungen über das Glockensymbol in der oberen rechten Ecke des Bildschirms \"Meine Kameras\" im Auge behalten.",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Sicherheit und Datenschutz (End-to-End-Verschlüsselung)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Alle Ihre Fotos auf gemeinsam genutzten Kameras sind **end-to-end verschlüsselt**. Das bedeutet, dass **NIEmand** (einschließlich des FotoApp-Teams) Ihre Fotos sehen kann, außer dem Kamerabesitzer und den zugelassenen Teilnehmern. Für jede freigegebene Kamera wird ein privater \"Sitzungsschlüssel\" generiert, der nur auf den Geräten der Teilnehmer verfügbar ist, und die Ver- und Entschlüsselung erfolgt direkt auf Ihrem Gerät. So bleiben Ihre Erinnerungen für Sie und Ihre Freunde völlig privat.\n- Wenn Sie die Anwendung versehentlich löschen und den \"Sitzungsschlüssel\" verlieren, während Sie sich in einer gemeinsamen Kameraaktivität befinden, sehen Sie eine Warnung auf der entsprechenden Kameraaktivität, nachdem Sie die Anwendung erneut heruntergeladen haben. Für alle gemeinsamen Kameraaktivitäten, bei denen diese Warnung angezeigt wird, können Sie den \"Sitzungsschlüssel\" von den Teilnehmern dieser Aktivität erneut anfordern.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Album",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "Was sind die Registerkarten \"Alben\" und \"AI\"?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- **Alben:** Hier finden Sie Ihre Fotos, die Sie mit Ihren normalen Kameras entwickelt haben, in Gruppen.\n- **AI:** Fotos, die mit Kameras mit künstlicher Intelligenz (AI) erstellt wurden, werden in dieser Registerkarte separat aufgeführt.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "Was kann ich mit meinen Fotos machen?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "Im Vollbildmodus:\n- **Speichern:** Sie können das Foto in der Galerie Ihres Geräts speichern.\n- Freigeben:** Sie können das Foto über andere Anwendungen freigeben.\n- Löschen:** Sie können das Foto dauerhaft aus der Anwendung löschen.\n- Profilfoto erstellen:** Sie können das Foto als Ihr app-internes Profilbild festlegen.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "AI-Kameras",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "Wie verwendet man AI-Kameras?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Gehen Sie in der Hauptnavigation auf die Registerkarte \"AI\". Wählen Sie einen AI-Effekt, der Ihnen gefällt, und nehmen Sie Ihr Foto auf. Nachdem Ihr Foto verarbeitet wurde, erscheint es auf der Registerkarte \"Album\" -> \"AI\".",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Einstellungen und Profil",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "Wie organisiere ich mein Profil?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "Wenn Sie sich auf der Registerkarte \"Album\" befinden, können Sie Ihre Profilinformationen und Ihr Foto im Profilbereich oben oder unter \"Konto\" im Menü \"Einstellungen\" aktualisieren.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "Wie ändere ich das Thema der Anwendung (dunkler/heller Modus)?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "Sie können das gewünschte Thema über das Menü Einstellungen > \"Dunkel-/Hellmodus\" auswählen.",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "Wie kann ich die Sprache der Anwendung ändern?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "Sie können die Sprache der Anwendung im Menü Einstellungen > \"Sprache\" ändern.",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

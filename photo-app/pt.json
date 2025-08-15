@@ -477,6 +477,190 @@
     "translation": "Modo escuro",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   },
+  "_helps_faq_": {
+    "translation": "Ajuda e FAQ",
+    "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
+  },
+  "_faq_title": {
+    "translation": "Ajuda e perguntas frequentes (FAQ)",
+    "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
+  },
+  "_faq_subtitle": {
+    "translation": "Este guia foi concebido para o ajudar a compreender melhor a aplicação Foto e a utilizar plenamente as suas funcionalidades.",
+    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
+  },
+  "_faq_section_concepts": {
+    "translation": "Conceitos básicos",
+    "sourceHash": "35fba9105deba4815f0e649af499879f"
+  },
+  "_faq_q_virtual_camera": {
+    "translation": "O que é a câmara virtual?",
+    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+  },
+  "_faq_a_virtual_camera": {
+    "translation": "Uma \"Atividade da câmara\" é como um rolo de filme digital. Combina um filtro de câmara que gosta da **Store** com um rolo de filme com um número limitado de direitos de exposição (por exemplo, 12, 24, 36 exposições). Cada câmara que cria agrupa as fotografias que tira num álbum especial.",
+    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+  },
+  "_faq_q_printing": {
+    "translation": "O que é o banho de fotografias (impressão)?",
+    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+  },
+  "_faq_a_printing": {
+    "translation": "Quando tiver preenchido todas as exposições do rolo de filme numa atividade da câmara, ou em qualquer altura, pode \"enviar para impressão\" o rolo de filme da câmara. Isto inicia uma contagem decrescente que permite que as suas fotografias sejam \"reveladas\" e se tornem visíveis após um período de tempo à sua escolha (por exemplo, 8, 24, 36 horas). Quando o tempo acabar, as suas fotografias encriptadas são desencriptadas e aparecem no seu álbum.",
+    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+  },
+  "_faq_section_features": {
+    "translation": "Caraterísticas principais",
+    "sourceHash": "9d782421374acdacfed36456e90420fb"
+  },
+  "_faq_q_store": {
+    "translation": "O que posso fazer na loja?",
+    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+  },
+  "_faq_a_store": {
+    "translation": "A Loja é onde pode descobrir todos os filtros de câmara exclusivos da aplicação. Cada câmara representa um filtro com a sua própria cor, textura e carácter únicos. Ao tocar nas câmaras, pode ver fotografias de amostra \"antes e depois\" tiradas com esse filtro e escolher a que melhor se adequa ao seu estilo.",
+    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+  },
+  "_faq_q_new_activity": {
+    "translation": "Como posso criar uma nova atividade de câmara?",
+    "sourceHash": "7288356f30855490054481696565ec9f"
+  },
+  "_faq_a_new_activity": {
+    "translation": "Toque numa câmara que goste na Loja para aceder ao ecrã \"Selecionar rolo da câmara\". Aqui pode criar a sua nova atividade de câmara selecionando um dos rolos de filme com diferentes números de exposição (por exemplo, 12, 24, 36) para utilizar com o filtro da sua escolha.",
+    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+  },
+  "_faq_section_my_cameras": {
+    "translation": "Câmaras",
+    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+  },
+  "_faq_q_camera_cards": {
+    "translation": "O que significam os cartões de câmara?",
+    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+  },
+  "_faq_a_camera_cards": {
+    "translation": "Cada cartão representa uma câmara virtual e apresenta as informações seguintes:\n- **Título:** O nome da câmara, que pode ser alterado.\n- Data e local:** A data em que a câmara foi criada e (se disponível) o local onde a última fotografia foi tirada.\n- Informação da fotografia:** O número de exposições utilizadas no rolo de filme que está a utilizar (por exemplo, 15/24).",
+    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+  },
+  "_faq_q_add_photo": {
+    "translation": "Como é que adiciono uma fotografia a uma câmara existente?",
+    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+  },
+  "_faq_a_add_photo": {
+    "translation": "Se houver uma exposição vazia no rolo de filme, pode tocar na atividade da câmara correspondente no ecrã \"As minhas câmaras\" para mudar diretamente para o ecrã da câmara e continuar a tirar fotografias.",
+    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+  },
+  "_faq_q_rename_camera": {
+    "translation": "Como posso alterar o nome da minha câmara?",
+    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+  },
+  "_faq_a_rename_camera": {
+    "translation": "Pode dar um nome especial à sua câmara tocando no ícone de lápis junto a cada cartão de câmara.",
+    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+  },
+  "_faq_q_send_to_print": {
+    "translation": "Como é que envio as minhas fotografias para impressão?",
+    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+  },
+  "_faq_a_send_to_print": {
+    "translation": "Toque no botão \"Enviar para impressão\" por baixo da atividade da câmara. De seguida, escolha quanto tempo pretende que as suas fotografias fiquem prontas (por exemplo, 8, 12, 24, 36 horas). Lembre-se de que, para tempos mais curtos (Express), poderá ter de ver um anúncio premiado.",
+    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+  },
+  "_faq_section_shared_cameras": {
+    "translation": "Câmaras partilhadas",
+    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+  },
+  "_faq_q_how_to_share": {
+    "translation": "Como posso partilhar uma câmara?",
+    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+  },
+  "_faq_a_how_to_share": {
+    "translation": "No ecrã \"As minhas câmaras\", toque no ícone de partilha no cartão da câmara que pretende partilhar. Isto fará com que a câmara se torne uma atividade de câmara partilhada e criará uma ligação de convite para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
+    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+  },
+  "_faq_q_join_shared": {
+    "translation": "Como posso aderir a uma câmara partilhada?",
+    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+  },
+  "_faq_a_join_shared": {
+    "translation": "Clique na ligação de convite que lhe foi enviada. Quando a aplicação se abrir, o seu pedido de adesão à câmara será enviado para o proprietário da câmara. Depois de o proprietário da câmara aprovar o seu pedido, a câmara aparece no seu ecrã \"As minhas câmaras\" e pode começar a tirar fotografias.",
+    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+  },
+  "_faq_q_requests_and_notifications": {
+    "translation": "Pedidos de participação e notificações",
+    "sourceHash": "6b12194240cbda14819d90953e7f25a8"
+  },
+  "_faq_a_requests_and_notifications": {
+    "translation": "O proprietário da câmara pode ver, aprovar ou rejeitar os pedidos recebidos tocando no ícone \"Participantes\" no cartão da câmara. Receberá uma notificação quando for aprovado ou rejeitado. Pode acompanhar todas as suas notificações através do ícone de sino no canto superior direito do ecrã \"As minhas câmaras\".",
+    "sourceHash": "45554d2f75329b108521e91763b7584f"
+  },
+  "_faq_q_e2e_encryption": {
+    "translation": "Segurança e privacidade (encriptação de ponta a ponta)",
+    "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
+  },
+  "_faq_a_e2e_encryption": {
+    "translation": "Todas as suas fotos em câmaras partilhadas são **encriptadas de ponta a ponta**. Isto significa que **NINGUÉM** (incluindo a equipa FotoApp) pode ver as suas fotos, exceto o proprietário da câmara e os participantes aprovados. É gerada uma \"chave de sessão\" privada para cada câmara partilhada, que só está disponível nos dispositivos dos participantes, e toda a encriptação/desencriptação é feita diretamente no seu dispositivo. Isto mantém as suas memórias completamente privadas para si e para os seus amigos.\n- Se eliminar acidentalmente a aplicação e perder a \"chave de sessão\" durante uma atividade de câmara partilhada, verá um aviso na respectiva atividade de câmara depois de transferir novamente a aplicação. Para todas as actividades de câmara partilhada em que este aviso seja apresentado, pode voltar a solicitar uma \"chave de sessão\" aos participantes dessa atividade.",
+    "sourceHash": "87f568a5343d75784673a05e43f01382"
+  },
+  "_faq_section_album": {
+    "translation": "Álbum",
+    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+  },
+  "_faq_q_album_tabs": {
+    "translation": "O que são os separadores Álbuns e IA?",
+    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+  },
+  "_faq_a_album_tabs": {
+    "translation": "- Álbuns:** Aqui pode encontrar as suas fotografias reveladas a partir das suas câmaras normais em grupos.\n- AI:** As fotografias criadas com câmaras de inteligência artificial (AI) são listadas separadamente neste separador.",
+    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+  },
+  "_faq_q_photo_actions": {
+    "translation": "O que posso fazer com as minhas fotografias?",
+    "sourceHash": "1f3462c677886c1796aadb6474b1360d"
+  },
+  "_faq_a_photo_actions": {
+    "translation": "No modo de ecrã inteiro:\n- **Guardar:** Pode guardar a fotografia na galeria do seu dispositivo.\n- Partilhar:** Pode partilhar a fotografia através de outras aplicações.\n- Eliminar:** Pode eliminar permanentemente a fotografia da aplicação.\n- Criar fotografia de perfil:** Pode definir a fotografia como a sua fotografia de perfil na aplicação.",
+    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+  },
+  "_faq_section_ai_cameras": {
+    "translation": "Câmaras de IA",
+    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
+  },
+  "_faq_q_ai_usage": {
+    "translation": "Como utilizar as câmaras de IA?",
+    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
+  },
+  "_faq_a_ai_usage": {
+    "translation": "Aceda ao separador \"IA\" na navegação principal. Selecione um efeito de IA que lhe agrade e tire a sua fotografia. Depois de a fotografia ser processada, aparecerá no separador \"Álbum\" -> \"IA\".",
+    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
+  },
+  "_faq_section_settings": {
+    "translation": "Definições e perfil",
+    "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
+  },
+  "_faq_q_edit_profile": {
+    "translation": "Como é que organizo o meu perfil?",
+    "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
+  },
+  "_faq_a_edit_profile": {
+    "translation": "Quando estiver no separador \"Álbum\", pode atualizar as informações e a fotografia do seu perfil na secção de perfil na parte superior ou acedendo a \"Conta\" no menu Definições.",
+    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+  },
+  "_faq_q_theme": {
+    "translation": "Como posso alterar o tema da aplicação (Modo escuro/claro)?",
+    "sourceHash": "3d153667d6de0f4daa0c28464e51bf20"
+  },
+  "_faq_a_theme": {
+    "translation": "Pode selecionar o tema pretendido no menu Definições > \"Modo escuro/claro\".",
+    "sourceHash": "b963ff9fcd3de3af4d078b45f844a00a"
+  },
+  "_faq_q_language": {
+    "translation": "Como é que altero o idioma da aplicação?",
+    "sourceHash": "2762de3dfda4a66d413a34b77371a2cb"
+  },
+  "_faq_a_language": {
+    "translation": "Pode alterar o idioma da aplicação no menu Definições > \"Idioma\".",
+    "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
+  },
   "_common_photo": {
     "translation": "Fotografia",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
