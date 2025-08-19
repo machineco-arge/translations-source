@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Des films sont en préparation...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "Préparation du rouleau de film...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "Les photographies ont été prises au bain...",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "Aide et questions fréquemment posées (FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "Ce guide est conçu pour vous aider à mieux comprendre l'application Foto et à utiliser pleinement ses fonctionnalités.",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "Concepts de base",

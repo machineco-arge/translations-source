@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Filme sind in Vorbereitung...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "Vorbereiten der Filmrolle...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "Die Fotos wurden zum Badevorgang aufgenommen...",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "Hilfe und häufig gestellte Fragen (FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "Dieser Leitfaden soll Ihnen helfen, die Foto App besser zu verstehen und ihre Funktionen vollständig zu nutzen.",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "Grundlegende Konzepte",

@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Filmler Hazırlanıyor...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "Film Rulosu Hazırlanıyor...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "Fotoğraflar Banyo İşlemine Alındı…",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "Yardım ve Sıkça Sorulan Sorular (SSS)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "Bu kılavuz, Foto App'i daha iyi anlamanıza ve özelliklerini tam olarak kullanmanıza yardımcı olmak için tasarlanmıştır.",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "Temel Kavramlar",

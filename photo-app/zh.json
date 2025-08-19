@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "正在筹备电影...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "准备胶卷...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "这些照片是在沐浴过程中拍摄的...",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "帮助和常见问题 (FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "本指南旨在帮助您更好地了解 Foto App 并充分利用其功能。",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "基本概念",

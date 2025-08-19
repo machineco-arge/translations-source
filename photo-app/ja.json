@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "映画は準備中だ...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "フィルムロールの準備...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "写真は入浴中に撮影されたものだが......。",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "ヘルプとよくある質問 (FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "このガイドは、Foto Appをよりよく理解し、その機能を十分に活用していただくためのものです。",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "基本コンセプト",

@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Os filmes estão a ser preparados...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "Preparar o rolo de filme...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "As fotografias foram tiradas para o processo de banho...",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "Ajuda e perguntas frequentes (FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "Este guia foi concebido para o ajudar a compreender melhor a aplicação Foto e a utilizar plenamente as suas funcionalidades.",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "Conceitos básicos",

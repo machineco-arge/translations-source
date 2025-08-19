@@ -136,8 +136,8 @@
     "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "영화 준비 중...",
-    "sourceHash": "155d444fe0db48633f3ddb6972057f0e"
+    "translation": "필름 롤 준비하기...",
+    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
   },
   "_filmScreen_photosDeveloping": {
     "translation": "사진은 목욕 과정으로 촬영되었습니다...",
@@ -484,10 +484,6 @@
   "_faq_title": {
     "translation": "도움말 및 자주 묻는 질문(FAQ)",
     "sourceHash": "551bd7e482e509e19d61a2b9917d3b4a"
-  },
-  "_faq_subtitle": {
-    "translation": "이 가이드는 포토 앱을 더 잘 이해하고 기능을 최대한 활용할 수 있도록 돕기 위해 마련되었습니다.",
-    "sourceHash": "9af373de43696b2042fd79f5fc5b0437"
   },
   "_faq_section_concepts": {
     "translation": "기본 개념",
