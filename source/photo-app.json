@@ -36,7 +36,7 @@
     "_filmScreen_filmIsFullAlertMessage": "Bu film rulosundaki tüm pozları kullandınız. Artık filmi baskıya gönderebilirsiniz.",
     "_filmScreen_filmCreateActivityErrorAlertMessage": "Yeni film rulosu oluşturulurken bir hata oluştu. Lütfen tekrar deneyin.",
     "_filmScreen_photosInPrint": "Fotoğraflar Baskıda!",
-    "_filmScreen_filmsPreparing": "Filmler Hazırlanıyor...",
+    "_filmScreen_filmsPreparing": "Film Rulosu Hazırlanıyor...",
     "_filmScreen_photosDeveloping": "Fotoğraflar Banyo İşlemine Alındı…",
     "_filmScreen_photosClarifying": "Fotoğraflar Netleştiriliyor…",
     "_filmScreen_photosDrying": "Fotoğraflar Kurutuluyor…",
@@ -136,7 +136,6 @@
 
     "_helps_faq_": "Yardım ve SSS",
     "_faq_title": "Yardım ve Sıkça Sorulan Sorular (SSS)",
-    "_faq_subtitle": "Bu kılavuz, Foto App'i daha iyi anlamanıza ve özelliklerini tam olarak kullanmanıza yardımcı olmak için tasarlanmıştır.",
     "_faq_section_concepts": "Temel Kavramlar",
     "_faq_q_virtual_camera": "Sanal Kamera Nedir?",
     "_faq_a_virtual_camera": "Bir \"Kamera Aktivitesi\", dijital bir film rulosu gibidir. **Mağaza**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her kamera, çektiğiniz fotoğrafları kendi içinde özel bir albümde gruplandırır.",
