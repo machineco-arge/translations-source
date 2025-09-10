@@ -20,8 +20,8 @@
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
-    "translation": "이메일과 비밀번호를 입력하세요.",
-    "sourceHash": "03f0667fea3257a691d1362512391160"
+    "translation": "모든 정보를 입력하세요.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
   },
   "userSignInEnterValidEmailAlert": {
     "translation": "유효한 이메일 주소를 입력하세요.",
@@ -47,6 +47,10 @@
     "translation": "이메일 주소 입력",
     "sourceHash": "4055a242859da2bd6f0c4defa13becef"
   },
+  "placeholderCompanyName": {
+    "translation": "회사 이름을 입력합니다.",
+    "sourceHash": "28abc259ee4aacb22a4c0382558ea0a0"
+  },
   "placeholderEnterPassword": {
     "translation": "비밀번호 입력",
     "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
@@ -71,9 +75,9 @@
     "translation": "등록하여 시작하세요!",
     "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
   },
-  "placeholderEnterFullName": {
-    "translation": "성명을 입력하세요.",
-    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  "placeholderEnterUserName": {
+    "translation": "사용자 이름 입력",
+    "sourceHash": "49de4bd246c4c885d2698b25f4b806cb"
   },
   "placeholderConfirmPassword": {
     "translation": "비밀번호 확인",

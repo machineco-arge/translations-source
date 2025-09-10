@@ -20,8 +20,8 @@
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
-    "translation": "Lütfen email ve şifre girin.",
-    "sourceHash": "03f0667fea3257a691d1362512391160"
+    "translation": "Lütfen bütün bilgileri girin.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
   },
   "userSignInEnterValidEmailAlert": {
     "translation": "Lütfen geçerli bir e-posta adresi girin.",
@@ -47,6 +47,10 @@
     "translation": "Email adresinizi girin",
     "sourceHash": "4055a242859da2bd6f0c4defa13becef"
   },
+  "placeholderCompanyName": {
+    "translation": "Şirketin adını girin",
+    "sourceHash": "28abc259ee4aacb22a4c0382558ea0a0"
+  },
   "placeholderEnterPassword": {
     "translation": "Şifrenizi girin",
     "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
@@ -71,9 +75,9 @@
     "translation": "Başlamak için kayıt olun!",
     "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
   },
-  "placeholderEnterFullName": {
-    "translation": "Tam adınızı girin",
-    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  "placeholderEnterUserName": {
+    "translation": "Kullanıcı adınızı girin",
+    "sourceHash": "49de4bd246c4c885d2698b25f4b806cb"
   },
   "placeholderConfirmPassword": {
     "translation": "Şifrenizi onaylayın",

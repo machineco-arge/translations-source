@@ -20,8 +20,8 @@
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
   "userSignInEnterEmailAndPasswordAlert": {
-    "translation": "Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein.",
-    "sourceHash": "03f0667fea3257a691d1362512391160"
+    "translation": "Bitte geben Sie alle Informationen ein.",
+    "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
   },
   "userSignInEnterValidEmailAlert": {
     "translation": "Bitte geben Sie eine gültige E-Mail Adresse ein.",
@@ -47,6 +47,10 @@
     "translation": "Geben Sie Ihre E-Mail Adresse ein",
     "sourceHash": "4055a242859da2bd6f0c4defa13becef"
   },
+  "placeholderCompanyName": {
+    "translation": "Geben Sie den Namen des Unternehmens ein",
+    "sourceHash": "28abc259ee4aacb22a4c0382558ea0a0"
+  },
   "placeholderEnterPassword": {
     "translation": "Geben Sie Ihr Passwort ein",
     "sourceHash": "53dc65fb89809c4938cce80f3e8dadd1"
@@ -71,9 +75,9 @@
     "translation": "Registrieren Sie sich, um loszulegen!",
     "sourceHash": "cd7fddd68f851a1ac8f38dd54c294e37"
   },
-  "placeholderEnterFullName": {
-    "translation": "Geben Sie Ihren vollständigen Namen ein",
-    "sourceHash": "ebaf3e241005580c345955b0116d67ad"
+  "placeholderEnterUserName": {
+    "translation": "Geben Sie Ihren Benutzernamen ein",
+    "sourceHash": "49de4bd246c4c885d2698b25f4b806cb"
   },
   "placeholderConfirmPassword": {
     "translation": "Bestätigen Sie Ihr Passwort",
