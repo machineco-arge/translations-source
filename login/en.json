@@ -322,5 +322,21 @@
   "completed": {
     "translation": "completed",
     "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+  },
+  "_settings_profileSettings": {
+    "translation": "Profile & Settings",
+    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
+  },
+  "_theme_switchTheme": {
+    "translation": "Switch between Light and Dark mode",
+    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  },
+  "_theme_lightMode": {
+    "translation": "Bright Mode",
+    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  },
+  "_theme_darkMode": {
+    "translation": "Dark Mode",
+    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
   }
 }

@@ -441,10 +441,6 @@
     "translation": "설정으로 이동",
     "sourceHash": "77f3094ca38f69bf417a6e1d3d5de793"
   },
-  "_settings_profileSettings": {
-    "translation": "프로필 및 설정",
-    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
-  },
   "_settings_accountSettings": {
     "translation": "계정 설정",
     "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
@@ -465,17 +461,17 @@
     "translation": "대기 시간 {{remainingMinutes}} 분.",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
-  "_theme_switchTheme": {
-    "translation": "라이트 모드와 다크 모드 간 전환",
-    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  "_settings_termsOfServiceAndPrivacyPolicy": {
+    "translation": "서비스 약관 및 개인정보 처리방침",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
   },
-  "_theme_lightMode": {
-    "translation": "밝은 모드",
-    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  "_settings_aboutTheApp": {
+    "translation": "앱 정보",
+    "sourceHash": "9608a189933f0c1cd770200c303b15b5"
   },
-  "_theme_darkMode": {
-    "translation": "다크 모드",
-    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  "_settings_billingsAndSubscriptions": {
+    "translation": "청구 및 구독",
+    "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
   "_helps_faq_": {
     "translation": "도움말 및 FAQ",

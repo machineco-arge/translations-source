@@ -441,10 +441,6 @@
     "translation": "Accéder aux paramètres",
     "sourceHash": "77f3094ca38f69bf417a6e1d3d5de793"
   },
-  "_settings_profileSettings": {
-    "translation": "Profil et paramètres",
-    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
-  },
   "_settings_accountSettings": {
     "translation": "Paramètres du compte",
     "sourceHash": "d0723415a924e76e21403ee38b49f3d8"
@@ -465,17 +461,17 @@
     "translation": "Durée de veille {{remainingMinutes}} minutes.",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
-  "_theme_switchTheme": {
-    "translation": "Passer du mode clair au mode foncé",
-    "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
+  "_settings_termsOfServiceAndPrivacyPolicy": {
+    "translation": "Conditions d'utilisation et politique de confidentialité",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
   },
-  "_theme_lightMode": {
-    "translation": "Mode lumineux",
-    "sourceHash": "71f4eb5af7ce0964748336203fb8c463"
+  "_settings_aboutTheApp": {
+    "translation": "À propos de l'application",
+    "sourceHash": "9608a189933f0c1cd770200c303b15b5"
   },
-  "_theme_darkMode": {
-    "translation": "Mode sombre",
-    "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  "_settings_billingsAndSubscriptions": {
+    "translation": "Facturation et abonnements",
+    "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
   "_helps_faq_": {
     "translation": "Aide et FAQ",
