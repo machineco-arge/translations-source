@@ -128,7 +128,7 @@
 
     "_selectFilm_filmCreateWaitingTimeAlertTitle": "Film Rulo Hakkın Bitti",
     "_selectFilm_filmCreateWaitingTimeAlertMessage": "Bekleme süresi {{remainingMinutes}} dakika.",
-    "_settings_termsOfServiceAndPrivacyPolicy": "Hizmet Şartları ve Gizlilik Politikası",
+    "_settings_termsOfServiceAndPrivacyPolicy": "Şartlar ve Politikalar",
     "_settings_aboutTheApp": "Uygulama Hakkında",
     "_settings_billingsAndSubscriptions": "Faturalandırma ve Abonelikler",
 
