@@ -327,6 +327,10 @@
     "translation": "Профиль и настройки",
     "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
   },
+  "_settings_darkOrLightModeSettings": {
+    "translation": "Настройки темы",
+    "sourceHash": "286fd7a44546000884657e2c3090476c"
+  },
   "_theme_switchTheme": {
     "translation": "Переключение между светлым и темным режимами",
     "sourceHash": "4fa881a9b6f1c6b33ecd83bd41736c0b"
