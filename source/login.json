@@ -82,7 +82,7 @@
     "completed": "tamamlandı",
 
     "_settings_profileSettings": "Profil & Ayarlar",
-    
+    "_settings_darkOrLightModeSettings": "Tema Ayarları",
     "_theme_switchTheme": "Aydınlık ve Karanlık mod arasında geçiş yapın",
     "_theme_lightMode": "Aydınlık Mod",
     "_theme_darkMode": "Karanlık Mod"
