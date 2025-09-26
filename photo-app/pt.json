@@ -453,6 +453,42 @@
     "translation": "Definições de idioma",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
   },
+  "_credit_screen": {
+    "translation": "Informações sobre o crédito",
+    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
+  },
+  "noCredit": {
+    "translation": "O seu empréstimo terminou",
+    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
+  },
+  "increaseYourCredit": {
+    "translation": "Por favor, aumente o seu crédito",
+    "sourceHash": "791f5248e36a02ec300903aa04205d63"
+  },
+  "currentCredit": {
+    "translation": "O seu empréstimo atual",
+    "sourceHash": "b6112054e78952de853fddcd4828b55b"
+  },
+  "enterCode": {
+    "translation": "Aumente o seu crédito introduzindo um novo código.",
+    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
+  },
+  "send": {
+    "translation": "Enviar",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
+  "noCreditCode": {
+    "translation": "Não foi introduzida nenhuma chave de código de crédito",
+    "sourceHash": "f765213e6f85dc50e9a389e4072d507a"
+  },
+  "increaseCreditError": {
+    "translation": "Ocorreu um erro ao aumentar o seu saldo de crédito.",
+    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
+  },
+  "increaseCreditSuccess": {
+    "translation": "O seu saldo de crédito foi aumentado com sucesso.",
+    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "O seu direito ao rolo de filme esgotou-se",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

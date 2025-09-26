@@ -453,6 +453,42 @@
     "translation": "语言设置",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
   },
+  "_credit_screen": {
+    "translation": "信用信息",
+    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
+  },
+  "noCredit": {
+    "translation": "您的贷款结束",
+    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
+  },
+  "increaseYourCredit": {
+    "translation": "请提高您的信用度",
+    "sourceHash": "791f5248e36a02ec300903aa04205d63"
+  },
+  "currentCredit": {
+    "translation": "您当前的贷款",
+    "sourceHash": "b6112054e78952de853fddcd4828b55b"
+  },
+  "enterCode": {
+    "translation": "输入新代码，增加您的积分。",
+    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
+  },
+  "send": {
+    "translation": "发送",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
+  "noCreditCode": {
+    "translation": "未输入信用代码密钥",
+    "sourceHash": "f765213e6f85dc50e9a389e4072d507a"
+  },
+  "increaseCreditError": {
+    "translation": "在增加您的信贷余额时发生错误。",
+    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
+  },
+  "increaseCreditSuccess": {
+    "translation": "您的信用余额已成功增加。",
+    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "您的胶卷权利用完了",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
