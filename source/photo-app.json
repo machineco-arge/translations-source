@@ -125,6 +125,16 @@
     "_settings_accountSettings": "Hesap Ayarları",
     "_settings_darkOrLightModeSettings": "Tema Ayarları",
     "_settings_languageSettings": "Dil Ayarları",
+    "_credit_screen": "Kredi Bilgileri",
+
+    "noCredit": "Krediniz Bitti",
+    "increaseYourCredit": "Lütfen Kredinizi Arttırın",
+    "currentCredit": "Mevcut Krediniz",
+    "enterCode": "Yeni Kod Girerek Kredinizi Artırın.",
+    "send": "Gönder",
+    "noCreditCode": "Girilen kredi kodu anahtarı yok",
+    "increaseCreditError": "Kredi bakiyeniz artırılırken bir hata oluştu.",
+    "increaseCreditSuccess": "Kredi bakiyeniz başarıyla artırıldı.",
 
     "_selectFilm_filmCreateWaitingTimeAlertTitle": "Film Rulo Hakkın Bitti",
     "_selectFilm_filmCreateWaitingTimeAlertMessage": "Bekleme süresi {{remainingMinutes}} dakika.",
