@@ -132,7 +132,7 @@
     "currentCredit": "Mevcut Krediniz",
     "enterCode": "Yeni Kod Girerek Kredinizi Artırın.",
     "send": "Gönder",
-    "noCreditCode": "Girilen kredi kodu anahtarı yok",
+    "noCreditCode": "Girilen kredi kodu yok",
     "increaseCreditError": "Kredi bakiyeniz artırılırken bir hata oluştu.",
     "increaseCreditSuccess": "Kredi bakiyeniz başarıyla artırıldı.",
 
