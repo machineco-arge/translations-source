@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "Los permisos de cámara, ubicación y galería de fotos son necesarios para que la aplicación funcione plenamente.",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "Cámara, los permisos de ubicación son necesarios para que la aplicación funcione plenamente.",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "Permítame",

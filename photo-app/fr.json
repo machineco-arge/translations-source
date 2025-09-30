@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "Les autorisations relatives à l'appareil photo, à la localisation et à la galerie de photos sont nécessaires pour que l'application fonctionne pleinement.",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "L'appareil photo, les autorisations de localisation sont nécessaires pour que l'application fonctionne pleinement.",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "Permettez-moi",

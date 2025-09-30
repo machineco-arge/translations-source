@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "アプリケーションを完全に機能させるには、カメラ、位置情報、フォトギャラリーのパーミッションが必要です。",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "アプリケーションを完全に機能させるには、カメラ、位置情報の許可が必要です。",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "許可する",

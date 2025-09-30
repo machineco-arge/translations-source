@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "Для полноценной работы приложения необходимы разрешения камеры, местоположения и фотогалереи.",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "Для полноценной работы приложения необходимы разрешения камеры и местоположения.",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "Позвольте мне",

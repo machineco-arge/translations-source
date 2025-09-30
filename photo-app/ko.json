@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "애플리케이션이 완전히 작동하려면 카메라, 위치, 사진 갤러리 권한이 필요합니다.",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "애플리케이션이 제대로 작동하려면 카메라, 위치 권한이 필요합니다.",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "허용",

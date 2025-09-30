@@ -422,8 +422,8 @@
     "sourceHash": "60d84b763ed68e3db1358ded790cb35d"
   },
   "_permissions_RequiredAlertMessage": {
-    "translation": "要使应用程序完全正常运行，需要相机、位置和照片库权限。",
-    "sourceHash": "f8f18ea6d6e9017b744cff53ea07a361"
+    "translation": "要使应用程序完全正常运行，必须获得摄像头和位置权限。",
+    "sourceHash": "f21cb0c514299a9b8c5aa409629c7fd8"
   },
   "_permissions_RequiredAlertAllow": {
     "translation": "请允许我",
