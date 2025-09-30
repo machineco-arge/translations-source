@@ -478,8 +478,8 @@
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
   "noCreditCode": {
-    "translation": "No credit code key entered",
-    "sourceHash": "f765213e6f85dc50e9a389e4072d507a"
+    "translation": "No credit code entered",
+    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
   },
   "increaseCreditError": {
     "translation": "An error occurred while increasing your credit balance.",

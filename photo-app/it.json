@@ -479,7 +479,7 @@
   },
   "noCreditCode": {
     "translation": "Nessun codice di credito inserito",
-    "sourceHash": "f765213e6f85dc50e9a389e4072d507a"
+    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
   },
   "increaseCreditError": {
     "translation": "Si è verificato un errore durante l'aumento del saldo del credito.",

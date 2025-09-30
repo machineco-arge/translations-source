@@ -478,8 +478,8 @@
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
   "noCreditCode": {
-    "translation": "Não foi introduzida nenhuma chave de código de crédito",
-    "sourceHash": "f765213e6f85dc50e9a389e4072d507a"
+    "translation": "Não foi introduzido qualquer código de crédito",
+    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
   },
   "increaseCreditError": {
     "translation": "Ocorreu um erro ao aumentar o seu saldo de crédito.",
