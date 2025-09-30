@@ -116,7 +116,7 @@
     "_permissions_RequiredTextTitle": "Uygulamayı kullanmak için gerekli izinleri vermeniz gerekmektedir.",
     "_permissions_RequiredTextDetail": "Lütfen uygulamayı kapatıp tekrar açın ve izinleri verin.",
     "_permissions_RequiredAlertTitle": "İzinler Gerekli",
-    "_permissions_RequiredAlertMessage": "Uygulamanın tam olarak çalışabilmesi için kamera, konum, fotoğraf galerisi izinleri gereklidir.",
+    "_permissions_RequiredAlertMessage": "Uygulamanın tam olarak çalışabilmesi için kamera, konum izinleri gereklidir.",
     "_permissions_RequiredAlertAllow": "İzin ver",
     "_permissions_MissingAlertTitle": "İzinler Eksik",
     "_permissions_MissingAlertMessage": "Bazı izinler verilmedi. Uygulamanın düzgün çalışması için tüm izinlerin verilmesi gerekiyor.",
