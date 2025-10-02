@@ -31,6 +31,10 @@
     "translation": "선택한 사진을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
     "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
   },
+  "_albumScreen_selectAllPhotos": {
+    "translation": "모두 선택",
+    "sourceHash": "c6ef1ab31c91452ae022d25edeb6e498"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"
