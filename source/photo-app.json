@@ -7,6 +7,7 @@
     "_albumScreen_sharePhoto": "Paylaş",
     "_albumScreen_deletePhoto": "Fotoğrafı sil",
     "_albumScreen_deletePhotoAlertMessage": "Bu fotoğrafı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "_albumScreen_deleteMultiplePhotosAlertMessage": "Seçili fotoğrafları silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
     "_albumScreen_deletePhotoFailedAlertMessage": "Fotoğrafı silerken bir hata oluştu. Lütfen tekrar deneyin.",
     "_albumScreen_sharePhotoErrorMessage": "Fotoğraf paylaşılırken bir hata oluştu.",
     "_albumScreen_savedAIPhotoSuccessAlertMessage": "Fotoğraf galerinize kaydedildi!",
