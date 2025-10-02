@@ -27,6 +27,10 @@
     "translation": "Sind Sie sicher, dass Sie dieses Foto löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "Sind Sie sicher, dass Sie die ausgewählten Fotos löschen möchten? Dieser Vorgang kann nicht rückgängig gemacht werden.",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Beim Löschen des Fotos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

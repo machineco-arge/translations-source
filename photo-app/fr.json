@@ -27,6 +27,10 @@
     "translation": "Êtes-vous sûr de vouloir supprimer cette photo ? Cette action ne peut être annulée.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "Êtes-vous sûr de vouloir supprimer les photos sélectionnées ? Cette opération ne peut pas être annulée.",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Une erreur s'est produite lors de la suppression de la photo. Veuillez réessayer.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

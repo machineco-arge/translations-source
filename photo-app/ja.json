@@ -27,6 +27,10 @@
     "translation": "本当にこの写真を削除しますか？この操作は元に戻せません。",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "選択した写真を本当に削除しますか？この操作は元に戻せません。",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "写真の削除中にエラーが発生しました。もう一度お試しください。",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

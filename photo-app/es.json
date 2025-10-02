@@ -27,6 +27,10 @@
     "translation": "¿Estás seguro de que quieres borrar esta foto? Esta acción no se puede deshacer.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "¿Está seguro de que desea eliminar las fotos seleccionadas? Esta operación no se puede deshacer.",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Se ha producido un error al eliminar la foto. Inténtalo de nuevo.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

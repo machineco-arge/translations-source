@@ -27,6 +27,10 @@
     "translation": "Tem a certeza de que pretende apagar esta fotografia? Esta ação não pode ser anulada.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "Tem a certeza de que pretende apagar as fotografias selecionadas? Esta operação não pode ser anulada.",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Ocorreu um erro ao apagar a fotografia. Tente novamente.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

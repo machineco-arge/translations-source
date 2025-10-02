@@ -27,6 +27,10 @@
     "translation": "Вы уверены, что хотите удалить эту фотографию? Это действие нельзя отменить.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "Вы уверены, что хотите удалить выбранные фотографии? Эту операцию нельзя отменить.",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "При удалении фотографии произошла ошибка. Пожалуйста, попробуйте еще раз.",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"

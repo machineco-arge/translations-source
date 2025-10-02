@@ -27,6 +27,10 @@
     "translation": "您确定要删除这张照片吗？此操作无法撤销。",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
   },
+  "_albumScreen_deleteMultiplePhotosAlertMessage": {
+    "translation": "您确定要删除所选照片吗？此操作无法撤销。",
+    "sourceHash": "91ca13dc8e50a3aa2515367090210e36"
+  },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "删除照片时发生错误。请重试。",
     "sourceHash": "29fd142021d336f5c6fad9f16466c354"
