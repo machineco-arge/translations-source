@@ -69,6 +69,9 @@
     "_filmScreen_editNameError": "Aktivite ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
     "_filmScreen_requestKeyError": "Aktivite anahtarı istenirken bir hata oluştu.",
     "_filmScreen_requestKeySuccess": "Aktivite anahtarı isteği başarıyla gönderildi.",
+    "_filmScreen_deleteActivity": "Aktiviteyi Sil",
+    "_filmScreen_deleteActivityMessage": "Bu aktiviteyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "_filmScreen_deleteActivityErrorMessage": "Aktivite silinirken bir hata oluştu.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
