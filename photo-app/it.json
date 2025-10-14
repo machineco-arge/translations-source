@@ -259,6 +259,18 @@
     "translation": "La richiesta di chiave attività è stata inviata con successo.",
     "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
   },
+  "_filmScreen_deleteActivity": {
+    "translation": "Cancellare l'attività",
+    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+  },
+  "_filmScreen_deleteActivityMessage": {
+    "translation": "È sicuro di voler eliminare questa attività? Questa azione non può essere annullata.",
+    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+  },
+  "_filmScreen_deleteActivityErrorMessage": {
+    "translation": "Si è verificato un errore durante l'eliminazione dell'attività.",
+    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+  },
   "_participantModal_statusActive": {
     "translation": "Attivo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
