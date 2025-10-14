@@ -72,6 +72,9 @@
     "_filmScreen_deleteActivity": "Aktiviteyi Sil",
     "_filmScreen_deleteActivityMessage": "Bu aktiviteyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
     "_filmScreen_deleteActivityErrorMessage": "Aktivite silinirken bir hata oluştu.",
+    "_filmScreen_leaveActivity": "Aktiviteden Ayrıl",
+    "_filmScreen_leaveActivityMessage": "Bu aktiviteden ayrılmak istediğinizden emin misiniz?",
+    "_filmScreen_leaveActivityErrorMessage": "Aktivite ayrılırken bir hata oluştu.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
