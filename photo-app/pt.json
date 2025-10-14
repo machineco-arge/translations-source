@@ -271,6 +271,18 @@
     "translation": "Ocorreu um erro ao eliminar a atividade.",
     "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
   },
+  "_filmScreen_leaveActivity": {
+    "translation": "Atividade de férias",
+    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+  },
+  "_filmScreen_leaveActivityMessage": {
+    "translation": "Tem a certeza de que quer deixar esta atividade?",
+    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+  },
+  "_filmScreen_leaveActivityErrorMessage": {
+    "translation": "Ocorreu um erro ao sair da atividade.",
+    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+  },
   "_participantModal_statusActive": {
     "translation": "Ativo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
