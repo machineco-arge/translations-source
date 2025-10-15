@@ -15,6 +15,10 @@
     "translation": "Giriş yaparken bir sorun oluştu.",
     "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
+  "userSignInErrorAlreadyActiveSession": {
+    "translation": "Bu hesapla zaten aktif bir oturum var.",
+    "sourceHash": "339c4810c14a191177cdc45806b6f3ab"
+  },
   "userRegisterErrorAlertMessage": {
     "translation": "Kayıt yaparken bir sorun oluştu.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"

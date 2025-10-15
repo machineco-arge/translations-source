@@ -15,6 +15,10 @@
     "translation": "There was a problem logging in.",
     "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
+  "userSignInErrorAlreadyActiveSession": {
+    "translation": "There is already an active session with this account.",
+    "sourceHash": "339c4810c14a191177cdc45806b6f3ab"
+  },
   "userRegisterErrorAlertMessage": {
     "translation": "There was a problem recording.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"

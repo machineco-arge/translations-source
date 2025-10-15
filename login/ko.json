@@ -15,6 +15,10 @@
     "translation": "로그인하는 동안 문제가 발생했습니다.",
     "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
+  "userSignInErrorAlreadyActiveSession": {
+    "translation": "이 계정에 이미 활성 세션이 있습니다.",
+    "sourceHash": "339c4810c14a191177cdc45806b6f3ab"
+  },
   "userRegisterErrorAlertMessage": {
     "translation": "녹화 중 문제가 발생했습니다.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"

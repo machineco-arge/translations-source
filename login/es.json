@@ -15,6 +15,10 @@
     "translation": "Hubo un problema al iniciar sesión.",
     "sourceHash": "f74ea6fca2f86259196b3d1c0416a5f8"
   },
+  "userSignInErrorAlreadyActiveSession": {
+    "translation": "Ya hay una sesión activa con esta cuenta.",
+    "sourceHash": "339c4810c14a191177cdc45806b6f3ab"
+  },
   "userRegisterErrorAlertMessage": {
     "translation": "Hubo un problema grabando.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
