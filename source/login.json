@@ -3,6 +3,7 @@
     "_error_": "Hata",
     "userSignInErrorWrongPasswordAlertMessage": "Şifre yanlış. Lütfen tekrar deneyin.",
     "userSignInErrorAlertMessage": "Giriş yaparken bir sorun oluştu.",
+    "userSignInErrorAlreadyActiveSession": "Bu hesapla zaten aktif bir oturum var.",
     "userRegisterErrorAlertMessage": "Kayıt yaparken bir sorun oluştu.",
     "userRegisterErrorAlertMessageAnotherUserUseThisEmail": "Bu e-posta ile kayıtlı başka bir kullanıcı mevcut.",
     "userSignInEnterEmailAndPasswordAlert": "Lütfen bütün bilgileri girin.",
