@@ -4,6 +4,7 @@
     "userSignInErrorWrongPasswordAlertMessage": "Şifre yanlış. Lütfen tekrar deneyin.",
     "userSignInErrorAlertMessage": "Giriş yaparken bir sorun oluştu.",
     "userRegisterErrorAlertMessage": "Kayıt yaparken bir sorun oluştu.",
+    "userRegisterErrorAlertMessageAnotherUserUseThisEmail": "Bu e-posta ile kayıtlı başka bir kullanıcı mevcut.",
     "userSignInEnterEmailAndPasswordAlert": "Lütfen bütün bilgileri girin.",
     "userSignInEnterValidEmailAlert": "Lütfen geçerli bir e-posta adresi girin.",
     "userSignInLoginYourAccount": "Hesabınıza Giriş Yapın",
