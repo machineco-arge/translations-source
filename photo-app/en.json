@@ -529,6 +529,14 @@
     "translation": "Standby time {{remainingMinutes}} minutes.",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
+  "_selectFilm_filmCreateActivityAlertTitle": {
+    "translation": "Creating Activity",
+    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+  },
+  "_selectFilm_filmCreateActivityAlertMessage": {
+    "translation": "{{shots}} 0XPLACEHOLDERX photographic {{cameraName}} camera to create your activity.",
+    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Terms and Policies",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

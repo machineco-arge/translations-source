@@ -529,6 +529,14 @@
     "translation": "Tempo di standby {{remainingMinutes}} minuti.",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
+  "_selectFilm_filmCreateActivityAlertTitle": {
+    "translation": "Creare attività",
+    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+  },
+  "_selectFilm_filmCreateActivityAlertMessage": {
+    "translation": "{{shots}} fotocamera fotografica {{cameraName}} per creare la vostra attività.",
+    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini e condizioni",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

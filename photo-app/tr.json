@@ -529,6 +529,14 @@
     "translation": "Bekleme süresi {{remainingMinutes}} dakika.",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
+  "_selectFilm_filmCreateActivityAlertTitle": {
+    "translation": "Aktivite Oluşturuluyor",
+    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+  },
+  "_selectFilm_filmCreateActivityAlertMessage": {
+    "translation": "{{shots}} fotoğraflık {{cameraName}} kamera ile aktiviten oluşturuluyor.",
+    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Şartlar ve Politikalar",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

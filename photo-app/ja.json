@@ -529,6 +529,14 @@
     "translation": "待機時間 {{remainingMinutes}} 分。",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
+  "_selectFilm_filmCreateActivityAlertTitle": {
+    "translation": "活動の創造",
+    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+  },
+  "_selectFilm_filmCreateActivityAlertMessage": {
+    "translation": "{{shots}} 写真 {{cameraName}} カメラでアクティビティを作成します。",
+    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "規約とポリシー",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

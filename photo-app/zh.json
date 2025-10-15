@@ -529,6 +529,14 @@
     "translation": "待机时间 {{remainingMinutes}} 分钟。",
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
+  "_selectFilm_filmCreateActivityAlertTitle": {
+    "translation": "创建活动",
+    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+  },
+  "_selectFilm_filmCreateActivityAlertMessage": {
+    "translation": "{{shots}} 摄影 {{cameraName}} 相机创建您的活动。",
+    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "条款与政策",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"
