@@ -19,6 +19,10 @@
     "translation": "Возникла проблема с записью.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
+  "userRegisterErrorAlertMessageAnotherUserUseThisEmail": {
+    "translation": "С этим электронным адресом зарегистрирован еще один пользователь.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Пожалуйста, введите всю информацию.",
     "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"

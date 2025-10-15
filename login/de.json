@@ -19,6 +19,10 @@
     "translation": "Es gab ein Problem bei der Aufnahme.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
+  "userRegisterErrorAlertMessageAnotherUserUseThisEmail": {
+    "translation": "Es gibt einen weiteren Benutzer, der mit dieser E-Mail-Adresse registriert ist.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Bitte geben Sie alle Informationen ein.",
     "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"

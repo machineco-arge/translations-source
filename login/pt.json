@@ -19,6 +19,10 @@
     "translation": "Houve um problema na gravação.",
     "sourceHash": "d9a5ceed055dfb424932fc2aa06989ad"
   },
+  "userRegisterErrorAlertMessageAnotherUserUseThisEmail": {
+    "translation": "Há outro utilizador registado com este e-mail.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
   "userSignInEnterEmailAndPasswordAlert": {
     "translation": "Introduzir todas as informações.",
     "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
