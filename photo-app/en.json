@@ -534,8 +534,8 @@
     "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "{{shots}} 0XPLACEHOLDERX photographic {{cameraName}} camera to create your activity.",
-    "sourceHash": "c170b0348721eb0e4f1fcabc28433ece"
+    "translation": "{{cameraName}} - {{shots}} Your activity is created with the camera.",
+    "sourceHash": "496718a8909e0432b3c9710272cd822d"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Terms and Policies",
