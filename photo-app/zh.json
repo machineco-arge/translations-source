@@ -534,8 +534,8 @@
     "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "{{cameraName}} - {{shots}} 您的活动是通过相机创建的。",
-    "sourceHash": "496718a8909e0432b3c9710272cd822d"
+    "translation": "您的活动是通过摄像机 \" {{cameraName}} - {{shots}} \"创建的。",
+    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "条款与政策",

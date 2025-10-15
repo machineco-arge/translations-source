@@ -534,8 +534,8 @@
     "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "{{cameraName}} - {{shots}} 카메라로 활동을 생성합니다.",
-    "sourceHash": "496718a8909e0432b3c9710272cd822d"
+    "translation": "활동은 카메라 ' {{cameraName}} - {{shots}} '로 만들어집니다.",
+    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",

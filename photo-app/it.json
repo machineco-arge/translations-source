@@ -534,8 +534,8 @@
     "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "{{cameraName}} - {{shots}} L'attività viene creata con la telecamera.",
-    "sourceHash": "496718a8909e0432b3c9710272cd822d"
+    "translation": "L'attività è stata creata con la fotocamera ' {{cameraName}} - {{shots}} '.",
+    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini e condizioni",
