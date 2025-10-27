@@ -1,5 +1,6 @@
 {
     "_aiScreen_notFoundAiFilters": "Yapay zeka kameraları bulunamadı.",
+    "_aiScreen_transformQuestion": "Yapay Zeka ile dönüştürmek ister misin?",
 
     "_albumScreen_noAlbumPhotos": "Albümde hiç fotoğraf yok.",
     "_albumScreen_noAIPhoto": "Bu albümde yapay zeka fotoğrafı yok.",
