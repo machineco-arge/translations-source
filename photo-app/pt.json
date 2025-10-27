@@ -3,6 +3,10 @@
     "translation": "As câmaras de IA não foram encontradas.",
     "sourceHash": "3361f5fec41afb8739a2c572c28409be"
   },
+  "_aiScreen_transformQuestion": {
+    "translation": "Quer transformar-se com a Inteligência Artificial?",
+    "sourceHash": "af28f6ddabe9fd50910d5c7a2aecc069"
+  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "Não existem fotografias no álbum.",
     "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"

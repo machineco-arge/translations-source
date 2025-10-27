@@ -3,6 +3,10 @@
     "translation": "AI 카메라를 찾을 수 없습니다.",
     "sourceHash": "3361f5fec41afb8739a2c572c28409be"
   },
+  "_aiScreen_transformQuestion": {
+    "translation": "인공지능으로 혁신을 이루고 싶으신가요?",
+    "sourceHash": "af28f6ddabe9fd50910d5c7a2aecc069"
+  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "앨범에 사진이 없습니다.",
     "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
