@@ -155,6 +155,18 @@
     "translation": "Okay.",
     "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
   },
+  "inspect": {
+    "translation": "Review",
+    "sourceHash": "759fff7e89eb91f439948219df8950a0"
+  },
+  "confirm": {
+    "translation": "Confirm",
+    "sourceHash": "81aca36b49804f4aad3e00551e35384d"
+  },
+  "info": {
+    "translation": "Information",
+    "sourceHash": "9c9cea267dd3a45e8140957bdea78050"
+  },
   "noUserLoggedIn": {
     "translation": "No user is currently logged in.",
     "sourceHash": "093e065f7ee194d229ad5d1001fe429d"

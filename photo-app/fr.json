@@ -804,5 +804,13 @@
   "_common_reject": {
     "translation": "Rejeter",
     "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
+  },
+  "_common_no": {
+    "translation": "Non, non, non.",
+    "sourceHash": "550f18aa43061e9d57a84e5bbc4e223c"
+  },
+  "_common_yes": {
+    "translation": "Oui.",
+    "sourceHash": "bae8bbbe0768dda031fb419a508456bd"
   }
 }
