@@ -810,11 +810,11 @@
     "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
   },
   "_common_no": {
-    "translation": "No, no, no.",
-    "sourceHash": "550f18aa43061e9d57a84e5bbc4e223c"
+    "translation": "No.",
+    "sourceHash": "9f336ee8ff7f2f635c68d08fd78a1cce"
   },
   "_common_yes": {
-    "translation": "Yes.",
-    "sourceHash": "bae8bbbe0768dda031fb419a508456bd"
+    "translation": "Yes",
+    "sourceHash": "f94f854949fc94f06c85986f1e814b34"
   }
 }
