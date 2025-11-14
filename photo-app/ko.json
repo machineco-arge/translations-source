@@ -733,6 +733,50 @@
     "translation": "설정 > '언어' 메뉴에서 애플리케이션 언어를 변경할 수 있습니다.",
     "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
   },
+  "pro_membership": {
+    "translation": "프로 멤버십",
+    "sourceHash": "ec8fa8d7c3db0016ec8708c789b3eb92"
+  },
+  "standard_member": {
+    "translation": "표준 회원",
+    "sourceHash": "f9fcfd1edf2e2fedf3e9cfde5ad7cf54"
+  },
+  "pro_member": {
+    "translation": "프로 회원",
+    "sourceHash": "ae063796cdc9313bee226d61e04d28ca"
+  },
+  "benefit1": {
+    "translation": "매월 총 1500 크레딧",
+    "sourceHash": "9bb38eb8b2ba74a3a2dd3a0adcce8998"
+  },
+  "benefit2": {
+    "translation": "하루 50 크레딧",
+    "sourceHash": "ad38458f861467c5d985abb363e1ebd0"
+  },
+  "benefit3": {
+    "translation": "광고 없는 경험",
+    "sourceHash": "eda6a3c34e7d9005e2eda82eebe703d0"
+  },
+  "benefit4": {
+    "translation": "빠른 필름 인쇄",
+    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+  },
+  "pro_member_message": {
+    "translation": "프로 회원입니다. 감사합니다!",
+    "sourceHash": "f68daf73c47c90753d4db4c627035e36"
+  },
+  "month": {
+    "translation": "월간",
+    "sourceHash": "f76607633472c9f03f5a672608069de4"
+  },
+  "subscribe_now": {
+    "translation": "구독",
+    "sourceHash": "c17b2fbb7a03ddf81a5123a7ff7f472a"
+  },
+  "restore_purchases": {
+    "translation": "구매 복원",
+    "sourceHash": "ce17e7e2ec13d77d9e7080dac77984f0"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

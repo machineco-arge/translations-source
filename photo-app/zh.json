@@ -733,6 +733,50 @@
     "translation": "您可以在 \"设置\">\"语言 \"菜单中更改应用程序语言。",
     "sourceHash": "bad4ed44db0e1e4765b77420522957fa"
   },
+  "pro_membership": {
+    "translation": "专业会员",
+    "sourceHash": "ec8fa8d7c3db0016ec8708c789b3eb92"
+  },
+  "standard_member": {
+    "translation": "标准会员",
+    "sourceHash": "f9fcfd1edf2e2fedf3e9cfde5ad7cf54"
+  },
+  "pro_member": {
+    "translation": "专业会员",
+    "sourceHash": "ae063796cdc9313bee226d61e04d28ca"
+  },
+  "benefit1": {
+    "translation": "每月共计 1500 积分",
+    "sourceHash": "9bb38eb8b2ba74a3a2dd3a0adcce8998"
+  },
+  "benefit2": {
+    "translation": "每天 50 个信用点",
+    "sourceHash": "ad38458f861467c5d985abb363e1ebd0"
+  },
+  "benefit3": {
+    "translation": "无广告体验",
+    "sourceHash": "eda6a3c34e7d9005e2eda82eebe703d0"
+  },
+  "benefit4": {
+    "translation": "快速胶片打印",
+    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+  },
+  "pro_member_message": {
+    "translation": "您是专业会员。谢谢！",
+    "sourceHash": "f68daf73c47c90753d4db4c627035e36"
+  },
+  "month": {
+    "translation": "每月",
+    "sourceHash": "f76607633472c9f03f5a672608069de4"
+  },
+  "subscribe_now": {
+    "translation": "订阅",
+    "sourceHash": "c17b2fbb7a03ddf81a5123a7ff7f472a"
+  },
+  "restore_purchases": {
+    "translation": "恢复购买",
+    "sourceHash": "ce17e7e2ec13d77d9e7080dac77984f0"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
