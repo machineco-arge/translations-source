@@ -777,6 +777,10 @@
     "translation": "Restaurar compras",
     "sourceHash": "ce17e7e2ec13d77d9e7080dac77984f0"
   },
+  "subscription_expires_on": {
+    "translation": "Data de expiração da subscrição:",
+    "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
+  },
   "_common_photo": {
     "translation": "Fotografia",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
