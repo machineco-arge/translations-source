@@ -1,6 +1,6 @@
 {
   "name": "@machineco-arge/translations-source",
-  "version": "1.0.65",
+  "version": "1.0.66",
   "description": "Centralized translation source and build scripts for Machine Co. Arge projects.",
   "main": "index.js",
   "private": false,
