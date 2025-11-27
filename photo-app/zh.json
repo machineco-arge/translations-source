@@ -781,6 +781,294 @@
     "translation": "订阅到期日：",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfService": {
+    "translation": "服务条款",
+    "sourceHash": "fdede59b31533faba568be0713b8e381"
+  },
+  "termsOfService_Header": {
+    "translation": "使用 FilmCam36 应用程序即表示您同意本服务条款。如果您不同意这些条款，请勿使用本应用程序。",
+    "sourceHash": "05fc791d6941e1d88e8419a964e0e00f"
+  },
+  "termsOfService_Definations": {
+    "translation": "1. 定义：",
+    "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
+  },
+  "termsOfService_FilmCam36": {
+    "translation": "FilmCam36：这是一款由 The Machine Company 开发的手机照片和滤镜应用软件。",
+    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+  },
+  "termsOfService_User": {
+    "translation": "用户使用应用程序的人。",
+    "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
+  },
+  "termsOfService_ProSubs": {
+    "translation": "专业版订阅：付费服务，如附加功能、高级过滤器和无限制导出。",
+    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+  },
+  "termsOfService_SharedActivity": {
+    "translation": "共享活动：用户创建一个群组，一起拍摄、筛选和共享相册中的照片。所有内容都经过端到端加密。",
+    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+  },
+  "termsOfService_E2E": {
+    "translation": "E2E 加密：加密系统中的内容只能在发送和接收设备上解密，FilmCam36 服务器无法访问内容。",
+    "sourceHash": "a4f47e50b48523cdd9b28a30a0a7ce32"
+  },
+  "termsOfService_ServiceUse": {
+    "translation": "2. 服务的使用：",
+    "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
+  },
+  "termsOfService_ServiceUse_1": {
+    "translation": "FilmCam36 提供拍摄照片、编辑照片、应用滤镜和创建共享活动的功能。",
+    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+  },
+  "termsOfService_ServiceUse_2": {
+    "translation": "您只能将应用程序用于合法目的。",
+    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+  },
+  "termsOfService_ServiceUse_3": {
+    "translation": "创建账户需要有效的 Apple ID 或 Google 账户。",
+    "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
+  },
+  "termsOfService_ServiceUse_4": {
+    "translation": "要使用该程序，您需要授予必要的权限（相机、图库等）。",
+    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+  },
+  "termsOfService_Subs_Pay": {
+    "translation": "3. 订阅和付款：",
+    "sourceHash": "bfa55048bf2dd948d5b011f1582e6b19"
+  },
+  "termsOfService_Subs_Pay_1": {
+    "translation": "专业版订阅可自动续订，并通过 Apple App Store 或 Google Play 进行管理。",
+    "sourceHash": "7635b93b67e77d107cd69a5dc13bb6ac"
+  },
+  "termsOfService_Subs_Pay_2": {
+    "translation": "费用可能会有变动；变动将在续费时生效。",
+    "sourceHash": "5f2a6637ee96a09fa144db06c65f8e8d"
+  },
+  "termsOfService_Subs_Pay_3": {
+    "translation": "已购买的订阅不可退款，但 App Store / Play Store 政策适用。",
+    "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
+  },
+  "termsOfService_SharedActivities_UserContent": {
+    "translation": "4. 共享活动和用户内容：",
+    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+  },
+  "termsOfService_SharedActivities_UserContent_1": {
+    "translation": "活动中的所有照片只能由活动成员查看。",
+    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+  },
+  "termsOfService_SharedActivities_UserContent_2": {
+    "translation": "包括 FilmCam36 团队在内的任何人都无法访问这些内容，因为该应用程序采用了端到端加密技术。",
+    "sourceHash": "73ed7993891fe69936e16c9a316d9176"
+  },
+  "termsOfService_SharedActivities_UserContent_3": {
+    "translation": "您应对您在共享活动中发布的内容负全部责任。",
+    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+  },
+  "termsOfService_SharedActivities_UserContent_4": {
+    "translation": "禁止使用非法、有害和侵犯版权的内容。",
+    "sourceHash": "94262c627fa68f5b10f927c95ddff358"
+  },
+  "termsOfService_E2E_Crypto": {
+    "translation": "5. 端到端加密（E2EE）：",
+    "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
+  },
+  "termsOfService_E2E_Crypto_1": {
+    "translation": "FilmCam36 以 E2E 方式加密共享活动中的所有照片和信息：",
+    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+  },
+  "termsOfService_E2E_Crypto_2": {
+    "translation": "内容会在您的设备上加密。",
+    "sourceHash": "c01b62be2b9ba33daeeb81404678bb22"
+  },
+  "termsOfService_E2E_Crypto_3": {
+    "translation": "加密数据会到达我们的服务器。",
+    "sourceHash": "12e8e845353d97c117beddcbace339d2"
+  },
+  "termsOfService_E2E_Crypto_4": {
+    "translation": "服务器无法解码内容。",
+    "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
+  },
+  "termsOfService_E2E_Crypto_5": {
+    "translation": "解密密钥只存在于活动成员的设备上。",
+    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+  },
+  "termsOfService_E2E_Crypto_6": {
+    "translation": "因此：FilmCam36 无法访问、查看、编辑或与第三方共享用户内容。",
+    "sourceHash": "d917e92115277a9990686318749d5d4a"
+  },
+  "termsOfService_IntellectualPropertyRights": {
+    "translation": "6. 知识产权：",
+    "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
+  },
+  "termsOfService_IntellectualPropertyRights_1": {
+    "translation": "FilmCam36 应用程序及其设计、软件、滤镜、算法和标记均归开发者所有。未经授权不得复制、传播或逆向工程应用程序。",
+    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+  },
+  "termsOfService_AccountSuspension": {
+    "translation": "7.账户暂停或删除：",
+    "sourceHash": "590dc0f50789108e068cd79ea8ba11f1"
+  },
+  "termsOfService_AccountSuspension_1": {
+    "translation": "在下列情况下，FilmCam36 有权暂停您的账户：",
+    "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
+  },
+  "termsOfService_AccountSuspension_2": {
+    "translation": "违反服务条款",
+    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+  },
+  "termsOfService_AccountSuspension_3": {
+    "translation": "滥用、垃圾邮件",
+    "sourceHash": "e868f949ef146d53acede420a411d934"
+  },
+  "termsOfService_AccountSuspension_4": {
+    "translation": "法律义务",
+    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+  },
+  "termsOfService_Disclaimer": {
+    "translation": "8.免责声明：",
+    "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
+  },
+  "termsOfService_Disclaimer_1": {
+    "translation": "FilmCam36 不保证不间断服务。",
+    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+  },
+  "termsOfService_Disclaimer_2": {
+    "translation": "数据丢失、设备不兼容、第三方纠纷等均与开发者无关。",
+    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+  },
+  "termsOfService_Disclaimer_3": {
+    "translation": "照片记录或云端同步方面的问题由用户负责。",
+    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+  },
+  "termsOfService_LegalDisputes": {
+    "translation": "9. 法律纠纷：",
+    "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
+  },
+  "termsOfService_LegalDisputes_1": {
+    "translation": "这些条件受土耳其法律约束。",
+    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+  },
+  "termsOfService_LegalDisputes_2": {
+    "translation": "伊斯坦布尔法院有权审理争议案件。",
+    "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "privacyPolicy": {
+    "translation": "隐私政策",
+    "sourceHash": "5d4eeacf3cbeb54cfc1f29e3f9e38bba"
+  },
+  "privacyPolicy_Header": {
+    "translation": "在 FilmCam36，我们非常重视您的隐私。本政策解释了我们处理哪些数据以及如何处理这些数据。",
+    "sourceHash": "482649bfddebf1c5584803210626b314"
+  },
+  "privacyPolicy_CollectedData": {
+    "translation": "1.我们收集的数据：",
+    "sourceHash": "0e4f5b8527b599c5d4164379d8bb7aaf"
+  },
+  "privacyPolicy_CollectedData_AccountInfo": {
+    "translation": "1.1 账户信息：",
+    "sourceHash": "0d6444df29f2674a8f5e596ac751de52"
+  },
+  "privacyPolicy_CollectedData_AccountInfo_1": {
+    "translation": "通过 Google / Apple 接收：姓名、个人照片、电子邮件、用户 ID",
+    "sourceHash": "676a7f783d8625ce241eb9e320c25a8b"
+  },
+  "privacyPolicy_CollectedData_AppData": {
+    "translation": "1.2 应用数据：",
+    "sourceHash": "42bd484312d94c99f5fb0ce1620bbe01"
+  },
+  "privacyPolicy_CollectedData_AppData_1": {
+    "translation": "您使用的过滤器、订阅状态、设备 ID、应用内错误报告",
+    "sourceHash": "5cfca368855e535991a2ba746c019615"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData": {
+    "translation": "1.3 共享活动数据：",
+    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_1": {
+    "translation": "活动名称、活动成员、照片（全部经过 E2E 加密）、每张照片的元数据",
+    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_2": {
+    "translation": "注意：FilmCam36 团队无法查看任何照片。照片以不可解码格式存储。",
+    "sourceHash": "6e944c5072c71edbef476308d34870e4"
+  },
+  "privacyPolicy_UncollectedData": {
+    "translation": "2. 我们没有收集到的数据：",
+    "sourceHash": "8723827fd83e4bc644cb0b5b6bba7d9b"
+  },
+  "privacyPolicy_UncollectedData_1": {
+    "translation": "FilmCam36 不会访问以下内容：",
+    "sourceHash": "cc86f284ea21023bdde4e6d6320ab4f9"
+  },
+  "privacyPolicy_UncollectedData_2": {
+    "translation": "照片内容",
+    "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
+  },
+  "privacyPolicy_UncollectedData_3": {
+    "translation": "活动中信息",
+    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+  },
+  "privacyPolicy_UncollectedData_4": {
+    "translation": "用户图库中的其他照片",
+    "sourceHash": "5f7a30cd3d4f8d88447b396eb636b8e3"
+  },
+  "privacyPolicy_UncollectedData_5": {
+    "translation": "位置数据（可选功能除外）",
+    "sourceHash": "8c6222cd2f2ce29c66f58cc308c69c44"
+  },
+  "privacyPolicy_UncollectedData_6": {
+    "translation": "麦克风或照相机录音（仅在您允许的情况下和使用期间）",
+    "sourceHash": "c4712651b83b54e451edb4dedbd91dc7"
+  },
+  "privacyPolicy_DataStorage": {
+    "translation": "3. 数据存储：",
+    "sourceHash": "177f7199bda5299640c5935aa137c14b"
+  },
+  "privacyPolicy_DataStorage_1": {
+    "translation": "账户数据存储在安全的服务器上。",
+    "sourceHash": "b18450ea443d17728b0194358bc71827"
+  },
+  "privacyPolicy_DataStorage_2": {
+    "translation": "活动照片以加密方式存储，密钥保留在设备上。",
+    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+  },
+  "privacyPolicy_DataStorage_3": {
+    "translation": "用户内容 \"开发人员无法查看\"。",
+    "sourceHash": "f4edbb2cf7ff9d15629aaf70d680b8d8"
+  },
+  "privacyPolicy_DataSharing": {
+    "translation": "4. 共享数据：",
+    "sourceHash": "ee10073161a40fd747f1999eb17e1f05"
+  },
+  "privacyPolicy_DataSharing_1": {
+    "translation": "FilmCam36 不会出售、出租或与第三方共享您的数据。",
+    "sourceHash": "c50bf2604ccd9a3d2e36ae328113d756"
+  },
+  "privacyPolicy_DataSharing_2": {
+    "translation": "只有在以下情况下才共享：",
+    "sourceHash": "57febbe415e37968285e90581890afc2"
+  },
+  "privacyPolicy_DataSharing_3": {
+    "translation": "法律义务：仅可根据法院命令公开加密数据。",
+    "sourceHash": "f4ccf2069c29306ed8b607f13ee8ba08"
+  },
+  "privacyPolicy_DataSharing_4": {
+    "translation": "分析匿名统计应用程序的使用情况（谷歌分析等）",
+    "sourceHash": "dba6d84db2dfc2312ddff8d8c6e899e9"
+  },
+  "privacyPolicy_DataSharing_5": {
+    "translation": "支付提供商：Apple / Google 订阅处理",
+    "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
+  },
+  "privacyPolicy_DataSharing_6": {
+    "translation": "FilmCam36 团队永远无法访问您的照片、信息和解密密钥",
+    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+  },
+  "ContactUs": {
+    "translation": "联系我们如果您对这些服务条款或隐私政策有任何疑问，请联系我们：filmcam36@themachineco.com",
+    "sourceHash": "df7319077f909d4191cfffe597524af2"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

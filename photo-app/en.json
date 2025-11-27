@@ -781,6 +781,294 @@
     "translation": "Subscription expiration date:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfService": {
+    "translation": "Terms of Service",
+    "sourceHash": "fdede59b31533faba568be0713b8e381"
+  },
+  "termsOfService_Header": {
+    "translation": "By using FilmCam36, you agree to these Terms of Service. If you do not agree to these Terms, do not use the application.",
+    "sourceHash": "05fc791d6941e1d88e8419a964e0e00f"
+  },
+  "termsOfService_Definations": {
+    "translation": "1. Definitions:",
+    "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
+  },
+  "termsOfService_FilmCam36": {
+    "translation": "FilmCam36: A mobile photo and filtering app developed by The Machine Company.",
+    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+  },
+  "termsOfService_User": {
+    "translation": "User The person using the application.",
+    "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
+  },
+  "termsOfService_ProSubs": {
+    "translation": "Pro Subscription: Paid services such as additional features, premium filters, unlimited exports.",
+    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+  },
+  "termsOfService_SharedActivity": {
+    "translation": "Shared Activity: Users create a group to take, filter and share photos and albums together. All content is end-to-end encrypted.",
+    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+  },
+  "termsOfService_E2E": {
+    "translation": "E2E Encryption: An encryption system where content can only be decrypted on the sending and receiving devices and FilmCam36 servers cannot access the content.",
+    "sourceHash": "a4f47e50b48523cdd9b28a30a0a7ce32"
+  },
+  "termsOfService_ServiceUse": {
+    "translation": "2. Use of the Service:",
+    "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
+  },
+  "termsOfService_ServiceUse_1": {
+    "translation": "FilmCam36 offers the ability to take photos, edit them, apply filters and create shared activities.",
+    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+  },
+  "termsOfService_ServiceUse_2": {
+    "translation": "You may use the App for lawful purposes only.",
+    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+  },
+  "termsOfService_ServiceUse_3": {
+    "translation": "A valid Apple ID or Google account is required to create an account.",
+    "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
+  },
+  "termsOfService_ServiceUse_4": {
+    "translation": "You need to grant the necessary permissions (camera, gallery, etc.) to be able to use the app.",
+    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+  },
+  "termsOfService_Subs_Pay": {
+    "translation": "3. Subscriptions and Payments:",
+    "sourceHash": "bfa55048bf2dd948d5b011f1582e6b19"
+  },
+  "termsOfService_Subs_Pay_1": {
+    "translation": "Pro subscription auto-renews and is managed through the Apple App Store or Google Play.",
+    "sourceHash": "7635b93b67e77d107cd69a5dc13bb6ac"
+  },
+  "termsOfService_Subs_Pay_2": {
+    "translation": "Fees are subject to change; changes will take effect during the renewal period.",
+    "sourceHash": "5f2a6637ee96a09fa144db06c65f8e8d"
+  },
+  "termsOfService_Subs_Pay_3": {
+    "translation": "Purchased subscriptions are non-refundable, but App Store / Play Store policies apply.",
+    "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
+  },
+  "termsOfService_SharedActivities_UserContent": {
+    "translation": "4. Shared Activities and User Content:",
+    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+  },
+  "termsOfService_SharedActivities_UserContent_1": {
+    "translation": "All photos within an activity can only be viewed by activity members.",
+    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+  },
+  "termsOfService_SharedActivities_UserContent_2": {
+    "translation": "No one, including the FilmCam36 team, can access the content because the app uses end-to-end encryption.",
+    "sourceHash": "73ed7993891fe69936e16c9a316d9176"
+  },
+  "termsOfService_SharedActivities_UserContent_3": {
+    "translation": "You are fully responsible for the content you post in shared activities.",
+    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+  },
+  "termsOfService_SharedActivities_UserContent_4": {
+    "translation": "Using illegal, harmful, copyright infringing content is prohibited.",
+    "sourceHash": "94262c627fa68f5b10f927c95ddff358"
+  },
+  "termsOfService_E2E_Crypto": {
+    "translation": "5. End-to-End Encryption (E2EE):",
+    "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
+  },
+  "termsOfService_E2E_Crypto_1": {
+    "translation": "FilmCam36 encrypts all photos and messages in shared activities as E2E:",
+    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+  },
+  "termsOfService_E2E_Crypto_2": {
+    "translation": "Content is encrypted on your device.",
+    "sourceHash": "c01b62be2b9ba33daeeb81404678bb22"
+  },
+  "termsOfService_E2E_Crypto_3": {
+    "translation": "The encrypted data reaches our servers.",
+    "sourceHash": "12e8e845353d97c117beddcbace339d2"
+  },
+  "termsOfService_E2E_Crypto_4": {
+    "translation": "The server cannot decode the content.",
+    "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
+  },
+  "termsOfService_E2E_Crypto_5": {
+    "translation": "Unlock keys are only on the devices of activity members.",
+    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+  },
+  "termsOfService_E2E_Crypto_6": {
+    "translation": "Therefore: FilmCam36 cannot access, view, edit or share user content with third parties.",
+    "sourceHash": "d917e92115277a9990686318749d5d4a"
+  },
+  "termsOfService_IntellectualPropertyRights": {
+    "translation": "6. Intellectual Property Rights:",
+    "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
+  },
+  "termsOfService_IntellectualPropertyRights_1": {
+    "translation": "The FilmCam36 application, its design, software, filters, algorithms and markings are the property of the developer. Any unauthorized reproduction, distribution or reverse engineering of the application is prohibited.",
+    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+  },
+  "termsOfService_AccountSuspension": {
+    "translation": "7. Account Suspension or Deletion:",
+    "sourceHash": "590dc0f50789108e068cd79ea8ba11f1"
+  },
+  "termsOfService_AccountSuspension_1": {
+    "translation": "FilmCam36 reserves the right to suspend your account in the following cases:",
+    "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
+  },
+  "termsOfService_AccountSuspension_2": {
+    "translation": "Violation of terms of service",
+    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+  },
+  "termsOfService_AccountSuspension_3": {
+    "translation": "Abuse, spam",
+    "sourceHash": "e868f949ef146d53acede420a411d934"
+  },
+  "termsOfService_AccountSuspension_4": {
+    "translation": "Legal obligations",
+    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+  },
+  "termsOfService_Disclaimer": {
+    "translation": "8. Disclaimer of Liability:",
+    "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
+  },
+  "termsOfService_Disclaimer_1": {
+    "translation": "FilmCam36 does not guarantee uninterrupted service.",
+    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+  },
+  "termsOfService_Disclaimer_2": {
+    "translation": "Loss of data, device incompatibility, third party disputes are not the responsibility of the developer.",
+    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+  },
+  "termsOfService_Disclaimer_3": {
+    "translation": "Problems with photo recording or cloud synchronization are the responsibility of the user.",
+    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+  },
+  "termsOfService_LegalDisputes": {
+    "translation": "9. Legal Disputes:",
+    "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
+  },
+  "termsOfService_LegalDisputes_1": {
+    "translation": "These conditions are subject to Turkish Law.",
+    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+  },
+  "termsOfService_LegalDisputes_2": {
+    "translation": "Istanbul Courts are authorized in case of disputes.",
+    "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "privacyPolicy": {
+    "translation": "Privacy Policy",
+    "sourceHash": "5d4eeacf3cbeb54cfc1f29e3f9e38bba"
+  },
+  "privacyPolicy_Header": {
+    "translation": "At FilmCam36, we take your privacy very seriously. This policy explains what data we process and how we process it.",
+    "sourceHash": "482649bfddebf1c5584803210626b314"
+  },
+  "privacyPolicy_CollectedData": {
+    "translation": "1. The Data We Collect:",
+    "sourceHash": "0e4f5b8527b599c5d4164379d8bb7aaf"
+  },
+  "privacyPolicy_CollectedData_AccountInfo": {
+    "translation": "1.1. Account Information:",
+    "sourceHash": "0d6444df29f2674a8f5e596ac751de52"
+  },
+  "privacyPolicy_CollectedData_AccountInfo_1": {
+    "translation": "Received via Google / Apple: First name, last name, Profile photo, Email, User ID",
+    "sourceHash": "676a7f783d8625ce241eb9e320c25a8b"
+  },
+  "privacyPolicy_CollectedData_AppData": {
+    "translation": "1.2. Application Data:",
+    "sourceHash": "42bd484312d94c99f5fb0ce1620bbe01"
+  },
+  "privacyPolicy_CollectedData_AppData_1": {
+    "translation": "Filters you use, Subscription status, Device ID, In-app error reports",
+    "sourceHash": "5cfca368855e535991a2ba746c019615"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData": {
+    "translation": "1.3. Shared Activity Data:",
+    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_1": {
+    "translation": "Activity names, Activity members, Photos (all E2E encrypted), Metadata for each photo",
+    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_2": {
+    "translation": "Note: The FilmCam36 team cannot view any photos. Photos are stored in undecodable format.",
+    "sourceHash": "6e944c5072c71edbef476308d34870e4"
+  },
+  "privacyPolicy_UncollectedData": {
+    "translation": "2. Data we did not collect:",
+    "sourceHash": "8723827fd83e4bc644cb0b5b6bba7d9b"
+  },
+  "privacyPolicy_UncollectedData_1": {
+    "translation": "FilmCam36 will never access",
+    "sourceHash": "cc86f284ea21023bdde4e6d6320ab4f9"
+  },
+  "privacyPolicy_UncollectedData_2": {
+    "translation": "Content of the photos",
+    "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
+  },
+  "privacyPolicy_UncollectedData_3": {
+    "translation": "In-activity messages",
+    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+  },
+  "privacyPolicy_UncollectedData_4": {
+    "translation": "More photos in the user gallery",
+    "sourceHash": "5f7a30cd3d4f8d88447b396eb636b8e3"
+  },
+  "privacyPolicy_UncollectedData_5": {
+    "translation": "Location data (except optional features)",
+    "sourceHash": "8c6222cd2f2ce29c66f58cc308c69c44"
+  },
+  "privacyPolicy_UncollectedData_6": {
+    "translation": "Microphone or camera recordings (only with your permission and during use)",
+    "sourceHash": "c4712651b83b54e451edb4dedbd91dc7"
+  },
+  "privacyPolicy_DataStorage": {
+    "translation": "3. Data Retention:",
+    "sourceHash": "177f7199bda5299640c5935aa137c14b"
+  },
+  "privacyPolicy_DataStorage_1": {
+    "translation": "Account data is stored on secure servers.",
+    "sourceHash": "b18450ea443d17728b0194358bc71827"
+  },
+  "privacyPolicy_DataStorage_2": {
+    "translation": "Activity photos are stored encrypted; keys remain on the devices.",
+    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+  },
+  "privacyPolicy_DataStorage_3": {
+    "translation": "User content is \"not viewable by the developer\".",
+    "sourceHash": "f4edbb2cf7ff9d15629aaf70d680b8d8"
+  },
+  "privacyPolicy_DataSharing": {
+    "translation": "4. Sharing of Data:",
+    "sourceHash": "ee10073161a40fd747f1999eb17e1f05"
+  },
+  "privacyPolicy_DataSharing_1": {
+    "translation": "FilmCam36 does not sell, rent or share your data with third parties.",
+    "sourceHash": "c50bf2604ccd9a3d2e36ae328113d756"
+  },
+  "privacyPolicy_DataSharing_2": {
+    "translation": "Sharing is only done in the following cases:",
+    "sourceHash": "57febbe415e37968285e90581890afc2"
+  },
+  "privacyPolicy_DataSharing_3": {
+    "translation": "Legal obligation: Only encrypted data can be released by court order.",
+    "sourceHash": "f4ccf2069c29306ed8b607f13ee8ba08"
+  },
+  "privacyPolicy_DataSharing_4": {
+    "translation": "Analytics Anonymous statistics for app usage (Google Analytics etc.)",
+    "sourceHash": "dba6d84db2dfc2312ddff8d8c6e899e9"
+  },
+  "privacyPolicy_DataSharing_5": {
+    "translation": "Payment providers: Apple / Google subscription processing",
+    "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
+  },
+  "privacyPolicy_DataSharing_6": {
+    "translation": "FilmCam36 team will never have access to your Photos, Messages, Decryption keys",
+    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+  },
+  "ContactUs": {
+    "translation": "Contact Us: If you have any questions about these Terms of Service or the Privacy Policy, please contact us: filmcam36@themachineco.com",
+    "sourceHash": "df7319077f909d4191cfffe597524af2"
+  },
   "_common_photo": {
     "translation": "Photo.",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

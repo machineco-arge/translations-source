@@ -781,6 +781,294 @@
     "translation": "구독 만료일:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfService": {
+    "translation": "서비스 약관",
+    "sourceHash": "fdede59b31533faba568be0713b8e381"
+  },
+  "termsOfService_Header": {
+    "translation": "FilmCam36 애플리케이션을 사용함으로써 귀하는 본 서비스 약관에 동의하게 됩니다. 본 약관에 동의하지 않는 경우 애플리케이션을 사용하지 마세요.",
+    "sourceHash": "05fc791d6941e1d88e8419a964e0e00f"
+  },
+  "termsOfService_Definations": {
+    "translation": "1. 정의:",
+    "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
+  },
+  "termsOfService_FilmCam36": {
+    "translation": "FilmCam36: The Machine Company에서 개발한 모바일 사진 및 필터링 애플리케이션입니다.",
+    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+  },
+  "termsOfService_User": {
+    "translation": "사용자 애플리케이션을 사용하는 사람입니다.",
+    "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
+  },
+  "termsOfService_ProSubs": {
+    "translation": "프로 구독: 추가 기능, 프리미엄 필터, 무제한 내보내기 등의 유료 서비스를 이용할 수 있습니다.",
+    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+  },
+  "termsOfService_SharedActivity": {
+    "translation": "공유 활동: 사용자는 그룹을 만들어 함께 사진을 찍고, 필터링하고, 앨범을 공유할 수 있습니다. 모든 콘텐츠는 엔드투엔드 암호화됩니다.",
+    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+  },
+  "termsOfService_E2E": {
+    "translation": "E2E 암호화: 송수신 장치에서만 콘텐츠의 암호를 해독할 수 있고 FilmCam36 서버는 콘텐츠에 액세스할 수 없는 암호화 시스템입니다.",
+    "sourceHash": "a4f47e50b48523cdd9b28a30a0a7ce32"
+  },
+  "termsOfService_ServiceUse": {
+    "translation": "2. 서비스 이용:",
+    "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
+  },
+  "termsOfService_ServiceUse_1": {
+    "translation": "FilmCam36은 사진 촬영, 편집, 필터 적용, 공유 활동 생성 기능을 제공합니다.",
+    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+  },
+  "termsOfService_ServiceUse_2": {
+    "translation": "합법적인 목적으로만 앱을 사용할 수 있습니다.",
+    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+  },
+  "termsOfService_ServiceUse_3": {
+    "translation": "계정을 만들려면 유효한 Apple ID 또는 Google 계정이 필요합니다.",
+    "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
+  },
+  "termsOfService_ServiceUse_4": {
+    "translation": "앱을 사용하려면 필요한 권한(카메라, 갤러리 등)을 부여해야 합니다.",
+    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+  },
+  "termsOfService_Subs_Pay": {
+    "translation": "3. 구독 및 결제:",
+    "sourceHash": "bfa55048bf2dd948d5b011f1582e6b19"
+  },
+  "termsOfService_Subs_Pay_1": {
+    "translation": "Pro 구독은 Apple App Store 또는 Google Play를 통해 자동으로 갱신 및 관리됩니다.",
+    "sourceHash": "7635b93b67e77d107cd69a5dc13bb6ac"
+  },
+  "termsOfService_Subs_Pay_2": {
+    "translation": "수수료는 변경될 수 있으며, 변경 사항은 갱신 시점에 적용됩니다.",
+    "sourceHash": "5f2a6637ee96a09fa144db06c65f8e8d"
+  },
+  "termsOfService_Subs_Pay_3": {
+    "translation": "구매한 구독은 환불되지 않지만 App Store/Play 스토어 정책이 적용됩니다.",
+    "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
+  },
+  "termsOfService_SharedActivities_UserContent": {
+    "translation": "4. 공유 활동 및 사용자 콘텐츠:",
+    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+  },
+  "termsOfService_SharedActivities_UserContent_1": {
+    "translation": "활동 내의 모든 사진은 활동 회원만 볼 수 있습니다.",
+    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+  },
+  "termsOfService_SharedActivities_UserContent_2": {
+    "translation": "이 애플리케이션은 종단 간 암호화를 사용하기 때문에 FilmCam36 팀을 포함한 그 누구도 콘텐츠에 액세스할 수 없습니다.",
+    "sourceHash": "73ed7993891fe69936e16c9a316d9176"
+  },
+  "termsOfService_SharedActivities_UserContent_3": {
+    "translation": "공유 활동에 게시하는 콘텐츠에 대한 책임은 전적으로 회원님에게 있습니다.",
+    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+  },
+  "termsOfService_SharedActivities_UserContent_4": {
+    "translation": "불법적이고 유해하며 저작권을 침해하는 콘텐츠의 사용은 금지되어 있습니다.",
+    "sourceHash": "94262c627fa68f5b10f927c95ddff358"
+  },
+  "termsOfService_E2E_Crypto": {
+    "translation": "5. 종단 간 암호화(E2EE):",
+    "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
+  },
+  "termsOfService_E2E_Crypto_1": {
+    "translation": "FilmCam36은 공유 활동의 모든 사진과 메시지를 E2E로 암호화합니다:",
+    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+  },
+  "termsOfService_E2E_Crypto_2": {
+    "translation": "콘텐츠는 장치에서 암호화됩니다.",
+    "sourceHash": "c01b62be2b9ba33daeeb81404678bb22"
+  },
+  "termsOfService_E2E_Crypto_3": {
+    "translation": "암호화된 데이터는 당사 서버에 전달됩니다.",
+    "sourceHash": "12e8e845353d97c117beddcbace339d2"
+  },
+  "termsOfService_E2E_Crypto_4": {
+    "translation": "서버가 콘텐츠를 디코딩할 수 없습니다.",
+    "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
+  },
+  "termsOfService_E2E_Crypto_5": {
+    "translation": "암호 해독 키는 활동 멤버의 디바이스에만 있습니다.",
+    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+  },
+  "termsOfService_E2E_Crypto_6": {
+    "translation": "따라서: 필름캠36은 사용자 콘텐츠에 액세스, 열람, 편집 또는 제3자와 공유할 수 없습니다.",
+    "sourceHash": "d917e92115277a9990686318749d5d4a"
+  },
+  "termsOfService_IntellectualPropertyRights": {
+    "translation": "6. 지적 재산권:",
+    "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
+  },
+  "termsOfService_IntellectualPropertyRights_1": {
+    "translation": "FilmCam36 애플리케이션, 디자인, 소프트웨어, 필터, 알고리즘 및 표시는 개발자의 소유입니다. 애플리케이션의 무단 복제, 배포 또는 리버스 엔지니어링은 금지됩니다.",
+    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+  },
+  "termsOfService_AccountSuspension": {
+    "translation": "7. 계정 일시 정지 또는 삭제:",
+    "sourceHash": "590dc0f50789108e068cd79ea8ba11f1"
+  },
+  "termsOfService_AccountSuspension_1": {
+    "translation": "필름캠36은 다음과 같은 경우 귀하의 계정을 정지할 수 있는 권리를 보유합니다:",
+    "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
+  },
+  "termsOfService_AccountSuspension_2": {
+    "translation": "서비스 약관 위반",
+    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+  },
+  "termsOfService_AccountSuspension_3": {
+    "translation": "어뷰징, 스팸",
+    "sourceHash": "e868f949ef146d53acede420a411d934"
+  },
+  "termsOfService_AccountSuspension_4": {
+    "translation": "법적 의무",
+    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+  },
+  "termsOfService_Disclaimer": {
+    "translation": "8. 책임 면책 조항:",
+    "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
+  },
+  "termsOfService_Disclaimer_1": {
+    "translation": "FilmCam36은 중단 없는 서비스를 보장하지 않습니다.",
+    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+  },
+  "termsOfService_Disclaimer_2": {
+    "translation": "데이터 손실, 기기 비호환성, 제3자 분쟁은 개발자의 책임이 아닙니다.",
+    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+  },
+  "termsOfService_Disclaimer_3": {
+    "translation": "사진 촬영 또는 클라우드 동기화 문제는 사용자의 책임입니다.",
+    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+  },
+  "termsOfService_LegalDisputes": {
+    "translation": "9. 법적 분쟁:",
+    "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
+  },
+  "termsOfService_LegalDisputes_1": {
+    "translation": "이러한 조건은 터키 법률의 적용을 받습니다.",
+    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+  },
+  "termsOfService_LegalDisputes_2": {
+    "translation": "분쟁이 발생할 경우 이스탄불 법원이 관할합니다.",
+    "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "privacyPolicy": {
+    "translation": "개인정보 보호정책",
+    "sourceHash": "5d4eeacf3cbeb54cfc1f29e3f9e38bba"
+  },
+  "privacyPolicy_Header": {
+    "translation": "FilmCam36은 사용자의 개인 정보를 매우 중요하게 생각합니다. 이 정책은 당사가 처리하는 데이터와 처리 방법에 대해 설명합니다.",
+    "sourceHash": "482649bfddebf1c5584803210626b314"
+  },
+  "privacyPolicy_CollectedData": {
+    "translation": "1. 당사가 수집하는 데이터:",
+    "sourceHash": "0e4f5b8527b599c5d4164379d8bb7aaf"
+  },
+  "privacyPolicy_CollectedData_AccountInfo": {
+    "translation": "1.1. 계정 정보:",
+    "sourceHash": "0d6444df29f2674a8f5e596ac751de52"
+  },
+  "privacyPolicy_CollectedData_AccountInfo_1": {
+    "translation": "구글/애플을 통해 수신: 이름, 성, 프로필 사진, 이메일, 사용자 아이디",
+    "sourceHash": "676a7f783d8625ce241eb9e320c25a8b"
+  },
+  "privacyPolicy_CollectedData_AppData": {
+    "translation": "1.2. 애플리케이션 데이터:",
+    "sourceHash": "42bd484312d94c99f5fb0ce1620bbe01"
+  },
+  "privacyPolicy_CollectedData_AppData_1": {
+    "translation": "사용 중인 필터, 구독 상태, 기기 ID, 인앱 오류 보고서",
+    "sourceHash": "5cfca368855e535991a2ba746c019615"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData": {
+    "translation": "1.3. 공유 활동 데이터:",
+    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_1": {
+    "translation": "활동 이름, 활동 구성원, 사진(모두 E2E 암호화), 각 사진의 메타데이터",
+    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_2": {
+    "translation": "참고: FilmCam36 팀은 사진을 볼 수 없습니다. 사진은 디코딩할 수 없는 형식으로 저장됩니다.",
+    "sourceHash": "6e944c5072c71edbef476308d34870e4"
+  },
+  "privacyPolicy_UncollectedData": {
+    "translation": "2. 당사가 수집하지 않은 데이터:",
+    "sourceHash": "8723827fd83e4bc644cb0b5b6bba7d9b"
+  },
+  "privacyPolicy_UncollectedData_1": {
+    "translation": "FilmCam36은 다음에 절대 액세스하지 않습니다:",
+    "sourceHash": "cc86f284ea21023bdde4e6d6320ab4f9"
+  },
+  "privacyPolicy_UncollectedData_2": {
+    "translation": "사진의 콘텐츠",
+    "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
+  },
+  "privacyPolicy_UncollectedData_3": {
+    "translation": "활동 중 메시지",
+    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+  },
+  "privacyPolicy_UncollectedData_4": {
+    "translation": "사용자 갤러리의 다른 사진",
+    "sourceHash": "5f7a30cd3d4f8d88447b396eb636b8e3"
+  },
+  "privacyPolicy_UncollectedData_5": {
+    "translation": "위치 데이터(선택적 기능 제외)",
+    "sourceHash": "8c6222cd2f2ce29c66f58cc308c69c44"
+  },
+  "privacyPolicy_UncollectedData_6": {
+    "translation": "마이크 또는 카메라 녹음(사용자의 허락이 있는 경우에만 사용 중)",
+    "sourceHash": "c4712651b83b54e451edb4dedbd91dc7"
+  },
+  "privacyPolicy_DataStorage": {
+    "translation": "3. 데이터 저장소:",
+    "sourceHash": "177f7199bda5299640c5935aa137c14b"
+  },
+  "privacyPolicy_DataStorage_1": {
+    "translation": "계정 데이터는 보안 서버에 저장됩니다.",
+    "sourceHash": "b18450ea443d17728b0194358bc71827"
+  },
+  "privacyPolicy_DataStorage_2": {
+    "translation": "활동 사진은 암호화되어 저장되며 키는 장치에 남아 있습니다.",
+    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+  },
+  "privacyPolicy_DataStorage_3": {
+    "translation": "사용자 콘텐츠는 \"개발자가 볼 수 없음\" 상태입니다.",
+    "sourceHash": "f4edbb2cf7ff9d15629aaf70d680b8d8"
+  },
+  "privacyPolicy_DataSharing": {
+    "translation": "4. 데이터 공유:",
+    "sourceHash": "ee10073161a40fd747f1999eb17e1f05"
+  },
+  "privacyPolicy_DataSharing_1": {
+    "translation": "FilmCam36은 귀하의 데이터를 제3자에게 판매, 대여 또는 공유하지 않습니다.",
+    "sourceHash": "c50bf2604ccd9a3d2e36ae328113d756"
+  },
+  "privacyPolicy_DataSharing_2": {
+    "translation": "공유는 다음과 같은 경우에만 수행됩니다:",
+    "sourceHash": "57febbe415e37968285e90581890afc2"
+  },
+  "privacyPolicy_DataSharing_3": {
+    "translation": "법적 의무: 법원의 명령에 따라 암호화된 데이터만 공개할 수 있습니다.",
+    "sourceHash": "f4ccf2069c29306ed8b607f13ee8ba08"
+  },
+  "privacyPolicy_DataSharing_4": {
+    "translation": "애널리틱스 애플리케이션 사용량에 대한 익명 통계(Google 애널리틱스 등)",
+    "sourceHash": "dba6d84db2dfc2312ddff8d8c6e899e9"
+  },
+  "privacyPolicy_DataSharing_5": {
+    "translation": "결제 서비스 제공업체: Apple / Google 구독 처리",
+    "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
+  },
+  "privacyPolicy_DataSharing_6": {
+    "translation": "FilmCam36 팀은 귀하의 사진, 메시지, 암호 해독 키에 절대 접근하지 않습니다.",
+    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+  },
+  "ContactUs": {
+    "translation": "문의하기: 본 서비스 약관 또는 개인정보 처리방침에 대해 궁금한 점이 있으면 문의하시기 바랍니다: filmcam36@themachineco.com",
+    "sourceHash": "df7319077f909d4191cfffe597524af2"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

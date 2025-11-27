@@ -781,6 +781,294 @@
     "translation": "Abonelik süresi sona erme tarihi:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfService": {
+    "translation": "Hizmet Şartları",
+    "sourceHash": "fdede59b31533faba568be0713b8e381"
+  },
+  "termsOfService_Header": {
+    "translation": "FilmCam36 uygulamasını kullanarak bu Hizmet Şartlarını kabul etmiş olursunuz. Bu Şartları kabul etmiyorsanız uygulamayı kullanmayınız.",
+    "sourceHash": "05fc791d6941e1d88e8419a964e0e00f"
+  },
+  "termsOfService_Definations": {
+    "translation": "1. Tanımlar:",
+    "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
+  },
+  "termsOfService_FilmCam36": {
+    "translation": "FilmCam36: The Machine Company tarafından geliştirilen mobil fotoğraf ve filtreleme uygulamasıdır.",
+    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+  },
+  "termsOfService_User": {
+    "translation": "Kullanıcı: Uygulamayı kullanan kişi.",
+    "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
+  },
+  "termsOfService_ProSubs": {
+    "translation": "Pro Abonelik: Ek özellikler, premium filtreler, sınırsız dışa aktarma gibi ücretli hizmetler.",
+    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+  },
+  "termsOfService_SharedActivity": {
+    "translation": "Paylaşımlı Aktivite: Kullanıcıların bir grup oluşturarak birlikte fotoğraf çekmesi, filtrelemesi ve albüm paylaşması. Tüm içerikler uçtan uca şifrelenir.",
+    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+  },
+  "termsOfService_E2E": {
+    "translation": "E2E Şifreleme: İçeriğin yalnızca gönderici ve alıcı cihazlarda çözülebildiği, FilmCam36 sunucularının içeriğe erişemediği şifreleme sistemi.",
+    "sourceHash": "a4f47e50b48523cdd9b28a30a0a7ce32"
+  },
+  "termsOfService_ServiceUse": {
+    "translation": "2. Hizmetin Kullanımı:",
+    "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
+  },
+  "termsOfService_ServiceUse_1": {
+    "translation": "FilmCam36, fotoğraf çekme, düzenleme, filtre uygulama ve paylaşımlı aktiviteler oluşturma özellikleri sunar.",
+    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+  },
+  "termsOfService_ServiceUse_2": {
+    "translation": "Uygulamayı yalnızca yasal amaçlarla kullanabilirsiniz.",
+    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+  },
+  "termsOfService_ServiceUse_3": {
+    "translation": "Hesap oluşturmak için geçerli bir Apple ID veya Google hesabı gereklidir.",
+    "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
+  },
+  "termsOfService_ServiceUse_4": {
+    "translation": "Uygulamayı kullanabilmek için gerekli izinleri (kamera, galeri vb.) vermeniz gerekir.",
+    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+  },
+  "termsOfService_Subs_Pay": {
+    "translation": "3. Abonelikler ve Ödemeler:",
+    "sourceHash": "bfa55048bf2dd948d5b011f1582e6b19"
+  },
+  "termsOfService_Subs_Pay_1": {
+    "translation": "Pro abonelik otomatik yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",
+    "sourceHash": "7635b93b67e77d107cd69a5dc13bb6ac"
+  },
+  "termsOfService_Subs_Pay_2": {
+    "translation": "Ücretler değişebilir; değişiklikler yenileme döneminde geçerli olur.",
+    "sourceHash": "5f2a6637ee96a09fa144db06c65f8e8d"
+  },
+  "termsOfService_Subs_Pay_3": {
+    "translation": "Satın alınan abonelikler iade edilemez, ancak App Store / Play Store politikaları geçerlidir.",
+    "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
+  },
+  "termsOfService_SharedActivities_UserContent": {
+    "translation": "4. Paylaşımlı Aktiviteler ve Kullanıcı İçeriği:",
+    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+  },
+  "termsOfService_SharedActivities_UserContent_1": {
+    "translation": "Bir aktivite içindeki tüm fotoğraflar sadece aktivite üyeleri tarafından görülebilir.",
+    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+  },
+  "termsOfService_SharedActivities_UserContent_2": {
+    "translation": "FilmCam36 ekibi dahil hiç kimse içeriklere erişemez, çünkü uygulama uçtan uca şifreleme kullanır.",
+    "sourceHash": "73ed7993891fe69936e16c9a316d9176"
+  },
+  "termsOfService_SharedActivities_UserContent_3": {
+    "translation": "Paylaşımlı aktivitelerde gönderdiğiniz içeriklerden tamamen siz sorumlusunuz.",
+    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+  },
+  "termsOfService_SharedActivities_UserContent_4": {
+    "translation": "Yasadışı, zararlı, telif hakkı ihlali yapan içerik kullanmak yasaktır.",
+    "sourceHash": "94262c627fa68f5b10f927c95ddff358"
+  },
+  "termsOfService_E2E_Crypto": {
+    "translation": "5. Uçtan Uca Şifreleme (E2EE):",
+    "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
+  },
+  "termsOfService_E2E_Crypto_1": {
+    "translation": "FilmCam36, paylaşımlı aktivitelerdeki tüm fotoğrafları ve mesajları E2E olarak şifreler:",
+    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+  },
+  "termsOfService_E2E_Crypto_2": {
+    "translation": "İçerik, cihazınızda şifrelenir.",
+    "sourceHash": "c01b62be2b9ba33daeeb81404678bb22"
+  },
+  "termsOfService_E2E_Crypto_3": {
+    "translation": "Şifrelenmiş veri sunucularımıza ulaşır.",
+    "sourceHash": "12e8e845353d97c117beddcbace339d2"
+  },
+  "termsOfService_E2E_Crypto_4": {
+    "translation": "Sunucu içeriği çözemez.",
+    "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
+  },
+  "termsOfService_E2E_Crypto_5": {
+    "translation": "Çözme anahtarları yalnızca aktivite üyelerinin cihazlarındadır.",
+    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+  },
+  "termsOfService_E2E_Crypto_6": {
+    "translation": "Bu nedenle: FilmCam36 kullanıcı içeriğine erişemez, göremez, düzenleyemez veya üçüncü taraflarla paylaşamaz.",
+    "sourceHash": "d917e92115277a9990686318749d5d4a"
+  },
+  "termsOfService_IntellectualPropertyRights": {
+    "translation": "6. Fikri Mülkiyet Hakları:",
+    "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
+  },
+  "termsOfService_IntellectualPropertyRights_1": {
+    "translation": "FilmCam36 uygulaması, tasarımı, yazılımı, filtreleri, algoritmaları ve işaretleri geliştiriciye aittir. Uygulamanın izinsiz çoğaltılması, dağıtılması veya ters mühendislik yapılması yasaktır.",
+    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+  },
+  "termsOfService_AccountSuspension": {
+    "translation": "7. Hesabın Askıya Alınması veya Silinmesi:",
+    "sourceHash": "590dc0f50789108e068cd79ea8ba11f1"
+  },
+  "termsOfService_AccountSuspension_1": {
+    "translation": "FilmCam36, aşağıdaki durumlarda hesabınızı askıya alma hakkını saklı tutar:",
+    "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
+  },
+  "termsOfService_AccountSuspension_2": {
+    "translation": "Hizmet şartlarının ihlali",
+    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+  },
+  "termsOfService_AccountSuspension_3": {
+    "translation": "Kötüye kullanım, spam",
+    "sourceHash": "e868f949ef146d53acede420a411d934"
+  },
+  "termsOfService_AccountSuspension_4": {
+    "translation": "Yasal zorunluluklar",
+    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+  },
+  "termsOfService_Disclaimer": {
+    "translation": "8. Sorumluluk Reddi:",
+    "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
+  },
+  "termsOfService_Disclaimer_1": {
+    "translation": "FilmCam36 kesintisiz hizmet garanti etmez.",
+    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+  },
+  "termsOfService_Disclaimer_2": {
+    "translation": "Veri kaybı, cihaz uyumsuzluğu, üçüncü taraf anlaşmazlıkları geliştiricinin sorumluluğu değildir.",
+    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+  },
+  "termsOfService_Disclaimer_3": {
+    "translation": "Fotoğraf kaydı veya bulut senkronizasyonu sorunları kullanıcı sorumluluğundadır.",
+    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+  },
+  "termsOfService_LegalDisputes": {
+    "translation": "9. Yasal Uyuşmazlıklar:",
+    "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
+  },
+  "termsOfService_LegalDisputes_1": {
+    "translation": "Bu şartlar, Türk Hukuku’na tabidir.",
+    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+  },
+  "termsOfService_LegalDisputes_2": {
+    "translation": "Uyuşmazlıklarda İstanbul Mahkemeleri yetkilidir.",
+    "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "privacyPolicy": {
+    "translation": "Gizlilik Politikası",
+    "sourceHash": "5d4eeacf3cbeb54cfc1f29e3f9e38bba"
+  },
+  "privacyPolicy_Header": {
+    "translation": "FilmCam36 olarak gizliliğinize büyük önem veriyoruz. Bu politika, hangi verileri nasıl işlediğimizi açıklar.",
+    "sourceHash": "482649bfddebf1c5584803210626b314"
+  },
+  "privacyPolicy_CollectedData": {
+    "translation": "1. Topladığımız Veriler:",
+    "sourceHash": "0e4f5b8527b599c5d4164379d8bb7aaf"
+  },
+  "privacyPolicy_CollectedData_AccountInfo": {
+    "translation": "1.1. Hesap Bilgileri:",
+    "sourceHash": "0d6444df29f2674a8f5e596ac751de52"
+  },
+  "privacyPolicy_CollectedData_AccountInfo_1": {
+    "translation": "Google / Apple üzerinden alınan: Ad, soyad, Profil fotoğrafı, E-posta, Kullanıcı ID",
+    "sourceHash": "676a7f783d8625ce241eb9e320c25a8b"
+  },
+  "privacyPolicy_CollectedData_AppData": {
+    "translation": "1.2. Uygulama Verileri:",
+    "sourceHash": "42bd484312d94c99f5fb0ce1620bbe01"
+  },
+  "privacyPolicy_CollectedData_AppData_1": {
+    "translation": "Kullandığınız filtreler, Abonelik durumu, Cihaz kimliği, Uygulama içi hata raporları",
+    "sourceHash": "5cfca368855e535991a2ba746c019615"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData": {
+    "translation": "1.3. Paylaşımlı Aktivite Verileri:",
+    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_1": {
+    "translation": "Aktivite isimleri, Aktivite üyeleri, Fotoğraflar (tamamı E2E şifreli), Her fotoğraf için meta veriler",
+    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+  },
+  "privacyPolicy_CollectedData_SharedActivityData_2": {
+    "translation": "Not: FilmCam36 ekibi hiçbir fotoğrafı görüntüleyemez. Fotoğraflar çözülemez formatta saklanır.",
+    "sourceHash": "6e944c5072c71edbef476308d34870e4"
+  },
+  "privacyPolicy_UncollectedData": {
+    "translation": "2. Toplamadığımız Veriler:",
+    "sourceHash": "8723827fd83e4bc644cb0b5b6bba7d9b"
+  },
+  "privacyPolicy_UncollectedData_1": {
+    "translation": "FilmCam36 şunlara asla erişmez:",
+    "sourceHash": "cc86f284ea21023bdde4e6d6320ab4f9"
+  },
+  "privacyPolicy_UncollectedData_2": {
+    "translation": "Fotoğrafların içeriği",
+    "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
+  },
+  "privacyPolicy_UncollectedData_3": {
+    "translation": "Aktivite içi mesajlar",
+    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+  },
+  "privacyPolicy_UncollectedData_4": {
+    "translation": "Kullanıcı galerisindeki diğer fotoğraflar",
+    "sourceHash": "5f7a30cd3d4f8d88447b396eb636b8e3"
+  },
+  "privacyPolicy_UncollectedData_5": {
+    "translation": "Konum verisi (isteğe bağlı özellikler hariç)",
+    "sourceHash": "8c6222cd2f2ce29c66f58cc308c69c44"
+  },
+  "privacyPolicy_UncollectedData_6": {
+    "translation": "Mikrofon veya kamera kayıtları (sadece siz izin verirseniz ve kullanım esnasında)",
+    "sourceHash": "c4712651b83b54e451edb4dedbd91dc7"
+  },
+  "privacyPolicy_DataStorage": {
+    "translation": "3. Verilerin Saklanması:",
+    "sourceHash": "177f7199bda5299640c5935aa137c14b"
+  },
+  "privacyPolicy_DataStorage_1": {
+    "translation": "Hesap verileri güvenli sunucularda saklanır.",
+    "sourceHash": "b18450ea443d17728b0194358bc71827"
+  },
+  "privacyPolicy_DataStorage_2": {
+    "translation": "Aktivite fotoğrafları şifreli olarak saklanır; anahtarlar cihazlarda kalır.",
+    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+  },
+  "privacyPolicy_DataStorage_3": {
+    "translation": "Kullanıcı içerikleri “geliştirici tarafından görüntülenemez” yapıdadır.",
+    "sourceHash": "f4edbb2cf7ff9d15629aaf70d680b8d8"
+  },
+  "privacyPolicy_DataSharing": {
+    "translation": "4. Verilerin Paylaşımı:",
+    "sourceHash": "ee10073161a40fd747f1999eb17e1f05"
+  },
+  "privacyPolicy_DataSharing_1": {
+    "translation": "FilmCam36 verilerinizi satmaz, kiralamaz veya üçüncü taraflarla paylaşmaz.",
+    "sourceHash": "c50bf2604ccd9a3d2e36ae328113d756"
+  },
+  "privacyPolicy_DataSharing_2": {
+    "translation": "Sadece şu durumlarda paylaşım yapılır:",
+    "sourceHash": "57febbe415e37968285e90581890afc2"
+  },
+  "privacyPolicy_DataSharing_3": {
+    "translation": "Yasal zorunluluk: Mahkeme kararı ile sadece şifreli veri verilebilir.",
+    "sourceHash": "f4ccf2069c29306ed8b607f13ee8ba08"
+  },
+  "privacyPolicy_DataSharing_4": {
+    "translation": "Analitik: Uygulama kullanımı için anonim istatistikler (Google Analytics vs.)",
+    "sourceHash": "dba6d84db2dfc2312ddff8d8c6e899e9"
+  },
+  "privacyPolicy_DataSharing_5": {
+    "translation": "Ödeme sağlayıcılar: Apple / Google abonelik işlemleri",
+    "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
+  },
+  "privacyPolicy_DataSharing_6": {
+    "translation": "FilmCam36 ekibi hiçbir zaman Fotoğraflarınıza, Mesajlarınıza, Şifre çözme anahtarlarınıza erişemez",
+    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+  },
+  "ContactUs": {
+    "translation": "Bize Ulaşın: Bu Hizmet Şartları veya Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin: filmcam36@themachineco.com",
+    "sourceHash": "df7319077f909d4191cfffe597524af2"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
