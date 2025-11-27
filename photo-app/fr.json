@@ -794,8 +794,8 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36 : Il s'agit d'une application mobile de photo et de filtrage développée par The Machine Company.",
-    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+    "translation": "FilmCam36 : Il s'agit d'une application mobile de photo et de filtrage développée par The Machine Company. FilmCam36 est une plateforme où les utilisateurs peuvent télécharger et partager des photos, produire des images assistées par l'intelligence artificielle et interagir socialement. Le partage peut être limité au public, aux amis ou aux groupes. L'application peut proposer une version Pro, un système d'abonnement, l'utilisation de crédits supplémentaires et des fonctionnalités avancées.",
+    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
   },
   "termsOfService_User": {
     "translation": "Utilisateur La personne qui utilise l'application.",
@@ -818,20 +818,20 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36 permet de prendre des photos, de les éditer, d'appliquer des filtres et de créer des activités partagées.",
-    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+    "translation": "FilmCam36 propose des fonctions permettant de prendre des photos, de les éditer, d'appliquer des filtres et de créer des activités partagées. Les services de FilmCam36 sont destinés aux utilisateurs âgés d'au moins 13 ans. Les utilisateurs sont responsables du respect des exigences légales en matière d'âge dans le pays où ils vivent. En utilisant l'application, les utilisateurs déclarent qu'ils remplissent ces conditions.",
+    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
   },
   "termsOfService_ServiceUse_2": {
-    "translation": "Vous ne pouvez utiliser l'application qu'à des fins légales.",
-    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+    "translation": "Vous ne pouvez utiliser l'application qu'à des fins légales. Vous devez accorder les autorisations nécessaires (appareil photo, galerie, etc.) pour utiliser l'application.",
+    "sourceHash": "cdc3e030f5754392544474e58b5377db"
   },
   "termsOfService_ServiceUse_3": {
     "translation": "Un identifiant Apple ou un compte Google valide est nécessaire pour créer un compte.",
     "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
   },
   "termsOfService_ServiceUse_4": {
-    "translation": "Pour utiliser l'application, vous devez accorder les autorisations nécessaires (appareil photo, galerie, etc.).",
-    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+    "translation": "L'utilisateur est entièrement responsable de la sécurité de son compte et de l'appareil à partir duquel il accède à son compte. La Compagnie des Machines ne peut être tenue responsable du partage de mot de passe, de l'accès non autorisé ou du vol du compte. L'utilisateur doit immédiatement informer filmcam36@themachineco.com s'il a connaissance d'une telle situation.",
+    "sourceHash": "71961b32b5e38f366d63e4675b4cb89f"
   },
   "termsOfService_Subs_Pay": {
     "translation": "3. abonnements et paiements :",
@@ -902,8 +902,8 @@
     "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
   },
   "termsOfService_IntellectualPropertyRights_1": {
-    "translation": "L'application FilmCam36, sa conception, son logiciel, ses filtres, ses algorithmes et ses marques appartiennent au développeur. La reproduction, la distribution ou l'ingénierie inverse de l'application sont interdites sans autorisation.",
-    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+    "translation": "L'application FilmCam36, sa conception, son logiciel, ses filtres, ses algorithmes et ses marques appartiennent au développeur. La reproduction, la distribution ou l'ingénierie inverse de l'application sont interdites sans autorisation. L'utilisateur accorde à FilmCam36 une licence limitée mondiale, non transférable, non sous-licenciable, révocable, pour afficher, traiter, distribuer selon les options de partage, stocker et traiter le contenu sur la plateforme conformément aux exigences techniques. Cette licence expire lorsque le contenu est supprimé de la plateforme. Tous les contenus (photos, textes, résultats AI, etc.) téléchargés ou créés par l'utilisateur sont la propriété de l'utilisateur. FilmCam36 ne possède pas les droits d'auteur de ces contenus. L'utilisateur est légalement responsable de tout le contenu téléchargé. FilmCam36 n'est pas responsable des litiges juridiques découlant du contenu de l'utilisateur.",
+    "sourceHash": "25da6bbdbdfe92d6bf5706989f05563f"
   },
   "termsOfService_AccountSuspension": {
     "translation": "7. suspension ou suppression du compte :",
@@ -914,44 +914,100 @@
     "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
   },
   "termsOfService_AccountSuspension_2": {
-    "translation": "Violation des conditions d'utilisation",
-    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+    "translation": "Contenu pour adultes, nudité, pornographie, images de violence, de torture ou de préjudice, discours haineux, discrimination, menaces, violation des droits d'auteur, Deepfake, usurpation d'identité ou manipulation, maltraitance des enfants et activités illégales, contenu inapproprié, malveillant ou préjudiciable, partage non autorisé de données personnelles.",
+    "sourceHash": "a32fb385592e51bb1959dd0d4e43eebe"
   },
   "termsOfService_AccountSuspension_3": {
-    "translation": "Abus, spam",
-    "sourceHash": "e868f949ef146d53acede420a411d934"
+    "translation": "Lorsqu'un tel contenu est détecté, il peut être supprimé, le compte peut être suspendu ou fermé. Si cela est jugé nécessaire, les autorités compétentes peuvent être informées",
+    "sourceHash": "271441c7a7a38544356f80c48b55dab2"
   },
   "termsOfService_AccountSuspension_4": {
-    "translation": "Obligations légales",
-    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+    "translation": "FilmCam36 se réserve le droit de suspendre votre compte dans les cas suivants : Violation des conditions d'utilisation, abus, spam, obligations légales.",
+    "sourceHash": "d0db759d83f4fca867f2914d4e9ab29f"
   },
   "termsOfService_Disclaimer": {
     "translation": "8) Exclusion de responsabilité :",
     "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
   },
   "termsOfService_Disclaimer_1": {
-    "translation": "FilmCam36 ne garantit pas un service ininterrompu.",
-    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+    "translation": "Les frais d'utilisation de l'Internet et des données, les frais de l'opérateur mobile et les taxes qui peuvent être encourus lors de l'utilisation de l'application relèvent de la seule responsabilité de l'utilisateur. La Compagnie des Machines n'est pas responsable de ces coûts.",
+    "sourceHash": "20838dcfb8dbbac1df0498f78f9bcfd6"
   },
   "termsOfService_Disclaimer_2": {
-    "translation": "La perte de données, l'incompatibilité des appareils, les litiges avec des tiers ne relèvent pas de la responsabilité du développeur.",
-    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+    "translation": "La perte de données, l'incompatibilité des appareils et les litiges avec des tiers ne relèvent pas de la responsabilité du développeur. Pour que le service fonctionne, le contenu et certaines informations des utilisateurs peuvent être partagés avec des fournisseurs de services tiers. Il peut s'agir de fournisseurs de services d'hébergement, de sociétés de sécurité, de fournisseurs d'analyses, de systèmes publicitaires et de fournisseurs d'infrastructures techniques. L'utilisateur accepte que les photos téléchargées soient traitées par des tiers dans le cadre de processus techniques.",
+    "sourceHash": "f71c5cca33ac699b12b342e00511ac61"
   },
   "termsOfService_Disclaimer_3": {
-    "translation": "Les problèmes liés à l'enregistrement des photos ou à la synchronisation avec le cloud sont de la responsabilité de l'utilisateur.",
-    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+    "translation": "Les problèmes liés à l'enregistrement des photos ou à la synchronisation avec le cloud sont de la responsabilité de l'utilisateur. FilmCam36 n'a aucune obligation de stocker indéfiniment le contenu de l'utilisateur. La sauvegarde, le stockage et la protection des photos et documents téléchargés relèvent de la seule responsabilité de l'utilisateur. The Machine Company ne peut être tenue responsable de toute perte de contenu. FilmCam36 ne garantit pas un fonctionnement ininterrompu ou sans erreur du service. Elle n'est pas responsable des interruptions causées par des défaillances techniques, des erreurs de serveur, des opérations de maintenance ou des problèmes de tiers.",
+    "sourceHash": "7d19314d883479442b002c6c21191f09"
   },
   "termsOfService_LegalDisputes": {
     "translation": "9. les litiges juridiques :",
     "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
   },
   "termsOfService_LegalDisputes_1": {
-    "translation": "Ces conditions sont soumises à la loi turque.",
-    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+    "translation": "Conformément aux lois de la République de Turquie et à la législation internationale, FilmCam36 peut fournir des données sur l'utilisateur aux autorités compétentes conformément aux demandes officielles du tribunal, du bureau du procureur, de la police ou des autorités judiciaires. L'utilisateur accepte cet article à l'avance. Dans ce contexte, les photos, les coordonnées, les enregistrements d'utilisation, les informations relatives à l'IP et à l'appareil, les données d'utilisation de l'IA et d'autres informations nécessaires peuvent être partagées. Ces conditions sont soumises au droit turc.",
+    "sourceHash": "863e81437ff20765ac17d2e7a3e9efdc"
   },
   "termsOfService_LegalDisputes_2": {
     "translation": "Les tribunaux d'Istanbul sont compétents en cas de litige.",
     "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "termsOfService_DataCollect": {
+    "translation": "10. collecte de données statistiques :",
+    "sourceHash": "d10f06c54a426dfcb2e1f1159a2229c8"
+  },
+  "termsOfService_DataCollect_1": {
+    "translation": "FilmCam36 a le droit de collecter, d'analyser et de transférer des versions anonymes ou traitées personnellement du comportement de l'utilisateur, des données sur les clics, des informations sur l'appareil à des systèmes tiers afin d'améliorer l'expérience de l'utilisateur.",
+    "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
+  },
+  "termsOfService_AI_ImageGeneration": {
+    "translation": "11. la génération visuelle de l'IA :",
+    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
+  },
+  "termsOfService_AI_ImageGeneration_1": {
+    "translation": "L'utilisateur ne peut pas utiliser le système de génération d'IA pour produire des contenus illégaux, obscènes, violant les droits d'auteur ou nuisibles. L'utilisateur est responsable du contenu produit. Bien que les résultats de l'IA appartiennent à l'utilisateur, la plateforme peut traiter ces contenus dans le cadre des exigences techniques.",
+    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
+  },
+  "termsOfService_Pro_Subscription": {
+    "translation": "12. version Pro et abonnement :",
+    "sourceHash": "e829eabb36ebdf8a4392b9db4722ca29"
+  },
+  "termsOfService_Pro_Subscription_1": {
+    "translation": "La version Pro peut offrir des crédits supplémentaires, l'accès à du contenu premium et des fonctionnalités spéciales. Les paiements sont effectués par l'intermédiaire de l'App Store et de Google Play. La politique de remboursement est entièrement déterminée par Apple et Google. The Machine Company n'offre pas de remboursement direct.",
+    "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
+  },
+  "termsOfService_Risk": {
+    "translation": "13. déclaration selon laquelle les risques sont supportés par l'utilisateur :",
+    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+  },
+  "termsOfService_Risk_1": {
+    "translation": "L'utilisateur accepte de supporter tous les risques qui peuvent survenir lors de l'utilisation des services de FilmCam36, y compris la perte de données, le détournement de compte, la suppression de contenu, les défaillances techniques, les attaques de tiers et toutes les situations similaires.",
+    "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
+  },
+  "termsOfService_DeleteAccount": {
+    "translation": "14. clôture du compte :",
+    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+  },
+  "termsOfService_DeleteAccount_1": {
+    "translation": "FilmCam36 a le droit de suspendre ou de fermer définitivement les comptes qui enfreignent les règles sans avertissement. La restauration du contenu des comptes supprimés n'est pas garantie.",
+    "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
+  },
+  "termsOfService_Attention": {
+    "translation": "15. attention :",
+    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+  },
+  "termsOfService_Attention_1": {
+    "translation": "La collecte, le traitement et le stockage des données des utilisateurs sont effectués conformément à la politique de confidentialité de FilmCam36. La politique de confidentialité fait partie intégrante du présent accord.",
+    "sourceHash": "3c0d1c801d415ea1dfe65bdb84e07a5d"
+  },
+  "termsOfService_Attention_2": {
+    "translation": "FilmCam36 se réserve le droit d'apporter des modifications à cet accord. La version mise à jour entre en vigueur dès qu'elle est annoncée par l'intermédiaire de l'application.",
+    "sourceHash": "2f1bc98d2fccbc228bbce1dfa6a67c14"
+  },
+  "termsOfService_Attention_3": {
+    "translation": "Tout litige découlant de cet accord est soumis aux lois de la République de Turquie. En cas de litige, les tribunaux et les bureaux d'exécution où se trouve le siège de la société FilmCam36 sont compétents. En acceptant cet accord, vous déclarez avoir lu et compris toutes les dispositions.",
+    "sourceHash": "05a697285a88894461d153d2d5651328"
   },
   "privacyPolicy": {
     "translation": "Politique de confidentialité",

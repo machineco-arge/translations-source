@@ -794,8 +794,8 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: The Machine Company에서 개발한 모바일 사진 및 필터링 애플리케이션입니다.",
-    "sourceHash": "86f6e286ca533e9d552fd09e3fe6bacf"
+    "translation": "필름캠36: 더 머신 컴퍼니에서 개발한 모바일 사진 및 필터링 애플리케이션입니다. FilmCam36은 사용자가 사진을 업로드 및 공유하고, 인공지능 지원 이미지를 제작하고, 사회적으로 상호 작용할 수 있는 플랫폼입니다. 공유는 공개, 친구 또는 그룹으로만 제한할 수 있습니다. 이 애플리케이션은 프로 버전, 구독 시스템, 추가 크레딧 사용 및 고급 기능을 제공할 수 있습니다.",
+    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
   },
   "termsOfService_User": {
     "translation": "사용자 애플리케이션을 사용하는 사람입니다.",
@@ -818,20 +818,20 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36은 사진 촬영, 편집, 필터 적용, 공유 활동 생성 기능을 제공합니다.",
-    "sourceHash": "cce2b5dc5ad6991d8e451159bfe28977"
+    "translation": "FilmCam36은 사진 촬영, 편집, 필터 적용, 공유 활동 생성 기능을 제공합니다. FilmCam36 서비스는 만 13세 이상의 사용자를 위한 서비스입니다. 사용자는 자신이 거주하는 국가의 법적 연령 요건을 충족할 책임이 있습니다. 사용자는 애플리케이션을 사용함으로써 이러한 요건을 충족함을 선언합니다.",
+    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
   },
   "termsOfService_ServiceUse_2": {
-    "translation": "합법적인 목적으로만 앱을 사용할 수 있습니다.",
-    "sourceHash": "4bd4b05406809a75104c6ec15f66a066"
+    "translation": "합법적인 목적으로만 앱을 사용할 수 있습니다. 앱을 사용하려면 필요한 권한(카메라, 갤러리 등)을 부여해야 합니다.",
+    "sourceHash": "cdc3e030f5754392544474e58b5377db"
   },
   "termsOfService_ServiceUse_3": {
     "translation": "계정을 만들려면 유효한 Apple ID 또는 Google 계정이 필요합니다.",
     "sourceHash": "80c3784ca45d36a0a6d56589a0cb6207"
   },
   "termsOfService_ServiceUse_4": {
-    "translation": "앱을 사용하려면 필요한 권한(카메라, 갤러리 등)을 부여해야 합니다.",
-    "sourceHash": "980fb56a7437671c4e02de37f5a4fb7e"
+    "translation": "사용자는 자신의 계정과 계정에 액세스하는 기기의 보안에 대해 전적으로 책임을 집니다. 회사는 계정의 비밀번호 공유, 무단 액세스 또는 도용에 대해 책임을 지지 않습니다. 사용자는 이러한 상황을 인지한 경우 즉시 filmcam36@themachineco.com 으로 알려야 합니다.",
+    "sourceHash": "71961b32b5e38f366d63e4675b4cb89f"
   },
   "termsOfService_Subs_Pay": {
     "translation": "3. 구독 및 결제:",
@@ -902,8 +902,8 @@
     "sourceHash": "6d62c753044e4c9af60a0e78d39b409e"
   },
   "termsOfService_IntellectualPropertyRights_1": {
-    "translation": "FilmCam36 애플리케이션, 디자인, 소프트웨어, 필터, 알고리즘 및 표시는 개발자의 소유입니다. 애플리케이션의 무단 복제, 배포 또는 리버스 엔지니어링은 금지됩니다.",
-    "sourceHash": "9695f73ef767986bacdaee6d827bf85e"
+    "translation": "FilmCam36 애플리케이션, 디자인, 소프트웨어, 필터, 알고리즘 및 표시는 개발자의 소유입니다. 애플리케이션의 무단 복제, 배포 또는 리버스 엔지니어링은 금지됩니다. 사용자는 공유 옵션에 따라 콘텐츠를 표시, 처리, 배포하고 기술 요구 사항에 따라 플랫폼에 저장 및 처리할 수 있는 전 세계, 양도 불가, 재라이선스 불가, 취소 가능, 취소 가능한 제한적 라이선스를 FilmCam36에 부여합니다. 이 라이선스는 플랫폼에서 콘텐츠가 삭제되면 만료됩니다. 사용자가 업로드하거나 생성한 모든 콘텐츠(사진, 텍스트, AI 출력물 등)는 사용자의 자산입니다. 필름캠36은 이러한 콘텐츠의 저작권을 소유하지 않습니다. 사용자가 업로드한 모든 콘텐츠에 대한 법적 책임은 사용자에게 있습니다. 필름캠36은 사용자 콘텐츠로 인해 발생하는 법적 분쟁에 대해 책임을 지지 않습니다.",
+    "sourceHash": "25da6bbdbdfe92d6bf5706989f05563f"
   },
   "termsOfService_AccountSuspension": {
     "translation": "7. 계정 일시 정지 또는 삭제:",
@@ -914,44 +914,100 @@
     "sourceHash": "b989a282f9aa3b0c08f12eb016258b46"
   },
   "termsOfService_AccountSuspension_2": {
-    "translation": "서비스 약관 위반",
-    "sourceHash": "2fe412467a4cf3b7989b6d6c03e618ca"
+    "translation": "성인 콘텐츠, 노출, 음란물, 폭력, 고문 또는 상해 이미지, 혐오 발언, 차별, 위협, 저작권 침해, 딥페이크, 개인 사칭 또는 조작, 아동 학대 및 불법 행위, 부적절하거나 악의적이거나 피해를 주는 콘텐츠, 개인 데이터의 무단 공유.",
+    "sourceHash": "a32fb385592e51bb1959dd0d4e43eebe"
   },
   "termsOfService_AccountSuspension_3": {
-    "translation": "어뷰징, 스팸",
-    "sourceHash": "e868f949ef146d53acede420a411d934"
+    "translation": "이러한 콘텐츠가 발견되면 해당 콘텐츠가 삭제되거나 계정이 일시 정지 또는 폐쇄될 수 있습니다. 필요하다고 판단되는 경우 관할 당국에 통보될 수 있습니다.",
+    "sourceHash": "271441c7a7a38544356f80c48b55dab2"
   },
   "termsOfService_AccountSuspension_4": {
-    "translation": "법적 의무",
-    "sourceHash": "ee0c164284bae657d860cbcf34729ba3"
+    "translation": "필름캠36은 이러한 경우 귀하의 계정을 정지할 수 있는 권리를 보유합니다: 서비스 약관 위반, 남용, 스팸, 법적 의무 위반.",
+    "sourceHash": "d0db759d83f4fca867f2914d4e9ab29f"
   },
   "termsOfService_Disclaimer": {
     "translation": "8. 책임 면책 조항:",
     "sourceHash": "7db7254cea76d6cc4b12b4c6aeeb3d1a"
   },
   "termsOfService_Disclaimer_1": {
-    "translation": "FilmCam36은 중단 없는 서비스를 보장하지 않습니다.",
-    "sourceHash": "6cfe27f6412fb8b35fd09f04c56612c8"
+    "translation": "애플리케이션을 사용하는 동안 발생할 수 있는 인터넷 및 데이터 사용료, 이동통신사 요금 및 세금은 전적으로 사용자의 책임입니다. 기계 회사는 이러한 비용에 대해 책임을 지지 않습니다.",
+    "sourceHash": "20838dcfb8dbbac1df0498f78f9bcfd6"
   },
   "termsOfService_Disclaimer_2": {
-    "translation": "데이터 손실, 기기 비호환성, 제3자 분쟁은 개발자의 책임이 아닙니다.",
-    "sourceHash": "36f13c73b28743d9a7543e345d580a65"
+    "translation": "데이터 손실, 디바이스 비호환성, 제3자 분쟁은 개발자의 책임이 아닙니다. 서비스 작동을 위해 사용자 콘텐츠 및 일부 사용자 정보가 제3자 서비스 제공업체와 공유될 수 있습니다. 이러한 제3자에는 호스팅 서비스 제공업체, 보안 회사, 분석 제공업체, 광고 시스템 및 기술 인프라 제공업체가 포함될 수 있습니다. 사용자는 업로드한 사진이 기술적 처리 범위 내에서 제3자에 의해 처리될 수 있음에 동의합니다.",
+    "sourceHash": "f71c5cca33ac699b12b342e00511ac61"
   },
   "termsOfService_Disclaimer_3": {
-    "translation": "사진 촬영 또는 클라우드 동기화 문제는 사용자의 책임입니다.",
-    "sourceHash": "5b0a561e79adb7c9e825b1cb41b3051c"
+    "translation": "사진 녹화 또는 클라우드 동기화 문제는 사용자의 책임입니다. FilmCam36은 사용자 콘텐츠를 무기한 저장할 의무가 없습니다. 업로드된 사진 및 문서의 백업, 저장 및 보호는 전적으로 사용자의 책임입니다. 기계 회사는 콘텐츠 손실에 대해 책임을 지지 않습니다. 필름캠36은 서비스의 무중단 또는 무오류 작동을 보장하지 않습니다. 기술적 장애, 서버 오류, 유지보수 작업 또는 제3자의 문제로 인한 중단에 대해 책임을 지지 않습니다.",
+    "sourceHash": "7d19314d883479442b002c6c21191f09"
   },
   "termsOfService_LegalDisputes": {
     "translation": "9. 법적 분쟁:",
     "sourceHash": "ef6293cd5661846d676a477ab46ffd2f"
   },
   "termsOfService_LegalDisputes_1": {
-    "translation": "이러한 조건은 터키 법률의 적용을 받습니다.",
-    "sourceHash": "7aa0ce6f204ef4336dc0292d90f5ac3f"
+    "translation": "터키 공화국 법률 및 국제 법률에 따라 FilmCam36은 법원, 검찰, 경찰 또는 법률 당국의 공식 요청에 따라 관련 당국에 사용자 데이터를 제공할 수 있습니다. 사용자는 이 조항을 미리 수락합니다. 이러한 맥락에서 사진, 연락처 정보, 사용 기록, IP 및 기기 정보, AI 사용 데이터 및 기타 필요한 정보가 공유될 수 있습니다. 본 약관은 터키 법률의 적용을 받습니다.",
+    "sourceHash": "863e81437ff20765ac17d2e7a3e9efdc"
   },
   "termsOfService_LegalDisputes_2": {
     "translation": "분쟁이 발생할 경우 이스탄불 법원이 관할합니다.",
     "sourceHash": "f1f7999401717bef6032f4a171605711"
+  },
+  "termsOfService_DataCollect": {
+    "translation": "10. 통계 데이터 수집:",
+    "sourceHash": "d10f06c54a426dfcb2e1f1159a2229c8"
+  },
+  "termsOfService_DataCollect_1": {
+    "translation": "FilmCam36은 사용자 경험을 개선하기 위해 익명 또는 개인적으로 처리된 버전의 사용자 행동, 클릭 데이터, 기기 정보를 수집, 분석 및 제3자 시스템으로 전송할 권리가 있습니다.",
+    "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
+  },
+  "termsOfService_AI_ImageGeneration": {
+    "translation": "11. AI 비주얼 생성:",
+    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
+  },
+  "termsOfService_AI_ImageGeneration_1": {
+    "translation": "사용자는 불법, 음란물, 저작권 침해 또는 유해한 콘텐츠를 제작하기 위해 AI 생성 시스템을 사용할 수 없습니다. 사용자는 생산된 콘텐츠에 대한 책임이 있습니다. AI 결과물은 사용자의 소유이지만, 플랫폼은 기술적 요구 사항의 범위 내에서 이러한 콘텐츠를 처리할 수 있습니다.",
+    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
+  },
+  "termsOfService_Pro_Subscription": {
+    "translation": "12. 프로 버전 및 구독:",
+    "sourceHash": "e829eabb36ebdf8a4392b9db4722ca29"
+  },
+  "termsOfService_Pro_Subscription_1": {
+    "translation": "프로 버전은 추가 크레딧, 프리미엄 콘텐츠 및 특별 기능에 대한 액세스를 제공할 수 있습니다. 결제는 App Store와 Google Play를 통해 이루어집니다. 환불 정책은 전적으로 Apple과 Google에서 결정합니다. 더 머신 컴퍼니는 직접 환불을 제공하지 않습니다.",
+    "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
+  },
+  "termsOfService_Risk": {
+    "translation": "13. 위험은 사용자가 부담한다는 선언:",
+    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+  },
+  "termsOfService_Risk_1": {
+    "translation": "사용자는 데이터 손실, 계정 도용, 콘텐츠 삭제, 기술적 오류, 제3자 공격 및 이와 유사한 모든 상황을 포함하여 FilmCam36 서비스를 사용할 때 발생할 수 있는 모든 위험을 부담하는 데 동의합니다.",
+    "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
+  },
+  "termsOfService_DeleteAccount": {
+    "translation": "14. 계정 폐쇄하기:",
+    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+  },
+  "termsOfService_DeleteAccount_1": {
+    "translation": "FilmCam36은 규칙을 위반하는 계정을 경고 없이 일시 정지하거나 영구적으로 폐쇄할 권리가 있습니다. 삭제된 계정의 콘텐츠는 복구가 보장되지 않습니다.",
+    "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
+  },
+  "termsOfService_Attention": {
+    "translation": "15. 주의:",
+    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+  },
+  "termsOfService_Attention_1": {
+    "translation": "사용자 데이터의 수집, 처리 및 저장은 FilmCam36 개인정보 보호정책에 따라 수행됩니다. 개인정보 보호정책은 본 계약의 필수적인 부분입니다.",
+    "sourceHash": "3c0d1c801d415ea1dfe65bdb84e07a5d"
+  },
+  "termsOfService_Attention_2": {
+    "translation": "FilmCam36은 본 계약을 변경할 권리를 보유합니다. 업데이트된 버전은 애플리케이션을 통해 공지되는 즉시 효력이 발생합니다.",
+    "sourceHash": "2f1bc98d2fccbc228bbce1dfa6a67c14"
+  },
+  "termsOfService_Attention_3": {
+    "translation": "본 계약으로 인해 발생하는 모든 분쟁은 터키 공화국 법률의 적용을 받습니다. 분쟁이 발생하는 경우 FilmCam36 본사가 위치한 법원과 집행 기관이 권한을 갖습니다. 본 계약에 동의함으로써 귀하는 모든 조항을 읽고 이해했음을 선언합니다.",
+    "sourceHash": "05a697285a88894461d153d2d5651328"
   },
   "privacyPolicy": {
     "translation": "개인정보 보호정책",
