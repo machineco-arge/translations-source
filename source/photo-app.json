@@ -149,6 +149,8 @@
     "_selectFilm_filmCreateWaitingTimeAlertMessage": "Bekleme süresi {{remainingMinutes}} dakika.",
     "_selectFilm_filmCreateActivityAlertTitle": "Aktivite Oluşturuluyor",
     "_selectFilm_filmCreateActivityAlertMessage": "'{{cameraName}} - {{shots}}' kamerası ile aktiviten oluşturuluyor.",
+    "_selectFilm_confirmCreateActivityTitle": "Emin misin?",
+    "_selectFilm_confirmCreateActivityMessage": "Yeni bir aktivite oluşturmak istediğinizden emin misiniz?",
     "_settings_termsOfServiceAndPrivacyPolicy": "Şartlar ve Politikalar",
     "_settings_aboutTheApp": "Uygulama Hakkında",
     "_settings_billingsAndSubscriptions": "Faturalandırma ve Abonelikler",
