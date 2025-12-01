@@ -541,6 +541,14 @@
     "translation": "Su actividad se crea con la cámara ' {{cameraName}} - {{shots}} '.",
     "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
+  "_selectFilm_confirmCreateActivityTitle": {
+    "translation": "¿Seguro?",
+    "sourceHash": "73013ad3a613e5d23694f758eed26863"
+  },
+  "_selectFilm_confirmCreateActivityMessage": {
+    "translation": "¿Está seguro de que desea crear una nueva actividad?",
+    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Condiciones generales",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

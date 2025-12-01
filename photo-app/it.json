@@ -541,6 +541,14 @@
     "translation": "L'attività è stata creata con la fotocamera ' {{cameraName}} - {{shots}} '.",
     "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
+  "_selectFilm_confirmCreateActivityTitle": {
+    "translation": "Sei sicuro?",
+    "sourceHash": "73013ad3a613e5d23694f758eed26863"
+  },
+  "_selectFilm_confirmCreateActivityMessage": {
+    "translation": "Siete sicuri di voler creare una nuova attività?",
+    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini e condizioni",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

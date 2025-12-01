@@ -541,6 +541,14 @@
     "translation": "Ваша активность создана с помощью камеры ' {{cameraName}} - {{shots}} '.",
     "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
+  "_selectFilm_confirmCreateActivityTitle": {
+    "translation": "Вы уверены?",
+    "sourceHash": "73013ad3a613e5d23694f758eed26863"
+  },
+  "_selectFilm_confirmCreateActivityMessage": {
+    "translation": "Вы уверены, что хотите создать новую активность?",
+    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Условия и политика",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

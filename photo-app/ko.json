@@ -541,6 +541,14 @@
     "translation": "활동은 카메라 ' {{cameraName}} - {{shots}} '로 만들어집니다.",
     "sourceHash": "5a75881128c92bf271f41dea0971ca57"
   },
+  "_selectFilm_confirmCreateActivityTitle": {
+    "translation": "확실하신가요?",
+    "sourceHash": "73013ad3a613e5d23694f758eed26863"
+  },
+  "_selectFilm_confirmCreateActivityMessage": {
+    "translation": "새 활동을 생성하시겠습니까?",
+    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"
