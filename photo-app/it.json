@@ -1,19 +1,19 @@
 {
   "_aiScreen_notFoundAiFilters": {
-    "translation": "Le telecamere AI non sono state trovate.",
-    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
+    "translation": "Non è stato possibile caricare le telecamere AI. Riprovare.",
+    "sourceHash": "426fbcb03846a55751d4b841bc508252"
   },
   "_aiScreen_transformQuestion": {
-    "translation": "Volete trasformarvi con l'intelligenza artificiale?",
-    "sourceHash": "af28f6ddabe9fd50910d5c7a2aecc069"
+    "translation": "Vi sentite affermati?",
+    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
   },
   "_albumScreen_noAlbumPhotos": {
-    "translation": "Non ci sono foto nell'album.",
-    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+    "translation": "Non ci sono foto nell'album",
+    "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
   },
   "_albumScreen_noAIPhoto": {
-    "translation": "Non ci sono foto di intelligenza artificiale in questo album.",
-    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+    "translation": "Non ci sono ancora foto di intelligenza artificiale",
+    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Salva nella galleria",
@@ -60,8 +60,8 @@
     "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
-    "translation": "C'è un file di immagine...",
-    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+    "translation": "Caricamento",
+    "sourceHash": "7347ec43207efb97ce5fa46e39f53606"
   },
   "_albumScreen_ImageCouldNotLoaded": {
     "translation": "Immagine non caricata",
@@ -88,12 +88,12 @@
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "È possibile inviare il rullo di pellicola alla stampante.",
-    "sourceHash": "33b9c406f4068ae877b64aae28ddf37d"
+    "translation": "Il rullino è pieno, si può inviare alla stampa",
+    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "'Potete aspettare che questo rotolo di pellicola venga spedito alla stampante'.",
-    "sourceHash": "c9676cc0588300ed44a28abb5fcf76ef"
+    "translation": "Il rullino è pieno, attendere che il titolare dell'attività lo mandi in stampa",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Telecamera Switch",
@@ -104,12 +104,12 @@
     "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
   },
   "_cameraScreen_noDevice": {
-    "translation": "Dispositivo fotocamera non trovato.",
-    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+    "translation": "Non è stata trovata la fotocamera del telefono.",
+    "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Non è più possibile scattare foto perché il rullino per questa attività è stato mandato in stampa.",
-    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+    "translation": "Non è più possibile scattare foto perché il proprietario dell'attività ha inviato il rullino alla stampante.",
+    "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_location": {
     "translation": "Posizione",
@@ -136,36 +136,36 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "Sono state utilizzate tutte le esposizioni di questo rullino. Ora è possibile inviare la pellicola alla stampante.",
-    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+    "translation": "Il rullino è pieno, si può inviare alla stampa",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "Si è verificato un errore durante la creazione di un nuovo rullino. Riprovare.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "Foto in stampa!",
-    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+    "translation": "Inizia il processo di stampa...",
+    "sourceHash": "5e489926125b72b309f12963e0319dfe"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Preparazione del rullino...",
-    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
+    "translation": "Il rullino è stato portato nella camera oscura...",
+    "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "Le fotografie sono state scattate al processo di bagno...",
-    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+    "translation": "Il rullino è stato portato al bagno...",
+    "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
-    "translation": "Foto chiarificatrici...",
-    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+    "translation": "Asciugatura dei negativi",
+    "sourceHash": "0ded2173783293dc069328b8b758c186"
   },
   "_filmScreen_photosDrying": {
-    "translation": "Le fotografie vengono asciugate...",
-    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+    "translation": "Scansione di negativi",
+    "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "Le foto sono pronte!",
-    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+    "translation": "Stampe fotografiche pronte!",
+    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "Nessuna telecamera attiva",
@@ -244,8 +244,8 @@
     "sourceHash": "bf6185896de7c86ac16411c24bd11704"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Avete utilizzato tutte le esposizioni di questo rullino. Ora si può attendere che la pellicola venga inviata alla stampante.",
-    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+    "translation": "Il rullino è pieno, attendere che il titolare dell'attività lo mandi in stampa",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_filmScreen_linkShareError": {
     "translation": "Non è stato trovato alcun link di invito per questa attività.",
@@ -287,6 +287,10 @@
     "translation": "Si è verificato un errore durante l'uscita dall'attività.",
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
+  "_filmScreen_share": {
+    "translation": "Condividi",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
   "_participantModal_statusActive": {
     "translation": "Attivo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -300,8 +304,8 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_participantModal_statusMissedUpload": {
-    "translation": "Mancato caricamento",
-    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+    "translation": "Caricamento fallito",
+    "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
     "translation": "Partecipanti",
@@ -352,8 +356,8 @@
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
   },
   "_homeScreen_noCamerasFound": {
-    "translation": "Nessuna telecamera trovata",
-    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+    "translation": "Il caricamento delle telecamere non è riuscito. Riprovare.",
+    "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
   },
   "cameras": {
     "analoguescanline": {
@@ -547,7 +551,7 @@
   },
   "_selectFilm_confirmCreateActivityMessage": {
     "translation": "Siete sicuri di voler creare una nuova attività?",
-    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini e condizioni",
@@ -770,8 +774,8 @@
     "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
   },
   "pro_member_message": {
-    "translation": "Sei un Membro Pro. Grazie!",
-    "sourceHash": "f68daf73c47c90753d4db4c627035e36"
+    "translation": "Lei è un Membro Pro. Grazie!",
+    "sourceHash": "f99f2053d079b59166b202c3faf43f03"
   },
   "month": {
     "translation": "Mensile",

@@ -73,7 +73,7 @@
   },
   "userRegisterPasswordsNotMatchErrorAlert": {
     "translation": "密码不匹配",
-    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
   },
   "userRegister": {
     "translation": "立即注册",
@@ -168,8 +168,8 @@
     "sourceHash": "9c9cea267dd3a45e8140957bdea78050"
   },
   "noUserLoggedIn": {
-    "translation": "目前没有用户登录。",
-    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+    "translation": "没有用户登录。",
+    "sourceHash": "d37d3ef62c2c10e5f58267c36d20e2e6"
   },
   "accountSettings": {
     "translation": "账户设置",
@@ -340,8 +340,8 @@
     "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
   },
   "completed": {
-    "translation": "完成",
-    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+    "translation": "已完成",
+    "sourceHash": "5e0188f1693b50ff74d3b559e66bbcd7"
   },
   "_settings_profileSettings": {
     "translation": "简介和设置",

@@ -1,19 +1,19 @@
 {
   "_aiScreen_notFoundAiFilters": {
-    "translation": "No se encontraron cámaras de IA.",
-    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
+    "translation": "No se han podido cargar las cámaras AI. Inténtelo de nuevo.",
+    "sourceHash": "426fbcb03846a55751d4b841bc508252"
   },
   "_aiScreen_transformQuestion": {
-    "translation": "¿Quiere transformarse con la Inteligencia Artificial?",
-    "sourceHash": "af28f6ddabe9fd50910d5c7a2aecc069"
+    "translation": "¿Te sientes validado?",
+    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
   },
   "_albumScreen_noAlbumPhotos": {
-    "translation": "No hay fotos en el álbum.",
-    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+    "translation": "No hay fotos en el álbum",
+    "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
   },
   "_albumScreen_noAIPhoto": {
-    "translation": "No hay fotos de inteligencia artificial en este álbum.",
-    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+    "translation": "Aún no hay fotos de inteligencia artificial",
+    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Guardar en la galería",
@@ -60,8 +60,8 @@
     "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
-    "translation": "Hay un archivo de imágenes...",
-    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+    "translation": "Cargando",
+    "sourceHash": "7347ec43207efb97ce5fa46e39f53606"
   },
   "_albumScreen_ImageCouldNotLoaded": {
     "translation": "Error al cargar la imagen",
@@ -88,12 +88,12 @@
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "'Puedes enviar el rollo de película a la impresora.",
-    "sourceHash": "33b9c406f4068ae877b64aae28ddf37d"
+    "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
+    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "'Puedes esperar a que este rollo de película se envíe a la imprenta.",
-    "sourceHash": "c9676cc0588300ed44a28abb5fcf76ef"
+    "translation": "El rollo de película está lleno, espera a que el titular de la actividad lo envíe a imprimir",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Cambiar cámara",
@@ -104,12 +104,12 @@
     "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
   },
   "_cameraScreen_noDevice": {
-    "translation": "Dispositivo de cámara no encontrado.",
-    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+    "translation": "No se ha encontrado la cámara del teléfono.",
+    "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Ya no puedes hacer fotos porque el rollo de película para esta actividad se ha enviado a imprimir.",
-    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+    "translation": "Ya no puedes hacer fotos porque el propietario de la actividad ha enviado este rollo de película a la impresora.",
+    "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_location": {
     "translation": "Ubicación",
@@ -136,36 +136,36 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "Ha utilizado todas las exposiciones de este rollo de película. Ahora puede enviar la película a la impresora.",
-    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+    "translation": "El rollo de película está lleno, puede enviarlo a imprimir",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "Se ha producido un error al crear un nuevo rollo de película. Inténtelo de nuevo.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "Fotos impresas",
-    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+    "translation": "Comienza el proceso de impresión...",
+    "sourceHash": "5e489926125b72b309f12963e0319dfe"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "Preparación del rollo de película...",
-    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
+    "translation": "El rollo de película fue llevado al cuarto oscuro...",
+    "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "Las fotografías fueron tomadas al proceso de baño...",
-    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+    "translation": "El rollo de película se llevó al baño...",
+    "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
-    "translation": "Aclarar las fotos...",
-    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+    "translation": "Secado de los negativos",
+    "sourceHash": "0ded2173783293dc069328b8b758c186"
   },
   "_filmScreen_photosDrying": {
-    "translation": "Las fotografías se están secando...",
-    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+    "translation": "Escaneado de negativos",
+    "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "Las fotos están listas.",
-    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+    "translation": "Impresiones fotográficas",
+    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "Sin cámara activa",
@@ -244,8 +244,8 @@
     "sourceHash": "bf6185896de7c86ac16411c24bd11704"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Has utilizado todas las exposiciones de este rollo de película. Ahora puedes esperar a que la película se envíe a la impresora.",
-    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+    "translation": "El rollo de película está lleno, espera a que el titular de la actividad lo envíe a imprimir",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_filmScreen_linkShareError": {
     "translation": "No se ha encontrado ningún enlace de invitación para esta actividad.",
@@ -287,6 +287,10 @@
     "translation": "Se ha producido un error al salir de la actividad.",
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
+  "_filmScreen_share": {
+    "translation": "Compartir",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
   "_participantModal_statusActive": {
     "translation": "Activo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -301,7 +305,7 @@
   },
   "_participantModal_statusMissedUpload": {
     "translation": "Carga fallida",
-    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+    "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
     "translation": "Participantes",
@@ -352,8 +356,8 @@
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
   },
   "_homeScreen_noCamerasFound": {
-    "translation": "No se ha encontrado ninguna cámara",
-    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+    "translation": "No se han podido cargar las cámaras. Por favor, inténtelo de nuevo.",
+    "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
   },
   "cameras": {
     "analoguescanline": {
@@ -547,7 +551,7 @@
   },
   "_selectFilm_confirmCreateActivityMessage": {
     "translation": "¿Está seguro de que desea crear una nueva actividad?",
-    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Condiciones generales",
@@ -770,8 +774,8 @@
     "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
   },
   "pro_member_message": {
-    "translation": "Eres un Miembro Pro. Gracias.",
-    "sourceHash": "f68daf73c47c90753d4db4c627035e36"
+    "translation": "Usted es un Miembro Pro. Gracias.",
+    "sourceHash": "f99f2053d079b59166b202c3faf43f03"
   },
   "month": {
     "translation": "Mensualmente",

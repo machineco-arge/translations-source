@@ -73,7 +73,7 @@
   },
   "userRegisterPasswordsNotMatchErrorAlert": {
     "translation": "비밀번호가 일치하지 않습니다.",
-    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
   },
   "userRegister": {
     "translation": "지금 등록하기",
@@ -168,8 +168,8 @@
     "sourceHash": "9c9cea267dd3a45e8140957bdea78050"
   },
   "noUserLoggedIn": {
-    "translation": "현재 로그인한 사용자가 없습니다.",
-    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+    "translation": "로그인한 사용자가 없습니다.",
+    "sourceHash": "d37d3ef62c2c10e5f58267c36d20e2e6"
   },
   "accountSettings": {
     "translation": "계정 설정",
@@ -341,7 +341,7 @@
   },
   "completed": {
     "translation": "완료",
-    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+    "sourceHash": "5e0188f1693b50ff74d3b559e66bbcd7"
   },
   "_settings_profileSettings": {
     "translation": "프로필 및 설정",

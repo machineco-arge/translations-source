@@ -72,8 +72,8 @@
     "sourceHash": "e7c3b307bba1d0560dff7543466f37c8"
   },
   "userRegisterPasswordsNotMatchErrorAlert": {
-    "translation": "As palavras-passe não coincidem",
-    "sourceHash": "8961f3106c13ed1605c88d3f4df1d394"
+    "translation": "As palavras-passe não coincidem.",
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
   },
   "userRegister": {
     "translation": "Registar agora",
@@ -168,8 +168,8 @@
     "sourceHash": "9c9cea267dd3a45e8140957bdea78050"
   },
   "noUserLoggedIn": {
-    "translation": "Não existem utilizadores com sessão iniciada neste momento.",
-    "sourceHash": "093e065f7ee194d229ad5d1001fe429d"
+    "translation": "Não há utilizadores com sessão iniciada.",
+    "sourceHash": "d37d3ef62c2c10e5f58267c36d20e2e6"
   },
   "accountSettings": {
     "translation": "Definições da conta",
@@ -340,8 +340,8 @@
     "sourceHash": "fd79a038a49ea2b884dfdc0c4b9a9ca6"
   },
   "completed": {
-    "translation": "concluído",
-    "sourceHash": "d6728f24662b4461823d0efb49a7cd29"
+    "translation": "Concluído",
+    "sourceHash": "5e0188f1693b50ff74d3b559e66bbcd7"
   },
   "_settings_profileSettings": {
     "translation": "Perfil e definições",

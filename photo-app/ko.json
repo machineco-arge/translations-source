@@ -1,19 +1,19 @@
 {
   "_aiScreen_notFoundAiFilters": {
-    "translation": "AI 카메라를 찾을 수 없습니다.",
-    "sourceHash": "3361f5fec41afb8739a2c572c28409be"
+    "translation": "AI 카메라를 로드하지 못했습니다. 다시 시도하세요.",
+    "sourceHash": "426fbcb03846a55751d4b841bc508252"
   },
   "_aiScreen_transformQuestion": {
-    "translation": "인공지능으로 혁신을 이루고 싶으신가요?",
-    "sourceHash": "af28f6ddabe9fd50910d5c7a2aecc069"
+    "translation": "검증되었다고 느끼시나요?",
+    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
   },
   "_albumScreen_noAlbumPhotos": {
     "translation": "앨범에 사진이 없습니다.",
-    "sourceHash": "e4ea8d9997a1fb34c49c495aecc2236a"
+    "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
   },
   "_albumScreen_noAIPhoto": {
-    "translation": "이 앨범에는 인공 지능의 사진이 없습니다.",
-    "sourceHash": "f3e5b56aafe203ca012c760213adaf7d"
+    "translation": "아직 인공 지능 사진이 없습니다.",
+    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "갤러리에 저장",
@@ -60,8 +60,8 @@
     "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
-    "translation": "사진 파일이 있습니다...",
-    "sourceHash": "4dc977b33f059ef98f0ee068e030cd59"
+    "translation": "로드 중",
+    "sourceHash": "7347ec43207efb97ce5fa46e39f53606"
   },
   "_albumScreen_ImageCouldNotLoaded": {
     "translation": "이미지를 로드하지 못했습니다.",
@@ -88,12 +88,12 @@
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "'필름 롤을 프린터로 보낼 수 있습니다.",
-    "sourceHash": "33b9c406f4068ae877b64aae28ddf37d"
+    "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
+    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "'이 필름 롤이 프린터로 전송될 때까지 기다릴 수 있습니다.",
-    "sourceHash": "c9676cc0588300ed44a28abb5fcf76ef"
+    "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_cameraScreen_switchCamera": {
     "translation": "카메라 전환",
@@ -104,12 +104,12 @@
     "sourceHash": "542c908ccfe6dda1df436b54e2292e18"
   },
   "_cameraScreen_noDevice": {
-    "translation": "카메라 장치를 찾을 수 없습니다.",
-    "sourceHash": "6e785a72d47225bd0a6de68d293e2939"
+    "translation": "휴대폰 카메라를 찾을 수 없습니다.",
+    "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "이 활동의 필름 롤이 인쇄용으로 전송되었으므로 더 이상 사진을 찍을 수 없습니다.",
-    "sourceHash": "3969eb29caa6079ca626b09e6324d1e2"
+    "translation": "활동 소유자가 이 필름 롤을 프린터로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
+    "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_location": {
     "translation": "위치",
@@ -136,36 +136,36 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름을 프린터로 보낼 수 있습니다.",
-    "sourceHash": "a20c8aaf008cf8a560e1e4b12eeb6b03"
+    "translation": "필름 롤이 가득 차면 인쇄를 위해 보낼 수 있습니다.",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "새 필름 롤을 만드는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "사진 인쇄!",
-    "sourceHash": "3642f6eb4d41629b506b11dea958eb72"
+    "translation": "인쇄 프로세스 시작...",
+    "sourceHash": "5e489926125b72b309f12963e0319dfe"
   },
   "_filmScreen_filmsPreparing": {
-    "translation": "필름 롤 준비하기...",
-    "sourceHash": "8cd22bcfbeed56ff75280cde4551fa69"
+    "translation": "필름 롤을 암실로 가져갔습니다...",
+    "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "사진은 목욕 과정으로 촬영되었습니다...",
-    "sourceHash": "48b9e60f9d0d44b26b3b079d602b40c6"
+    "translation": "필름 롤을 목욕탕으로 가져갔습니다...",
+    "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
-    "translation": "사진 설명하기...",
-    "sourceHash": "c5818bac1d0a77d9600e785271aeeb9d"
+    "translation": "네거티브 건조",
+    "sourceHash": "0ded2173783293dc069328b8b758c186"
   },
   "_filmScreen_photosDrying": {
-    "translation": "사진 건조 중...",
-    "sourceHash": "1988e638baea333ec6414d5397de19c4"
+    "translation": "네거티브 스캔",
+    "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "사진이 준비되었습니다!",
-    "sourceHash": "b4d3325058c0722a86096426eedc703b"
+    "translation": "사진 인화 준비 완료!",
+    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "활성 카메라 없음",
@@ -244,8 +244,8 @@
     "sourceHash": "bf6185896de7c86ac16411c24bd11704"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "이 필름 롤에 있는 노출을 모두 사용했습니다. 이제 필름이 프린터로 전송될 때까지 기다릴 수 있습니다.",
-    "sourceHash": "6c2b96ee8b8863acaff3a3848ed88f26"
+    "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
+    "sourceHash": "7f348dd082239756811235185f1e60be"
   },
   "_filmScreen_linkShareError": {
     "translation": "이 활동에 대한 초대 링크를 찾을 수 없습니다.",
@@ -287,6 +287,10 @@
     "translation": "활동을 종료하는 동안 오류가 발생했습니다.",
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
+  "_filmScreen_share": {
+    "translation": "공유",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
   "_participantModal_statusActive": {
     "translation": "활성",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -300,8 +304,8 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_participantModal_statusMissedUpload": {
-    "translation": "로드 누락",
-    "sourceHash": "69fec83359d6fdd0bfa678a4b4ab124e"
+    "translation": "업로드 실패",
+    "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
     "translation": "참가자",
@@ -352,8 +356,8 @@
     "sourceHash": "5cb7ac73d47e636bba28daecbf63746e"
   },
   "_homeScreen_noCamerasFound": {
-    "translation": "카메라를 찾을 수 없음",
-    "sourceHash": "e5c283c2d908421b4e2783edb6b2321e"
+    "translation": "카메라를 로드하지 못했습니다. 다시 시도하세요.",
+    "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
   },
   "cameras": {
     "analoguescanline": {
@@ -547,7 +551,7 @@
   },
   "_selectFilm_confirmCreateActivityMessage": {
     "translation": "새 활동을 생성하시겠습니까?",
-    "sourceHash": "130433bea1802795bc0e74fe20c3a92b"
+    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",
@@ -771,7 +775,7 @@
   },
   "pro_member_message": {
     "translation": "프로 회원입니다. 감사합니다!",
-    "sourceHash": "f68daf73c47c90753d4db4c627035e36"
+    "sourceHash": "f99f2053d079b59166b202c3faf43f03"
   },
   "month": {
     "translation": "월간",
