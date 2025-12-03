@@ -87,6 +87,14 @@
     "translation": "¿Está seguro? Si cancela esta operación, la foto se borrará.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Explorar Cámaras",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Empezar a hacer fotos",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

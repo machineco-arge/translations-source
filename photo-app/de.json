@@ -87,6 +87,14 @@
     "translation": "Sind Sie sicher? Wenn Sie diesen Vorgang abbrechen, wird das Foto gelöscht.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Kameras erforschen",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Beginnen Sie mit der Aufnahme von Fotos",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Die Filmrolle ist voll, Sie können sie zum Drucken schicken.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

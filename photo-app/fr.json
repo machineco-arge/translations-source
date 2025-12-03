@@ -87,6 +87,14 @@
     "translation": "Êtes-vous sûr ? Si vous annulez cette opération, la photo sera supprimée.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Explorer les appareils photo",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Commencer à prendre des photos",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Le rouleau de film est plein, vous pouvez l'envoyer à l'impression.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

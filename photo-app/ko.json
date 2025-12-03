@@ -87,6 +87,14 @@
     "translation": "정말인가요? 이 작업을 취소하면 사진이 삭제됩니다.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "카메라 살펴보기",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "사진 촬영 시작",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

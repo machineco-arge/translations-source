@@ -87,6 +87,14 @@
     "translation": "您确定吗？如果取消此操作，照片将被删除。",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "探索相机",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "开始拍照",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -87,6 +87,14 @@
     "translation": "Are you sure? If you cancel this action, the photo will be deleted.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Explore Cameras",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Start Taking Photos",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -87,6 +87,14 @@
     "translation": "Emin misiniz? Bu işlemi iptal ederseniz fotoğraf silinir.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Kameraları Keşfet",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Fotoğraf Çekmeye Başla",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

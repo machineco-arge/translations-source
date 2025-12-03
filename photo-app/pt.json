@@ -87,6 +87,14 @@
     "translation": "Tem a certeza? Se cancelar esta operação, a fotografia será apagada.",
     "sourceHash": "8857d6d47729accd66c73ea3dd7d09cc"
   },
+  "_albumScreen_exploreCameras": {
+    "translation": "Explorar câmaras",
+    "sourceHash": "fb1afbf0ed77bdc5c9253b87159a64f3"
+  },
+  "_albumScreen_startTakingPhotos": {
+    "translation": "Começar a tirar fotografias",
+    "sourceHash": "226077ef41c5611d178d46b518bdc43c"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'O rolo de filme está cheio, pode enviá-lo para impressão",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
