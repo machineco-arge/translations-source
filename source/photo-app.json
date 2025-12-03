@@ -77,6 +77,7 @@
     "_filmScreen_leaveActivityMessage": "Bu aktiviteden ayrılmak istediğinizden emin misiniz?",
     "_filmScreen_leaveActivityErrorMessage": "Aktivite ayrılırken bir hata oluştu.",
     "_filmScreen_share": "Paylaş",
+    "_filmScreen_cannotShareActivityWithPhotos": "Fotoğrafları olan normal bir aktiviteyi paylaşamazsınız.",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
@@ -329,6 +330,7 @@
     "_common_failed": "Başarısız",
     "_common_success": "Başarılı",
     "_common_error": "Hata",
+    "_common_warning": "Uyarı",
     "_common_invalidDate": "Geçersiz Tarih",
     "_common_processing": "İşleniyor...",
     "_common_ok": "Tamam",
