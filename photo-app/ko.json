@@ -291,6 +291,10 @@
     "translation": "공유",
     "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
   },
+  "_filmScreen_cannotShareActivityWithPhotos": {
+    "translation": "일반 활동은 사진과 함께 공유할 수 없습니다.",
+    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+  },
   "_participantModal_statusActive": {
     "translation": "활성",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
@@ -1168,6 +1172,10 @@
   "_common_error": {
     "translation": "오류",
     "sourceHash": "154d15d5b2e2e4c91f7f9cfebceb3b39"
+  },
+  "_common_warning": {
+    "translation": "경고",
+    "sourceHash": "0c2ff4b5d6973fccddfb99a2458b0088"
   },
   "_common_invalidDate": {
     "translation": "유효하지 않은 날짜",
