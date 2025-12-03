@@ -22,6 +22,8 @@
     "_albumScreen_cancelProcessing": "İşlemi Durdur",
     "_albumScreen_cancelProcessingAlertTitle": "İşlemi Durdur ve Sil",
     "_albumScreen_cancelProcessingAlertMessage": "Emin misiniz? Bu işlemi iptal ederseniz fotoğraf silinir.",
+    "_albumScreen_exploreCameras": "Kameraları Keşfet",
+    "_albumScreen_startTakingPhotos": "Fotoğraf Çekmeye Başla",
 
     "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
     "_cameraScreen_participantFilmEndedMessage": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
