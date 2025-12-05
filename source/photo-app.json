@@ -64,7 +64,7 @@
     "_filmScreen_joinRequestStatusPending": "İzin Bekleniyor",
     "_filmScreen_joinRequestStatusRejected": "Reddedildi",
     "_filmScreen_shareActivityTitle": "Aktiviteyi Paylaş",
-    "_filmScreen_shareActivityMessage": "Bu aktiviteyi paylaşmak istiyor musunuz?",
+    "_filmScreen_shareActivityMessage": "Bu aktiviteyi ortak aktivite yapmak istiyor musunuz?",
     "_filmScreen_shareInviteTitle": "Aktivite Davet Bağlantısı",
     "_filmScreen_shareFailedErrorMessage": "Aktivite paylaşılırken bir hata oluştu.",
     "_filmScreen_filmIsFullAlertMessageParticipant": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
