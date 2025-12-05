@@ -240,8 +240,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "您想分享这项活动吗？",
-    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+    "translation": "您想让这项活动成为一项联合活动吗？",
+    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "活动邀请链接",

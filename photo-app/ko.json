@@ -240,8 +240,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "이 활동을 공유하시겠습니까?",
-    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+    "translation": "이 활동을 공동 활동으로 만들고 싶으신가요?",
+    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "활동 초대 링크",

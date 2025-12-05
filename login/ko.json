@@ -156,12 +156,12 @@
     "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
   },
   "inspect": {
-    "translation": "검토.",
-    "sourceHash": "759fff7e89eb91f439948219df8950a0"
+    "translation": "검토",
+    "sourceHash": "1d4a27c2ae0e097948a4bc479cfaa283"
   },
   "confirm": {
-    "translation": "확인합니다.",
-    "sourceHash": "81aca36b49804f4aad3e00551e35384d"
+    "translation": "확인",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
   },
   "info": {
     "translation": "정보",
@@ -285,7 +285,7 @@
   },
   "delete": {
     "translation": "삭제",
-    "sourceHash": "491dea9b956aa3e5ec7c8f71889c86ba"
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
   },
   "profilePhotoDeletedSuccessMessage": {
     "translation": "프로필 사진이 성공적으로 삭제되었습니다.",

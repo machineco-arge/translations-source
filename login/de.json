@@ -156,12 +156,12 @@
     "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
   },
   "inspect": {
-    "translation": "Rückblick.",
-    "sourceHash": "759fff7e89eb91f439948219df8950a0"
+    "translation": "Überprüfung",
+    "sourceHash": "1d4a27c2ae0e097948a4bc479cfaa283"
   },
   "confirm": {
-    "translation": "Bestätigen Sie.",
-    "sourceHash": "81aca36b49804f4aad3e00551e35384d"
+    "translation": "Bestätigen Sie",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
   },
   "info": {
     "translation": "Informationen",
@@ -284,8 +284,8 @@
     "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
   },
   "delete": {
-    "translation": "Sil",
-    "sourceHash": "491dea9b956aa3e5ec7c8f71889c86ba"
+    "translation": "Löschen",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
   },
   "profilePhotoDeletedSuccessMessage": {
     "translation": "Ihr Profilbild wurde erfolgreich gelöscht.",

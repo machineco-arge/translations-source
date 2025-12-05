@@ -240,8 +240,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Möchten Sie diese Aktivität mit anderen teilen?",
-    "sourceHash": "1a19d45f7045895e38a2edabb407584c"
+    "translation": "Möchten Sie diese Aktivität zu einer gemeinsamen Aktivität machen?",
+    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Aktivität Einladungslink",

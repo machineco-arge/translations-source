@@ -157,11 +157,11 @@
   },
   "inspect": {
     "translation": "レビュー",
-    "sourceHash": "759fff7e89eb91f439948219df8950a0"
+    "sourceHash": "1d4a27c2ae0e097948a4bc479cfaa283"
   },
   "confirm": {
-    "translation": "確認する。",
-    "sourceHash": "81aca36b49804f4aad3e00551e35384d"
+    "translation": "確認",
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
   },
   "info": {
     "translation": "インフォメーション",
@@ -284,8 +284,8 @@
     "sourceHash": "976c262afe4b3dda84f2f34fa18a7ebc"
   },
   "delete": {
-    "translation": "シル",
-    "sourceHash": "491dea9b956aa3e5ec7c8f71889c86ba"
+    "translation": "削除",
+    "sourceHash": "625223c183057e4748ae6abfb40596dd"
   },
   "profilePhotoDeletedSuccessMessage": {
     "translation": "プロフィール写真の削除に成功しました。",
