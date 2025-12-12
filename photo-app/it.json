@@ -95,6 +95,38 @@
     "translation": "Iniziare a scattare foto",
     "sourceHash": "226077ef41c5611d178d46b518bdc43c"
   },
+  "_albumScreen_noPhotosTitle": {
+    "translation": "Nessuna foto",
+    "sourceHash": "a1bff2bf29de740117c7b592029b5eb1"
+  },
+  "_albumScreen_noPhotosMessage": {
+    "translation": "Non ci sono foto da scaricare in questo album.",
+    "sourceHash": "82dc61094bdca02cf8c65eefe61404ba"
+  },
+  "_albumScreen_downloadAlbumTitle": {
+    "translation": "Scarica l'album",
+    "sourceHash": "9ed3fb4326b1ee0331ae900d9c6ed9ab"
+  },
+  "_albumScreen_downloadAlbumMessage": {
+    "translation": "Volete scaricare questo album nella vostra galleria?",
+    "sourceHash": "13cf0d1e558d901472cd7a77ac930962"
+  },
+  "_albumScreen_downloadSuccessMessage": {
+    "translation": "Questo album è stato scaricato con successo nella tua galleria.",
+    "sourceHash": "92a25d46e6f3b6c3b9a0708f636f961d"
+  },
+  "_albumScreen_downloadErrorMessage": {
+    "translation": "Non è stato possibile scaricare l'album. Si prega di riprovare.",
+    "sourceHash": "0d8f1b74da76ea1bcebbc31e97dace20"
+  },
+  "_albumScreen_downloadingAlbum": {
+    "translation": "Download di album",
+    "sourceHash": "87d4c2e16d1412747224a03abedf39c3"
+  },
+  "_albumScreen_downloadAlbumAccessibility": {
+    "translation": "Scarica l'album completo",
+    "sourceHash": "43ef93cab9e251afd0634fc67638c8b6"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
