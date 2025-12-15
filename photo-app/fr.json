@@ -573,6 +573,10 @@
     "translation": "Votre solde de crédit a été augmenté avec succès.",
     "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
   },
+  "proSubscriptionPrompt": {
+    "translation": "En achetant une adhésion Pro, vous pouvez gagner des crédits.",
+    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "Vous n'avez plus de droits sur les bobines de film",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

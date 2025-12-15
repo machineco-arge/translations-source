@@ -573,6 +573,10 @@
     "translation": "크레딧 잔액이 성공적으로 증가했습니다.",
     "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
   },
+  "proSubscriptionPrompt": {
+    "translation": "프로 멤버십을 구매하면 크레딧을 적립할 수 있습니다.",
+    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "필름 롤 권한이 부족합니다.",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

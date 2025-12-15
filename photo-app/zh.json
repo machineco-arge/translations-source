@@ -573,6 +573,10 @@
     "translation": "您的信用余额已成功增加。",
     "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
   },
+  "proSubscriptionPrompt": {
+    "translation": "通过购买专业会员资格，您可以获得积分。",
+    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "您的胶卷权利用完了",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

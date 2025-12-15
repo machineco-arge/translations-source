@@ -573,6 +573,10 @@
     "translation": "O seu saldo de crédito foi aumentado com sucesso.",
     "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
   },
+  "proSubscriptionPrompt": {
+    "translation": "Ao adquirir a subscrição Pro, pode ganhar créditos.",
+    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "O seu direito ao rolo de filme esgotou-se",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
