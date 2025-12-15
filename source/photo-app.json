@@ -156,6 +156,7 @@
     "noCreditCode": "Girilen kredi kodu yok",
     "increaseCreditError": "Kredi bakiyeniz artırılırken bir hata oluştu.",
     "increaseCreditSuccess": "Kredi bakiyeniz başarıyla artırıldı.",
+    "proSubscriptionPrompt": "Pro Üyelik satın alarak, kredi kazanabilirsiniz.",
 
     "_selectFilm_filmCreateWaitingTimeAlertTitle": "Film Rulo Hakkın Bitti",
     "_selectFilm_filmCreateWaitingTimeAlertMessage": "Bekleme süresi {{remainingMinutes}} dakika.",
