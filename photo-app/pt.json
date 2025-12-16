@@ -127,6 +127,42 @@
     "translation": "Descarregar o álbum completo",
     "sourceHash": "43ef93cab9e251afd0634fc67638c8b6"
   },
+  "_albumScreen_videoPreparing": {
+    "translation": "O vídeo está a ser preparado...",
+    "sourceHash": "01cd5d332fce43da904d501a0dcc1755"
+  },
+  "_albumScreen_descriptionPreparingVideo": {
+    "translation": "Aguarde",
+    "sourceHash": "761899b0334c029b5154a1b89be6e7ad"
+  },
+  "_albumScreen_noPhotosAvaibleForSlideshow": {
+    "translation": "Não há fotografias para a apresentação de diapositivos.",
+    "sourceHash": "e94152a2165ba4b88968381d16cdaa40"
+  },
+  "_albumScreen_errorLoadingPhoto": {
+    "translation": "Ocorreu um erro ao carregar a fotografia.",
+    "sourceHash": "bab66c12c2f5666f336b703d648202d2"
+  },
+  "_albumScreen_videoSavedToGallery": {
+    "translation": "O vídeo foi guardado com êxito na sua galeria.",
+    "sourceHash": "c99c34b9fef60aa7d35b5a76b8ddd115"
+  },
+  "_albumScreen_failedToSaveVideo": {
+    "translation": "Falha ao guardar na galeria de vídeo.",
+    "sourceHash": "5ed78bab82ecf405836ff25550256d10"
+  },
+  "_albumScreen_errorSharingVideo": {
+    "translation": "Houve um erro ao partilhar o vídeo.",
+    "sourceHash": "60811cfa452b28722e6e2434ea04d13b"
+  },
+  "_albumScreen_deleteVideo": {
+    "translation": "Apagar vídeo",
+    "sourceHash": "5803c1d97d8600a1e3bdf7ba228f955b"
+  },
+  "_albumScreen_confirmDeleteVideo": {
+    "translation": "Este vídeo será apagado. Tem a certeza?",
+    "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'O rolo de filme está cheio, pode enviá-lo para impressão",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

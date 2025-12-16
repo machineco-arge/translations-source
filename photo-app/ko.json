@@ -127,6 +127,42 @@
     "translation": "전체 앨범 다운로드",
     "sourceHash": "43ef93cab9e251afd0634fc67638c8b6"
   },
+  "_albumScreen_videoPreparing": {
+    "translation": "동영상 준비 중...",
+    "sourceHash": "01cd5d332fce43da904d501a0dcc1755"
+  },
+  "_albumScreen_descriptionPreparingVideo": {
+    "translation": "잠시만 기다려주세요.",
+    "sourceHash": "761899b0334c029b5154a1b89be6e7ad"
+  },
+  "_albumScreen_noPhotosAvaibleForSlideshow": {
+    "translation": "슬라이드 쇼에 사용할 사진이 없습니다.",
+    "sourceHash": "e94152a2165ba4b88968381d16cdaa40"
+  },
+  "_albumScreen_errorLoadingPhoto": {
+    "translation": "사진을 업로드하는 동안 오류가 발생했습니다.",
+    "sourceHash": "bab66c12c2f5666f336b703d648202d2"
+  },
+  "_albumScreen_videoSavedToGallery": {
+    "translation": "동영상이 갤러리에 성공적으로 저장되었습니다.",
+    "sourceHash": "c99c34b9fef60aa7d35b5a76b8ddd115"
+  },
+  "_albumScreen_failedToSaveVideo": {
+    "translation": "동영상 갤러리에 저장하지 못했습니다.",
+    "sourceHash": "5ed78bab82ecf405836ff25550256d10"
+  },
+  "_albumScreen_errorSharingVideo": {
+    "translation": "동영상을 공유하는 동안 오류가 발생했습니다.",
+    "sourceHash": "60811cfa452b28722e6e2434ea04d13b"
+  },
+  "_albumScreen_deleteVideo": {
+    "translation": "비디오 삭제",
+    "sourceHash": "5803c1d97d8600a1e3bdf7ba228f955b"
+  },
+  "_albumScreen_confirmDeleteVideo": {
+    "translation": "이 동영상은 삭제됩니다. 정말인가요?",
+    "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

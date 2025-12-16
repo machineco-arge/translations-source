@@ -127,6 +127,42 @@
     "translation": "Albümün tamamını indir",
     "sourceHash": "43ef93cab9e251afd0634fc67638c8b6"
   },
+  "_albumScreen_videoPreparing": {
+    "translation": "Video hazırlanıyor...",
+    "sourceHash": "01cd5d332fce43da904d501a0dcc1755"
+  },
+  "_albumScreen_descriptionPreparingVideo": {
+    "translation": "Lütfen bekleyin",
+    "sourceHash": "761899b0334c029b5154a1b89be6e7ad"
+  },
+  "_albumScreen_noPhotosAvaibleForSlideshow": {
+    "translation": "Slayt gösterisi için fotoğraf yok.",
+    "sourceHash": "e94152a2165ba4b88968381d16cdaa40"
+  },
+  "_albumScreen_errorLoadingPhoto": {
+    "translation": "Fotoğraf yüklenirken bir hata oluştu.",
+    "sourceHash": "bab66c12c2f5666f336b703d648202d2"
+  },
+  "_albumScreen_videoSavedToGallery": {
+    "translation": "Video başarıyla galerine kaydedildi.",
+    "sourceHash": "c99c34b9fef60aa7d35b5a76b8ddd115"
+  },
+  "_albumScreen_failedToSaveVideo": {
+    "translation": "Video galerine kaydedilemedi.",
+    "sourceHash": "5ed78bab82ecf405836ff25550256d10"
+  },
+  "_albumScreen_errorSharingVideo": {
+    "translation": "Video paylaşılırken bir hata oluştu.",
+    "sourceHash": "60811cfa452b28722e6e2434ea04d13b"
+  },
+  "_albumScreen_deleteVideo": {
+    "translation": "Videoyu Sil",
+    "sourceHash": "5803c1d97d8600a1e3bdf7ba228f955b"
+  },
+  "_albumScreen_confirmDeleteVideo": {
+    "translation": "Bu video silinecek. Emin misiniz?",
+    "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

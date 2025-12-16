@@ -127,6 +127,42 @@
     "translation": "下载完整专辑",
     "sourceHash": "43ef93cab9e251afd0634fc67638c8b6"
   },
+  "_albumScreen_videoPreparing": {
+    "translation": "视频正在准备中...",
+    "sourceHash": "01cd5d332fce43da904d501a0dcc1755"
+  },
+  "_albumScreen_descriptionPreparingVideo": {
+    "translation": "请稍候",
+    "sourceHash": "761899b0334c029b5154a1b89be6e7ad"
+  },
+  "_albumScreen_noPhotosAvaibleForSlideshow": {
+    "translation": "幻灯片没有照片。",
+    "sourceHash": "e94152a2165ba4b88968381d16cdaa40"
+  },
+  "_albumScreen_errorLoadingPhoto": {
+    "translation": "上传照片时出现错误。",
+    "sourceHash": "bab66c12c2f5666f336b703d648202d2"
+  },
+  "_albumScreen_videoSavedToGallery": {
+    "translation": "视频已成功保存到您的相册。",
+    "sourceHash": "c99c34b9fef60aa7d35b5a76b8ddd115"
+  },
+  "_albumScreen_failedToSaveVideo": {
+    "translation": "保存到视频库失败。",
+    "sourceHash": "5ed78bab82ecf405836ff25550256d10"
+  },
+  "_albumScreen_errorSharingVideo": {
+    "translation": "共享视频时出现错误。",
+    "sourceHash": "60811cfa452b28722e6e2434ea04d13b"
+  },
+  "_albumScreen_deleteVideo": {
+    "translation": "删除视频",
+    "sourceHash": "5803c1d97d8600a1e3bdf7ba228f955b"
+  },
+  "_albumScreen_confirmDeleteVideo": {
+    "translation": "此视频将被删除。你确定吗？",
+    "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
