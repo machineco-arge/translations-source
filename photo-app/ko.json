@@ -514,12 +514,12 @@
     }
   },
   "_navigation_home": {
-    "translation": "쇼핑",
-    "sourceHash": "defaa28be44d5fa26989c169683b034b"
+    "translation": "카메라",
+    "sourceHash": "b0ea2974181d128d23707cf20463517c"
   },
   "_navigation_films": {
-    "translation": "카메라",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "내 활동",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_navigation_album": {
     "translation": "앨범",
