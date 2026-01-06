@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "O que são os separadores Álbuns e IA?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "O que são álbuns?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- Álbuns:** Aqui pode encontrar as suas fotografias reveladas a partir das suas câmaras normais em grupos.\n- AI:** As fotografias criadas com câmaras de inteligência artificial (AI) são listadas separadamente neste separador.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- Álbuns:** Aqui pode encontrar as fotografias reveladas pela sua câmara das actividades que criou em álbuns.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "O que posso fazer com as minhas fotografias?",

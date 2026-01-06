@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "Was sind die Registerkarten \"Alben\" und \"AI\"?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "Was sind Alben?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Alben:** Hier finden Sie Ihre Fotos, die Sie mit Ihren normalen Kameras entwickelt haben, in Gruppen.\n- **AI:** Fotos, die mit Kameras mit künstlicher Intelligenz (AI) erstellt wurden, werden in dieser Registerkarte separat aufgeführt.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- **Alben:** Hier finden Sie Ihre mit der Kamera entwickelten Fotos von den Aktivitäten, die Sie in Alben angelegt haben.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "Was kann ich mit meinen Fotos machen?",

@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "Qu'est-ce que les onglets Albums et AI ?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "Qu'est-ce qu'un album ?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- Albums:** Vous trouverez ici les photos créées avec vos appareils photo habituels, classées par groupes.\n- Les photos créées avec des appareils photo à intelligence artificielle (IA) sont répertoriées séparément dans cet onglet.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- Albums:** Vous trouverez ici les photos développées par l'appareil photo lors des activités que vous avez créées dans des albums.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "Que puis-je faire avec mes photos ?",

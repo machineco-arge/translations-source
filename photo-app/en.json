@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "What are the Albums and AI tabs?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "What are albums?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Albums:** Here you can find your developed photos from your regular cameras in groups.\n- **AI:** Photos created with artificial intelligence (AI) cameras are listed separately in this tab.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- **Albums:** Here you can find your camera developed photos from the activities you have created in albums.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "What can I do with my photos?",

@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "Albümler ve AI sekmeleri nedir?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "Albümler nedir?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Albümler:** Normal kameralarınızdan banyo edilmiş fotoğraflarınızı gruplar halinde burada bulabilirsiniz.\n- **AI:** Yapay zeka (AI) kameraları ile oluşturduğunuz fotoğraflar bu sekmede ayrı olarak listelenir.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- **Albümler:** Oluşturduğunuz aktivitelerdeki kameranızdan banyo edilmiş fotoğraflarınızı albümler halinde burada bulabilirsiniz.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "Fotoğraflarımla ne yapabilirim?",

@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "¿Qué son las pestañas Álbumes y AI?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "¿Qué son los álbumes?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Álbumes:** Aquí puedes encontrar tus fotos reveladas desde tus cámaras normales en grupos.\n- **AI:** Las fotos creadas con cámaras de inteligencia artificial (AI) aparecen por separado en esta pestaña.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- **Álbumes:** Aquí puedes encontrar las fotos reveladas por tu cámara de las actividades que has creado en álbumes.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "¿Qué puedo hacer con mis fotos?",

@@ -774,12 +774,12 @@
     "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
   },
   "_faq_q_album_tabs": {
-    "translation": "Cosa sono le schede Album e AI?",
-    "sourceHash": "87349c949aa2c053e6b5b02c90a7fe1e"
+    "translation": "Cosa sono gli album?",
+    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Album: ** Qui si trovano le foto sviluppate con le normali fotocamere, suddivise in gruppi.\n- Le foto create con le fotocamere con intelligenza artificiale (AI) sono elencate separatamente in questa scheda.",
-    "sourceHash": "32ff07d0e6fb2b827f94f55c708f7841"
+    "translation": "- Qui si possono trovare le foto sviluppate dalla fotocamera delle attività create negli album.\n",
+    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
   },
   "_faq_q_photo_actions": {
     "translation": "Cosa posso fare con le mie foto?",
