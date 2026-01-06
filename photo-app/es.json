@@ -513,6 +513,20 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     }
   },
+  "instantActivities": {
+    "newyearsholidayactivity": {
+      "translation": "Actividad de Año Nuevo",
+      "sourceHash": "b4a062f29b4bdeaa39bc80eb13e0d000"
+    },
+    "nightclubactivity": {
+      "translation": "Actividad nocturna",
+      "sourceHash": "867c4e59b9115dafd2d74cade12e3cd0"
+    },
+    "seasideholidayactivity": {
+      "translation": "Vacaciones en el mar",
+      "sourceHash": "0f7aa0cdb23e913c7f14fffa9b5a0ac4"
+    }
+  },
   "_navigation_home": {
     "translation": "Cámaras",
     "sourceHash": "b0ea2974181d128d23707cf20463517c"

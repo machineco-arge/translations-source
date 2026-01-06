@@ -513,6 +513,20 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     }
   },
+  "instantActivities": {
+    "newyearsholidayactivity": {
+      "translation": "新年假日活动",
+      "sourceHash": "b4a062f29b4bdeaa39bc80eb13e0d000"
+    },
+    "nightclubactivity": {
+      "translation": "夜总会活动",
+      "sourceHash": "867c4e59b9115dafd2d74cade12e3cd0"
+    },
+    "seasideholidayactivity": {
+      "translation": "海滨假日活动",
+      "sourceHash": "0f7aa0cdb23e913c7f14fffa9b5a0ac4"
+    }
+  },
   "_navigation_home": {
     "translation": "照相机",
     "sourceHash": "b0ea2974181d128d23707cf20463517c"
