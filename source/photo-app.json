@@ -138,6 +138,12 @@
         "warmedanalogue": "Yanmış Analog"
     },
 
+    "instantActivities": {
+        "newyearsholidayactivity": "Yılbaşı Tatili Aktivitesi",
+        "nightclubactivity": "Gece Kulübü Aktivitesi",
+        "seasideholidayactivity": "Deniz Kenarı Tatili Aktivitesi"
+    },
+
     "_navigation_home": "Kameralar",
     "_navigation_films": "Aktivitelerim",
     "_navigation_album": "Albüm",
