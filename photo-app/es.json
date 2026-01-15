@@ -537,6 +537,18 @@
     "matchday": {
       "translation": "Día del partido",
       "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
+    },
+    "explorethecity": {
+      "translation": "Explora la ciudad",
+      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
+    },
+    "watchnightin": {
+      "translation": "Noche en casa",
+      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
+    },
+    "nightout": {
+      "translation": "Salir de noche",
+      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
     }
   },
   "_navigation_home": {
