@@ -513,6 +513,10 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     }
   },
+  "instantActivitiesTitle": {
+    "translation": "Conjuntos listos",
+    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
+  },
   "instantActivities": {
     "birthday": {
       "translation": "Cumpleaños",
