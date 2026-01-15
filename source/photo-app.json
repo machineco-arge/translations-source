@@ -139,9 +139,11 @@
     },
 
     "instantActivities": {
-        "newyearsholidayactivity": "Yılbaşı Tatili Aktivitesi",
-        "nightclubactivity": "Gece Kulübü Aktivitesi",
-        "seasideholidayactivity": "Deniz Kenarı Tatili Aktivitesi"
+        "birthday": "Doğum Günü",
+        "goldenhour": "Altın Saat",
+        "gymday": "Spor Günü",
+        "homeparty": "Ev Partisi",
+        "matchday": "Maç Günü"
     },
 
     "_navigation_home": "Kameralar",
