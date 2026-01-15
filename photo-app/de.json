@@ -514,17 +514,25 @@
     }
   },
   "instantActivities": {
-    "newyearsholidayactivity": {
-      "translation": "Neujahrsferien Aktivität",
-      "sourceHash": "b4a062f29b4bdeaa39bc80eb13e0d000"
+    "birthday": {
+      "translation": "Geburtstag",
+      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
     },
-    "nightclubactivity": {
-      "translation": "Nachtclub-Aktivität",
-      "sourceHash": "867c4e59b9115dafd2d74cade12e3cd0"
+    "goldenhour": {
+      "translation": "Goldene Uhr",
+      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
     },
-    "seasideholidayactivity": {
-      "translation": "Urlaubsaktivität am Meer",
-      "sourceHash": "0f7aa0cdb23e913c7f14fffa9b5a0ac4"
+    "gymday": {
+      "translation": "Tag des Sports",
+      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
+    },
+    "homeparty": {
+      "translation": "Hausparty",
+      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
+    },
+    "matchday": {
+      "translation": "Spieltag",
+      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
     }
   },
   "_navigation_home": {

@@ -514,17 +514,25 @@
     }
   },
   "instantActivities": {
-    "newyearsholidayactivity": {
-      "translation": "새해 연휴 활동",
-      "sourceHash": "b4a062f29b4bdeaa39bc80eb13e0d000"
+    "birthday": {
+      "translation": "생일",
+      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
     },
-    "nightclubactivity": {
-      "translation": "나이트 클럽 활동",
-      "sourceHash": "867c4e59b9115dafd2d74cade12e3cd0"
+    "goldenhour": {
+      "translation": "골드 시계",
+      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
     },
-    "seasideholidayactivity": {
-      "translation": "해변 휴가 액티비티",
-      "sourceHash": "0f7aa0cdb23e913c7f14fffa9b5a0ac4"
+    "gymday": {
+      "translation": "스포츠 데이",
+      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
+    },
+    "homeparty": {
+      "translation": "하우스 파티",
+      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
+    },
+    "matchday": {
+      "translation": "경기 당일",
+      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
     }
   },
   "_navigation_home": {
