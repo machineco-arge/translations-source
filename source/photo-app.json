@@ -144,7 +144,10 @@
         "goldenhour": "Altın Saat",
         "gymday": "Spor Günü",
         "homeparty": "Ev Partisi",
-        "matchday": "Maç Günü"
+        "matchday": "Maç Günü",
+        "explorethecity": "Şehri Keşfet",
+        "watchnightin": "Evde Gece",
+        "nightout": "Gece Dışarı Çıkmak"
     },
 
     "_navigation_home": "Kameralar",
