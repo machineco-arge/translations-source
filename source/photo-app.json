@@ -97,6 +97,8 @@
     "_filmScreen_leaveActivityErrorMessage": "Aktivite ayrılırken bir hata oluştu.",
     "_filmScreen_share": "Paylaş",
     "_filmScreen_cannotShareActivityWithPhotos": "Fotoğrafları olan normal bir aktiviteyi paylaşamazsınız.",
+    "_filmScreen_speedingUp": "Baskı Hızlandırılıyor...",
+    "_filmScreen_speedUp": "Hızlandır",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
