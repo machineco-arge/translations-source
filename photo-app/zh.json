@@ -379,6 +379,14 @@
     "translation": "加速",
     "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
   },
+  "_filmScreen_goToAlbum": {
+    "translation": "转到相册",
+    "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
+  },
+  "_filmScreen_printCompleted": {
+    "translation": "照片打印已完成！",
+    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+  },
   "_participantModal_statusActive": {
     "translation": "活跃",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

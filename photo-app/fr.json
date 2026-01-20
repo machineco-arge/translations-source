@@ -379,6 +379,14 @@
     "translation": "Accélérer",
     "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
   },
+  "_filmScreen_goToAlbum": {
+    "translation": "Aller à l'album",
+    "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
+  },
+  "_filmScreen_printCompleted": {
+    "translation": "Impression de photos terminée !",
+    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+  },
   "_participantModal_statusActive": {
     "translation": "Actif",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
