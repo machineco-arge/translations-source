@@ -99,6 +99,8 @@
     "_filmScreen_cannotShareActivityWithPhotos": "Fotoğrafları olan normal bir aktiviteyi paylaşamazsınız.",
     "_filmScreen_speedingUp": "Baskı Hızlandırılıyor...",
     "_filmScreen_speedUp": "Hızlandır",
+    "_filmScreen_goToAlbum": "Albüme Git",
+    "_filmScreen_printCompleted": "Fotoğraf Baskısı Tamamlandı!",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
