@@ -371,6 +371,14 @@
     "translation": "您不能将正常活动与照片共享。",
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
+  "_filmScreen_speedingUp": {
+    "translation": "压力正在加速...",
+    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+  },
+  "_filmScreen_speedUp": {
+    "translation": "加速",
+    "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
+  },
   "_participantModal_statusActive": {
     "translation": "活跃",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

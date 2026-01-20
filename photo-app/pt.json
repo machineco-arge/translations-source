@@ -371,6 +371,14 @@
     "translation": "Não é possível partilhar uma atividade normal com fotografias.",
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
+  "_filmScreen_speedingUp": {
+    "translation": "A pressão está a acelerar...",
+    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+  },
+  "_filmScreen_speedUp": {
+    "translation": "Acelerar",
+    "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
+  },
   "_participantModal_statusActive": {
     "translation": "Ativo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
