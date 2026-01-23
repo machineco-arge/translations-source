@@ -149,19 +149,19 @@
   },
   "cancel": {
     "translation": "キャンセル",
-    "sourceHash": "16ed6ec71b5f0eb63a99ccf246cbdfba"
+    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
   },
   "ok": {
-    "translation": "分かった。\n",
-    "sourceHash": "f525d0274b2dd5d6c37425172c34b651"
+    "translation": "分かった。",
+    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
   },
   "inspect": {
     "translation": "レビュー",
-    "sourceHash": "e7697310f50bbeab186addf17749e828"
+    "sourceHash": "1d4a27c2ae0e097948a4bc479cfaa283"
   },
   "confirm": {
     "translation": "確認",
-    "sourceHash": "05fe0d546e417b12ba6e79639752f21b"
+    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
   },
   "info": {
     "translation": "インフォメーション",
