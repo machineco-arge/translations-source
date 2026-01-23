@@ -144,6 +144,49 @@ function preprocessTextsForTranslation(texts: { key: string, text: string }[]): 
   return { processedTexts, placeholderMaps };
 }
 
+// --- POST-PROCESSING FUNCTIONS ---
+
+/**
+ * Removes trailing punctuation from translations if the source text doesn't have it.
+ * This fixes cases where translation APIs add periods to short texts like "Tamam" -> "Okay."
+ */
+function normalizeTranslationPunctuation(sourceText: string, translatedText: string): string {
+  // Trim whitespace to check actual content
+  const sourceTrimmed = sourceText.trim();
+  const translatedTrimmed = translatedText.trim();
+  
+  if (sourceTrimmed.length === 0 || translatedTrimmed.length === 0) {
+    return translatedText; // Return original if empty
+  }
+  
+  // Get the last character of source (ignoring trailing whitespace)
+  const sourceLastChar = sourceTrimmed[sourceTrimmed.length - 1];
+  
+  // Check if source ends with punctuation
+  const sourceEndsWithPunctuation = sourceLastChar === '.' || sourceLastChar === '?' || sourceLastChar === '!' || 
+                                    sourceTrimmed.endsWith('...') || sourceTrimmed.endsWith('…');
+  
+  // If source doesn't end with punctuation, remove it from translation
+  if (!sourceEndsWithPunctuation) {
+    // Remove trailing punctuation (period, exclamation, question mark, ellipsis)
+    let cleaned = translatedTrimmed;
+    
+    // Remove trailing ellipsis first (longer patterns first)
+    cleaned = cleaned.replace(/\.\.\.\s*$/, '');
+    cleaned = cleaned.replace(/…\s*$/, '');
+    
+    // Remove single trailing punctuation marks
+    cleaned = cleaned.replace(/[.!?]\s*$/, '');
+    
+    // Preserve original trailing whitespace from translatedText if it existed
+    const trailingWhitespace = translatedText.match(/\s*$/)?.[0] || '';
+    return cleaned + trailingWhitespace;
+  }
+  
+  // If source has punctuation, keep translation as is
+  return translatedText;
+}
+
 // --- API HELPER FUNCTIONS ---
 
 async function translateWithDeepL(texts: { key: string, text: string }[], targetLang: string): Promise<string[] | null> {
@@ -175,7 +218,10 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
       timeout: 30000,
     });
     const translatedTexts = response.data.translations.map((t: any) => t.text);
-    return translatedTexts.map((text: string, index: number) => restorePlaceholders(text, placeholderMaps[index]));
+    return translatedTexts.map((text: string, index: number) => {
+      const restored = restorePlaceholders(text, placeholderMaps[index]);
+      return normalizeTranslationPunctuation(texts[index].text, restored);
+    });
   } catch (error) {
     if (axios.isAxiosError(error) && error.response) {
       if (error.response.status === 456 || error.response.status === 429) {
@@ -210,7 +256,10 @@ async function translateWithGoogle(texts: { key: string, text: string }[], targe
     });
     
     const translatedTexts = response.data.data.translations.map((t: any) => t.translatedText);
-    return translatedTexts.map((text: string, index: number) => restorePlaceholders(text, placeholderMaps[index]));
+    return translatedTexts.map((text: string, index: number) => {
+      const restored = restorePlaceholders(text, placeholderMaps[index]);
+      return normalizeTranslationPunctuation(texts[index].text, restored);
+    });
   } catch (error) {
     if (axios.isAxiosError(error) && error.response) {
       const errorMessage = error.response.data?.error?.message || JSON.stringify(error.response.data);
