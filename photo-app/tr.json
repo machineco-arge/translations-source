@@ -308,8 +308,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Bu aktiviteyi ortak aktivite yapmak istiyor musunuz?",
-    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
+    "translation": "Bu aktiviteyi paylaşımlı aktivite yapıp, aktivite bağlantısını paylaşmak ister misiniz?",
+    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Aktivite Davet Bağlantısı",
@@ -1356,11 +1356,11 @@
     "sourceHash": "08b2e3e3ed4fbe72e241e2711dea11c5"
   },
   "_common_no": {
-    "translation": "Hayır",
-    "sourceHash": "9f336ee8ff7f2f635c68d08fd78a1cce"
+    "translation": "Hayır ",
+    "sourceHash": "570fc657d3b40006c51b2972c5647b21"
   },
   "_common_yes": {
-    "translation": "Evet",
-    "sourceHash": "f94f854949fc94f06c85986f1e814b34"
+    "translation": "Evet ",
+    "sourceHash": "b6466f950f9a3d658978d149e5c76297"
   }
 }
