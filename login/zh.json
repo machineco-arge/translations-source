@@ -152,8 +152,8 @@
     "sourceHash": "16ed6ec71b5f0eb63a99ccf246cbdfba"
   },
   "ok": {
-    "translation": "好的",
-    "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
+    "translation": "好的{{}}",
+    "sourceHash": "c52b171c2673f507d2a4dd3782718062"
   },
   "inspect": {
     "translation": "评论",
