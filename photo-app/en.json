@@ -308,8 +308,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Do you want to make this a joint activity?",
-    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
+    "translation": "Would you like to make this activity a shared activity and share the activity link?",
+    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Activity Invitation Link",
@@ -1357,10 +1357,10 @@
   },
   "_common_no": {
     "translation": "No.",
-    "sourceHash": "9f336ee8ff7f2f635c68d08fd78a1cce"
+    "sourceHash": "570fc657d3b40006c51b2972c5647b21"
   },
   "_common_yes": {
     "translation": "Yes",
-    "sourceHash": "f94f854949fc94f06c85986f1e814b34"
+    "sourceHash": "b6466f950f9a3d658978d149e5c76297"
   }
 }

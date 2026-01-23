@@ -308,8 +308,8 @@
     "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "이 활동을 공동 활동으로 만들고 싶으신가요?",
-    "sourceHash": "6bbc5d286cd8d90d3d06100bea089f1d"
+    "translation": "이 활동을 공유 활동으로 만들고 활동 링크를 공유하시겠습니까?",
+    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "활동 초대 링크",
@@ -1357,10 +1357,10 @@
   },
   "_common_no": {
     "translation": "아니요.",
-    "sourceHash": "9f336ee8ff7f2f635c68d08fd78a1cce"
+    "sourceHash": "570fc657d3b40006c51b2972c5647b21"
   },
   "_common_yes": {
     "translation": "예",
-    "sourceHash": "f94f854949fc94f06c85986f1e814b34"
+    "sourceHash": "b6466f950f9a3d658978d149e5c76297"
   }
 }

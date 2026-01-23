@@ -149,19 +149,19 @@
   },
   "cancel": {
     "translation": "Cancelamento",
-    "sourceHash": "2517481c022cfadc1a4e136c84aab836"
+    "sourceHash": "16ed6ec71b5f0eb63a99ccf246cbdfba"
   },
   "ok": {
     "translation": "Muito bem.",
-    "sourceHash": "4dfd9e31d657bff6d0a4530eaba632cb"
+    "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "inspect": {
     "translation": "Revisão",
-    "sourceHash": "1d4a27c2ae0e097948a4bc479cfaa283"
+    "sourceHash": "e7697310f50bbeab186addf17749e828"
   },
   "confirm": {
     "translation": "Confirmar",
-    "sourceHash": "42c059efc9ffeeb9426fe1a78f1d84d8"
+    "sourceHash": "05fe0d546e417b12ba6e79639752f21b"
   },
   "info": {
     "translation": "Informações",
@@ -320,8 +320,8 @@
     "sourceHash": "0fd3f597b5aee902a9aeaa3fe8b6eba7"
   },
   "languageChangedMessage": {
-    "translation": "A língua foi alterada com êxito. Todos os textos foram traduzidos para a nova língua.",
-    "sourceHash": "2019570d7da0a9d2bc280657c2621bbd"
+    "translation": "A língua foi alterada com sucesso.",
+    "sourceHash": "bed7fd987d19c39e9a4c3c12bccb4b95"
   },
   "languageChangeError": {
     "translation": "Ocorreu um erro ao alterar a língua. Por favor, tente novamente.",
