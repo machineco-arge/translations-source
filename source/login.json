@@ -37,7 +37,7 @@
     "profilePhotoUpdatedMessage": "Profil fotoğrafınız güncellendi!",
     "profilePhotoErrorMessage": "Profil fotoğrafı güncellenirken bir hata oluştu.",
     "cancel": "İptal ",
-    "ok": "Tamam ",
+    "ok": "Tamam{{}}",
     "inspect": "İncele ",
     "confirm": "Onayla ",
     "info": "Bilgilendirme",
