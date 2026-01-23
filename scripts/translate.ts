@@ -155,7 +155,7 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
   const { processedTexts, placeholderMaps } = preprocessTextsForTranslation(texts);
 
   const formData = new URLSearchParams();
-  formData.append('auth_key', DEEPL_API_KEY);
+  // formData.append('auth_key', DEEPL_API_KEY);
   formData.append('source_lang', BASE_LANGUAGE.toUpperCase());
   
   let deepLTargetLang = targetLang.toUpperCase();
@@ -170,6 +170,7 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
         'User-Agent': 'PhotoApp/1.0',
+        'Authorization': `DeepL-Auth-Key ${DEEPL_API_KEY}`,
       },
       timeout: 30000,
     });
