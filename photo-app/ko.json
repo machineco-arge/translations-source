@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "'카메라 활동'은 디지털 필름 롤과 같습니다. 스토어**에서 원하는 카메라 필터를 노출 수가 제한된 필름 롤(예: 12, 24, 36 노출)과 결합합니다. 생성한 각 카메라는 촬영한 사진을 특별한 앨범에 그룹화합니다.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "'카메라 활동'은 디지털 필름 롤과 같습니다. 카메라 활동은 **카메라**에서 원하는 카메라 필터를 노출 수가 제한된 필름 롤(예: 12, 24, 36 노출)과 결합합니다. 생성한 각 카메라는 촬영한 사진을 특별한 앨범에 그룹화합니다.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "포토 배스(인쇄)란 무엇인가요?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "상점에서 무엇을 할 수 있나요?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "카메라에서 무엇을 할 수 있나요?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "스토어에서는 앱의 모든 독특한 카메라 필터를 찾을 수 있습니다. 각 카메라는 고유한 색상, 질감 및 특성을 가진 필터를 나타냅니다. 카메라를 탭하면 해당 필터로 촬영한 '전후' 샘플 사진을 보고 자신의 스타일에 가장 잘 맞는 필터를 선택할 수 있습니다.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "카메라에서는 앱의 모든 독특한 카메라 필터를 살펴볼 수 있습니다. 각 카메라는 고유한 색상, 질감 및 특성을 가진 필터를 나타냅니다. 카메라를 탭하면 해당 필터로 촬영한 '전후' 샘플 사진을 보고 자신의 스타일에 가장 잘 맞는 필터를 선택할 수 있습니다.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "새 카메라 활동을 만들려면 어떻게 하나요?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "새 활동을 만들려면 어떻게 하나요?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "스토어에서 마음에 드는 카메라를 탭하여 '카메라 롤 선택' 화면으로 이동합니다. 여기에서 노출 번호가 다른 필름 롤(예: 12, 24, 36) 중 하나를 선택하여 원하는 필터와 함께 사용할 새 카메라 활동을 만들 수 있습니다.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "카메라에서 원하는 카메라를 탭하여 '카메라 롤 선택' 화면으로 이동합니다. 여기에서 노출 번호가 다른 필름 롤(예: 12, 24, 36) 중 하나를 선택하여 원하는 필터와 함께 사용할 새 카메라 활동을 만들 수 있습니다.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "카메라",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "내 활동",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "카메라 카드란 무엇인가요?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "활동 카드란 무엇을 의미하나요?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "각 카드는 가상 카메라를 나타내며 다음 정보를 표시합니다:\n- **제목:** 카메라 이름(변경할 수 있음).\n- 날짜 및 위치:** 카메라를 만든 날짜와 (가능한 경우) 마지막 사진을 촬영한 위치입니다.\n- 사진 정보:** 사용 중인 필름 롤에 사용된 노출 횟수(예: 15/24)입니다.",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "각 카드는 가상 카메라를 나타내며 다음 정보를 표시합니다:\n- 제목:** 활동 이름(변경할 수 있음).\n- 날짜 및 위치:** 활동을 만든 날짜와 (가능한 경우) 마지막 사진을 촬영한 위치입니다.\n- 사진 정보:** 사용 중인 필름 롤에 사용된 노출 횟수(예: 15/24)입니다.",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "기존 카메라에 사진을 추가하려면 어떻게 하나요?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "기존 활동에 사진을 추가하려면 어떻게 하나요?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "필름 롤에 노출이 비어 있는 경우 '내 카메라' 화면에서 해당 카메라 활동을 탭하여 카메라 화면으로 바로 전환하고 사진 촬영을 계속할 수 있습니다.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "카메라 롤에 노출이 비어 있는 경우 '내 활동' 화면에서 해당 카메라 활동을 탭하여 카메라 화면으로 바로 전환하고 사진 촬영을 계속할 수 있습니다.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "카메라 이름은 어떻게 변경하나요?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "활동 이름은 어떻게 변경하나요?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "각 카메라 카드 옆에 있는 연필 아이콘을 탭하여 카메라에 특별한 이름을 지정할 수 있습니다.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "각 활동 카드 옆에 있는 펜 아이콘을 탭하여 활동에 특별한 이름을 지정할 수 있습니다.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "인쇄할 사진을 보내려면 어떻게 하나요?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "공유 카메라",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "공유 활동",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "카메라를 공유하려면 어떻게 하나요?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "활동을 공유하려면 어떻게 하나요?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "'내 카메라' 화면에서 공유하려는 카메라 카드의 공유 아이콘을 탭합니다. 그러면 카메라가 공유 카메라 활동이 되고 해당 활동에 대한 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "'내 활동' 화면에서 공유하려는 활동 카드의 공유 아이콘을 탭합니다. 그러면 해당 활동이 공유 활동이 되고 해당 활동과 관련된 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "공유 카메라에 참여하려면 어떻게 하나요?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "공유 활동에 참여하려면 어떻게 하나요?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "전송된 초대 링크를 클릭합니다. 애플리케이션이 열리면 카메라에 참여하라는 요청이 카메라 소유자에게 전송됩니다. 카메라 소유자가 요청을 승인하면 카메라가 '내 카메라' 화면에 나타나고 사진 촬영을 시작할 수 있습니다.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "전송된 초대 링크를 클릭합니다. 애플리케이션이 열리면 액티비티 참여 요청이 액티비티 소유자에게 전송됩니다. 활동 소유자가 요청을 승인하면 '내 활동' 화면에 카메라가 나타나고 사진 촬영을 시작할 수 있습니다.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "참여 요청 및 알림",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "카메라 소유자는 카메라 카드의 '참가자' 아이콘을 탭하여 수신 요청을 확인하거나 승인 또는 거부할 수 있습니다. 승인 또는 거부되면 알림을 받게 됩니다. '내 카메라' 화면의 오른쪽 상단에 있는 종 아이콘을 통해 모든 알림을 추적할 수 있습니다.",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "활동 소유자는 활동 카드의 '참가자' 아이콘을 탭하여 수신 요청을 확인, 승인 또는 거부할 수 있습니다. 승인 또는 거부되면 알림을 받게 됩니다. '내 활동' 화면의 오른쪽 상단에 있는 종 아이콘에서 모든 알림을 확인할 수 있습니다.",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "보안 및 개인정보 보호(종단 간 암호화)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "공유 카메라에 있는 모든 사진은 **종단간 암호화**됩니다. 즉, 카메라 소유자와 승인된 참가자를 제외하고는 **아무도**(FotoApp 팀 포함)가 사진을 볼 수 없습니다. 각 공유 카메라에 대해 개인 \"세션 키\"가 생성되며, 이는 참가자의 기기에서만 사용할 수 있고 모든 암호화/복호화는 기기에서 직접 수행됩니다. 따라서 나와 친구들의 추억은 완전히 비공개로 유지됩니다.\n- 공유 카메라 활동 중에 실수로 애플리케이션을 삭제하고 '세션 키'를 분실한 경우, 애플리케이션을 다시 다운로드한 후 관련 카메라 활동에 경고 메시지가 표시됩니다. 이 경고가 표시되는 모든 공유 카메라 활동의 경우, 해당 활동의 참가자에게 '세션 키'를 다시 요청할 수 있습니다.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "공유 활동의 모든 사진은 **종단간 암호화**됩니다. 즉, 활동 소유자와 승인된 참가자를 제외한 **누구도**(Filmcam36 팀 포함)가 사진을 볼 수 없습니다. 각 공유 활동에 대해 개인 \"세션 키\"가 생성되며, 이는 참가자의 기기에서만 사용할 수 있고 모든 암호화/복호화는 기기에서 직접 수행됩니다. 따라서 나와 친구들의 추억은 완전히 비공개로 유지됩니다.\n- 공유 활동 중에 실수로 앱을 삭제하여 '세션 키'가 손실된 경우, 앱을 다시 다운로드한 후 관련 카메라 활동에 경고 메시지가 표시됩니다. 이 경고가 표시되는 모든 공유 카메라 활동의 경우, 해당 활동의 참가자에게 '세션 키'를 다시 요청할 수 있습니다.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "앨범",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "필름캠36: 더 머신 컴퍼니에서 개발한 모바일 사진 및 필터링 애플리케이션입니다. FilmCam36은 사용자가 사진을 업로드 및 공유하고, 인공지능 지원 이미지를 제작하고, 사회적으로 상호 작용할 수 있는 플랫폼입니다. 공유는 공개, 친구 또는 그룹으로만 제한할 수 있습니다. 이 애플리케이션은 프로 버전, 구독 시스템, 추가 크레딧 사용 및 고급 기능을 제공할 수 있습니다.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "필름캠36: 더 머신 컴퍼니에서 개발한 모바일 사진 및 필터링 애플리케이션입니다. FilmCam36은 사용자가 사진을 업로드하고 공유하며 사회적으로 상호 작용할 수 있는 플랫폼입니다. 공유는 공개로 설정하거나 친구 또는 친구 그룹으로 제한할 수 있습니다.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "사용자 애플리케이션을 사용하는 사람입니다.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "프로 구독: 추가 기능, 프리미엄 필터, 무제한 내보내기 등의 유료 서비스를 이용할 수 있습니다.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "프로 구독은 이후 버전에서 제공될 예정입니다: 추가 기능, 프리미엄 필터, 무제한 내보내기 등의 유료 서비스.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "공유 활동: 사용자는 그룹을 만들어 함께 사진을 찍고, 필터링하고, 앨범을 공유할 수 있습니다. 모든 콘텐츠는 엔드투엔드 암호화됩니다.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. 위험은 사용자가 부담한다는 선언:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. 위험은 사용자가 부담한다는 선언:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "사용자는 데이터 손실, 계정 도용, 콘텐츠 삭제, 기술적 오류, 제3자 공격 및 이와 유사한 모든 상황을 포함하여 FilmCam36 서비스를 사용할 때 발생할 수 있는 모든 위험을 부담하는 데 동의합니다.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. 계정 폐쇄하기:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. 계정 폐쇄하기:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36은 규칙을 위반하는 계정을 경고 없이 일시 정지하거나 영구적으로 폐쇄할 권리가 있습니다. 삭제된 계정의 콘텐츠는 복구가 보장되지 않습니다.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. 주의:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. 주의:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "사용자 데이터의 수집, 처리 및 저장은 FilmCam36 개인정보 보호정책에 따라 수행됩니다. 개인정보 보호정책은 본 계약의 필수적인 부분입니다.",

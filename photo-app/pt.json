@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Uma \"Atividade da câmara\" é como um rolo de filme digital. Combina um filtro de câmara que gosta da **Store** com um rolo de filme com um número limitado de direitos de exposição (por exemplo, 12, 24, 36 exposições). Cada câmara que cria agrupa as fotografias que tira num álbum especial.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "Uma \"Atividade da câmara\" é como um rolo de filme digital. Combina um filtro de câmara da sua preferência de **Câmaras** com um rolo de filme com um número limitado de exposições (por exemplo, 12, 24, 36 exposições). Cada câmara que cria agrupa as fotografias que tira num álbum especial.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "O que é o banho de fotografias (impressão)?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "O que posso fazer na loja?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "O que posso fazer nas câmaras?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "A Loja é onde pode descobrir todos os filtros de câmara exclusivos da aplicação. Cada câmara representa um filtro com a sua própria cor, textura e carácter únicos. Ao tocar nas câmaras, pode ver fotografias de amostra \"antes e depois\" tiradas com esse filtro e escolher a que melhor se adequa ao seu estilo.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "As câmaras são o local onde pode descobrir todos os filtros de câmara exclusivos da aplicação. Cada câmara representa um filtro com a sua própria cor, textura e carácter únicos. Ao tocar numa câmara, pode ver fotografias de amostra \"antes e depois\" tiradas com esse filtro e escolher a que melhor se adequa ao seu estilo.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Como posso criar uma nova atividade de câmara?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "Como posso criar uma nova atividade?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Toque numa câmara que goste na Loja para aceder ao ecrã \"Selecionar rolo da câmara\". Aqui pode criar a sua nova atividade de câmara selecionando um dos rolos de filme com diferentes números de exposição (por exemplo, 12, 24, 36) para utilizar com o filtro da sua escolha.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Toque numa câmara de que goste em Câmaras para aceder ao ecrã \"Selecionar rolo da câmara\". Aqui pode criar a sua nova atividade de câmara selecionando um dos rolos de filme com diferentes números de exposição (por exemplo, 12, 24, 36) para utilizar com o filtro da sua escolha.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Câmaras",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "As minhas actividades",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "O que significam os cartões de câmara?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "O que significam os cartões de atividade?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Cada cartão representa uma câmara virtual e apresenta as informações seguintes:\n- **Título:** O nome da câmara, que pode ser alterado.\n- Data e local:** A data em que a câmara foi criada e (se disponível) o local onde a última fotografia foi tirada.\n- Informação da fotografia:** O número de exposições utilizadas no rolo de filme que está a utilizar (por exemplo, 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Cada cartão representa uma câmara virtual e apresenta as informações seguintes:\n- **Título:** O nome da atividade, que pode ser alterado.\n- Data e local:** A data em que a atividade foi criada e (se disponível) o local onde a última fotografia foi tirada.\n- Informações sobre a fotografia:** O número de exposições utilizadas no rolo de filme que está a utilizar (por exemplo, 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "Como é que adiciono uma fotografia a uma câmara existente?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "Como é que adiciono uma fotografia a uma atividade existente?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "Se houver uma exposição vazia no rolo de filme, pode tocar na atividade da câmara correspondente no ecrã \"As minhas câmaras\" para mudar diretamente para o ecrã da câmara e continuar a tirar fotografias.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "Se houver uma exposição vazia no rolo da câmara, pode tocar na atividade da câmara correspondente no ecrã \"As minhas actividades\" para mudar diretamente para o ecrã da câmara e continuar a tirar fotografias.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "Como posso alterar o nome da minha câmara?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "Como posso alterar o nome da atividade?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "Pode dar um nome especial à sua câmara tocando no ícone de lápis junto a cada cartão de câmara.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "Pode dar um nome especial à sua atividade tocando no ícone da caneta junto a cada cartão de atividade.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "Como é que envio as minhas fotografias para impressão?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Câmaras partilhadas",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Actividades partilhadas",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "Como posso partilhar uma câmara?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "Como é que partilho uma atividade?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "No ecrã \"As minhas câmaras\", toque no ícone de partilha no cartão da câmara que pretende partilhar. Isto fará com que a câmara se torne uma atividade de câmara partilhada e criará uma ligação de convite para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "No ecrã \"As minhas actividades\", toque no ícone de partilha no cartão de atividade que pretende partilhar. Isto fará com que a atividade se torne uma atividade partilhada e criará uma ligação de convite específica para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "Como posso aderir a uma câmara partilhada?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "Como posso aderir a uma atividade partilhada?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Clique na ligação de convite que lhe foi enviada. Quando a aplicação se abrir, o seu pedido de adesão à câmara será enviado para o proprietário da câmara. Depois de o proprietário da câmara aprovar o seu pedido, a câmara aparece no seu ecrã \"As minhas câmaras\" e pode começar a tirar fotografias.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Clique na ligação de convite que lhe foi enviada. Quando a aplicação se abrir, o seu pedido de participação na atividade será enviado para o proprietário da atividade. Depois de o proprietário da atividade aprovar o seu pedido, a câmara aparecerá no seu ecrã \"As minhas actividades\" e pode começar a tirar fotografias.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Pedidos de participação e notificações",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "O proprietário da câmara pode ver, aprovar ou rejeitar os pedidos recebidos tocando no ícone \"Participantes\" no cartão da câmara. Receberá uma notificação quando for aprovado ou rejeitado. Pode acompanhar todas as suas notificações através do ícone de sino no canto superior direito do ecrã \"As minhas câmaras\".",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "O proprietário da atividade pode ver, aprovar ou rejeitar os pedidos recebidos tocando no ícone \"Participantes\" no cartão da atividade. Receberá uma notificação quando for aprovado ou rejeitado. Pode seguir todas as suas notificações a partir do ícone de sino no canto superior direito do ecrã \"As minhas actividades\".",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Segurança e privacidade (encriptação de ponta a ponta)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Todas as suas fotos em câmaras partilhadas são **encriptadas de ponta a ponta**. Isto significa que **NINGUÉM** (incluindo a equipa FotoApp) pode ver as suas fotos, exceto o proprietário da câmara e os participantes aprovados. É gerada uma \"chave de sessão\" privada para cada câmara partilhada, que só está disponível nos dispositivos dos participantes, e toda a encriptação/desencriptação é feita diretamente no seu dispositivo. Isto mantém as suas memórias completamente privadas para si e para os seus amigos.\n- Se eliminar acidentalmente a aplicação e perder a \"chave de sessão\" durante uma atividade de câmara partilhada, verá um aviso na respectiva atividade de câmara depois de transferir novamente a aplicação. Para todas as actividades de câmara partilhada em que este aviso seja apresentado, pode voltar a solicitar uma \"chave de sessão\" aos participantes dessa atividade.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "Todas as suas fotografias em actividades partilhadas são **encriptadas de ponta a ponta**. Isto significa que **NINGUÉM** (incluindo a equipa Filmcam36) pode ver as suas fotografias, exceto o proprietário da atividade e os participantes aprovados. É gerada uma \"chave de sessão\" privada para cada atividade partilhada, que só está disponível nos dispositivos dos participantes, e toda a encriptação/desencriptação é feita diretamente no seu dispositivo. Isto mantém as suas memórias completamente privadas para si e para os seus amigos.\n- Se eliminar acidentalmente a aplicação durante uma atividade partilhada e a \"chave de sessão\" se perder, verá um aviso na atividade de câmara relevante depois de transferir novamente a aplicação. Para todas as actividades de câmara partilhadas em que este aviso apareça, pode voltar a pedir uma \"chave de sessão\" aos participantes dessa atividade.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Álbum",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: É uma aplicação móvel de fotografia e filtragem desenvolvida pela The Machine Company. A FilmCam36 é uma plataforma onde os utilizadores podem carregar e partilhar fotografias, produzir imagens apoiadas por inteligência artificial e interagir socialmente. A partilha pode ser limitada ao público, apenas a amigos ou grupos. A aplicação pode oferecer uma versão Pro, sistema de subscrição, utilização de créditos adicionais e funcionalidades avançadas.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36: É uma aplicação móvel de fotografia e filtragem desenvolvida pela The Machine Company. A FilmCam36 é uma plataforma onde os utilizadores podem carregar, partilhar e interagir socialmente com fotografias. A partilha pode ser pública, restrita a amigos ou grupos de amigos.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "Utilizador A pessoa que utiliza a aplicação.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Subscrição Pro: Serviços pagos, tais como funcionalidades adicionais, filtros premium, exportações ilimitadas.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Assinatura Pro disponível em versões posteriores: Serviços pagos, tais como funcionalidades adicionais, filtros premium, exportações ilimitadas.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Atividade partilhada: Os utilizadores criam um grupo para tirar, filtrar e partilhar álbuns de fotografias em conjunto. Todo o conteúdo é encriptado de ponta a ponta.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. declaração de que os riscos são suportados pelo utilizador:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. Declaração de que os riscos são suportados pelo utilizador:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "O Utilizador concorda em suportar todos os riscos que possam surgir ao utilizar os serviços FilmCam36, incluindo perda de dados, sequestro de contas, eliminação de conteúdos, falhas técnicas, ataques de terceiros e todas as situações semelhantes.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. encerramento da conta:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. encerramento da conta:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "A FilmCam36 tem o direito de suspender ou encerrar permanentemente contas que violem as regras sem aviso prévio. Não é garantido que o conteúdo das contas eliminadas seja restaurado.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. atenção:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. atenção:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "A recolha, o processamento e o armazenamento dos dados do utilizador são realizados de acordo com a Política de Privacidade da FilmCam36. A Política de Privacidade é parte integrante do presente Acordo.",

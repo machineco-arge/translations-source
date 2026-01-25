@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "A \"Camera Activity\" is like a digital roll of film. It combines a camera filter you like from **Store** with a roll of film with a limited number of exposures (e.g. 12, 24, 36 exposures). Each camera you create groups your photos in a special album.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "A \"Camera Activity\" is like a digital roll of film. It combines a camera filter you like from **Cameras** with a roll of film with a limited number of exposures (e.g. 12, 24, 36 exposures). Each camera you create groups your photos in a special album.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "What is Photo Bath (Printing)?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "What can I do in the Store?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "What can I do in Cameras?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "The Store is where you can discover all the unique camera filters in the app. Each camera represents a filter with its own unique color, texture and character. By tapping on the cameras, you can see \"before and after\" sample photos taken with that filter and choose the one that best suits your style.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "Cameras is where you can discover all the unique camera filters in the app. Each camera represents a filter with its own unique color, texture and character. By tapping on a camera, you can see \"before and after\" sample photos taken with that filter and choose the one that best suits your style.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "How do I create a new camera activity?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "How do I create a new activity?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Tap on a camera you like from the Store to go to the \"Select Camera Roll\" screen. Here you can create your new camera activity by selecting one of the rolls of film with different exposure numbers (12, 24, 36, etc.) to use with the filter of your choice.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Tap on a camera you like from Cameras to go to the \"Select Camera Roll\" screen. Here you can create your new camera activity by selecting one of the rolls of film with different exposure numbers (12, 24, 36, etc.) to use with the filter of your choice.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Cameras",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "My Activities",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "What do camera cards mean?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "What do activity cards mean?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Each card represents a virtual camera and shows the following information:\n- **Title:** The camera name, which you can change.\n- Date and Location:** The date the camera was created and (if available) the location where the last photo was taken.\n- Photo Info:** The number of exposures used on the roll of film you are using (e.g. 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Each card represents a virtual camera and shows the following information:\n- **Title:** The activity name, which you can change.\n- Date and Location:** the date the activity was created and (if available) the location where the last photo was taken.\n- Photo Info:** The number of exposures used on the roll of film you used (e.g. 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "How do I add a photo to an existing camera?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "How do I add a photo to an existing activity?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "If there is an empty exposure on the camera roll, you can tap on the corresponding camera activity on the \"My Cameras\" screen to switch directly to the camera screen and continue taking pictures.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "If there is an empty exposure on the camera roll, you can tap on the corresponding camera activity on the \"My Activities\" screen to switch directly to the camera screen and continue taking pictures.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "How do I change the name of my camera?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "How do I change the activity name?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "You can give your camera a custom name by tapping the pencil icon next to each camera card.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "You can give your activity a custom name by tapping the pen icon next to each activity card.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "How do I send my photos to print?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Shared Cameras",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Shared Activities",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "How do I share a camera?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "How do I share an activity?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "On the \"My Cameras\" screen, tap the share icon on the camera card you want to share. This will make the camera a shared camera activity and create an invitation link specific to the activity. You can send this link to your friends to invite them.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "On the \"My Activities\" screen, tap the share icon on the activity card you want to share. This will make the activity a shared activity and create an invitation link specific to the activity. You can send this link to your friends to invite them.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "How do I join a shared camera?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "How do I join a shared activity?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Click on the invitation link sent to you. When the app opens, your request to join the camera will be sent to the camera owner. After the camera owner approves your request, the camera will appear on your \"My Cameras\" screen and you can start taking photos.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Click on the invitation link sent to you. When the app opens, your request to join the activity will be sent to the activity owner. After the activity owner approves your request, the camera will appear on your \"My Activities\" screen and you can start taking photos.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Participation Requests and Notifications",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "The camera owner can view, approve or reject incoming requests by tapping the \"Participants\" icon on the camera card. You will receive a notification when you are approved or rejected. You can keep track of all your notifications via the bell icon in the top right corner of the \"My Cameras\" screen.",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "The activity owner can view, approve or reject incoming requests by tapping the \"Participants\" icon on the activity card. You will receive a notification when you are approved or rejected. You can follow all your notifications from the bell icon in the upper right corner of the \"My Activities\" screen.",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Security and Privacy (End-to-End Encryption)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "All your photos on shared cameras are **end-to-end encrypted**. This means that **NOBODY** (including the FotoApp team) can see your photos except the camera owner and approved participants. A private \"session key\" is generated for each shared camera that only resides on the participants' devices, and all encryption/decryption is done directly on your device. This keeps your memories completely private to you and your friends.\n- If you accidentally delete the app while on a shared camera activity and the \"session key\" is lost, you will see a warning on the camera activity after you download the app again. For all shared camera activities where you see this warning, you can request a \"session key\" from the participants of that activity again.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "All your photos in shared activities are **end-to-end encrypted**. This means that **NOBODY** (including the Filmcam36 team) can see your photos except the activity owner and approved participants. A private \"session key\" is generated for each shared activity, only available on the participants' devices, and all encryption/decryption is done directly on your device. This keeps your memories completely private to you and your friends.\n- If you accidentally delete the app while in a shared activity and the \"session key\" is lost, you will see a warning on the camera activity after you download the app again. For all shared camera activities where you see this warning, you can request a \"session key\" from the participants of that activity again.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Album",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: FilmCam36 is a mobile photo and filtering application developed by The Machine Company. FilmCam36 is a platform where users can upload and share photos, generate AI-assisted images and interact socially. Sharing can be public, restricted to friends or groups of friends. The app may offer a Pro version, subscription system, additional credits and advanced features.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36: is a mobile photo and filtering application developed by The Machine Company. FilmCam36 is a platform where users can upload, share and socially interact with photos. Sharing can be public, restricted to friends or groups of friends.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "User The person using the application.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Pro Subscription: Paid services such as additional features, premium filters, unlimited exports.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Pro Subscription Coming in Later Versions: Paid services such as additional features, premium filters, unlimited exports.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Shared Activity: Users create a group to take, filter and share photos and albums together. All content is end-to-end encrypted.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. Declaration that the risks are borne by the User:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. Declaration that the risks are borne by the User:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "The User agrees to bear all risks that may arise when using FilmCam36 services, including data loss, account hijacking, content deletion, technical failures, third party attacks and all similar situations.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. Closing the Account:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. Closing the Account:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 reserves the right to suspend or permanently close accounts that violate the rules without warning. The content of deleted accounts is not guaranteed to be restored.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. Attention:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. Attention:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "The collection, processing and storage of user data is governed by the FilmCam36 Privacy Policy. The Privacy Policy is an integral part of this Agreement.",

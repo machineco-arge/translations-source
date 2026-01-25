@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Un'\"Attività fotocamera\" è come un rullino digitale. Combina un filtro per fotocamera a scelta dal **Store** con un rullino con un numero limitato di diritti di esposizione (ad esempio, 12, 24, 36 esposizioni). Ogni fotocamera creata raggruppa le foto scattate in un album speciale.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "Una \"Camera Activity\" è come un rullino digitale. Combina un filtro per fotocamera a piacere da **Camere** con un rullino con un numero limitato di esposizioni (ad esempio 12, 24, 36 esposizioni). Ogni fotocamera creata raggruppa le foto scattate in un album speciale.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "Che cos'è il bagno fotografico (stampa)?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "Cosa posso fare nel Negozio?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "Cosa posso fare con le telecamere?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "Lo Store è il luogo in cui è possibile scoprire tutti gli esclusivi filtri della fotocamera presenti nell'app. Ogni fotocamera rappresenta un filtro con un colore, una texture e un carattere unici. Toccando le fotocamere, è possibile vedere le foto campione \"prima e dopo\" scattate con quel filtro e scegliere quella che meglio si adatta al proprio stile.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "La sezione Fotocamera è il luogo in cui è possibile scoprire tutti i filtri unici della fotocamera presenti nell'app. Ogni fotocamera rappresenta un filtro con un colore, una texture e un carattere unici. Toccando una fotocamera, è possibile vedere le foto campione \"prima e dopo\" scattate con quel filtro e scegliere quella più adatta al proprio stile.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Come si crea una nuova attività della fotocamera?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "Come si crea una nuova attività?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Toccare una fotocamera di proprio gradimento dallo Store per accedere alla schermata \"Seleziona rullino fotografico\". Qui è possibile creare la nuova attività della fotocamera selezionando uno dei rullini con diversi numeri di esposizione (ad esempio 12, 24, 36) da utilizzare con il filtro desiderato.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Toccare una fotocamera di proprio gradimento tra le Fotocamere per accedere alla schermata \"Seleziona rullino\". Qui è possibile creare la nuova attività della fotocamera selezionando uno dei rullini con diversi numeri di esposizione (ad esempio 12, 24, 36) da utilizzare con il filtro desiderato.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Telecamere",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "Le mie attività",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "Cosa significano le schede delle fotocamere?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "Cosa significano le schede di attività?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Ogni scheda rappresenta una telecamera virtuale e mostra le seguenti informazioni:\n- **Titolo:** Il nome della fotocamera, che può essere modificato.\n- Data e luogo:** La data di creazione della fotocamera e (se disponibile) il luogo in cui è stata scattata l'ultima foto.\n- Info foto:** Il numero di esposizioni utilizzate sul rullino in uso (ad esempio, 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Ogni scheda rappresenta una telecamera virtuale e mostra le seguenti informazioni:\n- **Titolo:** il nome dell'attività, che può essere modificato.\n- Data e luogo:** la data di creazione dell'attività e (se disponibile) il luogo in cui è stata scattata l'ultima foto.\n- Info foto:** Il numero di esposizioni utilizzate sul rullino in uso (ad esempio, 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "Come si aggiunge una foto a una fotocamera esistente?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "Come si aggiunge una foto a un'attività esistente?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "Se nel rullino c'è un'esposizione vuota, è possibile toccare l'attività corrispondente della fotocamera nella schermata \"Le mie fotocamere\" per passare direttamente alla schermata della fotocamera e continuare a scattare foto.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "Se nel rullino fotografico è presente un'esposizione vuota, è possibile toccare l'attività della fotocamera corrispondente nella schermata \"Le mie attività\" per passare direttamente alla schermata della fotocamera e continuare a scattare foto.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "Come posso cambiare il nome della mia fotocamera?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "Come si cambia il nome dell'attività?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "È possibile assegnare un nome speciale alla fotocamera toccando l'icona della matita accanto a ciascuna scheda.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "È possibile assegnare un nome speciale alle attività toccando l'icona della penna accanto a ciascuna scheda di attività.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "Come posso inviare le mie foto da stampare?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Telecamere condivise",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Attività condivise",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "Come si fa a condividere una fotocamera?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "Come si fa a condividere un'attività?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "Nella schermata \"Le mie fotocamere\", toccare l'icona di condivisione sulla scheda della fotocamera che si desidera condividere. In questo modo la fotocamera diventerà un'attività condivisa e verrà creato un link di invito per l'attività. È possibile inviare questo link agli amici per invitarli.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "Nella schermata \"Le mie attività\", toccare l'icona di condivisione sulla scheda dell'attività che si desidera condividere. In questo modo l'attività diventerà un'attività condivisa e verrà creato un link di invito specifico per l'attività. È possibile inviare questo link agli amici per invitarli.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "Come si fa a partecipare a una telecamera condivisa?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "Come si fa a partecipare a un'attività condivisa?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Fare clic sul link di invito inviato. All'apertura dell'applicazione, la richiesta di adesione alla fotocamera verrà inviata al proprietario della stessa. Dopo che il proprietario della fotocamera avrà approvato la richiesta, la fotocamera apparirà nella schermata \"Le mie fotocamere\" e si potrà iniziare a scattare foto.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Cliccate sul link di invito che vi è stato inviato. All'apertura dell'applicazione, la richiesta di partecipazione all'attività verrà inviata al proprietario dell'attività. Dopo che il proprietario dell'attività avrà approvato la richiesta, la fotocamera apparirà nella schermata \"Le mie attività\" e si potrà iniziare a scattare foto.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Richieste di partecipazione e notifiche",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "Il proprietario della telecamera può visualizzare, approvare o rifiutare le richieste in arrivo toccando l'icona \"Partecipanti\" sulla scheda della telecamera. Riceverà una notifica quando la richiesta viene approvata o rifiutata. È possibile tenere traccia di tutte le notifiche tramite l'icona della campanella nell'angolo in alto a destra della schermata \"Le mie telecamere\".",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "Il proprietario dell'attività può visualizzare, approvare o rifiutare le richieste in arrivo toccando l'icona \"Partecipanti\" sulla scheda dell'attività. Riceverete una notifica quando sarete approvati o rifiutati. È possibile seguire tutte le notifiche dall'icona della campanella nell'angolo superiore destro della schermata \"Le mie attività\".",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Sicurezza e privacy (crittografia end-to-end)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Tutte le foto sulle fotocamere condivise sono **crittografate end-to-end**. Ciò significa che **NESSUNO** (compreso il team di FotoApp) può vedere le foto, tranne il proprietario della fotocamera e i partecipanti approvati. Per ogni fotocamera condivisa viene generata una \"chiave di sessione\" privata, disponibile solo sui dispositivi dei partecipanti, e tutte le operazioni di crittografia/decrittografia vengono eseguite direttamente sul vostro dispositivo. In questo modo i ricordi sono completamente privati per voi e per i vostri amici.\n- Se si cancella accidentalmente l'app e si perde la \"chiave di sessione\" durante un'attività con telecamera condivisa, dopo aver scaricato nuovamente l'app verrà visualizzato un avviso sull'attività con telecamera correlata. Per tutte le attività con telecamera condivisa in cui viene visualizzato questo avviso, è possibile richiedere nuovamente la \"chiave di sessione\" ai partecipanti dell'attività.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "Tutte le foto delle attività condivise sono **crittografate end-to-end**. Ciò significa che **NESSUNO** (compreso il team di Filmcam36) può vedere le vostre foto, tranne il proprietario dell'attività e i partecipanti approvati. Per ogni attività condivisa viene generata una \"chiave di sessione\" privata, disponibile solo sui dispositivi dei partecipanti, e tutta la crittografia/decrittografia avviene direttamente sul vostro dispositivo. In questo modo i ricordi sono completamente privati per voi e per i vostri amici.\n- Se si cancella accidentalmente l'app durante un'attività condivisa e la \"chiave di sessione\" viene persa, dopo aver scaricato nuovamente l'app verrà visualizzato un avviso sull'attività della fotocamera in questione. Per tutte le attività con telecamera condivisa in cui viene visualizzato questo avviso, è possibile richiedere nuovamente una \"chiave di sessione\" ai partecipanti dell'attività.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Album",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: è un'applicazione mobile per foto e filtri sviluppata da The Machine Company. FilmCam36 è una piattaforma in cui gli utenti possono caricare e condividere foto, produrre immagini supportate dall'intelligenza artificiale e interagire socialmente. La condivisione può essere limitata al pubblico, ai soli amici o ai gruppi. L'applicazione può offrire una versione Pro, un sistema di abbonamento, l'utilizzo di crediti aggiuntivi e funzioni avanzate.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36: è un'applicazione mobile per foto e filtri sviluppata da The Machine Company. FilmCam36 è una piattaforma in cui gli utenti possono caricare, condividere e interagire socialmente con le foto. La condivisione può essere pubblica, limitata agli amici o a gruppi di amici.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "L'utente La persona che utilizza l'applicazione.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Abbonamento Pro: Servizi a pagamento come funzioni aggiuntive, filtri premium, esportazioni illimitate.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Abbonamento Pro in arrivo nelle versioni successive: Servizi a pagamento come funzioni aggiuntive, filtri premium, esportazioni illimitate.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Attività condivisa: Gli utenti creano un gruppo per scattare, filtrare e condividere album di foto insieme. Tutti i contenuti sono crittografati end-to-end.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. Dichiarazione che i rischi sono a carico dell'utente:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. Dichiarazione che i rischi sono a carico dell'utente:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "L'Utente accetta di assumersi tutti i rischi che possono sorgere durante l'utilizzo dei servizi di FilmCam36, tra cui la perdita di dati, il dirottamento dell'account, la cancellazione dei contenuti, i guasti tecnici, gli attacchi di terzi e tutte le situazioni simili.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. Chiusura del conto:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. Chiusura del conto:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 ha il diritto di sospendere o chiudere definitivamente gli account che violano le regole senza preavviso. Non è garantito il ripristino del contenuto degli account eliminati.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. Attenzione:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. Attenzione:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "La raccolta, l'elaborazione e l'archiviazione dei dati dell'utente avvengono in conformità con l'Informativa sulla privacy di FilmCam36. L'Informativa sulla privacy è parte integrante del presente Contratto.",

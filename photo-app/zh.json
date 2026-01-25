@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "相机活动 \"就像一卷数码胶卷。它将您喜欢的**商店**的相机滤镜与一卷有曝光次数限制（如 12、24、36 次曝光）的胶卷结合在一起。您创建的每台相机都会将您拍摄的照片归类到一个特殊的相册中。",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "相机活动 \"就像一卷数码胶卷。它将您喜欢的**相机**中的相机滤镜与一卷曝光次数有限（如 12、24、36 次曝光）的胶卷结合在一起。您创建的每台相机都会将您拍摄的照片归入一个特殊相册。",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "什么是照片洗印（打印）？",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "我能在商店里做些什么？",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "我可以在摄像机中做些什么？",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "在商店中，您可以发现应用程序中所有独特的相机滤镜。每个相机代表一种滤镜，都有自己独特的颜色、质感和个性。点击相机，就能看到使用该滤镜拍摄的 \"前后 \"样照，然后选择最适合自己风格的滤镜。",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "在 \"相机 \"中，您可以发现应用程序中所有独特的相机滤镜。每个相机代表一种滤镜，都有自己独特的颜色、纹理和特征。点击相机，就能看到使用该滤镜拍摄的 \"前后 \"样照，然后选择最适合自己风格的滤镜。",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "如何创建新的相机活动？",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "如何创建新活动？",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "从商店中点击喜欢的相机，进入 \"选择相机胶卷 \"界面。在此，您可以选择不同曝光次数（如 12、24、36）的胶卷之一，与您选择的滤镜一起使用，从而创建新的相机活动。",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "从 \"相机 \"中点击喜欢的相机，进入 \"选择相机胶卷 \"界面。在此，您可以选择不同曝光次数（如 12、24、36）的胶卷之一，与您选择的滤镜一起使用，从而创建新的相机活动。",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "照相机",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "我的活动",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "相机卡是什么意思？",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "活动卡是什么意思？",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "每张卡片代表一个虚拟摄像机，并显示以下信息：\n- 标题：** 相机名称，您可以更改。\n- 日期和地点：** 相机的创建日期以及（如果有）最后一张照片的拍摄地点。\n- 照片信息：** 所用胶卷的曝光次数（例如 15/24）。",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "每张卡片代表一个虚拟摄像机，并显示以下信息：\n- 标题：** 活动名称，您可以更改。\n- 日期和地点：** 创建活动的日期以及（如果有）最后一张照片的拍摄地点。\n- 照片信息：** 所用胶卷的曝光次数（例如 15/24）。",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "如何为现有相机添加照片？",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "如何在现有活动中添加照片？",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "如果胶卷上有空闲曝光，您可以点击 \"我的相机 \"屏幕上相应的相机活动，直接切换到相机屏幕继续拍照。",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "如果相机胶卷中没有曝光，可以点击 \"我的活动 \"界面中相应的相机活动，直接切换到相机界面继续拍照。",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "如何更改相机名称？",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "如何更改活动名称？",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "点击每张相机卡旁边的铅笔图标，即可为相机取一个特殊的名字。",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "您可以点击每张活动卡旁边的笔图标，为您的活动取一个特别的名字。",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "如何发送照片以供打印？",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "共享摄像头",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "共享活动",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "如何共享照相机？",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "如何共享活动？",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "在 \"我的相机 \"界面中，轻按要共享的相机卡上的共享图标。这将使相机成为共享相机活动，并为活动创建一个邀请链接。您可以将此链接发送给朋友邀请他们。",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "在 \"我的活动 \"屏幕上，点击要共享的活动卡上的共享图标。这将使该活动成为共享活动，并为该活动创建一个特定的邀请链接。您可以将此链接发送给朋友，邀请他们参加。",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "如何加入共享摄像头？",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "如何参加共享活动？",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "点击发送给您的邀请链接。应用程序打开后，您加入相机的请求将发送给相机所有者。相机所有者批准您的请求后，相机就会出现在您的 \"我的相机 \"屏幕上，您就可以开始拍照了。",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "点击发送给您的邀请链接。应用程序打开后，您参加活动的请求将发送给活动所有者。活动所有者批准您的请求后，相机就会出现在您的 \"我的活动 \"屏幕上，您就可以开始拍照了。",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "参与申请和通知",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "摄像机所有者可以通过轻按摄像机卡上的 \"参与者 \"图标来查看、批准或拒绝收到的请求。批准或拒绝时，您都会收到通知。您可以通过 \"我的摄像机 \"界面右上角的铃铛图标跟踪所有通知。",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "活动所有者可以通过点击活动卡片上的 \"参与者 \"图标来查看、批准或拒绝收到的请求。批准或拒绝时，您都会收到通知。您可以通过 \"我的活动 \"页面右上角的铃铛图标查看所有通知。",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "安全与隐私（端到端加密）",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "您在共享相机上的所有照片都经过**端到端加密**。这意味着，除了相机所有者和经批准的参与者，**任何人（包括 FotoApp 团队）都无法看到您的照片。每个共享相机都会生成一个私人 \"会话密钥\"，只有参与者的设备才能使用该密钥，所有加密/解密都直接在您的设备上完成。这样，您和您的朋友就可以完全私密地保存您的记忆。\n- 如果您在进行共享摄像头活动时不小心删除了应用程序并丢失了 \"会话密钥\"，那么在重新下载应用程序后，您将在相关的摄像头活动中看到警告。对于所有看到此警告的共享照相机活动，您都可以再次向该活动的参与者索取 \"会话密钥\"。",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "您在共享活动中的所有照片都经过**端到端加密**。这意味着，除了活动所有者和经批准的参与者，**任何人**（包括 Filmcam36 团队）都无法看到您的照片。每个共享活动都会生成一个私人 \"会话密钥\"，只有参与者的设备才能使用，所有加密/解密都直接在您的设备上完成。这样，您和您的朋友就可以完全私密地保存您的记忆。\n- 如果您在共享活动中不小心删除了应用程序，导致 \"会话密钥 \"丢失，那么再次下载应用程序后，您将在相关的相机活动中看到警告。对于所有看到此警告的共享照相机活动，您可以再次向该活动的参与者索取 \"会话密钥\"。",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "相册",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36：这是一款由 The Machine Company 开发的移动照片和滤镜应用程序。FilmCam36 是一个用户可以上传和分享照片、制作人工智能支持的图像并进行社交互动的平台。分享对象可以仅限于公众、好友或群组。该应用程序可提供专业版、订阅系统、额外积分使用和高级功能。",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36：这是一款由 The Machine Company 开发的移动照片和滤镜应用程序。FilmCam36 是一个用户可以上传、分享照片并进行社交互动的平台。分享可以是公开的，也可以仅限于好友或好友群组分享。",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "用户使用应用程序的人。",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "专业版订阅：付费服务，如附加功能、高级过滤器和无限制导出。",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "后期版本中将提供专业订阅服务：付费服务，如附加功能、高级过滤器和无限量导出。",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "共享活动：用户创建一个群组，一起拍摄、筛选和共享相册中的照片。所有内容都经过端到端加密。",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "声明风险由用户承担：",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "风险由用户承担的声明：",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "用户同意承担使用 FilmCam36 服务时可能产生的所有风险，包括数据丢失、账户劫持、内容删除、技术故障、第三方攻击及所有类似情况。",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. 关闭账户：",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. 关闭账户：",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 有权在无警告的情况下暂停或永久关闭违反规则的账户。被删除账户的内容不能保证恢复。",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15 注意",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13 注意",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "用户数据的收集、处理和存储均遵循 FilmCam36 隐私政策。隐私政策是本协议不可分割的一部分。",

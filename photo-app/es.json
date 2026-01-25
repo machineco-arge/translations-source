@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Una \"Actividad de cámara\" es como un rollo de película digital. Combina un filtro de cámara que te guste de **Tienda** con un rollo de película con un número limitado de derechos de exposición (por ejemplo, 12, 24, 36 exposiciones). Cada cámara que creas agrupa las fotos que haces en un álbum especial.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "Una \"Actividad de cámara\" es como un rollo de película digital. Combina un filtro de cámara que te guste de **Cámaras** con un rollo de película con un número limitado de exposiciones (por ejemplo, 12, 24, 36 exposiciones). Cada cámara que creas agrupa las fotos que haces en un álbum especial.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "¿Qué es el baño fotográfico (impresión)?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "¿Qué puedo hacer en la Tienda?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "¿Qué puedo hacer en Cámaras?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "En la Tienda podrás descubrir todos los filtros de cámara exclusivos de la aplicación. Cada cámara representa un filtro con su propio color, textura y carácter únicos. Al tocar en las cámaras, puedes ver fotos de muestra del \"antes y el después\" tomadas con ese filtro y elegir la que mejor se adapte a tu estilo.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "Cámaras es donde puedes descubrir todos los filtros de cámara exclusivos de la aplicación. Cada cámara representa un filtro con su propio color, textura y carácter. Al tocar en una cámara, puedes ver fotos de muestra del \"antes y el después\" tomadas con ese filtro y elegir la que mejor se adapte a tu estilo.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "¿Cómo puedo crear una nueva actividad de cámara?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "¿Cómo se crea una nueva actividad?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Pulse sobre una cámara que le guste de la Tienda para ir a la pantalla \"Seleccionar rollo de cámara\". Aquí puede crear su nueva actividad de cámara seleccionando uno de los rollos de película con diferentes números de exposición (como 12, 24, 36) para utilizarlo con el filtro que desee.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Pulse sobre una cámara que le guste de Cámaras para ir a la pantalla \"Seleccionar rollo de cámara\". Aquí puede crear su nueva actividad de cámara seleccionando uno de los rollos de película con diferentes números de exposición (como 12, 24, 36) para utilizarlo con el filtro que desee.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Cámaras",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "Mis actividades",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "¿Qué significan las tarjetas de cámara?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "¿Qué significan las tarjetas de actividades?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Cada tarjeta representa una cámara virtual y muestra la siguiente información:\n- **Título:** El nombre de la cámara, que puedes cambiar.\n- Fecha y ubicación:** La fecha de creación de la cámara y (si está disponible) la ubicación donde se tomó la última foto.\n- Información de la foto:** El número de exposiciones utilizadas en el rollo de película que está utilizando (por ejemplo, 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Cada tarjeta representa una cámara virtual y muestra la siguiente información:\n- **Título:** el nombre de la actividad, que puedes cambiar.\n- Fecha y ubicación:** la fecha en que se creó la actividad y (si está disponible) la ubicación donde se tomó la última foto.\n- Información de la foto:** El número de exposiciones utilizadas en el rollo de película que está utilizando (por ejemplo, 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "¿Cómo añado una foto a una cámara existente?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "¿Cómo añado una foto a una actividad existente?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "Si hay una exposición vacía en el rollo de película, puedes tocar la actividad de cámara correspondiente en la pantalla \"Mis cámaras\" para cambiar directamente a la pantalla de la cámara y seguir haciendo fotos.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "Si hay una exposición vacía en el rollo de la cámara, puedes tocar la actividad de cámara correspondiente en la pantalla \"Mis actividades\" para cambiar directamente a la pantalla de la cámara y seguir haciendo fotos.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "¿Cómo cambio el nombre de mi cámara?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "¿Cómo cambio el nombre de la actividad?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "Puedes dar un nombre especial a tu cámara tocando el icono del lápiz situado junto a cada tarjeta de cámara.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "Puedes dar a tu actividad un nombre especial tocando el icono del bolígrafo que aparece junto a cada tarjeta de actividad.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "¿Cómo envío mis fotos a imprimir?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Cámaras compartidas",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Actividades compartidas",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "¿Cómo puedo compartir una cámara?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "¿Cómo comparto una actividad?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "En la pantalla \"Mis cámaras\", toca el icono de compartir en la tarjeta de la cámara que quieras compartir. Esto convertirá la cámara en una actividad de cámara compartida y creará un enlace de invitación para la actividad. Puedes enviar este enlace a tus amigos para invitarles.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "En la pantalla \"Mis actividades\", pulse el icono de compartir en la tarjeta de actividad que desee compartir. Esto convertirá la actividad en una actividad compartida y creará un enlace de invitación específico para la actividad. Puedes enviar este enlace a tus amigos para invitarles.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "¿Cómo me uno a una cámara compartida?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "¿Cómo me uno a una actividad compartida?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Haz clic en el enlace de invitación que se te ha enviado. Cuando se abra la aplicación, tu solicitud para unirte a la cámara se enviará al propietario de la cámara. Una vez que el propietario de la cámara apruebe tu solicitud, la cámara aparecerá en tu pantalla \"Mis cámaras\" y podrás empezar a hacer fotos.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Haga clic en el enlace de invitación que se le ha enviado. Cuando se abra la aplicación, tu solicitud para participar en la actividad se enviará al propietario de la misma. Una vez que el propietario de la actividad apruebe tu solicitud, la cámara aparecerá en tu pantalla \"Mis actividades\" y podrás empezar a hacer fotos.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Solicitudes de participación y notificaciones",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "El propietario de la cámara puede ver, aprobar o rechazar las solicitudes entrantes tocando el icono \"Participantes\" en la tarjeta de la cámara. Recibirá una notificación cuando sea aprobada o rechazada. Puede realizar un seguimiento de todas las notificaciones mediante el icono de campana situado en la esquina superior derecha de la pantalla \"Mis cámaras\".",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "El propietario de la actividad puede ver, aprobar o rechazar las solicitudes entrantes tocando el icono \"Participantes\" en la tarjeta de la actividad. Recibirá una notificación cuando sea aprobada o rechazada. Puede seguir todas sus notificaciones desde el icono de la campana en la esquina superior derecha de la pantalla \"Mis actividades\".",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Seguridad y privacidad (cifrado de extremo a extremo)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Todas tus fotos en cámaras compartidas están **encriptadas de extremo a extremo**. Esto significa que **NADIE** (incluido el equipo de FotoApp) puede ver tus fotos excepto el propietario de la cámara y los participantes aprobados. Se genera una \"clave de sesión\" privada para cada cámara compartida, que sólo está disponible en los dispositivos de los participantes, y todo el cifrado/descifrado se realiza directamente en tu dispositivo. Esto mantiene tus recuerdos completamente privados para ti y tus amigos.\n- Si borras accidentalmente la aplicación y pierdes la \"clave de sesión\" mientras estás en una actividad de cámara compartida, verás un aviso en la actividad de cámara correspondiente después de volver a descargar la aplicación. Para todas las actividades de cámara compartida en las que veas esta advertencia, puedes volver a solicitar una \"clave de sesión\" a los participantes de esa actividad.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "Todas tus fotos en actividades compartidas están **encriptadas de extremo a extremo**. Esto significa que **NADIE** (incluido el equipo de Filmcam36) puede ver tus fotos excepto el propietario de la actividad y los participantes aprobados. Se genera una \"clave de sesión\" privada para cada actividad compartida, que sólo está disponible en los dispositivos de los participantes, y todo el cifrado/descifrado se realiza directamente en tu dispositivo. Esto mantiene tus recuerdos completamente privados para ti y tus amigos.\n- Si borras accidentalmente la aplicación mientras estás en una actividad compartida y se pierde la \"clave de sesión\", verás un aviso en la actividad de cámara correspondiente después de volver a descargar la aplicación. Para todas las actividades de cámara compartidas en las que veas esta advertencia, puedes volver a solicitar una \"clave de sesión\" a los participantes de esa actividad.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Álbum",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: Es una aplicación móvil de fotografía y filtrado desarrollada por The Machine Company. FilmCam36 es una plataforma en la que los usuarios pueden subir y compartir fotos, producir imágenes asistidas por inteligencia artificial e interactuar socialmente. Compartir puede limitarse a público, sólo amigos o grupos. La aplicación puede ofrecer versión Pro, sistema de suscripción, uso de créditos adicionales y funciones avanzadas.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36: Es una aplicación móvil de fotos y filtros desarrollada por The Machine Company. FilmCam36 es una plataforma donde los usuarios pueden subir, compartir e interactuar socialmente con fotos. Compartir puede ser público, restringido a amigos o grupos de amigos.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "Usuario La persona que utiliza la aplicación.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Suscripción Pro: Servicios de pago como funciones adicionales, filtros premium, exportaciones ilimitadas.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Suscripción Pro en versiones posteriores: Servicios de pago como funciones adicionales, filtros premium, exportaciones ilimitadas.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Actividad compartida: Los usuarios crean un grupo para hacer, filtrar y compartir álbumes de fotos juntos. Todo el contenido está cifrado de extremo a extremo.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. Declaración de que los riesgos corren a cargo del usuario:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. Declaración de que los riesgos corren a cargo del usuario:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "El Usuario acepta asumir todos los riesgos que puedan surgir al utilizar los servicios de FilmCam36, incluyendo la pérdida de datos, el secuestro de la cuenta, la eliminación de contenidos, fallos técnicos, ataques de terceros y todas las situaciones similares.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. Cierre de la cuenta:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. Cierre de la cuenta:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 tiene derecho a suspender o cerrar permanentemente las cuentas que infrinjan las normas sin previo aviso. No se garantiza la restauración del contenido de las cuentas eliminadas.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. Atención:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. Atención:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "La recopilación, procesamiento y almacenamiento de datos del usuario se lleva a cabo de acuerdo con la Política de privacidad de FilmCam36. La Política de Privacidad es parte integrante del presente Acuerdo.",

@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Une \"activité photo\" est comparable à un rouleau de pellicule numérique. Il combine un filtre d'appareil photo que vous aimez dans le **Magasin** et un rouleau de film avec un nombre limité de droits d'exposition (par exemple, 12, 24, 36 expositions). Chaque appareil photo que vous créez regroupe les photos que vous prenez dans un album spécial.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "Un \"Camera Activity\" est comme un rouleau de film numérique. Il combine un filtre d'appareil photo que vous aimez à partir de **Appareils photo** avec un rouleau de film avec un nombre limité d'expositions (par exemple 12, 24, 36 expositions). Chaque appareil photo que vous créez regroupe les photos que vous prenez dans un album spécial.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "Qu'est-ce que le bain photo (impression) ?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "Que puis-je faire dans le magasin ?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "Que puis-je faire dans les caméras ?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "La boutique est l'endroit où vous pouvez découvrir tous les filtres d'appareil photo uniques de l'application. Chaque appareil photo représente un filtre dont la couleur, la texture et le caractère sont uniques. En appuyant sur les appareils photo, vous pouvez voir des exemples de photos \"avant et après\" prises avec ce filtre et choisir celui qui correspond le mieux à votre style.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "C'est dans la section Appareils photo que vous découvrirez tous les filtres d'appareil photo uniques de l'application. Chaque appareil photo représente un filtre dont la couleur, la texture et le caractère sont uniques. En appuyant sur un appareil photo, vous pouvez voir des exemples de photos \"avant et après\" prises avec ce filtre et choisir celui qui correspond le mieux à votre style.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Comment créer une nouvelle activité photo ?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "Comment créer une nouvelle activité ?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Tapez sur l'appareil photo de votre choix dans la boutique pour accéder à l'écran \"Sélectionner le rouleau d'appareil photo\". Ici, vous pouvez créer votre nouvelle activité photo en sélectionnant l'un des rouleaux de film avec différents numéros d'exposition (tels que 12, 24, 36) à utiliser avec le filtre de votre choix.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Tapez sur un appareil photo que vous aimez dans Appareils photo pour accéder à l'écran \"Sélectionner le rouleau d'appareils photo\". Ici, vous pouvez créer votre nouvelle activité photo en sélectionnant l'un des rouleaux de film avec différents numéros d'exposition (tels que 12, 24, 36) à utiliser avec le filtre de votre choix.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Caméras",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "Mes activités",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "Que signifient les cartes d'appareil photo ?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "Que signifient les cartes d'activité ?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Chaque carte représente une caméra virtuelle et affiche les informations suivantes :\n- **Titre:** Nom de l'appareil photo, que vous pouvez modifier.\n- Date et lieu:** La date de création de l'appareil photo et (si disponible) le lieu où la dernière photo a été prise.\n- Info photo:** Le nombre d'expositions utilisées sur le rouleau de film que vous utilisez (par exemple, 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Chaque carte représente une caméra virtuelle et affiche les informations suivantes :\n- **Titre:** Le nom de l'activité, que vous pouvez modifier.\n- Date et lieu:** la date de création de l'activité et (si disponible) le lieu où la dernière photo a été prise.\n- Info photo:** Le nombre d'expositions utilisées sur le rouleau de film que vous utilisez (par exemple, 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "Comment ajouter une photo à un appareil photo existant ?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "Comment ajouter une photo à une activité existante ?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "Si le rouleau de film est vide, vous pouvez appuyer sur l'activité de l'appareil photo correspondant sur l'écran \"Mes appareils photo\" pour passer directement à l'écran de l'appareil photo et continuer à prendre des photos.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "Si le rouleau d'appareils photo contient une exposition vide, vous pouvez appuyer sur l'activité correspondante de l'appareil photo sur l'écran \"Mes activités\" pour passer directement à l'écran de l'appareil photo et continuer à prendre des photos.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "Comment modifier le nom de mon appareil photo ?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "Comment modifier le nom de l'activité ?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "Vous pouvez donner un nom spécial à votre appareil photo en appuyant sur l'icône en forme de crayon à côté de chaque carte d'appareil photo.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "Vous pouvez donner un nom spécial à votre activité en appuyant sur l'icône du stylo à côté de chaque carte d'activité.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "Comment envoyer mes photos à imprimer ?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Caméras partagées",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Activités partagées",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "Comment partager un appareil photo ?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "Comment partager une activité ?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "Sur l'écran \"Mes appareils photo\", appuyez sur l'icône de partage de la carte de l'appareil photo que vous souhaitez partager. L'appareil photo devient alors une activité partagée et un lien d'invitation est créé pour l'activité. Vous pouvez envoyer ce lien à vos amis pour les inviter.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "Sur l'écran \"Mes activités\", appuyez sur l'icône de partage de la carte d'activité que vous souhaitez partager. L'activité devient alors une activité partagée et un lien d'invitation spécifique à l'activité est créé. Vous pouvez envoyer ce lien à vos amis pour les inviter.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "Comment rejoindre une caméra partagée ?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "Comment participer à une activité partagée ?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Cliquez sur le lien d'invitation qui vous a été envoyé. Lorsque l'application s'ouvre, votre demande de participation à l'appareil photo est envoyée au propriétaire de l'appareil. Une fois que le propriétaire de la caméra a approuvé votre demande, la caméra apparaît sur votre écran \"Mes caméras\" et vous pouvez commencer à prendre des photos.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Cliquez sur le lien d'invitation qui vous a été envoyé. Lorsque l'application s'ouvre, votre demande de participation à l'activité est envoyée au propriétaire de l'activité. Une fois que le propriétaire de l'activité a approuvé votre demande, l'appareil photo apparaît sur votre écran \"Mes activités\" et vous pouvez commencer à prendre des photos.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Demandes de participation et notifications",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "Le propriétaire de la caméra peut visualiser, approuver ou rejeter les demandes entrantes en appuyant sur l'icône \"Participants\" de la carte de la caméra. Vous recevrez une notification lorsque votre demande sera approuvée ou rejetée. Vous pouvez suivre toutes vos notifications grâce à l'icône de cloche située dans le coin supérieur droit de l'écran \"Mes caméras\".",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "Le propriétaire de l'activité peut consulter, approuver ou rejeter les demandes entrantes en appuyant sur l'icône \"Participants\" de la carte de l'activité. Vous recevrez une notification lorsque vous serez approuvé ou rejeté. Vous pouvez suivre toutes vos notifications à partir de l'icône de la cloche dans le coin supérieur droit de l'écran \"Mes activités\".",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Sécurité et protection de la vie privée (chiffrement de bout en bout)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Toutes vos photos sur les caméras partagées sont **encryptées de bout en bout**. Cela signifie que **PERSONNE** (y compris l'équipe de FotoApp) ne peut voir vos photos à l'exception du propriétaire de l'appareil et des participants approuvés. Une \"clé de session\" privée est générée pour chaque appareil photo partagé, qui n'est disponible que sur les appareils des participants, et tout le cryptage/décryptage est effectué directement sur votre appareil. Ainsi, vos souvenirs restent totalement confidentiels pour vous et vos amis.\n- Si vous supprimez accidentellement l'application et perdez la \"clé de session\" alors que vous êtes dans une activité de caméra partagée, vous verrez un avertissement sur l'activité de caméra concernée après avoir téléchargé l'application à nouveau. Pour toutes les activités de caméra partagée pour lesquelles vous voyez cet avertissement, vous pouvez demander une \"clé de session\" aux participants de cette activité.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "Toutes vos photos dans les activités partagées sont **encryptées de bout en bout**. Cela signifie que **PERSONNE** (y compris l'équipe de Filmcam36) ne peut voir vos photos, à l'exception du propriétaire de l'activité et des participants approuvés. Une \"clé de session\" privée est générée pour chaque activité partagée, qui n'est disponible que sur les appareils des participants, et tout le cryptage/décryptage est effectué directement sur votre appareil. Ainsi, vos souvenirs restent totalement confidentiels pour vous et vos amis.\n- Si vous supprimez accidentellement l'application lors d'une activité partagée et que la \"clé de session\" est perdue, vous verrez un avertissement sur l'activité de caméra concernée après avoir téléchargé l'application à nouveau. Pour toutes les activités de caméra partagée pour lesquelles vous voyez cet avertissement, vous pouvez demander une \"clé de session\" aux participants de cette activité.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Album",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36 : Il s'agit d'une application mobile de photo et de filtrage développée par The Machine Company. FilmCam36 est une plateforme où les utilisateurs peuvent télécharger et partager des photos, produire des images assistées par l'intelligence artificielle et interagir socialement. Le partage peut être limité au public, aux amis ou aux groupes. L'application peut proposer une version Pro, un système d'abonnement, l'utilisation de crédits supplémentaires et des fonctionnalités avancées.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36 : Il s'agit d'une application mobile de photo et de filtrage développée par The Machine Company. FilmCam36 est une plateforme où les utilisateurs peuvent télécharger, partager et interagir socialement avec des photos. Le partage peut être public, limité à des amis ou à des groupes d'amis.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "Utilisateur La personne qui utilise l'application.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Abonnement Pro : Services payants tels que des fonctionnalités supplémentaires, des filtres premium, des exportations illimitées.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Abonnement Pro à venir dans les versions ultérieures : Services payants tels que des fonctionnalités supplémentaires, des filtres premium, des exportations illimitées.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Activité partagée : Les utilisateurs créent un groupe pour prendre, filtrer et partager ensemble des albums de photos. Tout le contenu est crypté de bout en bout.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. déclaration selon laquelle les risques sont supportés par l'utilisateur :",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. déclaration selon laquelle les risques sont supportés par l'utilisateur :",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "L'utilisateur accepte de supporter tous les risques qui peuvent survenir lors de l'utilisation des services de FilmCam36, y compris la perte de données, le détournement de compte, la suppression de contenu, les défaillances techniques, les attaques de tiers et toutes les situations similaires.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. clôture du compte :",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. clôture du compte :",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 a le droit de suspendre ou de fermer définitivement les comptes qui enfreignent les règles sans avertissement. La restauration du contenu des comptes supprimés n'est pas garantie.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. attention :",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. attention",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "La collecte, le traitement et le stockage des données des utilisateurs sont effectués conformément à la politique de confidentialité de FilmCam36. La politique de confidentialité fait partie intégrante du présent accord.",

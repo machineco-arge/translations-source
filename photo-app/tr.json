@@ -720,8 +720,8 @@
     "sourceHash": "1257d51fa4c70065ac897b565088efae"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Bir \"Kamera Aktivitesi\", dijital bir film rulosu gibidir. **Mağaza**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her kamera, çektiğiniz fotoğrafları kendi içinde özel bir albümde gruplandırır.",
-    "sourceHash": "0e6008a988409a706f863cd8ecd7034b"
+    "translation": "Bir \"Kamera Aktivitesi\", dijital bir film rulosu gibidir. **Kameralar**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her kamera, çektiğiniz fotoğrafları kendi içinde özel bir albümde gruplandırır.",
+    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
   },
   "_faq_q_printing": {
     "translation": "Fotoğraf Banyosu (Printing) Nedir?",
@@ -736,48 +736,48 @@
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "Mağaza'da ne yapabilirim?",
-    "sourceHash": "c9c6752103070fa35846afa1bbbcc5a8"
+    "translation": "Kameralar'da ne yapabilirim?",
+    "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "Mağaza, uygulamadaki tüm benzersiz kamera filtrelerini keşfedebileceğiniz yerdir. Her bir kamera, kendine özgü bir renk, doku ve karaktere sahip bir filtreyi temsil eder. Kameraların üzerine dokunarak, o filtreyle çekilmiş \"öncesi ve sonrası\" örnek fotoğrafları görebilir ve tarzınıza en uygun olanı seçebilirsiniz.",
-    "sourceHash": "c6b98dfacd81dc49a62c4894e3418af8"
+    "translation": "Kameralar, uygulamadaki tüm benzersiz kamera filtrelerini keşfedebileceğiniz yerdir. Her bir kamera, kendine özgü bir renk, doku ve karaktere sahip bir filtreyi temsil eder. Kameraların üzerine dokunarak, o filtreyle çekilmiş \"öncesi ve sonrası\" örnek fotoğrafları görebilir ve tarzınıza en uygun olanı seçebilirsiniz.",
+    "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Yeni bir kamera aktivitesi nasıl oluştururum?",
-    "sourceHash": "7288356f30855490054481696565ec9f"
+    "translation": "Yeni bir aktivite nasıl oluştururum?",
+    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
   },
   "_faq_a_new_activity": {
-    "translation": "Mağaza'dan beğendiğiniz bir kameranın üzerine dokunarak \"Film Rulosu Seç\" ekranına gidin. Burada, seçtiğiniz filtre ile kullanmak üzere farklı poz sayılarına sahip (12, 24, 36 gibi) film rulolarından birini seçerek yeni kamera aktivitenizi oluşturabilirsiniz.",
-    "sourceHash": "e0f2c0617abac1c752feba76ece87f0a"
+    "translation": "Kameralar'dan beğendiğiniz bir kameranın üzerine dokunarak \"Film Rulosu Seç\" ekranına gidin. Burada, seçtiğiniz filtre ile kullanmak üzere farklı poz sayılarına sahip (12, 24, 36 gibi) film rulolarından birini seçerek yeni kamera aktivitenizi oluşturabilirsiniz.",
+    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
   },
   "_faq_section_my_cameras": {
-    "translation": "Kameralarım",
-    "sourceHash": "c3118e207c8b9b0107ec2adfc436a7d9"
+    "translation": "Aktivitelerim",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_faq_q_camera_cards": {
-    "translation": "Kamera kartları ne anlama geliyor?",
-    "sourceHash": "a2f99667256f74a6d427090dbbab9b02"
+    "translation": "Aktivite kartları ne anlama geliyor?",
+    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
   },
   "_faq_a_camera_cards": {
-    "translation": "Her kart bir sanal kamerayı temsil eder ve üzerinde şu bilgileri gösterir:\n- **Başlık:** Değiştirebileceğiniz kamera adı.\n- **Tarih ve Konum:** Kameranın oluşturulduğu tarih ve (varsa) son fotoğrafın çekildiği konum.\n- **Fotoğraf Bilgisi:** Kullandığınız film rulosundaki kullanılan poz sayısı (örn. 15/24).",
-    "sourceHash": "30a6f40deb71a65d0620a5275bca005e"
+    "translation": "Her kart bir sanal kamerayı temsil eder ve üzerinde şu bilgileri gösterir:\n- **Başlık:** Değiştirebileceğiniz aktivite adı.\n- **Tarih ve Konum:** aktivitenin oluşturulduğu tarih ve (varsa) son fotoğrafın çekildiği konum.\n- **Fotoğraf Bilgisi:** Kullandığınız film rulosundaki kullanılan poz sayısı (örn. 15/24).",
+    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
   },
   "_faq_q_add_photo": {
-    "translation": "Mevcut bir kameraya nasıl fotoğraf eklerim?",
-    "sourceHash": "e5df931210d2f09c030e1939e052184d"
+    "translation": "Mevcut bir aktiviteye nasıl fotoğraf eklerim?",
+    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
   },
   "_faq_a_add_photo": {
-    "translation": "Eğer film rulosunda boş poz varsa, \"Kameralarım\" ekranındaki ilgili kamera aktivitesinin üzerine dokunarak doğrudan kamera ekranına geçiş yapabilir ve fotoğraf çekmeye devam edebilirsiniz.",
-    "sourceHash": "8399eb80370f182eecc57e11c7f94de2"
+    "translation": "Eğer film rulosunda boş poz varsa, \"Aktivitelerim\" ekranındaki ilgili kamera aktivitesinin üzerine dokunarak doğrudan kamera ekranına geçiş yapabilir ve fotoğraf çekmeye devam edebilirsiniz.",
+    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
   },
   "_faq_q_rename_camera": {
-    "translation": "Kameramın adını nasıl değiştiririm?",
-    "sourceHash": "ed13ae5818f91e0e04f94464617e7bda"
+    "translation": "Aktivite adını nasıl değiştiririm?",
+    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
   },
   "_faq_a_rename_camera": {
-    "translation": "Her kamera kartının yanındaki kalem simgesine dokunarak kameranıza özel bir isim verebilirsiniz.",
-    "sourceHash": "3938ac41c710b35d990f1264a68bb809"
+    "translation": "Her aktivite kartının yanındaki kalem simgesine dokunarak aktivitenize özel bir isim verebilirsiniz.",
+    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
     "translation": "Fotoğraflarımı nasıl baskıya gönderirim?",
@@ -788,40 +788,40 @@
     "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Paylaşımlı Kameralar",
-    "sourceHash": "3671c405d7a26c36e1fdf8eb027acd6c"
+    "translation": "Paylaşımlı Aktiviteler",
+    "sourceHash": "936979acaeda843e3f831f8b57879a10"
   },
   "_faq_q_how_to_share": {
-    "translation": "Bir kamerayı nasıl paylaşıma açarım?",
-    "sourceHash": "9c605db266e82f31999ed96ff2cfb352"
+    "translation": "Bir aktiviteyi nasıl paylaşıma açarım?",
+    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "\"Kameralarım\" ekranında, paylaşmak istediğiniz kamera kartındaki paylaş simgesine dokunun. Bu, kamerayı paylaşımlı kamera aktivitesi hale getirecek ve aktiviteye özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
-    "sourceHash": "62959d59851ba4f721192bdd7deaef0c"
+    "translation": "\"Aktivitelerim\" ekranında, paylaşmak istediğiniz aktivite kartındaki paylaş simgesine dokunun. Bu, aktiviteyi paylaşımlı aktivite hale getirecek ve aktiviteye özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
+    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
   },
   "_faq_q_join_shared": {
-    "translation": "Paylaşımlı bir kameraya nasıl katılırım?",
-    "sourceHash": "874296bfa4e01838787ad6d52cc3953a"
+    "translation": "Paylaşımlı bir aktiviteye nasıl katılırım?",
+    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
   },
   "_faq_a_join_shared": {
-    "translation": "Size gönderilen davet linkine tıklayın. Uygulama açıldığında, kameraya katılma isteğiniz kamera sahibine gönderilecektir. Kamera sahibi isteğinizi onayladıktan sonra, kamera sizin \"Kameralarım\" ekranınızda görünecek ve fotoğraf çekmeye başlayabileceksiniz.",
-    "sourceHash": "b476229793fcefe38d5e4599a0520efa"
+    "translation": "Size gönderilen davet linkine tıklayın. Uygulama açıldığında, aktiviteye katılma isteğiniz aktivite sahibine gönderilecektir. Aktivite sahibi isteğinizi onayladıktan sonra, kamera sizin \"Aktivitelerim\" ekranınızda görünecek ve fotoğraf çekmeye başlayabileceksiniz.",
+    "sourceHash": "7817fff38a09f950460ee883ad87de74"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Katılım İstekleri ve Bildirimler",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "Kamera sahibi, kamera kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir. Tüm bildirimlerinizi, \"Kameralarım\" ekranının sağ üst köşesindeki zil simgesinden takip edebilirsiniz.",
-    "sourceHash": "45554d2f75329b108521e91763b7584f"
+    "translation": "Aktivite sahibi, aktivite kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir. Tüm bildirimlerinizi, \"Aktivitelerim\" ekranının sağ üst köşesindeki zil simgesinden takip edebilirsiniz.",
+    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Güvenlik ve Gizlilik (Uçtan Uca Şifreleme)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Paylaşımlı kameralardaki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, kamera sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (FotoApp ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı kamera için sadece katılımcıların cihazlarında bulunan özel bir \"oturum anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı kamera aktivitesindeyken, uygulamayı yanlışlıkla siler ve \"oturum anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili kamera aktivitesi üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı kamera aktiviteleri için, o aktivitenin katılımcılarından tekrar \"oturum anahtar\" isteyebilirsiniz.",
-    "sourceHash": "87f568a5343d75784673a05e43f01382"
+    "translation": "Paylaşımlı aktivitelerdeki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, aktivite sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (Filmcam36 ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı aktivite için sadece katılımcıların cihazlarında bulunan özel bir \"oturum anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı aktivitedeyken, uygulamayı yanlışlıkla siler ve \"oturum anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili kamera aktivitesi üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı kamera aktiviteleri için, o aktivitenin katılımcılarından tekrar \"oturum anahtar\" isteyebilirsiniz.",
+    "sourceHash": "d802fe5691925de986bc11bbc8242425"
   },
   "_faq_section_album": {
     "translation": "Albüm",
@@ -948,16 +948,16 @@
     "sourceHash": "89e5493bd353d3aea10c63e72f1fb30d"
   },
   "termsOfService_FilmCam36": {
-    "translation": "FilmCam36: The Machine Company tarafından geliştirilen mobil fotoğraf ve filtreleme uygulamasıdır. FilmCam36 uygulaması kullanıcıların fotoğraf yükleyebildiği, paylaşabildiği, yapay zekâ destekli görsel üretebildiği ve sosyal etkileşimde bulunabildiği bir platformdur. Paylaşımlar public olarak, yalnızca arkadaşlarla veya içinde bulunulan gruplarla sınırlandırılabilir. Uygulama; Pro sürüm, abonelik sistemi, ek kredi kullanımı ve gelişmiş özellikler sunabilir.",
-    "sourceHash": "acad63ed11a2ca96f67dd1b4eea85711"
+    "translation": "FilmCam36: The Machine Company tarafından geliştirilen mobil fotoğraf ve filtreleme uygulamasıdır. FilmCam36 uygulaması kullanıcıların fotoğraf yükleyebildiği, paylaşabildiği ve sosyal etkileşimde bulunabildiği bir platformdur. Paylaşımlar public olarak, yalnızca arkadaşlarla veya içinde bulunulan gruplarla sınırlandırılabilir.",
+    "sourceHash": "c9f70f07a0bbbaf0750fc6a6b08f67c4"
   },
   "termsOfService_User": {
     "translation": "Kullanıcı: Uygulamayı kullanan kişi.",
     "sourceHash": "5d3419472c12b59f2391437f9c5ff205"
   },
   "termsOfService_ProSubs": {
-    "translation": "Pro Abonelik: Ek özellikler, premium filtreler, sınırsız dışa aktarma gibi ücretli hizmetler.",
-    "sourceHash": "8d80725c4507ae5f9f3f154f4643be7a"
+    "translation": "Sonraki Sürümlerde Gelecek Pro Abonelik: Ek özellikler, premium filtreler, sınırsız dışa aktarma gibi ücretli hizmetler.",
+    "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
     "translation": "Paylaşımlı Aktivite: Kullanıcıların bir grup oluşturarak birlikte fotoğraf çekmesi, filtrelemesi ve albüm paylaşması. Tüm içerikler uçtan uca şifrelenir.",
@@ -1132,24 +1132,24 @@
     "sourceHash": "19cd3d1929fea3aa90d5c57def2d25ef"
   },
   "termsOfService_Risk": {
-    "translation": "13. Risklerin Kullanıcıya Ait Olduğunun Beyanı:",
-    "sourceHash": "b69a3db502b836cde4960d06234e243f"
+    "translation": "11. Risklerin Kullanıcıya Ait Olduğunun Beyanı:",
+    "sourceHash": "87149f29053f86875219fef28e6731fe"
   },
   "termsOfService_Risk_1": {
     "translation": "Kullanıcı, FilmCam36 hizmetlerini kullanırken doğabilecek tüm riskleri — veri kaybı, hesap ele geçirilmesi, içerik silinmesi, teknik arızalar, üçüncü taraf saldırıları ve benzeri tüm durumlar dahil — bizzat üstlendiğini kabul eder.",
     "sourceHash": "1d93c68584d7df9f3364d05d2fee34c3"
   },
   "termsOfService_DeleteAccount": {
-    "translation": "14. Hesabın Kapatılması:",
-    "sourceHash": "4769fd2b17da189e1be2264c7fb50bb6"
+    "translation": "12. Hesabın Kapatılması:",
+    "sourceHash": "8bf3610aa540a4bd091ee117e9aa56b3"
   },
   "termsOfService_DeleteAccount_1": {
     "translation": "FilmCam36 kuralları ihlal eden hesapları uyarısız şekilde askıya alma veya kalıcı olarak kapatma hakkına sahiptir. Silinen hesaplara ait içeriklerin geri getirilmesi garanti edilmez.",
     "sourceHash": "b80553d7e667f1ae6c529760aae07ff9"
   },
   "termsOfService_Attention": {
-    "translation": "15. Dikkat:",
-    "sourceHash": "a8e2d5251a5dffb6d58413decedd8b75"
+    "translation": "13. Dikkat:",
+    "sourceHash": "f4ace6b87d9d0ad8ba07af8b7e486c18"
   },
   "termsOfService_Attention_1": {
     "translation": "Kullanıcı verilerinin toplanması, işlenmesi ve saklanması, FilmCam36 Gizlilik Politikası çerçevesinde yürütülür. Gizlilik Politikası bu Sözleşmenin ayrılmaz parçasıdır.",
