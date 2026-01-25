@@ -931,6 +931,10 @@
     "translation": "Дата окончания срока действия подписки:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfServiceAndPrivacyPolicy": {
+    "translation": "Условия предоставления услуг и политика конфиденциальности",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
+  },
   "termsOfService": {
     "translation": "Условия предоставления услуг",
     "sourceHash": "fdede59b31533faba568be0713b8e381"

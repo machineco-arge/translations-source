@@ -931,6 +931,10 @@
     "translation": "Ablaufdatum des Abonnements:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfServiceAndPrivacyPolicy": {
+    "translation": "Nutzungsbedingungen und Datenschutzrichtlinie",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
+  },
   "termsOfService": {
     "translation": "Bedingungen der Dienstleistung",
     "sourceHash": "fdede59b31533faba568be0713b8e381"

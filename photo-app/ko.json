@@ -931,6 +931,10 @@
     "translation": "구독 만료일:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfServiceAndPrivacyPolicy": {
+    "translation": "서비스 약관 및 개인정보 처리방침",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
+  },
   "termsOfService": {
     "translation": "서비스 약관",
     "sourceHash": "fdede59b31533faba568be0713b8e381"

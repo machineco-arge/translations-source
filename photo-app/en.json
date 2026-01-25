@@ -931,6 +931,10 @@
     "translation": "Subscription expiration date:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfServiceAndPrivacyPolicy": {
+    "translation": "Terms of Service and Privacy Policy",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
+  },
   "termsOfService": {
     "translation": "Terms of Service",
     "sourceHash": "fdede59b31533faba568be0713b8e381"

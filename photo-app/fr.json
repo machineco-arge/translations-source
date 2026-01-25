@@ -931,6 +931,10 @@
     "translation": "Date d'expiration de l'abonnement :",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
   },
+  "termsOfServiceAndPrivacyPolicy": {
+    "translation": "Conditions d'utilisation et politique de confidentialité",
+    "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
+  },
   "termsOfService": {
     "translation": "Conditions d'utilisation",
     "sourceHash": "fdede59b31533faba568be0713b8e381"
