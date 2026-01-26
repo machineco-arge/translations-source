@@ -22,7 +22,7 @@ const DEEPL_SUPPORTED_TARGET_LANGS = new Set([
   'hu', 'id', 'it', 'ja', 'ko', 'lt', 'lv', 'nb', 'nl', 'pl', 'pt',
   'ro', 'ru', 'sk', 'sl', 'sv', 'uk', 'zh'
 ]);
-const BASE_LANGUAGE = 'tr';
+const DEFAULT_BASE_LANGUAGE = 'tr';
 
 // All supported languages by the application, from TranslationService.ts
 const ALL_SUPPORTED_LANGUAGES = [
@@ -189,7 +189,7 @@ function normalizeTranslationPunctuation(sourceText: string, translatedText: str
 
 // --- API HELPER FUNCTIONS ---
 
-async function translateWithDeepL(texts: { key: string, text: string }[], targetLang: string): Promise<string[] | null> {
+async function translateWithDeepL(texts: { key: string, text: string }[], targetLang: string, sourceLang: string): Promise<string[] | null> {
   if (!DEEPL_API_KEY) {
     console.warn('DeepL API key is missing. Cannot use DeepL service.');
     return null;
@@ -199,7 +199,7 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
 
   const formData = new URLSearchParams();
   // formData.append('auth_key', DEEPL_API_KEY);
-  formData.append('source_lang', BASE_LANGUAGE.toUpperCase());
+  formData.append('source_lang', sourceLang.toUpperCase());
   
   let deepLTargetLang = targetLang.toUpperCase();
   if (targetLang.toLowerCase() === 'en') deepLTargetLang = 'EN-US';
@@ -236,7 +236,7 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
   }
 }
 
-async function translateWithGoogle(texts: { key: string, text: string }[], targetLang: string): Promise<string[] | null> {
+async function translateWithGoogle(texts: { key: string, text: string }[], targetLang: string, sourceLang: string): Promise<string[] | null> {
   if (!GOOGLE_API_KEY) {
     console.warn('Google API key is missing. Cannot use Google Translate service.');
     return null;
@@ -248,7 +248,7 @@ async function translateWithGoogle(texts: { key: string, text: string }[], targe
   try {
     const response = await axios.post(`${GOOGLE_API_URL}?key=${GOOGLE_API_KEY}`, {
       q: textOnlyArray,
-      source: BASE_LANGUAGE,
+      source: sourceLang,
       target: targetLang,
       format: 'text',
     }, {
@@ -273,6 +273,27 @@ async function translateWithGoogle(texts: { key: string, text: string }[], targe
 
 // --- MAIN SCRIPT LOGIC ---
 
+/**
+ * Detects the source language from the filename.
+ * If filename contains a language code before .json (e.g., filters.en.json), uses that.
+ * Otherwise, returns the default base language (Turkish).
+ */
+function detectSourceLanguage(sourceFilePath: string): string {
+  const filename = path.basename(sourceFilePath);
+  // Match pattern: filename.LANGCODE.json (e.g., filters.en.json)
+  const match = filename.match(/\.(\w{2})(\.json)$/);
+  
+  if (match && match[1]) {
+    const detectedLang = match[1].toLowerCase();
+    // Verify it's a valid language code from our supported list
+    if (ALL_SUPPORTED_LANGUAGES.includes(detectedLang)) {
+      return detectedLang;
+    }
+  }
+  
+  return DEFAULT_BASE_LANGUAGE;
+}
+
 async function run() {
   const argv = await yargs(hideBin(process.argv))
     .option('source', { alias: 's', type: 'string', description: 'Source JSON file path', demandOption: true })
@@ -284,9 +305,13 @@ async function run() {
     })
     .help().argv;
 
+  // Detect source language from filename
+  const BASE_LANGUAGE = detectSourceLanguage(argv.source);
+
   const namespace = path.basename(argv.output);
   console.log(`\n--- Starting translation process for namespace: ${namespace} ---`);
   console.log(`   - Source File: ${argv.source}`);
+  console.log(`   - Source Language: ${BASE_LANGUAGE.toUpperCase()}`);
   console.log(`   - Output Dir:  ${argv.output}`);
   if (CACHE_DIR) {
     console.log(`   - Cache Dir:   ${CACHE_DIR}`);
@@ -393,16 +418,16 @@ async function run() {
       // --- API CALLS ---
       if (DEEPL_SUPPORTED_TARGET_LANGS.has(lang.toLowerCase())) {
         console.log(`   - Using primary service: DeepL`);
-        translatedTexts = await translateWithDeepL(textsToTranslate, lang);
+        translatedTexts = await translateWithDeepL(textsToTranslate, lang, BASE_LANGUAGE);
         
         if (!translatedTexts && GOOGLE_API_KEY) {
           console.log(`   - DeepL failed. Using fallback service: Google Cloud Translate`);
-          translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+          translatedTexts = await translateWithGoogle(textsToTranslate, lang, BASE_LANGUAGE);
         }
       } else {
         if (GOOGLE_API_KEY) {
           console.log(`   - Language '${lang}' not directly supported by DeepL. Using Google Cloud Translate.`);
-          translatedTexts = await translateWithGoogle(textsToTranslate, lang);
+          translatedTexts = await translateWithGoogle(textsToTranslate, lang, BASE_LANGUAGE);
         } else {
           console.warn(`   - SKIPPING ${lang.toUpperCase()}: Language not supported by DeepL and no Google API key is available.`);
         }
