@@ -1,1 +1,36 @@
-{}
+{
+  "instantActivities": {
+    "birthday": {
+      "translation": "Doğum Günü",
+      "sourceHash": "aac772216aecbeca0e86d06671fe985a"
+    },
+    "goldenhour": {
+      "translation": "Altın Saat",
+      "sourceHash": "a45d0dd6da67210c325db643857037cb"
+    },
+    "gymday": {
+      "translation": "Spor Salonu Günü",
+      "sourceHash": "4e0c16bbe9a803ce2176ebb9b4d048c6"
+    },
+    "homeparty": {
+      "translation": "Ev Partisi",
+      "sourceHash": "d95a0d0e14d0503e275699d41db931b5"
+    },
+    "matchday": {
+      "translation": "Maç Günü",
+      "sourceHash": "34193447c235ba83d4de7c79ef0ab3cb"
+    },
+    "explorethecity": {
+      "translation": "Şehri Keşfedin",
+      "sourceHash": "6bdfe4b0da135b7e717b973f0251847f"
+    },
+    "watchnightin": {
+      "translation": "Night In'i izleyin",
+      "sourceHash": "60a496a41f39d8cf4b30c058adf92b66"
+    },
+    "nightout": {
+      "translation": "Gece Gezmesi",
+      "sourceHash": "59c33ca4ad5a504accb62065901f747b"
+    }
+  }
+}
