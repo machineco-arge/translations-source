@@ -16,7 +16,8 @@
     "translate": "ts-node scripts/translate.ts",
     "translate:login": "npm run translate -- --source ./source/login.json --output ./dist/login",
     "translate:photo-app": "npm run translate -- --source ./source/photo-app.json --output ./dist/photo-app",
-    "translate:all": "npm run translate:login && npm run translate:photo-app"
+    "translate:filters": "npm run translate -- --source ./source/filters.en.json --output ./dist/filters",
+    "translate:all": "npm run translate:login && npm run translate:photo-app && npm run translate:filters"
   },
   "files": [
     "source"
