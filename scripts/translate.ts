@@ -20,7 +20,7 @@ const GOOGLE_API_URL = `https://translation.googleapis.com/language/translate/v2
 const DEEPL_SUPPORTED_TARGET_LANGS = new Set([
   'bg', 'cs', 'da', 'de', 'el', 'en', 'es', 'et', 'fi', 'fr',
   'hu', 'id', 'it', 'ja', 'ko', 'lt', 'lv', 'nb', 'nl', 'pl', 'pt',
-  'ro', 'ru', 'sk', 'sl', 'sv', 'uk', 'zh'
+  'ro', 'ru', 'sk', 'sl', 'sv', 'tr', 'uk', 'zh'
 ]);
 const DEFAULT_BASE_LANGUAGE = 'tr';
 
@@ -154,35 +154,35 @@ function normalizeTranslationPunctuation(sourceText: string, translatedText: str
   // Trim whitespace to check actual content
   const sourceTrimmed = sourceText.trim();
   const translatedTrimmed = translatedText.trim();
-  
+
   if (sourceTrimmed.length === 0 || translatedTrimmed.length === 0) {
     return translatedText; // Return original if empty
   }
-  
+
   // Get the last character of source (ignoring trailing whitespace)
   const sourceLastChar = sourceTrimmed[sourceTrimmed.length - 1];
-  
+
   // Check if source ends with punctuation
-  const sourceEndsWithPunctuation = sourceLastChar === '.' || sourceLastChar === '?' || sourceLastChar === '!' || 
-                                    sourceTrimmed.endsWith('...') || sourceTrimmed.endsWith('…');
-  
+  const sourceEndsWithPunctuation = sourceLastChar === '.' || sourceLastChar === '?' || sourceLastChar === '!' ||
+    sourceTrimmed.endsWith('...') || sourceTrimmed.endsWith('…');
+
   // If source doesn't end with punctuation, remove it from translation
   if (!sourceEndsWithPunctuation) {
     // Remove trailing punctuation (period, exclamation, question mark, ellipsis)
     let cleaned = translatedTrimmed;
-    
+
     // Remove trailing ellipsis first (longer patterns first)
     cleaned = cleaned.replace(/\.\.\.\s*$/, '');
     cleaned = cleaned.replace(/…\s*$/, '');
-    
+
     // Remove single trailing punctuation marks
     cleaned = cleaned.replace(/[.!?]\s*$/, '');
-    
+
     // Preserve original trailing whitespace from translatedText if it existed
     const trailingWhitespace = translatedText.match(/\s*$/)?.[0] || '';
     return cleaned + trailingWhitespace;
   }
-  
+
   // If source has punctuation, keep translation as is
   return translatedText;
 }
@@ -194,18 +194,18 @@ async function translateWithDeepL(texts: { key: string, text: string }[], target
     console.warn('DeepL API key is missing. Cannot use DeepL service.');
     return null;
   }
-  
+
   const { processedTexts, placeholderMaps } = preprocessTextsForTranslation(texts);
 
   const formData = new URLSearchParams();
   // formData.append('auth_key', DEEPL_API_KEY);
   formData.append('source_lang', sourceLang.toUpperCase());
-  
+
   let deepLTargetLang = targetLang.toUpperCase();
   if (targetLang.toLowerCase() === 'en') deepLTargetLang = 'EN-US';
   if (targetLang.toLowerCase() === 'pt') deepLTargetLang = 'PT-PT';
   formData.append('target_lang', deepLTargetLang);
-  
+
   processedTexts.forEach(text => formData.append('text', text));
 
   try {
@@ -254,7 +254,7 @@ async function translateWithGoogle(texts: { key: string, text: string }[], targe
     }, {
       timeout: 30000,
     });
-    
+
     const translatedTexts = response.data.data.translations.map((t: any) => t.translatedText);
     return translatedTexts.map((text: string, index: number) => {
       const restored = restorePlaceholders(text, placeholderMaps[index]);
@@ -282,7 +282,7 @@ function detectSourceLanguage(sourceFilePath: string): string {
   const filename = path.basename(sourceFilePath);
   // Match pattern: filename.LANGCODE.json (e.g., filters.en.json)
   const match = filename.match(/\.(\w{2})(\.json)$/);
-  
+
   if (match && match[1]) {
     const detectedLang = match[1].toLowerCase();
     // Verify it's a valid language code from our supported list
@@ -290,7 +290,7 @@ function detectSourceLanguage(sourceFilePath: string): string {
       return detectedLang;
     }
   }
-  
+
   return DEFAULT_BASE_LANGUAGE;
 }
 
@@ -340,9 +340,9 @@ async function run() {
         const baseLangTranslations: { [key: string]: TranslationEntry } = {};
         sourceKeys.forEach(key => {
           const sourceText = flatSourceJson[key];
-          if(typeof sourceText !== 'string'){
-             baseLangTranslations[key] = sourceText;  // Copy non-strings directly
-             return;
+          if (typeof sourceText !== 'string') {
+            baseLangTranslations[key] = sourceText;  // Copy non-strings directly
+            return;
           }
           baseLangTranslations[key] = {
             translation: sourceText,
@@ -362,11 +362,11 @@ async function run() {
       const cacheFilePath = CACHE_DIR ? path.resolve(CACHE_DIR, namespace, `${lang}.json`) : null;
 
       if (cacheFilePath) {
-      try {
+        try {
           const cachedContent = await fs.readFile(cacheFilePath, 'utf-8');
           cachedTranslations = flattenObject(JSON.parse(cachedContent));
           console.log(`   - Found cached translations for ${lang.toUpperCase()}.`);
-      } catch (error) {
+        } catch (error) {
           console.log(`   - No cache file found for ${lang.toUpperCase()}. Will perform a full translation.`);
         }
       }
@@ -380,8 +380,8 @@ async function run() {
       sourceKeys.forEach(key => {
         const sourceText = flatSourceJson[key];
         // Directly copy non-string values (numbers, booleans, etc.)
-        if(typeof sourceText !== 'string'){
-            finalTranslations[key] = sourceText;
+        if (typeof sourceText !== 'string') {
+          finalTranslations[key] = sourceText;
           return;
         }
 
@@ -398,14 +398,14 @@ async function run() {
           // This is already handled by initializing finalTranslations with cachedTranslations.
         }
       });
-      
+
       if (textsToTranslate.length === 0) {
         console.log(`All keys are up-to-date for ${lang.toUpperCase()}. Nothing to do.`);
         const finalOrderedFlatJson: { [key: string]: any } = {};
         sourceKeys.forEach(key => {
-            if (finalTranslations[key] !== undefined) {
-              finalOrderedFlatJson[key] = finalTranslations[key];
-            }
+          if (finalTranslations[key] !== undefined) {
+            finalOrderedFlatJson[key] = finalTranslations[key];
+          }
         });
         const finalNestedJson = unflattenObject(finalOrderedFlatJson);
         await fs.writeFile(outputPath, JSON.stringify(finalNestedJson, null, 2), 'utf-8');
@@ -419,7 +419,7 @@ async function run() {
       if (DEEPL_SUPPORTED_TARGET_LANGS.has(lang.toLowerCase())) {
         console.log(`   - Using primary service: DeepL`);
         translatedTexts = await translateWithDeepL(textsToTranslate, lang, BASE_LANGUAGE);
-        
+
         if (!translatedTexts && GOOGLE_API_KEY) {
           console.log(`   - DeepL failed. Using fallback service: Google Cloud Translate`);
           translatedTexts = await translateWithGoogle(textsToTranslate, lang, BASE_LANGUAGE);
@@ -432,7 +432,7 @@ async function run() {
           console.warn(`   - SKIPPING ${lang.toUpperCase()}: Language not supported by DeepL and no Google API key is available.`);
         }
       }
-      
+
       if (!translatedTexts) {
         console.error(`   - FATAL: Could not generate translation for ${lang.toUpperCase()}. Reverting to cached versions for affected keys.`);
         // The finalTranslations object already contains the old cached values,
@@ -451,7 +451,7 @@ async function run() {
       const finalOrderedFlatJson: { [key: string]: any } = {};
       sourceKeys.forEach(key => {
         if (finalTranslations[key] !== undefined) {
-            finalOrderedFlatJson[key] = finalTranslations[key];
+          finalOrderedFlatJson[key] = finalTranslations[key];
         }
       });
 
