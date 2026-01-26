@@ -271,7 +271,69 @@ async function translateWithGoogle(texts: { key: string, text: string }[], targe
   }
 }
 
+// --- OVERRIDE SYSTEM ---
+
+interface OverrideConfig {
+  [namespace: string]: {
+    [language: string]: {
+      [key: string]: string;
+    };
+  };
+}
+
+/**
+ * Loads translation overrides from the source/translation-overrides.json file.
+ * Returns an empty object if the file doesn't exist or can't be parsed.
+ */
+async function loadOverrides(): Promise<OverrideConfig> {
+  const overridePath = path.resolve(__dirname, '../source/translation-overrides.json');
+  try {
+    const content = await fs.readFile(overridePath, 'utf-8');
+    return JSON.parse(content);
+  } catch (error) {
+    // File doesn't exist or can't be parsed - that's okay, just return empty config
+    return {};
+  }
+}
+
+/**
+ * Applies overrides to the final translations for a specific namespace and language.
+ * Returns the number of overrides applied.
+ */
+function applyOverrides(
+  translations: { [key: string]: TranslationEntry | any },
+  overrides: OverrideConfig,
+  namespace: string,
+  language: string,
+  sourceTexts: { [key: string]: any }
+): number {
+  const namespaceOverrides = overrides[namespace];
+  if (!namespaceOverrides) return 0;
+
+  const langOverrides = namespaceOverrides[language];
+  if (!langOverrides) return 0;
+
+  let appliedCount = 0;
+
+  for (const [key, overrideTranslation] of Object.entries(langOverrides)) {
+    if (translations[key] !== undefined) {
+      const sourceText = sourceTexts[key];
+      if (typeof sourceText === 'string') {
+        // Apply override and recalculate hash based on the SOURCE text (not the override)
+        translations[key] = {
+          translation: overrideTranslation,
+          sourceHash: md5(sourceText),
+        };
+        appliedCount++;
+      }
+    }
+  }
+
+  return appliedCount;
+}
+
 // --- MAIN SCRIPT LOGIC ---
+
 
 /**
  * Detects the source language from the filename.
@@ -324,6 +386,9 @@ async function run() {
     const sourceJson = JSON.parse(sourceContent);
     const flatSourceJson = flattenObject(sourceJson);
     const sourceKeys = Object.keys(flatSourceJson);
+
+    // Load translation overrides
+    const overrides = await loadOverrides();
 
     const targetLanguages = argv.languages ? argv.languages.split(',') : ALL_SUPPORTED_LANGUAGES;
 
@@ -446,6 +511,12 @@ async function run() {
             sourceHash: md5(text),
           };
         });
+      }
+
+      // --- APPLY OVERRIDES ---
+      const overridesApplied = applyOverrides(finalTranslations, overrides, namespace, lang, flatSourceJson);
+      if (overridesApplied > 0) {
+        console.log(`   - Applied ${overridesApplied} translation override(s)`);
       }
 
       const finalOrderedFlatJson: { [key: string]: any } = {};
