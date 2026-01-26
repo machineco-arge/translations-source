@@ -1,0 +1,36 @@
+{
+  "instantActivities": {
+    "birthday": {
+      "translation": "誕生日",
+      "sourceHash": "aac772216aecbeca0e86d06671fe985a"
+    },
+    "goldenhour": {
+      "translation": "ゴールデン・アワー",
+      "sourceHash": "a45d0dd6da67210c325db643857037cb"
+    },
+    "gymday": {
+      "translation": "体育の日",
+      "sourceHash": "4e0c16bbe9a803ce2176ebb9b4d048c6"
+    },
+    "homeparty": {
+      "translation": "ホームパーティー",
+      "sourceHash": "d95a0d0e14d0503e275699d41db931b5"
+    },
+    "matchday": {
+      "translation": "試合当日",
+      "sourceHash": "34193447c235ba83d4de7c79ef0ab3cb"
+    },
+    "explorethecity": {
+      "translation": "街を探検する",
+      "sourceHash": "6bdfe4b0da135b7e717b973f0251847f"
+    },
+    "watchnightin": {
+      "translation": "ナイト・インを観る",
+      "sourceHash": "60a496a41f39d8cf4b30c058adf92b66"
+    },
+    "nightout": {
+      "translation": "ナイト・アウト",
+      "sourceHash": "59c33ca4ad5a504accb62065901f747b"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "instantActivities": {
+    "birthday": {
+      "translation": "Anniversaire",
+      "sourceHash": "aac772216aecbeca0e86d06671fe985a"
+    },
+    "goldenhour": {
+      "translation": "L'heure d'or",
+      "sourceHash": "a45d0dd6da67210c325db643857037cb"
+    },
+    "gymday": {
+      "translation": "Journée de gymnastique",
+      "sourceHash": "4e0c16bbe9a803ce2176ebb9b4d048c6"
+    },
+    "homeparty": {
+      "translation": "Fête à domicile",
+      "sourceHash": "d95a0d0e14d0503e275699d41db931b5"
+    },
+    "matchday": {
+      "translation": "Jour du match",
+      "sourceHash": "34193447c235ba83d4de7c79ef0ab3cb"
+    },
+    "explorethecity": {
+      "translation": "Explorer la ville",
+      "sourceHash": "6bdfe4b0da135b7e717b973f0251847f"
+    },
+    "watchnightin": {
+      "translation": "Regarder Night In",
+      "sourceHash": "60a496a41f39d8cf4b30c058adf92b66"
+    },
+    "nightout": {
+      "translation": "Sortie nocturne",
+      "sourceHash": "59c33ca4ad5a504accb62065901f747b"
+    }
+  }
+}
