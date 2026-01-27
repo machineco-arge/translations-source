@@ -66,5 +66,61 @@
   "_onboarding_films_subtitle_4": {
     "translation": "Vous préférez ne pas attendre ?\nAccélérer le développement",
     "sourceHash": "1cc659b86148be828d9f8893f42e1797"
+  },
+  "_onboarding_shared_title_1": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_1": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_2": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_2": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_3": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_3": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_4": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_4": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_5": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_5": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_6": {
+    "translation": "Tirer ensemble !",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_6": {
+    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_7": {
+    "translation": "Album partagé !",
+    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
+  },
+  "_onboarding_shared_subtitle_7": {
+    "translation": "L'activité est enregistrée dans votre album en tant que collection partagée",
+    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
   }
 }

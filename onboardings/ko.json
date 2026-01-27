@@ -66,5 +66,61 @@
   "_onboarding_films_subtitle_4": {
     "translation": "기다리기 싫으신가요?\n개발 속도를 높이세요",
     "sourceHash": "1cc659b86148be828d9f8893f42e1797"
+  },
+  "_onboarding_shared_title_1": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_1": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_2": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_2": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_3": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_3": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_4": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_4": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_5": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_5": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_6": {
+    "translation": "함께 촬영하세요!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_6": {
+    "translation": "친구들과 활동을 공유하여 함께 사진을 찍을 수 있습니다.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_7": {
+    "translation": "공유 앨범!",
+    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
+  },
+  "_onboarding_shared_subtitle_7": {
+    "translation": "활동은 앨범에 공유 컬렉션으로 저장됩니다",
+    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
   }
 }

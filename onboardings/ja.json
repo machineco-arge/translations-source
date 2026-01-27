@@ -66,5 +66,61 @@
   "_onboarding_films_subtitle_4": {
     "translation": "待ちたくないですか？\n開発のスピードアップ",
     "sourceHash": "1cc659b86148be828d9f8893f42e1797"
+  },
+  "_onboarding_shared_title_1": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_1": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_2": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_2": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_3": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_3": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_4": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_4": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_5": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_5": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_6": {
+    "translation": "一緒に撮ろう！",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_6": {
+    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_7": {
+    "translation": "共有アルバム",
+    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
+  },
+  "_onboarding_shared_subtitle_7": {
+    "translation": "アクティビティは共有コレクションとしてアルバムに保存されます。",
+    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
   }
 }

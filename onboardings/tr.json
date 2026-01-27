@@ -66,5 +66,61 @@
   "_onboarding_films_subtitle_4": {
     "translation": "Beklememeyi mi tercih ediyorsunuz?\nGeliştirmeyi hızlandırın",
     "sourceHash": "1cc659b86148be828d9f8893f42e1797"
+  },
+  "_onboarding_shared_title_1": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_1": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_2": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_2": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_3": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_3": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_4": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_4": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_5": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_5": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_6": {
+    "translation": "Birlikte Ateş Edin!",
+    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
+  },
+  "_onboarding_shared_subtitle_6": {
+    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
+    "sourceHash": "29a5eb983333023dc115b6971212ba54"
+  },
+  "_onboarding_shared_title_7": {
+    "translation": "Paylaşılan Albüm!",
+    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
+  },
+  "_onboarding_shared_subtitle_7": {
+    "translation": "Etkinlik albümünüze paylaşılan bir koleksiyon olarak kaydedilir",
+    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
   }
 }
