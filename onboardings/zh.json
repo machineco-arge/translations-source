@@ -1,0 +1,34 @@
+{
+  "_onboarding_home_title_1": {
+    "translation": "模拟体验",
+    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  },
+  "_onboarding_home_subtitle_1": {
+    "translation": "36 次拍摄，无预览\n一起拍摄\n共享相册！",
+    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  },
+  "_onboarding_home_title_2": {
+    "translation": "照相机",
+    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  },
+  "_onboarding_home_subtitle_2": {
+    "translation": "选择模拟式摄像机滤镜",
+    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  },
+  "_onboarding_home_title_3": {
+    "translation": "射击次数",
+    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  },
+  "_onboarding_home_subtitle_3": {
+    "translation": "比较滤光片，选择胶片数量",
+    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  },
+  "_onboarding_home_title_4": {
+    "translation": "没有预览！",
+    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  },
+  "_onboarding_home_subtitle_4": {
+    "translation": "限量拍摄。纯模拟拍摄体验",
+    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  }
+}
