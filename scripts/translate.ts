@@ -466,6 +466,13 @@ async function run() {
 
       if (textsToTranslate.length === 0) {
         console.log(`All keys are up-to-date for ${lang.toUpperCase()}. Nothing to do.`);
+
+        // --- APPLY OVERRIDES (even when no new translations) ---
+        const overridesApplied = applyOverrides(finalTranslations, overrides, namespace, lang, flatSourceJson);
+        if (overridesApplied > 0) {
+          console.log(`   - Applied ${overridesApplied} translation override(s)`);
+        }
+
         const finalOrderedFlatJson: { [key: string]: any } = {};
         sourceKeys.forEach(key => {
           if (finalTranslations[key] !== undefined) {
