@@ -1,4 +1,8 @@
 {
+  "onboarding_finish_button": {
+    "translation": "Commencer",
+    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  },
   "_onboarding_home_title_1": {
     "translation": "Expérience analogique",
     "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
