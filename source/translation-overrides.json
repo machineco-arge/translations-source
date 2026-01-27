@@ -3,5 +3,15 @@
         "tr": {
             "instantActivities.watchnightin": "Evde Gece"
         }
+    },
+    "onboardings": {
+        "tr": {
+            "_onboarding_shared_title_1": "Birlikte Fotoğraf Çekin!",
+            "_onboarding_shared_title_2": "Birlikte Fotoğraf Çekin!",
+            "_onboarding_shared_title_3": "Birlikte Fotoğraf Çekin!",
+            "_onboarding_shared_title_4": "Birlikte Fotoğraf Çekin!",
+            "_onboarding_shared_title_5": "Birlikte Fotoğraf Çekin!",
+            "_onboarding_shared_title_6": "Birlikte Fotoğraf Çekin!"
+        }
     }
 }
