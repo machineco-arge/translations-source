@@ -34,5 +34,37 @@
   "_onboarding_home_subtitle_4": {
     "translation": "Begrenzte Aufnahmen. Ein rein analoges Schießerlebnis",
     "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  },
+  "_onboarding_films_title_1": {
+    "translation": "Aktivitäten",
+    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  },
+  "_onboarding_films_subtitle_1": {
+    "translation": "Eine Aktivität zeigt die ausgewählte Kamera, die Anzahl der Filme und den Namen der Aktivität an",
+    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  },
+  "_onboarding_films_title_2": {
+    "translation": "Zum Drucken senden!",
+    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  },
+  "_onboarding_films_subtitle_2": {
+    "translation": "Entwickelt wie ein echter Film, entwickelt in der Rotkammer und als Abzüge geliefert",
+    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  },
+  "_onboarding_films_title_3": {
+    "translation": "Genießen Sie den Moment!",
+    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
+  },
+  "_onboarding_films_subtitle_3": {
+    "translation": "Keine Eile!\nLassen Sie den Moment leben, während sich die Abzüge entwickeln",
+    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
+  },
+  "_onboarding_films_title_4": {
+    "translation": "Beschleunigen Sie!",
+    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
+  },
+  "_onboarding_films_subtitle_4": {
+    "translation": "Möchten Sie nicht warten?\nBeschleunigen Sie die Entwicklung",
+    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   }
 }

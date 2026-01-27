@@ -34,5 +34,37 @@
   "_onboarding_home_subtitle_4": {
     "translation": "Scatti limitati. Un'esperienza di ripresa analogica pura",
     "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  },
+  "_onboarding_films_title_1": {
+    "translation": "Attività",
+    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  },
+  "_onboarding_films_subtitle_1": {
+    "translation": "Un'attività visualizza la fotocamera selezionata, il numero di pellicole, il nome dell'attività",
+    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  },
+  "_onboarding_films_title_2": {
+    "translation": "Invia alla stampa!",
+    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  },
+  "_onboarding_films_subtitle_2": {
+    "translation": "Sviluppati come una vera pellicola, lavorati in sala rossa e consegnati come stampe",
+    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  },
+  "_onboarding_films_title_3": {
+    "translation": "Godetevi il momento!",
+    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
+  },
+  "_onboarding_films_subtitle_3": {
+    "translation": "Senza fretta!\nLasciate vivere il momento mentre le stampe si sviluppano",
+    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
+  },
+  "_onboarding_films_title_4": {
+    "translation": "Accelerate!",
+    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
+  },
+  "_onboarding_films_subtitle_4": {
+    "translation": "Preferite non aspettare?\nAccelerare lo sviluppo",
+    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   }
 }

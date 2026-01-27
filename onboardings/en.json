@@ -34,5 +34,37 @@
   "_onboarding_home_subtitle_4": {
     "translation": "Limited shots. A pure analog shooting experience",
     "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  },
+  "_onboarding_films_title_1": {
+    "translation": "Activites",
+    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  },
+  "_onboarding_films_subtitle_1": {
+    "translation": "An activity displays the selected camera, film count, activity name",
+    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  },
+  "_onboarding_films_title_2": {
+    "translation": "Send to Print!",
+    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  },
+  "_onboarding_films_subtitle_2": {
+    "translation": "Developed like real film, processed in the red room, and delivered as prints",
+    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  },
+  "_onboarding_films_title_3": {
+    "translation": "Enjoy the Moment!",
+    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
+  },
+  "_onboarding_films_subtitle_3": {
+    "translation": "No rush!\nLet the moment live while the prints develop",
+    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
+  },
+  "_onboarding_films_title_4": {
+    "translation": "Accelerate!",
+    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
+  },
+  "_onboarding_films_subtitle_4": {
+    "translation": "Prefer not to wait?\nSpeed up the development",
+    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   }
 }

@@ -34,5 +34,37 @@
   "_onboarding_home_subtitle_4": {
     "translation": "제한된 촬영. 순수한 아날로그 촬영 경험",
     "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  },
+  "_onboarding_films_title_1": {
+    "translation": "활동",
+    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  },
+  "_onboarding_films_subtitle_1": {
+    "translation": "활동에는 선택한 카메라, 필름 수, 활동 이름이 표시됩니다",
+    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  },
+  "_onboarding_films_title_2": {
+    "translation": "인쇄로 보내기!",
+    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  },
+  "_onboarding_films_subtitle_2": {
+    "translation": "실제 필름처럼 현상하고 레드 룸에서 처리하여 인화지로 제공",
+    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  },
+  "_onboarding_films_title_3": {
+    "translation": "순간을 즐기세요!",
+    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
+  },
+  "_onboarding_films_subtitle_3": {
+    "translation": "서두르지 마세요!\n인화가 진행되는 동안 그 순간을 즐기세요",
+    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
+  },
+  "_onboarding_films_title_4": {
+    "translation": "가속!",
+    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
+  },
+  "_onboarding_films_subtitle_4": {
+    "translation": "기다리기 싫으신가요?\n개발 속도를 높이세요",
+    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   }
 }

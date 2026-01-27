@@ -34,5 +34,37 @@
   "_onboarding_home_subtitle_4": {
     "translation": "限定ショット。純粋なアナログ撮影体験",
     "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  },
+  "_onboarding_films_title_1": {
+    "translation": "アクティビティ",
+    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  },
+  "_onboarding_films_subtitle_1": {
+    "translation": "アクティビティには、選択したカメラ、フィルム数、アクティビティ名が表示されます。",
+    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  },
+  "_onboarding_films_title_2": {
+    "translation": "印刷する",
+    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  },
+  "_onboarding_films_subtitle_2": {
+    "translation": "本物のフィルムのように現像され、レッドルームで処理され、プリントとして納品される。",
+    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  },
+  "_onboarding_films_title_3": {
+    "translation": "今を楽しむ！",
+    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
+  },
+  "_onboarding_films_subtitle_3": {
+    "translation": "急がない！\nプリントを現像する間、その瞬間を生かす",
+    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
+  },
+  "_onboarding_films_title_4": {
+    "translation": "加速する！",
+    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
+  },
+  "_onboarding_films_subtitle_4": {
+    "translation": "待ちたくないですか？\n開発のスピードアップ",
+    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   }
 }
