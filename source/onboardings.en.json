@@ -11,5 +11,17 @@
     "_onboarding_home_subtitle_3": "Compare filters, choose the number of film",
     
     "_onboarding_home_title_4": "No Preview!",
-    "_onboarding_home_subtitle_4": "Limited shots. A pure analog shooting experience"
+    "_onboarding_home_subtitle_4": "Limited shots. A pure analog shooting experience",
+
+    "_onboarding_films_title_1": "Activites",
+    "_onboarding_films_subtitle_1": "An activity displays the selected camera, film count, activity name",
+
+    "_onboarding_films_title_2": "Send to Print!",
+    "_onboarding_films_subtitle_2": "Developed like real film, processed in the red room, and delivered as prints",
+
+    "_onboarding_films_title_3": "Enjoy the Moment!",
+    "_onboarding_films_subtitle_3": "No rush!\nLet the moment live while the prints develop",
+
+    "_onboarding_films_title_4": "Accelerate!",
+    "_onboarding_films_subtitle_4": "Prefer not to wait?\nSpeed up the development"    
 }
