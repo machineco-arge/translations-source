@@ -122,5 +122,29 @@
   "_onboarding_shared_subtitle_7": {
     "translation": "A atividade é guardada no seu álbum como uma coleção partilhada",
     "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
+  },
+  "_onboarding_album_title_1": {
+    "translation": "Álbum!",
+    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
+  },
+  "_onboarding_album_subtitle_1": {
+    "translation": "Uma vez terminada a espera, as suas fotografias estão prontas no seu álbum",
+    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
+  },
+  "_onboarding_album_title_2": {
+    "translation": "Vídeo do álbum!",
+    "sourceHash": "712fcaacc12f7968791084b28c142072"
+  },
+  "_onboarding_album_subtitle_2": {
+    "translation": "O vídeo especial gerado a partir do seu álbum está pronto!",
+    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
+  },
+  "_onboarding_album_title_3": {
+    "translation": "Exportar álbum!",
+    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
+  },
+  "_onboarding_album_subtitle_3": {
+    "translation": "Exportar o seu álbum da aplicação para a galeria do seu telemóvel",
+    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
   }
 }

@@ -122,5 +122,29 @@
   "_onboarding_shared_subtitle_7": {
     "translation": "活动作为共享收藏保存在您的相册中",
     "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
+  },
+  "_onboarding_album_title_1": {
+    "translation": "专辑",
+    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
+  },
+  "_onboarding_album_subtitle_1": {
+    "translation": "等待结束后，您的照片就可以放入相册了",
+    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
+  },
+  "_onboarding_album_title_2": {
+    "translation": "专辑视频！",
+    "sourceHash": "712fcaacc12f7968791084b28c142072"
+  },
+  "_onboarding_album_subtitle_2": {
+    "translation": "从您的相册中生成的特殊视频已准备就绪！",
+    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
+  },
+  "_onboarding_album_title_3": {
+    "translation": "导出相册！",
+    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
+  },
+  "_onboarding_album_subtitle_3": {
+    "translation": "将相册从应用程序导出到手机相册",
+    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
   }
 }
