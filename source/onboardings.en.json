@@ -44,5 +44,15 @@
     "_onboarding_shared_subtitle_6": "Activity can be shared with friends to capture photos together.",
 
     "_onboarding_shared_title_7": "Shared Album!",
-    "_onboarding_shared_subtitle_7": "The activity is saved in your album as a shared collection"
+    "_onboarding_shared_subtitle_7": "The activity is saved in your album as a shared collection",
+
+    "_onboarding_album_title_1": "Album!",
+    "_onboarding_album_subtitle_1": "Once the wait is over, your photos are ready in your album",
+
+    "_onboarding_album_title_2": "Album Video!",
+    "_onboarding_album_subtitle_2": "The special video generated from your album is ready!",
+
+    "_onboarding_album_title_3": "Export Album!",
+    "_onboarding_album_subtitle_3": "Export your album from the app to your phone gallery"
+
 }
