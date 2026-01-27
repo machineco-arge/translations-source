@@ -18,7 +18,7 @@
     "translate:photo-app": "npm run translate -- --source ./source/photo-app.json --output ./dist/photo-app",
     "translate:filters": "npm run translate -- --source ./source/filters.en.json --output ./dist/filters",
     "translate:onboardings": "npm run translate -- --source ./source/onboardings.en.json --output ./dist/onboardings",
-    "translate:all": "npm run translate:login && npm run translate:photo-app && npm run translate:filters"
+    "translate:all": "npm run translate:login && npm run translate:photo-app && npm run translate:filters && npm run translate:onboardings"
   },
   "files": [
     "source"
