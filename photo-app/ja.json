@@ -319,6 +319,10 @@
     "translation": "このアクティビティを共有アクティビティにして、アクティビティリンクを共有しますか？",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "この機能を使用するにはログインする必要があります。ログインしますか？",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "活動招待リンク",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"

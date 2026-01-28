@@ -319,6 +319,10 @@
     "translation": "您想将此活动设为共享活动并共享活动链接吗？",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "您必须登录后才能使用此功能。您想登录吗？",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "活动邀请链接",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"

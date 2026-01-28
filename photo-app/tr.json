@@ -319,6 +319,10 @@
     "translation": "Bu aktiviteyi paylaşımlı aktivite yapıp, aktivite bağlantısını paylaşmak ister misiniz?",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "Aktivite Davet Bağlantısı",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"

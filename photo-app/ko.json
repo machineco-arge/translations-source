@@ -319,6 +319,10 @@
     "translation": "이 활동을 공유 활동으로 만들고 활동 링크를 공유하시겠습니까?",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "이 기능을 사용하려면 로그인해야 합니다. 로그인하시겠습니까?",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "활동 초대 링크",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"

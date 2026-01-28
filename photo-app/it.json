@@ -319,6 +319,10 @@
     "translation": "Volete rendere questa attività un'attività condivisa e condividere il link dell'attività?",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "Per utilizzare questa funzione è necessario aver effettuato il login. Desidera effettuare il login?",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "Link all'invito all'attività",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"

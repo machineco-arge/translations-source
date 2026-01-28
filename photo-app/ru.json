@@ -319,6 +319,10 @@
     "translation": "Хотите сделать это занятие общим и поделиться ссылкой на него?",
     "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
   },
+  "_filmScreen_shareActivityMessageAnonymous": {
+    "translation": "Вы должны войти в систему, чтобы воспользоваться этой функцией. Вы хотите войти в систему?",
+    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+  },
   "_filmScreen_shareInviteTitle": {
     "translation": "Ссылка для приглашения на мероприятие",
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
