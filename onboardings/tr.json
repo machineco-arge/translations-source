@@ -8,7 +8,7 @@
     "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
   },
   "_onboarding_home_subtitle_1": {
-    "translation": "36 Atış, Önizleme Yok\nBirlikte Çekin\nPaylaşılan Albüm!",
+    "translation": "36 Çekim, Önizleme Yok\nBirlikte Çekim Yapın \nPaylaşılan Albüm!",
     "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
   },
   "_onboarding_home_title_2": {
@@ -20,7 +20,7 @@
     "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
   },
   "_onboarding_home_title_3": {
-    "translation": "Atış Sayısı",
+    "translation": "Çekim Sayısı",
     "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
   },
   "_onboarding_home_subtitle_3": {
@@ -64,7 +64,7 @@
     "sourceHash": "e52261bd8eafddb251126c16c96c5400"
   },
   "_onboarding_films_subtitle_4": {
-    "translation": "Beklememeyi mi tercih ediyorsunuz?\nGeliştirmeyi hızlandırın",
+    "translation": "Beklemek istemiyor musunuz?\nBaskıyı hızlandırın",
     "sourceHash": "1cc659b86148be828d9f8893f42e1797"
   },
   "_onboarding_shared_title_1": {
