@@ -163,6 +163,14 @@
     "translation": "此视频将被删除。你确定吗？",
     "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
   },
+  "_albumScreen_loginRequired_loginMessage": {
+    "translation": "请登录以访问您的相册照片。",
+    "sourceHash": "11126e91f7b4edc778db920adbf04fc8"
+  },
+  "_albumScreen_loginRequired_login": {
+    "translation": "登录",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

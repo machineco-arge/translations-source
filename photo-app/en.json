@@ -163,6 +163,14 @@
     "translation": "This video will be deleted. Are you sure?",
     "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
   },
+  "_albumScreen_loginRequired_loginMessage": {
+    "translation": "Please login to access your album photos.",
+    "sourceHash": "11126e91f7b4edc778db920adbf04fc8"
+  },
+  "_albumScreen_loginRequired_login": {
+    "translation": "Sign in",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -163,6 +163,14 @@
     "translation": "이 동영상은 삭제됩니다. 정말인가요?",
     "sourceHash": "c132e342b0b7b0b536b53fc814d49522"
   },
+  "_albumScreen_loginRequired_loginMessage": {
+    "translation": "앨범 사진에 액세스하려면 로그인하세요.",
+    "sourceHash": "11126e91f7b4edc778db920adbf04fc8"
+  },
+  "_albumScreen_loginRequired_login": {
+    "translation": "로그인",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
