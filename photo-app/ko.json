@@ -312,12 +312,12 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "활동 공유",
-    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+    "translation": "활동에 초대",
+    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "이 활동을 공유 활동으로 만들고 활동 링크를 공유하시겠습니까?",
-    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
+    "translation": "이 활동을 공유 활동으로 설정하고 친구를 활동에 초대하시겠습니까?",
+    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
     "translation": "이 기능을 사용하려면 로그인해야 합니다. 로그인하시겠습니까?",
@@ -328,8 +328,8 @@
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
   },
   "_filmScreen_shareFailedErrorMessage": {
-    "translation": "활동을 공유하는 동안 오류가 발생했습니다.",
-    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+    "translation": "초대 링크를 공유하는 동안 오류가 발생했습니다.",
+    "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
@@ -376,8 +376,8 @@
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
   "_filmScreen_share": {
-    "translation": "공유",
-    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+    "translation": "초대",
+    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
   },
   "_filmScreen_cannotShareActivityWithPhotos": {
     "translation": "일반 활동은 사진과 함께 공유할 수 없습니다.",
@@ -808,8 +808,8 @@
     "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "'내 활동' 화면에서 공유하려는 활동 카드의 공유 아이콘을 탭합니다. 그러면 해당 활동이 공유 활동이 되고 해당 활동과 관련된 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
-    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
+    "translation": "'내 활동' 화면에서 공유하려는 활동 카드의 초대 아이콘을 탭합니다. 그러면 해당 활동이 공유 활동이 되고 해당 활동과 관련된 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
+    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
   },
   "_faq_q_join_shared": {
     "translation": "공유 활동에 참여하려면 어떻게 하나요?",

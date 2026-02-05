@@ -312,12 +312,12 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "Aktivität teilen",
-    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+    "translation": "Zur Aktivität einladen",
+    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Möchten Sie diese Aktivität zu einer gemeinsamen Aktivität machen und den Link zur Aktivität teilen?",
-    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
+    "translation": "Möchten Sie diese Aktivität zu einer gemeinsamen Aktivität machen und Ihre Freunde zu Ihrer Aktivität einladen?",
+    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
     "translation": "Sie müssen eingeloggt sein, um diese Funktion nutzen zu können. Möchten Sie sich anmelden?",
@@ -328,8 +328,8 @@
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
   },
   "_filmScreen_shareFailedErrorMessage": {
-    "translation": "Beim Teilen der Aktivität ist ein Fehler aufgetreten.",
-    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+    "translation": "Beim Teilen des Einladungslinks ist ein Fehler aufgetreten.",
+    "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Die Filmrolle ist voll, warten Sie darauf, dass der Aktivitätsinhaber sie zum Drucken schickt",
@@ -376,8 +376,8 @@
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
   "_filmScreen_share": {
-    "translation": "Teilen Sie",
-    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+    "translation": "Einladen",
+    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
   },
   "_filmScreen_cannotShareActivityWithPhotos": {
     "translation": "Sie können eine normale Aktivität nicht mit Fotos teilen.",
@@ -808,8 +808,8 @@
     "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "Tippen Sie auf dem Bildschirm \"Meine Aktivitäten\" auf das Teilen-Symbol auf der Aktivitätskarte, die Sie teilen möchten. Dadurch wird die Aktivität zu einer geteilten Aktivität und es wird ein spezieller Einladungslink für diese Aktivität erstellt. Sie können diesen Link an Ihre Freunde senden, um sie einzuladen.",
-    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
+    "translation": "Tippen Sie auf dem Bildschirm \"Meine Aktivitäten\" auf das Einladungssymbol auf der Aktivitätskarte, die Sie teilen möchten. Dadurch wird die Aktivität zu einer geteilten Aktivität und es wird ein spezieller Einladungslink für diese Aktivität erstellt. Sie können diesen Link an Ihre Freunde senden, um sie einzuladen.",
+    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
   },
   "_faq_q_join_shared": {
     "translation": "Wie kann ich einer gemeinsamen Aktivität beitreten?",

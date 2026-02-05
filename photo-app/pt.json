@@ -312,12 +312,12 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "Atividade das acções",
-    "sourceHash": "7c1fc2d5f1507f1f0684c40743968355"
+    "translation": "Convidar para a atividade",
+    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Gostaria de tornar esta atividade uma atividade partilhada e partilhar a ligação da atividade?",
-    "sourceHash": "9e5c7c01babde842a1b0ba0897e324f9"
+    "translation": "Gostaria de tornar esta atividade uma atividade partilhada e convidar os seus amigos para a sua atividade?",
+    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
     "translation": "Tem de iniciar sessão para utilizar esta funcionalidade. Gostaria de iniciar sessão?",
@@ -328,8 +328,8 @@
     "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
   },
   "_filmScreen_shareFailedErrorMessage": {
-    "translation": "Ocorreu um erro ao partilhar a atividade.",
-    "sourceHash": "bf6185896de7c86ac16411c24bd11704"
+    "translation": "Ocorreu um erro ao partilhar a ligação do convite.",
+    "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "O rolo de filme está cheio, aguarde que o proprietário da atividade o envie para impressão",
@@ -376,8 +376,8 @@
     "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
   },
   "_filmScreen_share": {
-    "translation": "Partilhar",
-    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+    "translation": "Convite",
+    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
   },
   "_filmScreen_cannotShareActivityWithPhotos": {
     "translation": "Não é possível partilhar uma atividade normal com fotografias.",
@@ -808,8 +808,8 @@
     "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
   },
   "_faq_a_how_to_share": {
-    "translation": "No ecrã \"As minhas actividades\", toque no ícone de partilha no cartão de atividade que pretende partilhar. Isto fará com que a atividade se torne uma atividade partilhada e criará uma ligação de convite específica para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
-    "sourceHash": "34841a919d2d1d31ff5053587ae27791"
+    "translation": "No ecrã \"As minhas actividades\", toque no ícone de convite no cartão de atividade que pretende partilhar. Isto tornará a atividade numa atividade partilhada e criará uma ligação de convite específica para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
+    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
   },
   "_faq_q_join_shared": {
     "translation": "Como posso aderir a uma atividade partilhada?",
