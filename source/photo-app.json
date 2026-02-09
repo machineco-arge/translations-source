@@ -381,11 +381,11 @@
     "deleteAccount_policy4": "Saklanacak Veriler: Yasal yükümlülükler veya meşru iş amaçları (örneğin, anonimleştirilmiş ve toplu analiz verileri) dışında hiçbir kişisel veriniz saklanmayacaktır.",
     "deleteAccount_policy5": "İşlem tamamlandığında, talebi gönderdiğiniz e-posta adresine bir onay mesajı gönderilecektir.",
 
-    "deleteAccount_goToDeleteAccount": "Hesap Silme Sayfasına Git",
-    "deleteAccount_confirmationMessage": "Hesap silme sayfasına yönlendirileceksiniz. Devam etmek istiyor musunuz?",
-    "deleteAccount_pageCannotOpen": "Bu sayfa açılamıyor. Lütfen internet bağlantınızı kontrol edin.",
-    "deleteAccount_openPageError": "Hesap silme sayfasını açarken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
-
+    "deleteAccount_deleting": "Hesabınız siliniyor...",
+    "deleteAccount_deleteButton": "Hesabımı Sil",
+    "deleteAccount_confirmationTitle": "Hesap Silme Onayı",
+    "deleteAccount_confirmationMessage": "Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz ve tüm verileriniz kalıcı olarak silinecektir.",
+    "deleteAccount_deleteError": "Hesap silinirken bir hata oluştu. Lütfen tekrar deneyin.",
 
 
     "_common_photo": "Foto",
