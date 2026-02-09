@@ -90,5 +90,6 @@
     "_settings_darkOrLightModeSettings": "Tema Ayarları",
     "_theme_switchTheme": "Aydınlık ve Karanlık mod arasında geçiş yapın",
     "_theme_lightMode": "Aydınlık Mod",
-    "_theme_darkMode": "Karanlık Mod"
+    "_theme_darkMode": "Karanlık Mod",
+    "deleteAccountButton": "Hesabı Sil"
 }

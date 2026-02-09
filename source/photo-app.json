@@ -361,6 +361,32 @@
     "ContactUs": "Bize Ulaşın: Bu Hizmet Şartları veya Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin: filmcam36@themachineco.com",
 
 
+    "deleteAccount_titleMobile": "Hesap Silme",
+
+    "deleteAccount_Title": "FilmCam36: Analogue Experience - Hesap Silme",
+    "deleteAccount_developerName": "Geliştirici: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "deleteAccount_description": "Bu sayfa, <strong>FilmCam36</strong> uygulaması (Geliştirici: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) kullanıcılarının hesap ve ilişkili verilerinin silinmesini nasıl talep edeceklerini açıklar.",
+    "deleteAccount_stepsTitle": "Hesap Silme Talebi Adımları",
+    "deleteAccount_step1": "Aşağıdaki e-posta bağlantısına tıklayarak bir e-posta oluşturun.",
+    "deleteAccount_step2": "E-postanın konu satırının \"FilmCam36 Hesap Silme Talebi\" olduğundan emin olun.",
+    "deleteAccount_step3": "E-postanın içeriğine, hesabınızı doğrulamamız için gerekli olan FilmCam36 kullanıcı adınızı ve kayıtlı e-posta adresinizi yazın.",
+    "deleteAccount_step4": "E-postayı gönderin.",
+    "deleteAccount_requestLink": "Talep Göndermek İçin Tıklayın:",
+    "deleteAccount_emailLink": "arge@themachineco.com",
+    "deleteAccount_emailSubject": "FilmCam36 Hesap Silme Talebi",
+    "deleteAccount_policyTitle": "Silme Süreci ve Veri Politikası",
+    "deleteAccount_policy1": "Talebiniz bize ulaştıktan sonra, kimliğinizi doğrulamak için sağladığınız bilgiler kullanılacaktır.",
+    "deleteAccount_policy2": "Doğrulama sonrası, hesabınız ve ilişkili tüm veriler 30 gün içinde sistemlerimizden kalıcı olarak silinecektir.",
+    "deleteAccount_policy3": "Silinecek Veriler: Kullanıcı hesabınız, profil bilgileriniz, oluşturduğunuz tüm aktiviteler ve bu aktivitelere yüklediğiniz tüm fotoğraflar.",
+    "deleteAccount_policy4": "Saklanacak Veriler: Yasal yükümlülükler veya meşru iş amaçları (örneğin, anonimleştirilmiş ve toplu analiz verileri) dışında hiçbir kişisel veriniz saklanmayacaktır.",
+    "deleteAccount_policy5": "İşlem tamamlandığında, talebi gönderdiğiniz e-posta adresine bir onay mesajı gönderilecektir.",
+
+    "deleteAccount_goToDeleteAccount": "Hesap Silme Sayfasına Git",
+    "deleteAccount_confirmationMessage": "Hesap silme sayfasına yönlendirileceksiniz. Devam etmek istiyor musunuz?",
+    "deleteAccount_pageCannotOpen": "Bu sayfa açılamıyor. Lütfen internet bağlantınızı kontrol edin.",
+    "deleteAccount_openPageError": "Hesap silme sayfasını açarken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+
+
 
     "_common_photo": "Foto",
     "_common_saving": "Kaydediliyor...",
