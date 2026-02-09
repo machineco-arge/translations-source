@@ -1291,6 +1291,94 @@
     "translation": "Nous contacter : Si vous avez des questions concernant les présentes conditions de service ou la politique de confidentialité, veuillez nous contacter : filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "Suppression de compte",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36 : Analogue Experience - Supprimer le compte",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "Développeur MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "Cette page décrit comment les utilisateurs de l'application <strong>FilmCam36</strong> (Développeur : MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) peuvent demander la suppression de leur compte et des données associées.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "Étapes de la demande de suppression de compte",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "Créez un e-mail en cliquant sur le lien e-mail ci-dessous.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "Veillez à ce que l'objet de l'e-mail soit \"Demande de suppression du compte FilmCam36\".",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "Dans le contenu de l'e-mail, veuillez indiquer votre nom d'utilisateur FilmCam36 et votre adresse e-mail enregistrée, qui sont nécessaires pour vérifier votre compte.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "Envoyer le courriel.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "Cliquez pour envoyer la demande :",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "Demande de suppression du compte FilmCam36",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "Processus de suppression et politique des données",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "Après réception de votre demande, les informations que vous fournissez seront utilisées pour vérifier votre identité.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "Après vérification, votre compte et toutes les données associées seront définitivement supprimés de nos systèmes dans un délai de 30 jours.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "Données à supprimer : Votre compte d'utilisateur, vos informations de profil, toutes les activités que vous avez créées et toutes les photos que vous avez téléchargées dans le cadre de ces activités.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "Données à stocker : Aucune donnée personnelle ne sera stockée, sauf pour répondre à des obligations légales ou à des fins commerciales légitimes (par exemple, des données d'analyse anonymes et agrégées).",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "Lorsque la transaction est terminée, un message de confirmation est envoyé à l'adresse électronique à laquelle vous avez envoyé la demande.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "Aller à la page de suppression de compte",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "Vous serez redirigé vers la page de suppression du compte. Voulez-vous continuer ?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "Cette page ne peut être ouverte. Veuillez vérifier votre connexion internet.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "Une erreur s'est produite lors de l'ouverture de la page de suppression de compte. Veuillez réessayer plus tard.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "Photo",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

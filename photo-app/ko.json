@@ -1291,6 +1291,94 @@
     "translation": "문의하기: 본 서비스 약관 또는 개인정보 처리방침에 대해 궁금한 점이 있으면 문의하시기 바랍니다: filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "계정 삭제",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36: 아날로그 경험 - 계정 삭제",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "개발자 모든 권리 보유 및 재배포 금지.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "이 페이지에서는 <strong>FilmCam36</strong> 애플리케이션(개발자: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) 사용자가 자신의 계정 및 관련 데이터 삭제를 요청할 수 있는 방법에 대해 설명합니다.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "계정 삭제 요청 단계",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "아래 이메일 링크를 클릭하여 이메일을 작성하세요.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "이메일 제목이 \"FilmCam36 계정 삭제 요청\"인지 확인하세요.",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "이메일 내용에는 계정 확인을 위해 필요한 FilmCam36 사용자 이름과 등록된 이메일 주소를 포함하세요.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "이메일을 보냅니다.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "요청을 보내려면 클릭합니다:",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "FilmCam36 계정 삭제 요청",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "삭제 절차 및 데이터 정책",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "요청을 받은 후 제공한 정보는 신원 확인을 위해 사용됩니다.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "인증이 완료되면 계정 및 모든 관련 데이터는 30일 이내에 시스템에서 영구적으로 삭제됩니다.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "삭제할 데이터: 사용자 계정, 프로필 정보, 내가 만든 모든 활동 및 이러한 활동에 업로드한 모든 사진.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "저장되는 데이터: 법적 의무 또는 합법적인 비즈니스 목적(예: 익명화 및 집계된 분석 데이터)을 제외하고는 어떠한 개인 데이터도 저장되지 않습니다.",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "거래가 완료되면 요청을 보낸 이메일 주소로 확인 메시지가 전송됩니다.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "계정 삭제 페이지로 이동",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "계정 삭제 페이지로 리디렉션됩니다. 계속 진행하시겠습니까?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "이 페이지를 열 수 없습니다. 인터넷 연결을 확인하세요.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "계정 삭제 페이지를 여는 동안 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

@@ -1291,6 +1291,94 @@
     "translation": "Свяжитесь с нами: Если у вас возникли вопросы по поводу настоящих Условий предоставления услуг или Политики конфиденциальности, пожалуйста, свяжитесь с нами: filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "Удаление учетной записи",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36: аналоговый опыт - Удалить аккаунт",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "Разработчик MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "На этой странице описывается, как пользователи приложения <strong>FilmCam36</strong> (разработчик: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) могут запросить удаление своей учетной записи и связанных с ней данных.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "Шаги запроса на удаление учетной записи",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "Создайте электронное письмо, нажав на ссылку электронной почты ниже.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "Убедитесь, что в теме письма указано \"FilmCam36 Account Deletion Request\".",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "В содержании письма укажите ваше имя пользователя FilmCam36 и адрес зарегистрированной электронной почты, которые необходимы нам для проверки вашей учетной записи.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "Отправьте письмо.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "Нажмите, чтобы отправить запрос:",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "Запрос на удаление аккаунта FilmCam36",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "Процесс удаления и политика в отношении данных",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "После того как мы получим ваш запрос, предоставленная вами информация будет использована для проверки вашей личности.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "После проверки ваша учетная запись и все связанные с ней данные будут безвозвратно удалены из наших систем в течение 30 дней.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "Данные, подлежащие удалению: Ваша учетная запись, информация о профиле, все созданные вами мероприятия и все фотографии, которые вы загрузили в эти мероприятия.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "Данные, подлежащие хранению: Никакие персональные данные не будут храниться, за исключением юридических обязательств или законных деловых целей (например, анонимизированные и агрегированные аналитические данные).",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "Когда операция будет завершена, на адрес электронной почты, на который вы отправили запрос, будет отправлено подтверждающее сообщение.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "Перейти на страницу удаления учетной записи",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "Вы будете перенаправлены на страницу удаления учетной записи. Вы хотите продолжить?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "Эта страница не может быть открыта. Пожалуйста, проверьте подключение к Интернету.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "Произошла ошибка при открытии страницы удаления учетной записи. Пожалуйста, повторите попытку позже.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "Фото.",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

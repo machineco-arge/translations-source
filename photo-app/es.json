@@ -1291,6 +1291,94 @@
     "translation": "Póngase en contacto con nosotros: Si tiene alguna pregunta sobre estas Condiciones del servicio o la Política de privacidad, póngase en contacto con nosotros: filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "Eliminación de la cuenta",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36: Analogue Experience - Eliminar cuenta",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "Desarrollador MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "Esta página describe cómo los usuarios de la aplicación <strong>FilmCam36</strong> (Desarrollador: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) pueden solicitar la eliminación de su cuenta y los datos asociados.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "Pasos para solicitar la eliminación de una cuenta",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "Cree un correo electrónico haciendo clic en el enlace de correo electrónico que aparece a continuación.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "Asegúrese de que el asunto del correo electrónico sea \"Solicitud de eliminación de cuenta FilmCam36\".",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "En el contenido del correo electrónico, incluya su nombre de usuario de FilmCam36 y la dirección de correo electrónico registrada, que son necesarios para que podamos verificar su cuenta.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "Envía el correo electrónico.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "Haga clic para enviar la solicitud:",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "FilmCam36 Solicitud de eliminación de cuenta",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "Proceso de supresión y política de datos",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "Una vez recibida su solicitud, la información que nos facilite se utilizará para verificar su identidad.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "Tras la verificación, su cuenta y todos los datos asociados se eliminarán permanentemente de nuestros sistemas en un plazo de 30 días.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "Datos a eliminar: Tu cuenta de usuario, información de perfil, todas las actividades que hayas creado y todas las fotos que hayas subido a estas actividades.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "Datos que se almacenarán: No se almacenarán datos personales, salvo por obligaciones legales o fines comerciales legítimos (por ejemplo, datos de análisis anonimizados y agregados).",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "Cuando se complete la transacción, se enviará un mensaje de confirmación a la dirección de correo electrónico a la que envió la solicitud.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "Ir a la página de eliminación de cuentas",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "Será redirigido a la página de eliminación de cuenta. ¿Desea continuar?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "No se puede abrir esta página. Compruebe su conexión a Internet.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "Se ha producido un error al abrir la página de eliminación de cuentas. Vuelve a intentarlo más tarde.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

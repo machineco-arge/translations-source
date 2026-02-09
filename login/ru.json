@@ -362,5 +362,9 @@
   "_theme_darkMode": {
     "translation": "Темный режим",
     "sourceHash": "5dde9c5e068f82c4a31f1895109875ae"
+  },
+  "deleteAccountButton": {
+    "translation": "Удалить аккаунт",
+    "sourceHash": "6abf2438bef58088e45afbe946ae50d5"
   }
 }

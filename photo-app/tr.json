@@ -1291,6 +1291,94 @@
     "translation": "Bize Ulaşın: Bu Hizmet Şartları veya Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin: filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "Hesap Silme",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36: Analogue Experience - Hesap Silme",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "Geliştirici: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "Bu sayfa, <strong>FilmCam36</strong> uygulaması (Geliştirici: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) kullanıcılarının hesap ve ilişkili verilerinin silinmesini nasıl talep edeceklerini açıklar.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "Hesap Silme Talebi Adımları",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "Aşağıdaki e-posta bağlantısına tıklayarak bir e-posta oluşturun.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "E-postanın konu satırının \"FilmCam36 Hesap Silme Talebi\" olduğundan emin olun.",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "E-postanın içeriğine, hesabınızı doğrulamamız için gerekli olan FilmCam36 kullanıcı adınızı ve kayıtlı e-posta adresinizi yazın.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "E-postayı gönderin.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "Talep Göndermek İçin Tıklayın:",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "FilmCam36 Hesap Silme Talebi",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "Silme Süreci ve Veri Politikası",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "Talebiniz bize ulaştıktan sonra, kimliğinizi doğrulamak için sağladığınız bilgiler kullanılacaktır.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "Doğrulama sonrası, hesabınız ve ilişkili tüm veriler 30 gün içinde sistemlerimizden kalıcı olarak silinecektir.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "Silinecek Veriler: Kullanıcı hesabınız, profil bilgileriniz, oluşturduğunuz tüm aktiviteler ve bu aktivitelere yüklediğiniz tüm fotoğraflar.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "Saklanacak Veriler: Yasal yükümlülükler veya meşru iş amaçları (örneğin, anonimleştirilmiş ve toplu analiz verileri) dışında hiçbir kişisel veriniz saklanmayacaktır.",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "İşlem tamamlandığında, talebi gönderdiğiniz e-posta adresine bir onay mesajı gönderilecektir.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "Hesap Silme Sayfasına Git",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "Hesap silme sayfasına yönlendirileceksiniz. Devam etmek istiyor musunuz?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "Bu sayfa açılamıyor. Lütfen internet bağlantınızı kontrol edin.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "Hesap silme sayfasını açarken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

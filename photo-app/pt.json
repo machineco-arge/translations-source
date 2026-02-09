@@ -1291,6 +1291,94 @@
     "translation": "Contactar-nos: Se tiver alguma dúvida sobre estes Termos de Serviço ou a Política de Privacidade, contacte-nos: filmcam36@themachineco.com",
     "sourceHash": "df7319077f909d4191cfffe597524af2"
   },
+  "deleteAccount_titleMobile": {
+    "translation": "Eliminação da conta",
+    "sourceHash": "b18f3d713edd3e2081fe28a7252da7a7"
+  },
+  "deleteAccount_Title": {
+    "translation": "FilmCam36: Experiência analógica - Eliminar conta",
+    "sourceHash": "a464f7f533e14fc07f35599ffc5b2710"
+  },
+  "deleteAccount_developerName": {
+    "translation": "Programador MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.",
+    "sourceHash": "16dc422b9c54b0dd7d09fb772e5dd490"
+  },
+  "deleteAccount_description": {
+    "translation": "Esta página descreve como os utilizadores da aplicação <strong>FilmCam36</strong> (Programador: MEKANİZMA ARGE MÜHENDİSLİK VE YAZILIM A.Ş.) podem solicitar a eliminação da sua conta e dos dados associados.",
+    "sourceHash": "da9655126770f9010bdb3a52975edfbc"
+  },
+  "deleteAccount_stepsTitle": {
+    "translation": "Etapas do pedido de eliminação de conta",
+    "sourceHash": "07e7207b5ecdccf1b58d39441f87428e"
+  },
+  "deleteAccount_step1": {
+    "translation": "Crie uma mensagem de correio eletrónico clicando na ligação de correio eletrónico abaixo.",
+    "sourceHash": "e6eff1066b84899c247d32008e50eb76"
+  },
+  "deleteAccount_step2": {
+    "translation": "Certifique-se de que o assunto da mensagem de correio eletrónico é \"FilmCam36 Account Deletion Request\" (Pedido de eliminação da conta FilmCam36).",
+    "sourceHash": "b18a35a2ea58b3ae3da6bf1e213bfd07"
+  },
+  "deleteAccount_step3": {
+    "translation": "No conteúdo do e-mail, inclua o seu nome de utilizador FilmCam36 e o endereço de e-mail registado, que são necessários para verificarmos a sua conta.",
+    "sourceHash": "575af32d0797ea8642de78d838ad554e"
+  },
+  "deleteAccount_step4": {
+    "translation": "Enviar o correio eletrónico.",
+    "sourceHash": "97fa4e3be6f106893527008034b3a824"
+  },
+  "deleteAccount_requestLink": {
+    "translation": "Clique para enviar o pedido:",
+    "sourceHash": "1555e7ba3f258717cc8129bfc34a87cb"
+  },
+  "deleteAccount_emailLink": {
+    "translation": "arge@themachineco.com",
+    "sourceHash": "5a3bcda751be79dc57b865b67b8fabe9"
+  },
+  "deleteAccount_emailSubject": {
+    "translation": "Pedido de eliminação da conta FilmCam36",
+    "sourceHash": "c3bc7e4a332d43e5222bded29590a8ca"
+  },
+  "deleteAccount_policyTitle": {
+    "translation": "Processo de eliminação e política de dados",
+    "sourceHash": "72b71ccb470171647b6d7e1ea0506355"
+  },
+  "deleteAccount_policy1": {
+    "translation": "Depois de recebermos o seu pedido, as informações fornecidas serão utilizadas para verificar a sua identidade.",
+    "sourceHash": "05628d2967aab40ff9909e87b719720f"
+  },
+  "deleteAccount_policy2": {
+    "translation": "Após a verificação, a sua conta e todos os dados associados serão permanentemente eliminados dos nossos sistemas no prazo de 30 dias.",
+    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+  },
+  "deleteAccount_policy3": {
+    "translation": "Dados a eliminar: A sua conta de utilizador, informações de perfil, todas as actividades que criou e todas as fotografias que carregou para essas actividades.",
+    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+  },
+  "deleteAccount_policy4": {
+    "translation": "Dados a armazenar: Não serão armazenados quaisquer dados pessoais, exceto para cumprimento de obrigações legais ou para fins comerciais legítimos (por exemplo, dados de análise anónimos e agregados).",
+    "sourceHash": "956debbf0b629dff9bdaf761b1823522"
+  },
+  "deleteAccount_policy5": {
+    "translation": "Quando a transação estiver concluída, será enviada uma mensagem de confirmação para o endereço eletrónico para o qual o pedido foi enviado.",
+    "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
+  },
+  "deleteAccount_goToDeleteAccount": {
+    "translation": "Ir para a página de eliminação de conta",
+    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  },
+  "deleteAccount_confirmationMessage": {
+    "translation": "Será redireccionado para a página de eliminação da conta. Deseja continuar?",
+    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+  },
+  "deleteAccount_pageCannotOpen": {
+    "translation": "Esta página não pode ser aberta. Verifique a sua ligação à Internet.",
+    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
+  },
+  "deleteAccount_openPageError": {
+    "translation": "Ocorreu um erro ao abrir a página de eliminação de conta. Tente novamente mais tarde.",
+    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  },
   "_common_photo": {
     "translation": "Fotografia",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
