@@ -1363,21 +1363,25 @@
     "translation": "交易完成后，将向您发送请求的电子邮件地址发送确认信息。",
     "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
   },
-  "deleteAccount_goToDeleteAccount": {
-    "translation": "转到账户删除页面",
-    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  "deleteAccount_deleting": {
+    "translation": "您的帐户将被删除...",
+    "sourceHash": "6d3cc86cb32db9495c7699e6e25dea22"
+  },
+  "deleteAccount_deleteButton": {
+    "translation": "删除我的账户",
+    "sourceHash": "7b149e5a9c58cc5a81d09dfa34d7a6bf"
+  },
+  "deleteAccount_confirmationTitle": {
+    "translation": "账户删除确认",
+    "sourceHash": "eb0c6992c51d08a3a50f458ec4b0a872"
   },
   "deleteAccount_confirmationMessage": {
-    "translation": "您将被重定向到账户删除页面。您想继续吗？",
-    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+    "translation": "您确定要删除账户吗？此操作不可逆转，您的所有数据将被永久删除。",
+    "sourceHash": "d92559501347b74a5ff411c6bacaed0c"
   },
-  "deleteAccount_pageCannotOpen": {
-    "translation": "此页面无法打开。请检查您的网络连接。",
-    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
-  },
-  "deleteAccount_openPageError": {
-    "translation": "打开帐户删除页面时出现错误。请稍后再试。",
-    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  "deleteAccount_deleteError": {
+    "translation": "删除账户时出现错误。请重试。",
+    "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
   "_common_photo": {
     "translation": "照片",

@@ -1363,21 +1363,25 @@
     "translation": "取引が完了すると、リクエストを送信したEメールアドレスに確認メッセージが送信されます。",
     "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
   },
-  "deleteAccount_goToDeleteAccount": {
-    "translation": "アカウント削除ページへ",
-    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  "deleteAccount_deleting": {
+    "translation": "あなたのアカウントは削除されました...",
+    "sourceHash": "6d3cc86cb32db9495c7699e6e25dea22"
+  },
+  "deleteAccount_deleteButton": {
+    "translation": "マイアカウントの削除",
+    "sourceHash": "7b149e5a9c58cc5a81d09dfa34d7a6bf"
+  },
+  "deleteAccount_confirmationTitle": {
+    "translation": "アカウント削除の確認",
+    "sourceHash": "eb0c6992c51d08a3a50f458ec4b0a872"
   },
   "deleteAccount_confirmationMessage": {
-    "translation": "アカウント削除ページにリダイレクトされます。続行しますか？",
-    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+    "translation": "本当にアカウントを削除しますか？このアクションは不可逆的であり、すべてのデータは永久に削除されます。",
+    "sourceHash": "d92559501347b74a5ff411c6bacaed0c"
   },
-  "deleteAccount_pageCannotOpen": {
-    "translation": "このページを開くことができません。インターネット接続を確認してください。",
-    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
-  },
-  "deleteAccount_openPageError": {
-    "translation": "アカウント削除ページを開く際にエラーが発生しました。後でもう一度お試しください。",
-    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  "deleteAccount_deleteError": {
+    "translation": "アカウントの削除にエラーが発生しました。もう一度お試しください。",
+    "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
   "_common_photo": {
     "translation": "写真",

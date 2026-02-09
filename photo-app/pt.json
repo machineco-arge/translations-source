@@ -1363,21 +1363,25 @@
     "translation": "Quando a transação estiver concluída, será enviada uma mensagem de confirmação para o endereço eletrónico para o qual o pedido foi enviado.",
     "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
   },
-  "deleteAccount_goToDeleteAccount": {
-    "translation": "Ir para a página de eliminação de conta",
-    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  "deleteAccount_deleting": {
+    "translation": "A sua conta está a ser eliminada...",
+    "sourceHash": "6d3cc86cb32db9495c7699e6e25dea22"
+  },
+  "deleteAccount_deleteButton": {
+    "translation": "Eliminar a minha conta",
+    "sourceHash": "7b149e5a9c58cc5a81d09dfa34d7a6bf"
+  },
+  "deleteAccount_confirmationTitle": {
+    "translation": "Confirmação de eliminação de conta",
+    "sourceHash": "eb0c6992c51d08a3a50f458ec4b0a872"
   },
   "deleteAccount_confirmationMessage": {
-    "translation": "Será redireccionado para a página de eliminação da conta. Deseja continuar?",
-    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+    "translation": "Tem a certeza de que pretende apagar a sua conta? Esta ação é irreversível e todos os seus dados serão permanentemente apagados.",
+    "sourceHash": "d92559501347b74a5ff411c6bacaed0c"
   },
-  "deleteAccount_pageCannotOpen": {
-    "translation": "Esta página não pode ser aberta. Verifique a sua ligação à Internet.",
-    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
-  },
-  "deleteAccount_openPageError": {
-    "translation": "Ocorreu um erro ao abrir a página de eliminação de conta. Tente novamente mais tarde.",
-    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  "deleteAccount_deleteError": {
+    "translation": "Ocorreu um erro ao eliminar a conta. Por favor, tente novamente.",
+    "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
   "_common_photo": {
     "translation": "Fotografia",

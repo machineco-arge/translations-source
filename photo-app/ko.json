@@ -1363,21 +1363,25 @@
     "translation": "거래가 완료되면 요청을 보낸 이메일 주소로 확인 메시지가 전송됩니다.",
     "sourceHash": "dd02c4950ff8c8ba8cbb67b8fcf966b8"
   },
-  "deleteAccount_goToDeleteAccount": {
-    "translation": "계정 삭제 페이지로 이동",
-    "sourceHash": "cf5371b1da4441af9d276ed181769a58"
+  "deleteAccount_deleting": {
+    "translation": "계정이 삭제 중입니다...",
+    "sourceHash": "6d3cc86cb32db9495c7699e6e25dea22"
+  },
+  "deleteAccount_deleteButton": {
+    "translation": "내 계정 삭제",
+    "sourceHash": "7b149e5a9c58cc5a81d09dfa34d7a6bf"
+  },
+  "deleteAccount_confirmationTitle": {
+    "translation": "계정 삭제 확인",
+    "sourceHash": "eb0c6992c51d08a3a50f458ec4b0a872"
   },
   "deleteAccount_confirmationMessage": {
-    "translation": "계정 삭제 페이지로 리디렉션됩니다. 계속 진행하시겠습니까?",
-    "sourceHash": "927db24ec4282900fb7353149b3a6af6"
+    "translation": "정말 계정을 삭제하시겠습니까? 이 작업은 되돌릴 수 없으며 모든 데이터가 영구적으로 삭제됩니다.",
+    "sourceHash": "d92559501347b74a5ff411c6bacaed0c"
   },
-  "deleteAccount_pageCannotOpen": {
-    "translation": "이 페이지를 열 수 없습니다. 인터넷 연결을 확인하세요.",
-    "sourceHash": "8f2685103ad07f2a4bcde622ab99e271"
-  },
-  "deleteAccount_openPageError": {
-    "translation": "계정 삭제 페이지를 여는 동안 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
-    "sourceHash": "54bbc57e1c432b9c8429437ff04f76dc"
+  "deleteAccount_deleteError": {
+    "translation": "계정을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
+    "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
   "_common_photo": {
     "translation": "사진",
