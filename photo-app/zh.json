@@ -1348,8 +1348,8 @@
     "sourceHash": "05628d2967aab40ff9909e87b719720f"
   },
   "deleteAccount_policy2": {
-    "translation": "验证后，您的账户和所有相关数据将在 30 天内从我们的系统中永久删除。",
-    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+    "translation": "验证后，您的账户和所有相关数据将立即从我们的系统中永久删除。",
+    "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
     "translation": "要删除的数据您的用户账户、个人资料信息、您创建的所有活动以及您上传到这些活动中的所有照片。",

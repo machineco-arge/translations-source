@@ -1348,8 +1348,8 @@
     "sourceHash": "05628d2967aab40ff9909e87b719720f"
   },
   "deleteAccount_policy2": {
-    "translation": "認証後、お客様のアカウントと関連データは30日以内に当社のシステムから永久に削除されます。",
-    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+    "translation": "認証後、お客様のアカウントおよび関連するすべてのデータは、当社のシステムから直ちに永久に削除されます。",
+    "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
     "translation": "削除されるデータあなたのユーザーアカウント、プロフィール情報、作成したすべてのアクティビティ、これらのアクティビティにアップロードしたすべての写真。",

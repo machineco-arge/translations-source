@@ -1348,8 +1348,8 @@
     "sourceHash": "05628d2967aab40ff9909e87b719720f"
   },
   "deleteAccount_policy2": {
-    "translation": "Dopo la verifica, il vostro account e tutti i dati associati saranno eliminati definitivamente dai nostri sistemi entro 30 giorni.",
-    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+    "translation": "Dopo la verifica, il vostro account e tutti i dati associati saranno immediatamente cancellati in modo permanente dai nostri sistemi.",
+    "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
     "translation": "Dati da eliminare: Il vostro account utente, le informazioni del profilo, tutte le attività che avete creato e tutte le foto che avete caricato in queste attività.",

@@ -1348,8 +1348,8 @@
     "sourceHash": "05628d2967aab40ff9909e87b719720f"
   },
   "deleteAccount_policy2": {
-    "translation": "Nach der Überprüfung werden Ihr Konto und alle damit verbundenen Daten innerhalb von 30 Tagen endgültig aus unseren Systemen gelöscht.",
-    "sourceHash": "ae96dff38bc78e6acd0a7703177b1a02"
+    "translation": "Nach der Überprüfung werden Ihr Konto und alle damit verbundenen Daten unverzüglich und dauerhaft aus unseren Systemen gelöscht.",
+    "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
     "translation": "Zu löschende Daten: Ihr Benutzerkonto, Profilinformationen, alle Aktivitäten, die Sie erstellt haben, und alle Fotos, die Sie zu diesen Aktivitäten hochgeladen haben.",
