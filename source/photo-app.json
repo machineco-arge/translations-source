@@ -387,6 +387,12 @@
     "deleteAccount_confirmationMessage": "Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz ve tüm verileriniz kalıcı olarak silinecektir.",
     "deleteAccount_deleteError": "Hesap silinirken bir hata oluştu. Lütfen tekrar deneyin.",
 
+    "_appRating_satisfactionTitle": "Memnun musunuz?",
+    "_appRating_satisfactionMessage": "FilmCam36 deneyiminizden memnun musunuz? Geri bildiriminiz bizim için çok değerli!",
+    "_appRating_feedbackTitle": "Geri Bildirim",
+    "_appRating_feedbackMessage": "Lütfen deneyiminizi geliştirmemize yardımcı olmak için geri bildirimlerinizi paylaşın. Her türlü yorum, öneri veya eleştiri bizim için çok değerlidir.",
+    "_appRating_feedbackPlaceholder": "Geri bildiriminizi buraya yazın...",
+    "_appRating_feedbackSubmit": "Gönder",
 
     "_common_photo": "Foto",
     "_common_saving": "Kaydediliyor...",
