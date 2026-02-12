@@ -1383,6 +1383,30 @@
     "translation": "删除账户时出现错误。请重试。",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_appRating_satisfactionTitle": {
+    "translation": "您满意吗？",
+    "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"
+  },
+  "_appRating_satisfactionMessage": {
+    "translation": "您对 FilmCam36 的使用体验满意吗？ 您的反馈对我们非常宝贵！",
+    "sourceHash": "6cd6e02396ab58ed12bc5827b0835cf2"
+  },
+  "_appRating_feedbackTitle": {
+    "translation": "反馈意见",
+    "sourceHash": "660a7fba17cca8ee2a6404c1fe18c350"
+  },
+  "_appRating_feedbackMessage": {
+    "translation": "请分享您的反馈意见，帮助我们改善您的体验。任何意见、建议或批评对我们来说都非常宝贵。",
+    "sourceHash": "e6c9be80fd0654638c5f535bf91b2917"
+  },
+  "_appRating_feedbackPlaceholder": {
+    "translation": "在此写下您的反馈意见...",
+    "sourceHash": "2c780546b70ca2a8ed7ed8cdecc5ac90"
+  },
+  "_appRating_feedbackSubmit": {
+    "translation": "发送",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

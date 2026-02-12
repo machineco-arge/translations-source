@@ -1383,6 +1383,30 @@
     "translation": "계정을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_appRating_satisfactionTitle": {
+    "translation": "만족하시나요?",
+    "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"
+  },
+  "_appRating_satisfactionMessage": {
+    "translation": "FilmCam36 경험에 만족하십니까? 여러분의 피드백은 저희에게 매우 소중합니다!",
+    "sourceHash": "6cd6e02396ab58ed12bc5827b0835cf2"
+  },
+  "_appRating_feedbackTitle": {
+    "translation": "피드백",
+    "sourceHash": "660a7fba17cca8ee2a6404c1fe18c350"
+  },
+  "_appRating_feedbackMessage": {
+    "translation": "사용자 경험을 개선하는 데 도움이 되는 피드백을 공유해 주세요. 모든 의견, 제안 또는 비판은 매우 소중합니다.",
+    "sourceHash": "e6c9be80fd0654638c5f535bf91b2917"
+  },
+  "_appRating_feedbackPlaceholder": {
+    "translation": "여기에 피드백을 작성하세요...",
+    "sourceHash": "2c780546b70ca2a8ed7ed8cdecc5ac90"
+  },
+  "_appRating_feedbackSubmit": {
+    "translation": "보내기",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

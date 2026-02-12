@@ -1383,6 +1383,30 @@
     "translation": "Une erreur s'est produite lors de la suppression du compte. Veuillez réessayer.",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_appRating_satisfactionTitle": {
+    "translation": "Êtes-vous satisfait ?",
+    "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"
+  },
+  "_appRating_satisfactionMessage": {
+    "translation": "Êtes-vous satisfait de votre expérience avec FilmCam36 ? Vos commentaires nous sont très précieux !",
+    "sourceHash": "6cd6e02396ab58ed12bc5827b0835cf2"
+  },
+  "_appRating_feedbackTitle": {
+    "translation": "Retour d'information",
+    "sourceHash": "660a7fba17cca8ee2a6404c1fe18c350"
+  },
+  "_appRating_feedbackMessage": {
+    "translation": "N'hésitez pas à nous faire part de vos commentaires pour nous aider à améliorer votre expérience. Tous les commentaires, suggestions ou critiques nous sont très précieux.",
+    "sourceHash": "e6c9be80fd0654638c5f535bf91b2917"
+  },
+  "_appRating_feedbackPlaceholder": {
+    "translation": "Écrivez vos commentaires ici...",
+    "sourceHash": "2c780546b70ca2a8ed7ed8cdecc5ac90"
+  },
+  "_appRating_feedbackSubmit": {
+    "translation": "Envoyer",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
   "_common_photo": {
     "translation": "Photo",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

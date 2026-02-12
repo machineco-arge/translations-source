@@ -1383,6 +1383,30 @@
     "translation": "There was an error deleting the account. Please try again.",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_appRating_satisfactionTitle": {
+    "translation": "Are you satisfied?",
+    "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"
+  },
+  "_appRating_satisfactionMessage": {
+    "translation": "Are you satisfied with your FilmCam36 experience? Your feedback is very valuable to us!",
+    "sourceHash": "6cd6e02396ab58ed12bc5827b0835cf2"
+  },
+  "_appRating_feedbackTitle": {
+    "translation": "Feedback",
+    "sourceHash": "660a7fba17cca8ee2a6404c1fe18c350"
+  },
+  "_appRating_feedbackMessage": {
+    "translation": "Please share your feedback to help us improve your experience. Any comments, suggestions or criticism are very valuable to us.",
+    "sourceHash": "e6c9be80fd0654638c5f535bf91b2917"
+  },
+  "_appRating_feedbackPlaceholder": {
+    "translation": "Write your feedback here...",
+    "sourceHash": "2c780546b70ca2a8ed7ed8cdecc5ac90"
+  },
+  "_appRating_feedbackSubmit": {
+    "translation": "Send",
+    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
+  },
   "_common_photo": {
     "translation": "Photo.",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
