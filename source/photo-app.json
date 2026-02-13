@@ -386,6 +386,8 @@
     "deleteAccount_confirmationTitle": "Hesap Silme Onayı",
     "deleteAccount_confirmationMessage": "Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz ve tüm verileriniz kalıcı olarak silinecektir.",
     "deleteAccount_deleteError": "Hesap silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+    "_settings_loginRequiredForAccountTitle": "Giriş Gereklidir",
+    "_settings_loginRequiredForAccountMessage": "Hesap ayarlarını görüntülemek, düzenlemek ve hesap silme işlemi için lütfen giriş yapın.",
 
     "_appRating_satisfactionTitle": "Memnun musunuz?",
     "_appRating_satisfactionMessage": "FilmCam36 deneyiminizden memnun musunuz? Geri bildiriminiz bizim için çok değerli!",
