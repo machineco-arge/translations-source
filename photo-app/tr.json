@@ -1383,6 +1383,14 @@
     "translation": "Hesap silinirken bir hata oluştu. Lütfen tekrar deneyin.",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_settings_loginRequiredForAccountTitle": {
+    "translation": "Giriş Gereklidir",
+    "sourceHash": "e74c922b3bea2051961042e37864106f"
+  },
+  "_settings_loginRequiredForAccountMessage": {
+    "translation": "Hesap ayarlarını görüntülemek, düzenlemek ve hesap silme işlemi için lütfen giriş yapın.",
+    "sourceHash": "2ef73eaadaeaf0eb43327bc5e0d0dbd8"
+  },
   "_appRating_satisfactionTitle": {
     "translation": "Memnun musunuz?",
     "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"

@@ -1383,6 +1383,14 @@
     "translation": "계정을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
     "sourceHash": "323f2e99eca9838324b89a47080befb4"
   },
+  "_settings_loginRequiredForAccountTitle": {
+    "translation": "로그인 필요",
+    "sourceHash": "e74c922b3bea2051961042e37864106f"
+  },
+  "_settings_loginRequiredForAccountMessage": {
+    "translation": "계정 설정을 확인 및 수정하고 계정을 삭제하려면 로그인하세요.",
+    "sourceHash": "2ef73eaadaeaf0eb43327bc5e0d0dbd8"
+  },
   "_appRating_satisfactionTitle": {
     "translation": "만족하시나요?",
     "sourceHash": "c18b1ca76f4f9f61d6da011be6aaf948"
