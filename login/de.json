@@ -195,6 +195,10 @@
     "translation": "Zurücksetzen",
     "sourceHash": "60125da6906e68c9f0da53c66ad49a73"
   },
+  "rotatePhoto": {
+    "translation": "Drehen Sie",
+    "sourceHash": "95c19e0dd97fd5476735cbb2263a0d10"
+  },
   "name": {
     "translation": "Name des Benutzers",
     "sourceHash": "739574e21be8e41e667661b927c94e1e"
