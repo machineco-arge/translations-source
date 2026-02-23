@@ -1,0 +1,34 @@
+{
+  "_notifications_printReminderTitle": {
+    "translation": "C'est l'heure de l'impression !",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Votre rouleau de film pour \" {{bestName}} \" est rempli à 80%. N'oubliez pas de l'envoyer à l'imprimante.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
+  "_notifications_joinRequestTitle": {
+    "translation": "Nouvelle demande de participation",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_joinRequestBody": {
+    "translation": "\" {{email}} \", \" {{activityName}} \" souhaitent participer à votre activité.",
+    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+  },
+  "_notifications_requestApprovedTitle": {
+    "translation": "Votre demande de participation est confirmée !",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_requestApprovedBody": {
+    "translation": "Vous pouvez participer à l'activité \" {{activityName}} \".",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_requestRejectedTitle": {
+    "translation": "Votre demande de participation est rejetée",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_requestRejectedBody": {
+    "translation": "Votre demande de participation à l'activité \" {{activityName}} \" n'a pas été acceptée.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  }
+}

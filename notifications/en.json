@@ -1,0 +1,34 @@
+{
+  "_notifications_printReminderTitle": {
+    "translation": "Print Time!",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Your film roll for \" {{bestName}} \" is 80% full. Don't forget to send it to print.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
+  "_notifications_joinRequestTitle": {
+    "translation": "New Participation Request",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_joinRequestBody": {
+    "translation": "\" {{email}} \", \" {{activityName}} \" would like to participate in your activity.",
+    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+  },
+  "_notifications_requestApprovedTitle": {
+    "translation": "Your Participation Request has been Approved!",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_requestApprovedBody": {
+    "translation": "You can participate in the \" {{activityName}} \" activity.",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_requestRejectedTitle": {
+    "translation": "Your Participation Request Rejected",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_requestRejectedBody": {
+    "translation": "Your request to participate in the activity \" {{activityName}} \" was not accepted.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  }
+}

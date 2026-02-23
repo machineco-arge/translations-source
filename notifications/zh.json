@@ -1,0 +1,34 @@
+{
+  "_notifications_printReminderTitle": {
+    "translation": "打印时间",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "您的 \" {{bestName}} \" 胶卷已满 80%。别忘了把它送到打印机。",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
+  "_notifications_joinRequestTitle": {
+    "translation": "新的参与申请",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_joinRequestBody": {
+    "translation": "\" {{email}} \", \" {{activityName}} \" 希望参加您的活动。",
+    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+  },
+  "_notifications_requestApprovedTitle": {
+    "translation": "您的参与申请已确认！",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_requestApprovedBody": {
+    "translation": "您可以参加 \" {{activityName}} \" 活动。",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_requestRejectedTitle": {
+    "translation": "您的参与申请被拒绝",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_requestRejectedBody": {
+    "translation": "您参加活动 \" {{activityName}} \" 的申请未被接受。",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  }
+}

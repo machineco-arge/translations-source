@@ -1,0 +1,34 @@
+{
+  "_notifications_printReminderTitle": {
+    "translation": "Время печатать!",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Ваш рулон пленки для \" {{bestName}} \" заполнен на 80%. Не забудьте отправить его на печать.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
+  "_notifications_joinRequestTitle": {
+    "translation": "Новая заявка на участие",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_joinRequestBody": {
+    "translation": "\" {{email}} \", \" {{activityName}} \" хотели бы принять участие в вашем мероприятии.",
+    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+  },
+  "_notifications_requestApprovedTitle": {
+    "translation": "Ваша заявка на участие подтверждена!",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_requestApprovedBody": {
+    "translation": "Вы можете принять участие в мероприятии \" {{activityName}} \".",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_requestRejectedTitle": {
+    "translation": "Ваша заявка на участие отклонена",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_requestRejectedBody": {
+    "translation": "Ваш запрос на участие в мероприятии \" {{activityName}} \" не был принят.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_notifications_printReminderTitle": {
+    "translation": "Tempo di stampa!",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Il rotolo di pellicola per \" {{bestName}} \" è pieno all'80%. Non dimenticate di inviarlo alla stampante.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
+  "_notifications_joinRequestTitle": {
+    "translation": "Nuova richiesta di partecipazione",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_joinRequestBody": {
+    "translation": "\" {{email}} \", \" {{activityName}} \" desiderano partecipare alla vostra attività.",
+    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+  },
+  "_notifications_requestApprovedTitle": {
+    "translation": "La sua richiesta di partecipazione è confermata!",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_requestApprovedBody": {
+    "translation": "È possibile partecipare all'attività \" {{activityName}} \".",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_requestRejectedTitle": {
+    "translation": "Richiesta di partecipazione respinta",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_requestRejectedBody": {
+    "translation": "La tua richiesta di partecipazione all'attività \" {{activityName}} \" non è stata accettata.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  }
+}
