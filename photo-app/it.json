@@ -1415,6 +1415,14 @@
     "translation": "Inviare",
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
+  "_notifications_printReminderTitle": {
+    "translation": "Tempo di stampa!",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Il rotolo di pellicola per \" {{bestName}} \" è pieno all'80%. Non dimenticate di inviarlo alla stampante.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"

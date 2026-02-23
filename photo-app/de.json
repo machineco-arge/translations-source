@@ -1415,6 +1415,14 @@
     "translation": "Senden Sie",
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
+  "_notifications_printReminderTitle": {
+    "translation": "Zeit zum Drucken!",
+    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+  },
+  "_notifications_printReminderBody": {
+    "translation": "Ihre Filmrolle für \" {{bestName}} \" ist zu 80% voll. Vergessen Sie nicht, sie an den Drucker zu schicken.",
+    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "a5163fe21f330316158294f4b906f597"
