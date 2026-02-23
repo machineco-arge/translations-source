@@ -396,6 +396,9 @@
     "_appRating_feedbackPlaceholder": "Geri bildiriminizi buraya yazın...",
     "_appRating_feedbackSubmit": "Gönder",
 
+    "_notifications_printReminderTitle": "Baskı Zamanı!",
+    "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
+
     "_common_photo": "Foto",
     "_common_saving": "Kaydediliyor...",
     "_common_save": "Kaydet",
