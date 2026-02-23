@@ -1,0 +1,13 @@
+{
+    "_notifications_printReminderTitle": "Baskı Zamanı!",
+    "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
+
+    "_notifications_joinRequestTitle": "Yeni Katılım İsteği",
+    "_notifications_joinRequestBody": "\"{{email}}\", \"{{activityName}}\" aktivitenize katılmak istiyor.",
+
+    "_notifications_requestApprovedTitle": "Katılım İsteğiniz Onaylandı!",
+    "_notifications_requestApprovedBody": "\"{{activityName}}\" aktivitesine katılabilirsiniz.",
+
+    "_notifications_requestRejectedTitle": "Katılım İsteğiniz Reddedildi",
+    "_notifications_requestRejectedBody": "\"{{activityName}}\" aktivitesine katılım isteğiniz kabul edilmedi."
+}
