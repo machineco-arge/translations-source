@@ -23,6 +23,14 @@
     "translation": "Take your first photo for \" {{bestName}} \".",
     "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
   },
+  "_notifications_albumReadyTitle": {
+    "translation": "Your album is ready! 🎉",
+    "sourceHash": "96e6746138c8090a9b576da66da9b424"
+  },
+  "_notifications_albumReadyBody": {
+    "translation": "Your memories are waiting for you in the album \" {{activityName}} \".",
+    "sourceHash": "f62ecd4b3953714a032a74c1f37245f9"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "New Participation Request",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"

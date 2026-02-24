@@ -23,6 +23,14 @@
     "translation": "\" {{bestName}} \"의 첫 번째 사진을 찍습니다.",
     "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
   },
+  "_notifications_albumReadyTitle": {
+    "translation": "앨범이 준비되었습니다! 🎉",
+    "sourceHash": "96e6746138c8090a9b576da66da9b424"
+  },
+  "_notifications_albumReadyBody": {
+    "translation": "당신의 추억이 앨범 \" {{activityName}} \"에서 여러분을 기다리고 있습니다.",
+    "sourceHash": "f62ecd4b3953714a032a74c1f37245f9"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "신규 참여 요청",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
