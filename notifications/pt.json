@@ -28,8 +28,8 @@
     "sourceHash": "96e6746138c8090a9b576da66da9b424"
   },
   "_notifications_albumReadyBody": {
-    "translation": "As suas recordações estão à sua espera no álbum \" {{activityName}} \".",
-    "sourceHash": "f62ecd4b3953714a032a74c1f37245f9"
+    "translation": "As suas recordações estão à sua espera no álbum \" {{bestName}} \".",
+    "sourceHash": "901b0db5d51cf4214c13be099442a93c"
   },
   "_notifications_joinRequestTitle": {
     "translation": "Novo pedido de participação",
