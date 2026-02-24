@@ -2,6 +2,9 @@
     "_notifications_printReminderTitle": "Baskı Zamanı!",
     "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
 
+    "_notifications_incompleteActivityTitle": "Anılarına Devam Et ✨",
+    "_notifications_incompleteActivityBody": "\"{{bestName}}\" için çekime devam et. Film rulon seni bekliyor.",
+
     "_notifications_joinRequestTitle": "Yeni Katılım İsteği",
     "_notifications_joinRequestBody": "{{email}}, \"{{activityName}}\" aktivitenize katılmak istiyor.",
 
