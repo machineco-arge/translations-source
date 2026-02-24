@@ -8,6 +8,9 @@
     "_notifications_emptyActivityTitle": "Başlamak İçin Harika Bir An ✨",
     "_notifications_emptyActivityBody": "\"{{bestName}}\" için ilk fotoğrafını çek.",
 
+    "_notifications_albumReadyTitle": "Albümün Hazır! 🎉",
+    "_notifications_albumReadyBody": "Anıların \"{{activityName}}\" albümünde seni bekliyor.",
+
     "_notifications_joinRequestTitle": "Yeni Katılım İsteği",
     "_notifications_joinRequestBody": "{{email}} - \"{{activityName}}\" aktivitenize katılmak istiyor.",
 
