@@ -7,6 +7,14 @@
     "translation": "Ihre Filmrolle für \" {{bestName}} \" ist zu 80% voll. Vergessen Sie nicht, sie an den Drucker zu schicken.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "_notifications_incompleteActivityTitle": {
+    "translation": "Setzen Sie Ihre Erinnerungen fort ✨",
+    "sourceHash": "8c75bc54839b7d0e4876c048a30f8095"
+  },
+  "_notifications_incompleteActivityBody": {
+    "translation": "Schießen Sie weiter nach \" {{bestName}} \". Ihre Filmrolle wartet auf Sie.",
+    "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Neuer Teilnahmeantrag",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"

@@ -7,6 +7,14 @@
     "translation": "{{bestName}} \"のフィルムロールが80%いっぱいになりました。プリンターに送るのを忘れないでください。",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "_notifications_incompleteActivityTitle": {
+    "translation": "思い出の続き",
+    "sourceHash": "8c75bc54839b7d0e4876c048a30f8095"
+  },
+  "_notifications_incompleteActivityBody": {
+    "translation": "{{bestName}} \"を撮り続けてください。フィルムがあなたを待っています。",
+    "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "新規参加要請",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"

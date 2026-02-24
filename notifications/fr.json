@@ -7,6 +7,14 @@
     "translation": "Votre rouleau de film pour \" {{bestName}} \" est rempli à 80%. N'oubliez pas de l'envoyer à l'imprimante.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "_notifications_incompleteActivityTitle": {
+    "translation": "Continuez vos souvenirs ✨",
+    "sourceHash": "8c75bc54839b7d0e4876c048a30f8095"
+  },
+  "_notifications_incompleteActivityBody": {
+    "translation": "Continuez à viser \" {{bestName}} \". Votre rouleau de film vous attend.",
+    "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Nouvelle demande de participation",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"

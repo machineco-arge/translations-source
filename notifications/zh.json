@@ -7,6 +7,14 @@
     "translation": "您的 \" {{bestName}} \" 胶卷已满 80%。别忘了把它送到打印机。",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "_notifications_incompleteActivityTitle": {
+    "translation": "延续您的记忆 ✨",
+    "sourceHash": "8c75bc54839b7d0e4876c048a30f8095"
+  },
+  "_notifications_incompleteActivityBody": {
+    "translation": "继续拍摄 \" {{bestName}} \"。您的胶卷正在等着您。",
+    "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "新的参与申请",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"

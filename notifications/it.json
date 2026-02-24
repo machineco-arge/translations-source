@@ -7,6 +7,14 @@
     "translation": "Il rotolo di pellicola per \" {{bestName}} \" è pieno all'80%. Non dimenticate di inviarlo alla stampante.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "_notifications_incompleteActivityTitle": {
+    "translation": "Continua i tuoi ricordi ✨",
+    "sourceHash": "8c75bc54839b7d0e4876c048a30f8095"
+  },
+  "_notifications_incompleteActivityBody": {
+    "translation": "Continuate a girare per \" {{bestName}} \". Il rullo di pellicola vi aspetta.",
+    "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Nuova richiesta di partecipazione",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
