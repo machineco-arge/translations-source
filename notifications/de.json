@@ -15,13 +15,21 @@
     "translation": "Schießen Sie weiter nach \" {{bestName}} \". Ihre Filmrolle wartet auf Sie.",
     "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
   },
+  "_notifications_emptyActivityTitle": {
+    "translation": "Ein großartiger Moment für den Anfang ✨",
+    "sourceHash": "380e831856cf38e5d5e3ae238244b488"
+  },
+  "_notifications_emptyActivityBody": {
+    "translation": "Machen Sie Ihr erstes Foto für \" {{bestName}} \".",
+    "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Neuer Teilnahmeantrag",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}} 0XPLACEHOLDERX möchte Ihrer Aktivität \" {{activityName}} \" beitreten.",
-    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
+    "translation": "{{email}} - \" {{activityName}} \" möchte an Ihrer Aktivität teilnehmen.",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Ihr Teilnahmeantrag ist bestätigt!",

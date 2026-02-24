@@ -15,13 +15,21 @@
     "translation": "继续拍摄 \" {{bestName}} \"。您的胶卷正在等着您。",
     "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
   },
+  "_notifications_emptyActivityTitle": {
+    "translation": "开始的绝佳时刻 ✨",
+    "sourceHash": "380e831856cf38e5d5e3ae238244b488"
+  },
+  "_notifications_emptyActivityBody": {
+    "translation": "为 \" {{bestName}} \"拍摄第一张照片。",
+    "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "新的参与申请",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}} 0XPLACEHOLDERX 想要加入您的活动 \" {{activityName}} \"。",
-    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
+    "translation": "{{email}} - \" {{activityName}} \" 希望参加您的活动。",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "您的参与申请已确认！",

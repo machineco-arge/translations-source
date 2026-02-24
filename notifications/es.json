@@ -15,13 +15,21 @@
     "translation": "Sigue disparando para \" {{bestName}} \". Su rollo de película le está esperando.",
     "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
   },
+  "_notifications_emptyActivityTitle": {
+    "translation": "Un gran momento para empezar ✨",
+    "sourceHash": "380e831856cf38e5d5e3ae238244b488"
+  },
+  "_notifications_emptyActivityBody": {
+    "translation": "Haz tu primera foto para \" {{bestName}} \".",
+    "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Nueva solicitud de participación",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}} 0XPLACEHOLDERX quiere unirse a tu actividad \" {{activityName}} \".",
-    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
+    "translation": "{{email}} - \" {{activityName}} \" desea participar en su actividad.",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Su solicitud de participación ha sido confirmada.",

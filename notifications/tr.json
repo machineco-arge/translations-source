@@ -15,13 +15,21 @@
     "translation": "\"{{bestName}}\" için çekime devam et. Film rulon seni bekliyor.",
     "sourceHash": "f4771341f16a63a8023297bfacc6bef4"
   },
+  "_notifications_emptyActivityTitle": {
+    "translation": "Başlamak İçin Harika Bir An ✨",
+    "sourceHash": "380e831856cf38e5d5e3ae238244b488"
+  },
+  "_notifications_emptyActivityBody": {
+    "translation": "\"{{bestName}}\" için ilk fotoğrafını çek.",
+    "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
+  },
   "_notifications_joinRequestTitle": {
     "translation": "Yeni Katılım İsteği",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}}, \"{{activityName}}\" aktivitenize katılmak istiyor.",
-    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
+    "translation": "{{email}} - \"{{activityName}}\" aktivitenize katılmak istiyor.",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Katılım İsteğiniz Onaylandı!",
