@@ -5,8 +5,11 @@
     "_notifications_incompleteActivityTitle": "Anılarına Devam Et ✨",
     "_notifications_incompleteActivityBody": "\"{{bestName}}\" için çekime devam et. Film rulon seni bekliyor.",
 
+    "_notifications_emptyActivityTitle": "Başlamak İçin Harika Bir An ✨",
+    "_notifications_emptyActivityBody": "\"{{bestName}}\" için ilk fotoğrafını çek.",
+
     "_notifications_joinRequestTitle": "Yeni Katılım İsteği",
-    "_notifications_joinRequestBody": "{{email}}, \"{{activityName}}\" aktivitenize katılmak istiyor.",
+    "_notifications_joinRequestBody": "{{email}} - \"{{activityName}}\" aktivitenize katılmak istiyor.",
 
     "_notifications_requestApprovedTitle": "Katılım İsteğiniz Onaylandı!",
     "_notifications_requestApprovedBody": "\"{{activityName}}\" aktivitesine katılabilirsiniz.",
