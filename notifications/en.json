@@ -12,8 +12,8 @@
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "\" {{email}} \", \" {{activityName}} \" would like to participate in your activity.",
-    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+    "translation": "{{email}} 0XPLACEHOLDERX wants to join your activity \" {{activityName}} \".",
+    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Your Participation Request has been Approved!",

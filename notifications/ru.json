@@ -12,8 +12,8 @@
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "\" {{email}} \", \" {{activityName}} \" хотели бы принять участие в вашем мероприятии.",
-    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+    "translation": "{{email}} 0XPLACEHOLDERX хочет присоединиться к вашей активности \" {{activityName}} \".",
+    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Ваша заявка на участие подтверждена!",

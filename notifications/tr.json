@@ -12,8 +12,8 @@
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "\"{{email}}\", \"{{activityName}}\" aktivitenize katılmak istiyor.",
-    "sourceHash": "8b35889a2c6345cfa1fc03c755637941"
+    "translation": "{{email}}, \"{{activityName}}\" aktivitenize katılmak istiyor.",
+    "sourceHash": "233ce155138f37de21f98123eefc1f8f"
   },
   "_notifications_requestApprovedTitle": {
     "translation": "Katılım İsteğiniz Onaylandı!",
