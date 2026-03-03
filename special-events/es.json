@@ -1,0 +1,46 @@
+{
+  "events": {
+    "evt_tuborg_harbiye_1": {
+      "translation": "Bienvenido el verano con Tuborg",
+      "sourceHash": "858675f4bf1a509b9785766fc6a4e1dd"
+    },
+    "evt_pepsi_istanbul_1": {
+      "translation": "Momentos Pepsix",
+      "sourceHash": "748d3591e6e27968a42396731adaff48"
+    },
+    "evt_pepsi_istanbul_2": {
+      "translation": "Pepsi Beach Coolness",
+      "sourceHash": "59548b630e9d936c27bc49e901f44d23"
+    },
+    "evt_tuborg_kadikoy_1": {
+      "translation": "Refréscate con Tuborg",
+      "sourceHash": "8018264e3adb2e01365321027fbf24ef"
+    },
+    "evt_tuborg_kadikoy_2": {
+      "translation": "Final de Copa con Tuborg",
+      "sourceHash": "dd9fd8eb16639d723c71cb130f217a2f"
+    }
+  },
+  "cameras": {
+    "evt_tuborg_harbiye_1_camera": {
+      "translation": "Cámara Tuborg",
+      "sourceHash": "8f45e3999a047e877e0849295ad9d474"
+    },
+    "evt_pepsi_istanbul_1_camera": {
+      "translation": "Cámara Pepsix Energy",
+      "sourceHash": "c1294f89bce0a4cfc47506a61e5e918f"
+    },
+    "evt_pepsi_istanbul_2_camera": {
+      "translation": "Cámara de verano Pepsix",
+      "sourceHash": "dd0356ca5b055b305fa1fa92ae21ec26"
+    },
+    "evt_tuborg_kadikoy_1_camera": {
+      "translation": "Cámara de hielo",
+      "sourceHash": "a48577f8bf117b5500b3c764e108b8b5"
+    },
+    "evt_tuborg_kadikoy_2_camera": {
+      "translation": "Cámara del estadio",
+      "sourceHash": "f5a1f77a7906c265284b56270de5acb4"
+    }
+  }
+}
