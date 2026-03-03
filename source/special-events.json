@@ -1,0 +1,16 @@
+{
+    "events": {
+        "evt_tuborg_harbiye_1": "Tuborg ile Yaza Hoşgeldin",
+        "evt_pepsi_istanbul_1": "Pepsix Anları",
+        "evt_pepsi_istanbul_2": "Pepsi Sahil Serinliği",
+        "evt_tuborg_kadikoy_1": "Tuborg ile Serinle",
+        "evt_tuborg_kadikoy_2": "Tuborg ile Kupa Finali"
+    },
+    "cameras": {
+        "evt_tuborg_harbiye_1_camera": "Tuborg Kamerası",
+        "evt_pepsi_istanbul_1_camera": "Pepsix Enerji Kamerası",
+        "evt_pepsi_istanbul_2_camera": "Pepsix Yaz Kamerası",
+        "evt_tuborg_kadikoy_1_camera": "Buz Kamerası",
+        "evt_tuborg_kadikoy_2_camera": "Stad Kamerası"
+    }
+}

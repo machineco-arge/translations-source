@@ -19,7 +19,8 @@
     "translate:filters": "npm run translate -- --source ./source/filters.en.json --output ./dist/filters",
     "translate:onboardings": "npm run translate -- --source ./source/onboardings.en.json --output ./dist/onboardings",
     "translate:notifications": "npm run translate -- --source ./source/notifications.json --output ./dist/notifications",
-    "translate:all": "npm run translate:login && npm run translate:photo-app && npm run translate:filters && npm run translate:onboardings && npm run translate:notifications"
+    "translate:special-events": "npm run translate -- --source ./source/special-events.json --output ./dist/special-events",
+    "translate:all": "npm run translate:login && npm run translate:photo-app && npm run translate:filters && npm run translate:onboardings && npm run translate:notifications && npm run translate:special-events"
   },
   "files": [
     "source"
