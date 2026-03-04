@@ -42,5 +42,9 @@
       "translation": "Стадионная камера",
       "sourceHash": "f5a1f77a7906c265284b56270de5acb4"
     }
+  },
+  "specialEventsTitle": {
+    "translation": "Специальные мероприятия",
+    "sourceHash": "cf8ba24b495737ab2fb1f0d6c56d21d9"
   }
 }
