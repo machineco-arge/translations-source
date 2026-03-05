@@ -189,6 +189,8 @@
     "increaseCreditSuccess": "Kredi bakiyeniz başarıyla artırıldı.",
     "proSubscriptionPrompt": "Pro Üyelik satın alarak, kredi kazanabilirsiniz.",
 
+    "_selectFilm_loginRequiredToCreateActivityTitle": "Giriş Yapmak Gerekli",
+    "_selectFilm_loginRequiredToCreateActivityMessage": "Bu aktiviteyi oluşturmak için giriş yapmalısınız.",
     "_selectFilm_filmCreateWaitingTimeAlertTitle": "Film Rulo Hakkın Bitti",
     "_selectFilm_filmCreateWaitingTimeAlertMessage": "Bekleme süresi {{remainingMinutes}} dakika.",
     "_selectFilm_filmCreateActivityAlertTitle": "Aktivite Oluşturuluyor",
