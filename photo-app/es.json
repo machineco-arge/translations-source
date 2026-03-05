@@ -175,6 +175,14 @@
     "translation": "Álbumes especiales",
     "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
   },
+  "_albumScreen_editAlbumTitle": {
+    "translation": "Editar título del álbum",
+    "sourceHash": "1384435d38c425a26d835cd3e2c275fd"
+  },
+  "_albumScreen_albumTitlePlaceholder": {
+    "translation": "Introduce el título...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

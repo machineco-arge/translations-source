@@ -175,6 +175,14 @@
     "translation": "Album speciali",
     "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
   },
+  "_albumScreen_editAlbumTitle": {
+    "translation": "Modifica del titolo dell'album",
+    "sourceHash": "1384435d38c425a26d835cd3e2c275fd"
+  },
+  "_albumScreen_albumTitlePlaceholder": {
+    "translation": "Inserire il titolo...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

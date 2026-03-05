@@ -175,6 +175,14 @@
     "translation": "特别专辑",
     "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
   },
+  "_albumScreen_editAlbumTitle": {
+    "translation": "编辑相册标题",
+    "sourceHash": "1384435d38c425a26d835cd3e2c275fd"
+  },
+  "_albumScreen_albumTitlePlaceholder": {
+    "translation": "输入标题...",
+    "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
