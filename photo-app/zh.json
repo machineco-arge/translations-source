@@ -691,6 +691,14 @@
     "translation": "通过购买专业会员资格，您可以获得积分。",
     "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
+  "_selectFilm_loginRequiredToCreateActivityTitle": {
+    "translation": "需要登录",
+    "sourceHash": "36ccaa3c7a03143779eac361c313715d"
+  },
+  "_selectFilm_loginRequiredToCreateActivityMessage": {
+    "translation": "您必须登录才能创建此活动。",
+    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "您的胶卷权利用完了",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

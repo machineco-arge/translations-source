@@ -691,6 +691,14 @@
     "translation": "프로 멤버십을 구매하면 크레딧을 적립할 수 있습니다.",
     "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
+  "_selectFilm_loginRequiredToCreateActivityTitle": {
+    "translation": "로그인 필요",
+    "sourceHash": "36ccaa3c7a03143779eac361c313715d"
+  },
+  "_selectFilm_loginRequiredToCreateActivityMessage": {
+    "translation": "이 활동을 만들려면 로그인해야 합니다.",
+    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "필름 롤 권한이 부족합니다.",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"

@@ -691,6 +691,14 @@
     "translation": "Приобретая членство Pro, вы можете зарабатывать кредиты.",
     "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
+  "_selectFilm_loginRequiredToCreateActivityTitle": {
+    "translation": "Требуется вход",
+    "sourceHash": "36ccaa3c7a03143779eac361c313715d"
+  },
+  "_selectFilm_loginRequiredToCreateActivityMessage": {
+    "translation": "Вы должны войти в систему, чтобы создать эту активность.",
+    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+  },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "У вас закончились права на рулон пленки",
     "sourceHash": "6a79baebdba3df3594e88ab3bbaf2f5d"
