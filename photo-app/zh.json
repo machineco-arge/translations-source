@@ -271,6 +271,14 @@
     "translation": "选择交付时间",
     "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
   },
+  "_filmScreen_specialActivitiesSection": {
+    "translation": "特别活动",
+    "sourceHash": "2f96950c38146317a97619ca2facae56"
+  },
+  "_filmScreen_myActivitiesSection": {
+    "translation": "我的活动",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "参加活动",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"

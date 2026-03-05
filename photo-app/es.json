@@ -271,6 +271,14 @@
     "translation": "Seleccionar plazo de entrega",
     "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
   },
+  "_filmScreen_specialActivitiesSection": {
+    "translation": "Actividades especiales",
+    "sourceHash": "2f96950c38146317a97619ca2facae56"
+  },
+  "_filmScreen_myActivitiesSection": {
+    "translation": "Mis actividades",
+    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "Únete a la actividad",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
