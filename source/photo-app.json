@@ -70,6 +70,8 @@
     "_filmScreen_printRequestFailedMessage": "Baskı isteği başarısız oldu.",
     "_filmScreen_activityNotActiveErrorMessage": "Bu kamera artık aktif değil.",
     "_filmScreen_selectDevelopmentTime": "Teslim Süresi Seçin",
+    "_filmScreen_specialActivitiesSection": "Özel Aktivitelerim",
+    "_filmScreen_myActivitiesSection": "Aktivitelerim",
 
 
     "_filmScreen_joinActivityTitle": "Aktiviteye Katıl",
