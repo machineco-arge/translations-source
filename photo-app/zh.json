@@ -171,6 +171,10 @@
     "translation": "登录",
     "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
+  "_albumScreen_specialAlbumsTab": {
+    "translation": "特别专辑",
+    "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

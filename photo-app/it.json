@@ -171,6 +171,10 @@
     "translation": "Accedi",
     "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
+  "_albumScreen_specialAlbumsTab": {
+    "translation": "Album speciali",
+    "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

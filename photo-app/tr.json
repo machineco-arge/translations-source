@@ -171,6 +171,10 @@
     "translation": "Giriş Yap",
     "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
+  "_albumScreen_specialAlbumsTab": {
+    "translation": "Özel Albümler",
+    "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
