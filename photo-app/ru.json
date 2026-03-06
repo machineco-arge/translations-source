@@ -183,6 +183,30 @@
     "translation": "Введите название...",
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
+  "_albumScreen_printSubmitSuccess": {
+    "translation": "Фотографии были отправлены в киоск.",
+    "sourceHash": "4fd75fb1152dd256d0ebdc5b8053b094"
+  },
+  "_albumScreen_printSubmitError": {
+    "translation": "Отправка не удалась. Пожалуйста, попробуйте еще раз.",
+    "sourceHash": "27fccacc119caaedab7d7a3da6876309"
+  },
+  "_albumScreen_printNoRightsTitle": {
+    "translation": "Без прав",
+    "sourceHash": "15569c3b338623883a5a44cf4e8d14cb"
+  },
+  "_albumScreen_printPromoInvalid": {
+    "translation": "Недействительный или использованный промокод.",
+    "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
+  },
+  "_albumScreen_printPromoMessage": {
+    "translation": "Вы можете получить отпечаток, введя промокод.",
+    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+  },
+  "_albumScreen_printPromoPlaceholder": {
+    "translation": "Введите промокод",
+    "sourceHash": "dca1064b773478e1724ce693e8411077"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Рулон пленки полон, можно отправлять на печать",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

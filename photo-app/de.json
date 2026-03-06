@@ -183,6 +183,30 @@
     "translation": "Geben Sie den Titel ein...",
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
+  "_albumScreen_printSubmitSuccess": {
+    "translation": "Die Fotos wurden an den Kiosk geschickt.",
+    "sourceHash": "4fd75fb1152dd256d0ebdc5b8053b094"
+  },
+  "_albumScreen_printSubmitError": {
+    "translation": "Einreichung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "sourceHash": "27fccacc119caaedab7d7a3da6876309"
+  },
+  "_albumScreen_printNoRightsTitle": {
+    "translation": "Keine Rechte mehr",
+    "sourceHash": "15569c3b338623883a5a44cf4e8d14cb"
+  },
+  "_albumScreen_printPromoInvalid": {
+    "translation": "Ungültiger oder benutzter Aktionscode.",
+    "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
+  },
+  "_albumScreen_printPromoMessage": {
+    "translation": "Sie können einen Ausdruck erhalten, indem Sie Ihren Aktionscode eingeben.",
+    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+  },
+  "_albumScreen_printPromoPlaceholder": {
+    "translation": "Promo-Code eingeben",
+    "sourceHash": "dca1064b773478e1724ce693e8411077"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Die Filmrolle ist voll, Sie können sie zum Drucken schicken.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

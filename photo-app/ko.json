@@ -183,6 +183,30 @@
     "translation": "제목 입력...",
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
+  "_albumScreen_printSubmitSuccess": {
+    "translation": "사진이 키오스크로 전송되었습니다.",
+    "sourceHash": "4fd75fb1152dd256d0ebdc5b8053b094"
+  },
+  "_albumScreen_printSubmitError": {
+    "translation": "제출하지 못했습니다. 다시 시도해 주세요.",
+    "sourceHash": "27fccacc119caaedab7d7a3da6876309"
+  },
+  "_albumScreen_printNoRightsTitle": {
+    "translation": "남은 권리 없음",
+    "sourceHash": "15569c3b338623883a5a44cf4e8d14cb"
+  },
+  "_albumScreen_printPromoInvalid": {
+    "translation": "유효하지 않거나 사용된 프로모션 코드입니다.",
+    "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
+  },
+  "_albumScreen_printPromoMessage": {
+    "translation": "프로모션 코드를 입력하면 인쇄물을 받을 수 있습니다.",
+    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+  },
+  "_albumScreen_printPromoPlaceholder": {
+    "translation": "프로모션 코드 입력",
+    "sourceHash": "dca1064b773478e1724ce693e8411077"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
