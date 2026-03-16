@@ -18,5 +18,21 @@
     "_notifications_requestApprovedBody": "\"{{activityName}}\" aktivitesine katılabilirsiniz.",
 
     "_notifications_requestRejectedTitle": "Katılım İsteğiniz Reddedildi",
-    "_notifications_requestRejectedBody": "\"{{activityName}}\" aktivitesine katılım isteğiniz kabul edilmedi."
+    "_notifications_requestRejectedBody": "\"{{activityName}}\" aktivitesine katılım isteğiniz kabul edilmedi.",
+
+    "_notifications_specialJoinRequestTitle": "Yeni Katılım İsteği",
+    "_notifications_specialJoinRequestBody": "{{email}} - \"{{activityName}}\" aktivitenize katılmak istiyor.",
+
+    "_notifications_specialRequestApprovedTitle": "Katılım İsteğiniz Onaylandı!",
+    "_notifications_specialRequestApprovedBody": "\"{{activityName}}\" aktivitesine katılabilirsiniz.",
+
+    "_notifications_specialRequestRejectedTitle": "Katılım İsteğiniz Reddedildi",
+    "_notifications_specialRequestRejectedBody": "\"{{activityName}}\" aktivitesine katılım isteğiniz kabul edilmedi.",
+
+    "_notifications_specialParticipantRemovedTitle": "Aktiviteden Çıkarıldınız",
+    "_notifications_specialParticipantRemovedBody": "\"{{activityName}}\" aktivitesinden çıkarıldınız.",
+
+    "_notifications_specialPhotosReadyTitle": "Fotoğraflar Hazır",
+    "_notifications_specialPhotosReadyBody": "\"{{activityName}}\" - Fotoğraflar neredeyse hazır."
+
 }
