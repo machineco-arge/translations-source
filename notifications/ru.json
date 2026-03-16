@@ -54,5 +54,45 @@
   "_notifications_requestRejectedBody": {
     "translation": "Ваш запрос на участие в мероприятии \" {{activityName}} \" не был принят.",
     "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialJoinRequestTitle": {
+    "translation": "Новая заявка на участие",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_specialJoinRequestBody": {
+    "translation": "{{email}} - \" {{activityName}} \" хочет принять участие в вашей деятельности.",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+  },
+  "_notifications_specialRequestApprovedTitle": {
+    "translation": "Ваша заявка на участие подтверждена!",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_specialRequestApprovedBody": {
+    "translation": "Вы можете принять участие в мероприятии \" {{activityName}} \".",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_specialRequestRejectedTitle": {
+    "translation": "Ваша заявка на участие отклонена",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_specialRequestRejectedBody": {
+    "translation": "Ваш запрос на участие в мероприятии \" {{activityName}} \" не был принят.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialParticipantRemovedTitle": {
+    "translation": "Вы отстранены от участия в мероприятии",
+    "sourceHash": "32414dcb3004863c8ad8b066de4feeb6"
+  },
+  "_notifications_specialParticipantRemovedBody": {
+    "translation": "Вы были удалены из активности \" {{activityName}} \".",
+    "sourceHash": "519b3bc50945e03f47921dff0eeaf695"
+  },
+  "_notifications_specialPhotosReadyTitle": {
+    "translation": "Готовые фотографии",
+    "sourceHash": "c5a5e62e5a63295a4f8a10a4fbf50b81"
+  },
+  "_notifications_specialPhotosReadyBody": {
+    "translation": "\" {{activityName}} \" - Фотографии почти готовы.",
+    "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
   }
 }

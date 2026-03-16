@@ -54,5 +54,45 @@
   "_notifications_requestRejectedBody": {
     "translation": "Tu solicitud para participar en la actividad \" {{activityName}} \" no ha sido aceptada.",
     "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialJoinRequestTitle": {
+    "translation": "Nueva solicitud de participación",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_specialJoinRequestBody": {
+    "translation": "{{email}} - \" {{activityName}} \" desea participar en su actividad.",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+  },
+  "_notifications_specialRequestApprovedTitle": {
+    "translation": "Su solicitud de participación ha sido confirmada.",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_specialRequestApprovedBody": {
+    "translation": "Puede participar en la actividad \" {{activityName}} \".",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_specialRequestRejectedTitle": {
+    "translation": "Rechazada su solicitud de participación",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_specialRequestRejectedBody": {
+    "translation": "Tu solicitud para participar en la actividad \" {{activityName}} \" no ha sido aceptada.",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialParticipantRemovedTitle": {
+    "translation": "Se le excluye de la actividad",
+    "sourceHash": "32414dcb3004863c8ad8b066de4feeb6"
+  },
+  "_notifications_specialParticipantRemovedBody": {
+    "translation": "Has sido eliminado de la actividad \" {{activityName}} \".",
+    "sourceHash": "519b3bc50945e03f47921dff0eeaf695"
+  },
+  "_notifications_specialPhotosReadyTitle": {
+    "translation": "Fotos listas",
+    "sourceHash": "c5a5e62e5a63295a4f8a10a4fbf50b81"
+  },
+  "_notifications_specialPhotosReadyBody": {
+    "translation": "\" {{activityName}} \" - Las fotos están casi listas.",
+    "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
   }
 }

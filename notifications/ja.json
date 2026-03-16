@@ -54,5 +54,45 @@
   "_notifications_requestRejectedBody": {
     "translation": "アクティビティ「 {{activityName}} 」への参加リクエストは受理されませんでした。",
     "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialJoinRequestTitle": {
+    "translation": "新規参加要請",
+    "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
+  },
+  "_notifications_specialJoinRequestBody": {
+    "translation": "{{email}} - \" {{activityName}} \" はあなたの活動に参加したいと考えています。",
+    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+  },
+  "_notifications_specialRequestApprovedTitle": {
+    "translation": "参加要請が確認されました！",
+    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+  },
+  "_notifications_specialRequestApprovedBody": {
+    "translation": "{{activityName}} 」の活動に参加できます。",
+    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+  },
+  "_notifications_specialRequestRejectedTitle": {
+    "translation": "参加申請が却下されました",
+    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+  },
+  "_notifications_specialRequestRejectedBody": {
+    "translation": "アクティビティ「 {{activityName}} 」への参加リクエストは受理されませんでした。",
+    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+  },
+  "_notifications_specialParticipantRemovedTitle": {
+    "translation": "活動から除外される",
+    "sourceHash": "32414dcb3004863c8ad8b066de4feeb6"
+  },
+  "_notifications_specialParticipantRemovedBody": {
+    "translation": "あなたはアクティビティ \" {{activityName}} \" から削除されました。",
+    "sourceHash": "519b3bc50945e03f47921dff0eeaf695"
+  },
+  "_notifications_specialPhotosReadyTitle": {
+    "translation": "写真の準備",
+    "sourceHash": "c5a5e62e5a63295a4f8a10a4fbf50b81"
+  },
+  "_notifications_specialPhotosReadyBody": {
+    "translation": "\" {{activityName}} \" - 写真はもうすぐ準備できます。",
+    "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
   }
 }
