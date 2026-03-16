@@ -27,6 +27,14 @@
     "translation": "사진 삭제",
     "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
   },
+  "_albumScreen_photoCount": {
+    "translation": "사진",
+    "sourceHash": "a7763f6dc753b570d64e5b2f22dbcdf0"
+  },
+  "_albumScreen_photosSelected": {
+    "translation": "선택한 사진",
+    "sourceHash": "7b9eb0e6f6dbfcba698ea96a71d9d3cd"
+  },
   "_albumScreen_deletePhotoAlertMessage": {
     "translation": "이 사진을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
@@ -38,6 +46,10 @@
   "_albumScreen_selectAllPhotos": {
     "translation": "모두 선택",
     "sourceHash": "c6ef1ab31c91452ae022d25edeb6e498"
+  },
+  "_albumScreen_select": {
+    "translation": "선택",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
   },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",

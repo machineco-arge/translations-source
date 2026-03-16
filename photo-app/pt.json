@@ -27,6 +27,14 @@
     "translation": "Apagar fotografia",
     "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
   },
+  "_albumScreen_photoCount": {
+    "translation": "Foto",
+    "sourceHash": "a7763f6dc753b570d64e5b2f22dbcdf0"
+  },
+  "_albumScreen_photosSelected": {
+    "translation": "Fotografias selecionadas",
+    "sourceHash": "7b9eb0e6f6dbfcba698ea96a71d9d3cd"
+  },
   "_albumScreen_deletePhotoAlertMessage": {
     "translation": "Tem a certeza de que pretende apagar esta fotografia? Esta ação não pode ser anulada.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
@@ -38,6 +46,10 @@
   "_albumScreen_selectAllPhotos": {
     "translation": "Selecionar tudo",
     "sourceHash": "c6ef1ab31c91452ae022d25edeb6e498"
+  },
+  "_albumScreen_select": {
+    "translation": "Selecionar",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
   },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Ocorreu um erro ao apagar a fotografia. Tente novamente.",

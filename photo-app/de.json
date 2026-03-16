@@ -27,6 +27,14 @@
     "translation": "Foto löschen",
     "sourceHash": "550fdf62ac6c2445667c567a34faa3ca"
   },
+  "_albumScreen_photoCount": {
+    "translation": "Foto",
+    "sourceHash": "a7763f6dc753b570d64e5b2f22dbcdf0"
+  },
+  "_albumScreen_photosSelected": {
+    "translation": "Ausgewählte Fotos",
+    "sourceHash": "7b9eb0e6f6dbfcba698ea96a71d9d3cd"
+  },
   "_albumScreen_deletePhotoAlertMessage": {
     "translation": "Sind Sie sicher, dass Sie dieses Foto löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
     "sourceHash": "27f3742cadc88a069cb50512446c646f"
@@ -38,6 +46,10 @@
   "_albumScreen_selectAllPhotos": {
     "translation": "Alle auswählen",
     "sourceHash": "c6ef1ab31c91452ae022d25edeb6e498"
+  },
+  "_albumScreen_select": {
+    "translation": "Wählen Sie",
+    "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
   },
   "_albumScreen_deletePhotoFailedAlertMessage": {
     "translation": "Beim Löschen des Fotos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
