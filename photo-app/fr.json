@@ -143,6 +143,10 @@
     "translation": "La vidéo est en cours de préparation...",
     "sourceHash": "01cd5d332fce43da904d501a0dcc1755"
   },
+  "_albumScreen_video": {
+    "translation": "Vidéo",
+    "sourceHash": "34e2d1989a1dbf75cd631596133ee5ee"
+  },
   "_albumScreen_descriptionPreparingVideo": {
     "translation": "Veuillez patienter",
     "sourceHash": "761899b0334c029b5154a1b89be6e7ad"
