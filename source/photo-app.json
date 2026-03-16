@@ -36,6 +36,7 @@
     "_albumScreen_downloadingAlbum": "Albüm İndiriliyor",
     "_albumScreen_downloadAlbumAccessibility": "Albümün tamamını indir",
     "_albumScreen_videoPreparing": "Video hazırlanıyor...",
+    "_albumScreen_video": "Video",
     "_albumScreen_descriptionPreparingVideo": "Lütfen bekleyin",
     "_albumScreen_noPhotosAvaibleForSlideshow": "Slayt gösterisi için fotoğraf yok.",
     "_albumScreen_errorLoadingPhoto": "Fotoğraf yüklenirken bir hata oluştu.",
