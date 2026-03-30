@@ -187,10 +187,6 @@
     "translation": "Iniciar sesión",
     "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
-  "_albumScreen_specialAlbumsTab": {
-    "translation": "Álbumes especiales",
-    "sourceHash": "5c87c882bd72ffbd36d30e406fcbe854"
-  },
   "_albumScreen_editAlbumTitle": {
     "translation": "Editar título del álbum",
     "sourceHash": "1384435d38c425a26d835cd3e2c275fd"
@@ -222,6 +218,38 @@
   "_albumScreen_printPromoPlaceholder": {
     "translation": "Introduzca el código promocional",
     "sourceHash": "dca1064b773478e1724ce693e8411077"
+  },
+  "_albumScreen_tabAll": {
+    "translation": "Todos",
+    "sourceHash": "ff12f847c070f2f1ed0f616ab16d6753"
+  },
+  "_albumScreen_tabSpecial": {
+    "translation": "Especial",
+    "sourceHash": "4cc8aa65674b1ed2686c59ffa9a46024"
+  },
+  "_albumScreen_specialEmptyTitle": {
+    "translation": "AÚN NO HAY ÁLBUM ESPECIAL",
+    "sourceHash": "025bf7e634945668624908f6e8754692"
+  },
+  "_albumScreen_specialEmptyDescription": {
+    "translation": "Saca un rollo y envíalo al laboratorio. Cuando terminen de imprimirlo, tu álbum especial aparecerá aquí.",
+    "sourceHash": "5ec01e6f5ecc21b46ec15fa1e8ff0a75"
+  },
+  "_albumScreen_emptyStateTitle": {
+    "translation": "AÚN NO HAY ÁLBUM",
+    "sourceHash": "9d408c975309ddee399977c697c33681"
+  },
+  "_albumScreen_emptyStateDescription": {
+    "translation": "Saca un rollo y envíalo al laboratorio. Tu álbum aparecerá aquí después de la impresión.",
+    "sourceHash": "5bcd4fd8d708fecf657ff570733b23fd"
+  },
+  "_albumScreen_goToMyRolls": {
+    "translation": "Ir a Mis Rollos",
+    "sourceHash": "5bce0f0b513cf1cc92207efb032e064f"
+  },
+  "_albumScreen_screenTitle": {
+    "translation": "ALBUMES",
+    "sourceHash": "ba35ee8ebd9bac3a28adffe13d6ac4b7"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
