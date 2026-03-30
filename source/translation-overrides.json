@@ -16,5 +16,12 @@
             "_onboarding_home_title_3": "Çekim Sayısı",
             "_onboarding_films_subtitle_4": "Beklemek istemiyor musunuz?\nBaskıyı hızlandırın"
         }
+    },
+    "photo-app": {
+        "en": {
+            "_albumScreen_specialEmptyDescription": "Complete a roll and send it to the lab. Your special album will appear here once developed.",
+            "_albumScreen_emptyStateDescription": "Complete a roll and send it to the lab. Your album will appear here once developed.",
+            "_goToMyRolls": "Go to My Rolls"
+        }
     }
 }

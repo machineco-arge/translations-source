@@ -47,7 +47,6 @@
     "_albumScreen_confirmDeleteVideo": "Bu video silinecek. Emin misiniz?",
     "_albumScreen_loginRequired_loginMessage": "Albüm fotoğraflarınıza erişmek için lütfen giriş yapın.",
     "_albumScreen_loginRequired_login": "Giriş Yap",
-    "_albumScreen_specialAlbumsTab": "Özel Albümler",
     "_albumScreen_editAlbumTitle": "Albüm Başlığını Düzenle",
     "_albumScreen_albumTitlePlaceholder": "Başlık girin...",
     "_albumScreen_printSubmitSuccess": "Fotoğraflar kiosk'a gönderildi.",
@@ -56,6 +55,15 @@
     "_albumScreen_printPromoInvalid": "Geçersiz veya kullanılmış promosyon kodu.",
     "_albumScreen_printPromoMessage": "Promosyon kodunuzu girerek baskı hakkı kazanabilirsiniz.",
     "_albumScreen_printPromoPlaceholder": "Promosyon kodu girin",
+    "_albumScreen_tabAll": "Tümü",
+    "_albumScreen_tabSpecial": "Özel",
+    "_albumScreen_specialEmptyTitle": "HENÜZ ÖZEL ALBÜM YOK",
+    "_albumScreen_specialEmptyDescription": "Bir rulo çekin ve laboratuvara gönderin. Baskıları bittiğinde özel albümünüz burada görünecektir.",
+    "_albumScreen_emptyStateTitle": "HENÜZ ALBÜM YOK",
+    "_albumScreen_emptyStateDescription": "Bir rulo çekin ve laboratuvara gönderin. Albümünüz, baskı yapıldıktan sonra burada görünecektir.",
+    "_albumScreen_goToMyRolls": "Rulolarım'a git",
+    "_albumScreen_screenTitle": "ALBÜMLER",
+    
 
     "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
     "_cameraScreen_participantFilmEndedMessage": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
