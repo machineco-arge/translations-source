@@ -251,6 +251,18 @@
     "translation": "专辑",
     "sourceHash": "ba35ee8ebd9bac3a28adffe13d6ac4b7"
   },
+  "_albumScreen_editTitleErrorMessage": {
+    "translation": "更新专辑名称时出现错误。",
+    "sourceHash": "2d7304399151f21f10474a184cf7adac"
+  },
+  "_albumScreen_optionRename": {
+    "translation": "重新命名",
+    "sourceHash": "103a682f81afe16aa89916f714969968"
+  },
+  "_albumScreen_optionDownload": {
+    "translation": "下载",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

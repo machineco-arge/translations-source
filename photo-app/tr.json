@@ -251,6 +251,18 @@
     "translation": "ALBÜMLER",
     "sourceHash": "ba35ee8ebd9bac3a28adffe13d6ac4b7"
   },
+  "_albumScreen_editTitleErrorMessage": {
+    "translation": "Albüm başlığı güncellenirken bir hata oluştu.",
+    "sourceHash": "2d7304399151f21f10474a184cf7adac"
+  },
+  "_albumScreen_optionRename": {
+    "translation": "Yeniden Adlandır",
+    "sourceHash": "103a682f81afe16aa89916f714969968"
+  },
+  "_albumScreen_optionDownload": {
+    "translation": "İndir",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

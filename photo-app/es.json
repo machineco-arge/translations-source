@@ -251,6 +251,18 @@
     "translation": "ALBUMES",
     "sourceHash": "ba35ee8ebd9bac3a28adffe13d6ac4b7"
   },
+  "_albumScreen_editTitleErrorMessage": {
+    "translation": "Se ha producido un error al actualizar el título del álbum.",
+    "sourceHash": "2d7304399151f21f10474a184cf7adac"
+  },
+  "_albumScreen_optionRename": {
+    "translation": "Cambie el nombre de",
+    "sourceHash": "103a682f81afe16aa89916f714969968"
+  },
+  "_albumScreen_optionDownload": {
+    "translation": "Descargar",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

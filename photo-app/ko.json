@@ -251,6 +251,18 @@
     "translation": "앨범",
     "sourceHash": "ba35ee8ebd9bac3a28adffe13d6ac4b7"
   },
+  "_albumScreen_editTitleErrorMessage": {
+    "translation": "앨범 제목을 업데이트하는 동안 오류가 발생했습니다.",
+    "sourceHash": "2d7304399151f21f10474a184cf7adac"
+  },
+  "_albumScreen_optionRename": {
+    "translation": "이름 바꾸기",
+    "sourceHash": "103a682f81afe16aa89916f714969968"
+  },
+  "_albumScreen_optionDownload": {
+    "translation": "다운로드",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
