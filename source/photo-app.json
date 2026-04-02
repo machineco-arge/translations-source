@@ -231,6 +231,7 @@
     "_selectFilm_filmCreateActivityAlertMessage": "'{{cameraName}} - {{shots}}' kamerası ile aktiviten oluşturuluyor.",
     "_selectFilm_confirmCreateActivityTitle": "Emin misin?",
     "_selectFilm_confirmCreateActivityMessage": "Yeni bir aktivite oluşturmak istediğinizden emin misin?",
+    "_selectFilm_selectFilmCount": "Film Rulosu Seç",
     "_settings_termsOfServiceAndPrivacyPolicy": "Şartlar ve Politikalar",
     "_settings_aboutTheApp": "Uygulama Hakkında",
     "_settings_billingsAndSubscriptions": "Faturalandırma ve Abonelikler",
