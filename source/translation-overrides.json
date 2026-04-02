@@ -21,7 +21,8 @@
         "en": {
             "_albumScreen_specialEmptyDescription": "Complete a roll and send it to the lab. Your special album will appear here once developed.",
             "_albumScreen_emptyStateDescription": "Complete a roll and send it to the lab. Your album will appear here once developed.",
-            "_goToMyRolls": "Go to My Rolls"
+            "_goToMyRolls": "Go to My Rolls",
+            "_albumScreen_select": "Select"
         },
         "tr": {
             "_common_delete": "Sil",
