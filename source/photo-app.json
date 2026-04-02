@@ -172,6 +172,15 @@
         "vhspreset": "VHS Ön Ayarı",
         "warmedanalogue": "Yanmış Analog"
     },
+    
+    "cameraDescriptions": {
+        "KodomaxDescription": "Doğal tonlar\nKlasik film",
+        "PasteliaDescription": "Yumuşak tonlar\nPastel renkler",
+        "NightchromeDescription": "Yüksek kontrast\nGece çekimleri",
+        "Flashpop99Description": "Canlı renkler\nRetro patlama",
+        "LomocoreDescription": "Yanmış efekt\nGrunge tarzı",
+        "NoFilterDescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
+    },
 
     "instantActivitiesTitle": "Hazır Setler",
     "instantActivities": {
