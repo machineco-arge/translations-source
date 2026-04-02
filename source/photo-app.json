@@ -172,12 +172,12 @@
         "vhspreset": "VHS Ön Ayarı",
         "warmedanalogue": "Yanmış Analog",
         "descriptions": {
-            "KodomaxDescription": "Doğal tonlar\nKlasik film",
-            "PasteliaDescription": "Yumuşak tonlar\nPastel renkler",
-            "NightchromeDescription": "Yüksek kontrast\nGece çekimleri",
-            "Flashpop99Description": "Canlı renkler\nRetro patlama",
-            "LomocoreDescription": "Yanmış efekt\nGrunge tarzı",
-            "NoFilterDescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
+            "kodomaxdescription": "Doğal tonlar\nKlasik film",
+            "pasteliadescription": "Yumuşak tonlar\nPastel renkler",
+            "nightchromedescription": "Yüksek kontrast\nGece çekimleri",
+            "flashpop99description": "Canlı renkler\nRetro patlama",
+            "lomocoredescription": "Yanmış efekt\nGrunge tarzı",
+            "nofilterdescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
         }
     },
     
