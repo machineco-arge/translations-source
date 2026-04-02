@@ -263,6 +263,10 @@
     "translation": "ダウンロード",
     "sourceHash": "35361958fa862147ff8a86279870f8a2"
   },
+  "_albumScreen_slideshowTitle": {
+    "translation": "スライドショー",
+    "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "フィルムがいっぱいになりました。",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
@@ -566,6 +570,10 @@
   "_homeScreen_noCamerasFound": {
     "translation": "カメラの読み込みに失敗しました。もう一度お試しください。",
     "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
+  },
+  "_homeScreen_library": {
+    "translation": "図書館",
+    "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
   },
   "cameras": {
     "analoguescanline": {
@@ -1533,7 +1541,7 @@
   },
   "_common_photo": {
     "translation": "写真",
-    "sourceHash": "a5163fe21f330316158294f4b906f597"
+    "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
   },
   "_common_saving": {
     "translation": "レコーディング...",

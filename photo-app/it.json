@@ -263,6 +263,10 @@
     "translation": "Scaricare",
     "sourceHash": "35361958fa862147ff8a86279870f8a2"
   },
+  "_albumScreen_slideshowTitle": {
+    "translation": "Mostra di immagini",
+    "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
@@ -566,6 +570,10 @@
   "_homeScreen_noCamerasFound": {
     "translation": "Il caricamento delle telecamere non è riuscito. Riprovare.",
     "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
+  },
+  "_homeScreen_library": {
+    "translation": "Biblioteca",
+    "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
   },
   "cameras": {
     "analoguescanline": {
@@ -1533,7 +1541,7 @@
   },
   "_common_photo": {
     "translation": "Foto",
-    "sourceHash": "a5163fe21f330316158294f4b906f597"
+    "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
   },
   "_common_saving": {
     "translation": "Registrazione...",

@@ -263,6 +263,10 @@
     "translation": "下载",
     "sourceHash": "35361958fa862147ff8a86279870f8a2"
   },
+  "_albumScreen_slideshowTitle": {
+    "translation": "幻灯片展示",
+    "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
@@ -566,6 +570,10 @@
   "_homeScreen_noCamerasFound": {
     "translation": "相机加载失败。请重试。",
     "sourceHash": "9b8fa6a1dc5363ce83e9605183a78098"
+  },
+  "_homeScreen_library": {
+    "translation": "图书馆",
+    "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
   },
   "cameras": {
     "analoguescanline": {
@@ -1533,7 +1541,7 @@
   },
   "_common_photo": {
     "translation": "照片",
-    "sourceHash": "a5163fe21f330316158294f4b906f597"
+    "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
   },
   "_common_saving": {
     "translation": "录音...",
