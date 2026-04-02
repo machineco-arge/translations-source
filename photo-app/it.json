@@ -647,32 +647,32 @@
     "warmedanalogue": {
       "translation": "Analogico bruciato",
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
-    }
-  },
-  "cameraDescriptions": {
-    "KodomaxDescription": {
-      "translation": "Toni naturali\nPellicola classica",
-      "sourceHash": "61c5bdfb8623767af2375499cdf3f095"
     },
-    "PasteliaDescription": {
-      "translation": "Toni tenui\nColori pastello",
-      "sourceHash": "014da84d0d2f5dcf9af8d713ad2a3aaf"
-    },
-    "NightchromeDescription": {
-      "translation": "Contrasto elevato\nScatti notturni",
-      "sourceHash": "df6705e785aead80e873884cfed61b89"
-    },
-    "Flashpop99Description": {
-      "translation": "Colori vibranti\nEsplosione retrò",
-      "sourceHash": "a8f098db2971e4e681fde9d7548f6071"
-    },
-    "LomocoreDescription": {
-      "translation": "Effetto bruciato\nStile grunge",
-      "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
-    },
-    "NoFilterDescription": {
-      "translation": "La vostra foto originale\nFotocamera del telefono",
-      "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
+    "descriptions": {
+      "KodomaxDescription": {
+        "translation": "Toni naturali\nPellicola classica",
+        "sourceHash": "61c5bdfb8623767af2375499cdf3f095"
+      },
+      "PasteliaDescription": {
+        "translation": "Toni tenui\nColori pastello",
+        "sourceHash": "014da84d0d2f5dcf9af8d713ad2a3aaf"
+      },
+      "NightchromeDescription": {
+        "translation": "Contrasto elevato\nScatti notturni",
+        "sourceHash": "df6705e785aead80e873884cfed61b89"
+      },
+      "Flashpop99Description": {
+        "translation": "Colori vibranti\nEsplosione retrò",
+        "sourceHash": "a8f098db2971e4e681fde9d7548f6071"
+      },
+      "LomocoreDescription": {
+        "translation": "Effetto bruciato\nStile grunge",
+        "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
+      },
+      "NoFilterDescription": {
+        "translation": "La vostra foto originale\nFotocamera del telefono",
+        "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
+      }
     }
   },
   "instantActivitiesTitle": {
