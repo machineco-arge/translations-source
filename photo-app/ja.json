@@ -649,6 +649,32 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     }
   },
+  "cameraDescriptions": {
+    "KodomaxDescription": {
+      "translation": "自然な色調\nクラシックフィルム",
+      "sourceHash": "61c5bdfb8623767af2375499cdf3f095"
+    },
+    "PasteliaDescription": {
+      "translation": "ソフトトーン\nパステルカラー",
+      "sourceHash": "014da84d0d2f5dcf9af8d713ad2a3aaf"
+    },
+    "NightchromeDescription": {
+      "translation": "ハイコントラスト\n夜間撮影",
+      "sourceHash": "df6705e785aead80e873884cfed61b89"
+    },
+    "Flashpop99Description": {
+      "translation": "鮮やかな色彩\nレトロな爆発",
+      "sourceHash": "a8f098db2971e4e681fde9d7548f6071"
+    },
+    "LomocoreDescription": {
+      "translation": "焦げ効果\nグランジスタイル",
+      "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
+    },
+    "NoFilterDescription": {
+      "translation": "オリジナル写真\nスマホカメラ",
+      "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
+    }
+  },
   "instantActivitiesTitle": {
     "translation": "レディ・セット",
     "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
