@@ -170,17 +170,17 @@
         "retro": "Klasik Retro",
         "shinyanalogue": "Parlak Analog",
         "vhspreset": "VHS Ön Ayarı",
-        "warmedanalogue": "Yanmış Analog"
+        "warmedanalogue": "Yanmış Analog",
+        "descriptions": {
+            "KodomaxDescription": "Doğal tonlar\nKlasik film",
+            "PasteliaDescription": "Yumuşak tonlar\nPastel renkler",
+            "NightchromeDescription": "Yüksek kontrast\nGece çekimleri",
+            "Flashpop99Description": "Canlı renkler\nRetro patlama",
+            "LomocoreDescription": "Yanmış efekt\nGrunge tarzı",
+            "NoFilterDescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
+        }
     },
     
-    "cameraDescriptions": {
-        "KodomaxDescription": "Doğal tonlar\nKlasik film",
-        "PasteliaDescription": "Yumuşak tonlar\nPastel renkler",
-        "NightchromeDescription": "Yüksek kontrast\nGece çekimleri",
-        "Flashpop99Description": "Canlı renkler\nRetro patlama",
-        "LomocoreDescription": "Yanmış efekt\nGrunge tarzı",
-        "NoFilterDescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
-    },
 
     "instantActivitiesTitle": "Hazır Setler",
     "instantActivities": {
