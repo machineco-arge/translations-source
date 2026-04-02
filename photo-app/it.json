@@ -845,6 +845,10 @@
     "translation": "Siete sicuri di voler creare una nuova attività?",
     "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
+  "_selectFilm_selectFilmCount": {
+    "translation": "Selezionare il rullo di pellicola",
+    "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini e condizioni",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

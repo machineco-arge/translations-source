@@ -845,6 +845,10 @@
     "translation": "새 활동을 생성하시겠습니까?",
     "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
+  "_selectFilm_selectFilmCount": {
+    "translation": "필름 롤 선택",
+    "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

@@ -845,6 +845,10 @@
     "translation": "您确定要创建新活动吗？",
     "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
   },
+  "_selectFilm_selectFilmCount": {
+    "translation": "选择胶片卷",
+    "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "条款与政策",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"
