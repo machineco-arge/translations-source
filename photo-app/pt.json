@@ -649,27 +649,27 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     },
     "descriptions": {
-      "KodomaxDescription": {
+      "kodomaxdescription": {
         "translation": "Tons naturais\nFilme clássico",
         "sourceHash": "61c5bdfb8623767af2375499cdf3f095"
       },
-      "PasteliaDescription": {
+      "pasteliadescription": {
         "translation": "Tons suaves\nCores pastel",
         "sourceHash": "014da84d0d2f5dcf9af8d713ad2a3aaf"
       },
-      "NightchromeDescription": {
+      "nightchromedescription": {
         "translation": "Alto contraste\nFotografias nocturnas",
         "sourceHash": "df6705e785aead80e873884cfed61b89"
       },
-      "Flashpop99Description": {
+      "flashpop99description": {
         "translation": "Cores vibrantes\nExplosão retro",
         "sourceHash": "a8f098db2971e4e681fde9d7548f6071"
       },
-      "LomocoreDescription": {
+      "lomocoredescription": {
         "translation": "Efeito queimado\nEstilo grunge",
         "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
       },
-      "NoFilterDescription": {
+      "nofilterdescription": {
         "translation": "A sua fotografia original\nCâmara do telemóvel",
         "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
       }

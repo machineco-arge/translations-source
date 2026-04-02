@@ -649,27 +649,27 @@
       "sourceHash": "fcc676c3cf9b613e9f22bd7f573b1a6a"
     },
     "descriptions": {
-      "KodomaxDescription": {
+      "kodomaxdescription": {
         "translation": "自然色调\n经典胶片",
         "sourceHash": "61c5bdfb8623767af2375499cdf3f095"
       },
-      "PasteliaDescription": {
+      "pasteliadescription": {
         "translation": "柔和色调\n柔和色调",
         "sourceHash": "014da84d0d2f5dcf9af8d713ad2a3aaf"
       },
-      "NightchromeDescription": {
+      "nightchromedescription": {
         "translation": "高对比度\n夜景拍摄",
         "sourceHash": "df6705e785aead80e873884cfed61b89"
       },
-      "Flashpop99Description": {
+      "flashpop99description": {
         "translation": "鲜艳的色彩\n复古爆炸",
         "sourceHash": "a8f098db2971e4e681fde9d7548f6071"
       },
-      "LomocoreDescription": {
+      "lomocoredescription": {
         "translation": "烧焦效果\n格调风格",
         "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
       },
-      "NoFilterDescription": {
+      "nofilterdescription": {
         "translation": "您的原始照片\n手机摄像头",
         "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
       }
