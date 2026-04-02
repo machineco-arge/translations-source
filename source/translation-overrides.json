@@ -24,7 +24,8 @@
             "_goToMyRolls": "Go to My Rolls"
         },
         "tr": {
-            "_common_delete": "Sil"
+            "_common_delete": "Sil",
+            "_common_photo": "Fotoğraf"
         }
     }
 }

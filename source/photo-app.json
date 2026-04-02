@@ -66,6 +66,7 @@
     "_albumScreen_editTitleErrorMessage": "Albüm başlığı güncellenirken bir hata oluştu.",
     "_albumScreen_optionRename": "Yeniden Adlandır",
     "_albumScreen_optionDownload": "İndir",
+    "_albumScreen_slideshowTitle": "Slayt Gösterisi",
     
 
     "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
@@ -149,6 +150,7 @@
 
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
     "_homeScreen_noCamerasFound": "Kameralar Yüklenemedi. Lütfen tekrar deneyin.",
+    "_homeScreen_library": "Kütüphane",
 
     "cameras": {
         "analoguescanline": "Tarama Çizgili Analog",
@@ -427,7 +429,7 @@
     "_notifications_printReminderTitle": "Baskı Zamanı!",
     "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
 
-    "_common_photo": "Foto",
+    "_common_photo": "Fotoğraflar",
     "_common_saving": "Kaydediliyor...",
     "_common_save": "Kaydet",
     "_common_cancel": "İptal",
