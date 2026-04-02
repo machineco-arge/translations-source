@@ -48,7 +48,7 @@
     "sourceHash": "c6ef1ab31c91452ae022d25edeb6e498"
   },
   "_albumScreen_select": {
-    "translation": "Choose",
+    "translation": "Select",
     "sourceHash": "66e57782a9033f4e3e3135a1655ecb89"
   },
   "_albumScreen_deletePhotoFailedAlertMessage": {
