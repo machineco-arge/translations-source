@@ -316,8 +316,12 @@
     "sourceHash": "5cfecff1a3d8fd9cd2ad628d8187e473"
   },
   "languageSettings": {
-    "translation": "Paramètres linguistiques",
-    "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
+    "translation": "Langue",
+    "sourceHash": "786cbbbe3b089e9c2128d808e75bf0d6"
+  },
+  "selectLanguage": {
+    "translation": "Sélectionner la langue",
+    "sourceHash": "e13917a8972ded75167bb9d5527be1af"
   },
   "languageChanged": {
     "translation": "Changement de langue",
@@ -348,8 +352,8 @@
     "sourceHash": "5e0188f1693b50ff74d3b559e66bbcd7"
   },
   "_settings_profileSettings": {
-    "translation": "Profil et paramètres",
-    "sourceHash": "1d6d53de6f28ef382757b48928093bf7"
+    "translation": "Paramètres",
+    "sourceHash": "030fe38936d5f0d4c15fb4078ad8293f"
   },
   "_settings_darkOrLightModeSettings": {
     "translation": "Paramètres du thème",
