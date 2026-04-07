@@ -28,5 +28,10 @@
             "_common_delete": "Sil",
             "_common_photo": "Foto"
         }
+    },
+    "login": {
+        "en": {
+            "userSignIn": "Sign In"
+        }
     }
 }
