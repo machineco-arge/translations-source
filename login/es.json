@@ -35,17 +35,17 @@
     "translation": "Introduzca una dirección de correo electrónico válida.",
     "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
   },
-  "userSignInLoginYourAccount": {
-    "translation": "Acceda a su cuenta",
-    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  "userSignIn": {
+    "translation": "Iniciar sesión",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
   "userSignInLoginToGetStarted": {
     "translation": "Iniciar sesión",
     "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
   },
-  "userSignInLogin": {
-    "translation": "Iniciar sesión",
-    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  "userSignInContinue": {
+    "translation": "Continúe en",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   },
   "userSignInHaveNotAccount": {
     "translation": "¿No tienes una cuenta?",
@@ -100,12 +100,12 @@
     "sourceHash": "c8a8414d3556605f76536e5400271916"
   },
   "socialLoginWithGoogle": {
-    "translation": "Continuar con la cuenta de Google",
-    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+    "translation": "Iniciar sesión con Google",
+    "sourceHash": "0d7d957f4be5ff044ebf52b490654533"
   },
   "socialLoginWithApple": {
-    "translation": "Continuar con la cuenta de Apple",
-    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+    "translation": "Iniciar sesión con Apple",
+    "sourceHash": "a187635210c64ef80f09931aa0cff7bf"
   },
   "PrivacyPolicy": {
     "translation": "Puede continuar aceptando nuestras Condiciones de servicio y Política de privacidad.",

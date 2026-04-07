@@ -35,17 +35,17 @@
     "translation": "유효한 이메일 주소를 입력하세요.",
     "sourceHash": "c14bc15a3c46898c03a0539a6fb60157"
   },
-  "userSignInLoginYourAccount": {
-    "translation": "계정에 로그인",
-    "sourceHash": "f347bf0923b7f7620754a04c13702ffd"
+  "userSignIn": {
+    "translation": "로그인",
+    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
   },
   "userSignInLoginToGetStarted": {
     "translation": "시작하려면 로그인하세요.",
     "sourceHash": "733c13eaa9581ef3a50afd74c6f09fd9"
   },
-  "userSignInLogin": {
-    "translation": "로그인",
-    "sourceHash": "aa9bce0cf919c1ad1eeb60d5e4a93e3a"
+  "userSignInContinue": {
+    "translation": "계속하기",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   },
   "userSignInHaveNotAccount": {
     "translation": "계정이 없으신가요?",
@@ -100,12 +100,12 @@
     "sourceHash": "c8a8414d3556605f76536e5400271916"
   },
   "socialLoginWithGoogle": {
-    "translation": "Google 계정으로 계속하기",
-    "sourceHash": "3dc95d7657718a17f0380937fd88701f"
+    "translation": "Google로 로그인",
+    "sourceHash": "0d7d957f4be5ff044ebf52b490654533"
   },
   "socialLoginWithApple": {
-    "translation": "Apple 계정으로 계속하기",
-    "sourceHash": "c9f478389d8201487927c5de73f66e9a"
+    "translation": "Apple로 로그인",
+    "sourceHash": "a187635210c64ef80f09931aa0cff7bf"
   },
   "PrivacyPolicy": {
     "translation": "서비스 약관 및 개인정보 취급방침에 동의하면 계속 진행할 수 있습니다.",
