@@ -291,6 +291,10 @@
     "translation": "Aktivite sahibi bu film rulosunu baskıya gönderdiği için artık fotoğraf çekemezsiniz.",
     "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
+  "_filmScreen_title": {
+    "translation": "Benim Rulolarım",
+    "sourceHash": "7079a7ce628f3b874d3d330f8b0a816e"
+  },
   "_filmScreen_location": {
     "translation": "Konum",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
@@ -524,8 +528,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "Bu aktivitede henüz katılımcı yok.",
-    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+    "translation": "Bu aktivitede henüz bir istek yok.",
+    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
   },
   "_participantModal_noRequestId": {
     "translation": "Katılımcı bilgisi bulunamadı.",
@@ -574,6 +578,24 @@
   "_homeScreen_library": {
     "translation": "Kütüphane",
     "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
+  },
+  "timeOptions": {
+    "express": {
+      "translation": "Ekspres",
+      "sourceHash": "11ccc323b183ab765e93fb6cae4d3895"
+    },
+    "fast": {
+      "translation": "Hızlı",
+      "sourceHash": "99580b6c0f03d9e39e5ab44c85d5339a"
+    },
+    "standard": {
+      "translation": "Standart",
+      "sourceHash": "012a2f66a0b392542ffb7370b87426dc"
+    },
+    "slow": {
+      "translation": "Yavaş",
+      "sourceHash": "fa2f4c2f6c6953bb2d4ce9766ac28003"
+    }
   },
   "cameras": {
     "analoguescanline": {

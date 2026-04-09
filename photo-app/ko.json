@@ -291,6 +291,10 @@
     "translation": "활동 소유자가 이 필름 롤을 프린터로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
     "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
+  "_filmScreen_title": {
+    "translation": "내 롤",
+    "sourceHash": "7079a7ce628f3b874d3d330f8b0a816e"
+  },
   "_filmScreen_location": {
     "translation": "위치",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
@@ -524,8 +528,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "이 활동에는 아직 참가자가 없습니다.",
-    "sourceHash": "5d12f70492c6eacc22376fbafaeb3084"
+    "translation": "아직 이 활동에 대한 수요는 없습니다.",
+    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
   },
   "_participantModal_noRequestId": {
     "translation": "참가자 정보를 찾을 수 없습니다.",
@@ -574,6 +578,24 @@
   "_homeScreen_library": {
     "translation": "라이브러리",
     "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
+  },
+  "timeOptions": {
+    "express": {
+      "translation": "Express",
+      "sourceHash": "11ccc323b183ab765e93fb6cae4d3895"
+    },
+    "fast": {
+      "translation": "빠른",
+      "sourceHash": "99580b6c0f03d9e39e5ab44c85d5339a"
+    },
+    "standard": {
+      "translation": "표준",
+      "sourceHash": "012a2f66a0b392542ffb7370b87426dc"
+    },
+    "slow": {
+      "translation": "천천히",
+      "sourceHash": "fa2f4c2f6c6953bb2d4ce9766ac28003"
+    }
   },
   "cameras": {
     "analoguescanline": {
