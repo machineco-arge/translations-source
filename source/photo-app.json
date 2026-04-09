@@ -159,7 +159,14 @@
         "standard": "Standart",
         "slow": "Yavaş"
     },
-    
+
+    "timeTexts": {
+        "8hours": "8 saat",
+        "12hours": "12 saat",
+        "24hours": "24 saat",
+        "36hours": "36 saat"
+    },
+
     "cameras": {
         "analoguescanline": "Tarama Çizgili Analog",
         "analogue": "Analog Kameram",
