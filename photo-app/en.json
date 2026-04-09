@@ -597,6 +597,24 @@
       "sourceHash": "fa2f4c2f6c6953bb2d4ce9766ac28003"
     }
   },
+  "timeTexts": {
+    "8hours": {
+      "translation": "8 hours",
+      "sourceHash": "d52c22774e22a2c6d2c32639ae02ea49"
+    },
+    "12hours": {
+      "translation": "12 hours",
+      "sourceHash": "788c25106866af1e3fc29b9b735f2566"
+    },
+    "24hours": {
+      "translation": "24 hours",
+      "sourceHash": "87173916e053051b9ae5f3bb495cbeee"
+    },
+    "36hours": {
+      "translation": "36 hours",
+      "sourceHash": "e4e98077b7fab4d49d76a28452548e1a"
+    }
+  },
   "cameras": {
     "analoguescanline": {
       "translation": "Analog with Scanning Stripe",

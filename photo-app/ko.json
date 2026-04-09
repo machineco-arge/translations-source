@@ -597,6 +597,24 @@
       "sourceHash": "fa2f4c2f6c6953bb2d4ce9766ac28003"
     }
   },
+  "timeTexts": {
+    "8hours": {
+      "translation": "8시간",
+      "sourceHash": "d52c22774e22a2c6d2c32639ae02ea49"
+    },
+    "12hours": {
+      "translation": "12시간",
+      "sourceHash": "788c25106866af1e3fc29b9b735f2566"
+    },
+    "24hours": {
+      "translation": "24시간",
+      "sourceHash": "87173916e053051b9ae5f3bb495cbeee"
+    },
+    "36hours": {
+      "translation": "36시간",
+      "sourceHash": "e4e98077b7fab4d49d76a28452548e1a"
+    }
+  },
   "cameras": {
     "analoguescanline": {
       "translation": "줄무늬 아날로그 스캔",
