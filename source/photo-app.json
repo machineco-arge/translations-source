@@ -76,6 +76,7 @@
     "_cameraScreen_noDevice": "Telefon kamerası bulunamadı.",
     "_cameraScreen_activitySendedPrintError": "Aktivite sahibi bu film rulosunu baskıya gönderdiği için artık fotoğraf çekemezsiniz.",
 
+    "_filmScreen_title": "Benim Rulolarım",
     "_filmScreen_location": "Konum",
     "_filmScreen_date": "Tarih",
     "_filmScreen_remainingPhoto": "Kalan Fotoğraf",
@@ -137,7 +138,7 @@
     "_participantModal_statusRejected": "Reddedildi",
     "_participantModal_statusMissedUpload": "Yükleme Başarısız Oldu",
     "_participantModal_title": "Katılımcılar",
-    "_participantModal_noParticipants": "Bu aktivitede henüz katılımcı yok.",
+    "_participantModal_noParticipants": "Bu aktivitede henüz bir istek yok.",
     "_participantModal_noRequestId": "Katılımcı bilgisi bulunamadı.",
     "_participantModal_approveError": "Katılımcıyı onaylarken bir hata oluştu.",
     "_participantModal_rejectError": "Katılımcıyı reddederken bir hata oluştu.",
@@ -152,6 +153,13 @@
     "_homeScreen_noCamerasFound": "Kameralar Yüklenemedi. Lütfen tekrar deneyin.",
     "_homeScreen_library": "Kütüphane",
 
+    "timeOptions": {
+        "express": "Ekspres",
+        "fast": "Hızlı",
+        "standard": "Standart",
+        "slow": "Yavaş"
+    },
+    
     "cameras": {
         "analoguescanline": "Tarama Çizgili Analog",
         "analogue": "Analog Kameram",
