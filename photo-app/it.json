@@ -367,6 +367,10 @@
     "translation": "Selezionare il tempo di consegna",
     "sourceHash": "98dde67ca0debfd8a25581df45ff14d7"
   },
+  "_filmScreen_selectDevelopmentTimeDescription": {
+    "translation": "Scegliete quanto tempo volete che le vostre foto siano pronte.",
+    "sourceHash": "2826a23619aa76f754015db43192740a"
+  },
   "_filmScreen_specialActivitiesSection": {
     "translation": "Attività speciali",
     "sourceHash": "2f96950c38146317a97619ca2facae56"
