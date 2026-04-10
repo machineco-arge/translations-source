@@ -352,8 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "Keine aktive Kamera",
-    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+    "translation": "Noch keine aktiven Rollen",
+    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+  },
+  "_filmScreen_noActiveFilmsDescription": {
+    "translation": "Erstellen Sie ein neues Ereignis, um Ihre ersten Bilder hochzuladen.",
+    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "Der Antrag auf Repression wurde abgelehnt.",

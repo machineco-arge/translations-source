@@ -352,8 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "无主动摄像头",
-    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+    "translation": "还没有活动卷",
+    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+  },
+  "_filmScreen_noActiveFilmsDescription": {
+    "translation": "创建一个新事件，上传您的第一个相框。",
+    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "镇压要求失败。",

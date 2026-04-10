@@ -352,8 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "활성 카메라 없음",
-    "sourceHash": "dc8402d9918d1070c246835beff89ff9"
+    "translation": "아직 활성 롤이 없습니다",
+    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+  },
+  "_filmScreen_noActiveFilmsDescription": {
+    "translation": "새 이벤트를 생성하여 첫 번째 프레임을 업로드합니다.",
+    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "억압 요청이 실패했습니다.",
