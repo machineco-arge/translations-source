@@ -552,8 +552,8 @@
     "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
   },
   "_participantModal_owner": {
-    "translation": "Propietario de la actividad",
-    "sourceHash": "eeb03c56ef128bc97b390ffe05dc6847"
+    "translation": "Sahib",
+    "sourceHash": "72de05d5eafe8523879b8ba5a0c1e3c5"
   },
   "_participantModal_sessionKeyError": {
     "translation": "No se ha podido enviar la clave de actividad. Vuelva a intentarlo más tarde.",
