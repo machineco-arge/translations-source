@@ -414,6 +414,16 @@ async function run() {
             sourceHash: md5(sourceText),
           };
         });
+        const overridesApplied = applyOverrides(
+          baseLangTranslations,
+          overrides,
+          namespace,
+          lang,
+          flatSourceJson
+        );
+        if (overridesApplied > 0) {
+          console.log(`   - Applied ${overridesApplied} translation override(s) (base language)`);
+        }
         const finalBaseLangJson = unflattenObject(baseLangTranslations);
         await fs.writeFile(outputPath, JSON.stringify(finalBaseLangJson, null, 2), 'utf-8');
         console.log(`Successfully created and saved base language file with hashes to ${outputPath}`);
