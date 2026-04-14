@@ -552,8 +552,8 @@
     "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
   },
   "_participantModal_owner": {
-    "translation": "Sahib",
-    "sourceHash": "72de05d5eafe8523879b8ba5a0c1e3c5"
+    "translation": "소유자",
+    "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
     "translation": "활동 키를 보내지 못했습니다. 나중에 다시 시도하세요.",
