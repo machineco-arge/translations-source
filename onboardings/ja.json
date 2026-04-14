@@ -1,150 +1,58 @@
 {
-  "onboarding_finish_button": {
-    "translation": "スタート",
-    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  "onboardingFirstTitle": {
+    "translation": "瞬間に集中する",
+    "sourceHash": "8391cca0a88ba17118c26d45c14b4f64"
   },
-  "_onboarding_home_title_1": {
-    "translation": "アナログ体験",
-    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  "onboardingFirstMessage": {
+    "translation": "インスタントプレビューはありません。\nロール全体が現像されるまで、結果を見ることはできません。",
+    "sourceHash": "1add7e98d63246c7b9b74f52bf9d8216"
   },
-  "_onboarding_home_subtitle_1": {
-    "translation": "36ショット、プレビューなし\n一緒に撮影\n共有アルバム",
-    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  "onboardingSecondTitle": {
+    "translation": "忍耐も技術のうち",
+    "sourceHash": "9db41af37cbe28230f70138ef3075df5"
   },
-  "_onboarding_home_title_2": {
-    "translation": "カメラ",
-    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  "onboardingSecondMessage": {
+    "translation": "各ロールの露光回数は36回まで。\n撮影が終わると、フィルムはラボに送られ、処理される。",
+    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
   },
-  "_onboarding_home_subtitle_2": {
-    "translation": "アナログスタイルのカメラフィルターを選ぶ",
-    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  "onboardingNext": {
+    "translation": "次のページ",
+    "sourceHash": "10ac3d04253ef7e1ddc73e6091c0cd55"
   },
-  "_onboarding_home_title_3": {
-    "translation": "ショット数",
-    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  "onboardingContinue": {
+    "translation": "続ける",
+    "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
   },
-  "_onboarding_home_subtitle_3": {
-    "translation": "フィルターの比較、フィルム枚数の選択",
-    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  "onboardingSendStepTitle": {
+    "translation": "開発準備完了",
+    "sourceHash": "287b62be3d9adba94254dc702d69e7b8"
   },
-  "_onboarding_home_title_4": {
-    "translation": "プレビューなし！",
-    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  "onboardingSendStepMessage": {
+    "translation": "印刷に送信されると、ロールはロックされ、処理されます。",
+    "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
-  "_onboarding_home_subtitle_4": {
-    "translation": "限定ショット。純粋なアナログ撮影体験",
-    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  "onboardingCountdownTitle": {
+    "translation": "加工ロール",
+    "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
-  "_onboarding_films_title_1": {
-    "translation": "アクティビティ",
-    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  "onboardingCountdownMessage": {
+    "translation": "デジタルネガを校正する。\nこれには時間がかかります",
+    "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
-  "_onboarding_films_subtitle_1": {
-    "translation": "アクティビティには、選択したカメラ、フィルム数、アクティビティ名が表示されます。",
-    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  "onboardingGoToAlbumTitle": {
+    "translation": "フレームが完成しました",
+    "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
-  "_onboarding_films_title_2": {
-    "translation": "印刷する",
-    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  "onboardingGoToAlbumMessage": {
+    "translation": "タップしてデジタルアーカイブを開き、撮影した瞬間を見ることができます。",
+    "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
-  "_onboarding_films_subtitle_2": {
-    "translation": "本物のフィルムのように現像され、レッドルームで処理され、プリントとして納品される。",
-    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  "onboardingAlbumTitle": {
+    "translation": "完全にコントロールする",
+    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
   },
-  "_onboarding_films_title_3": {
-    "translation": "今を楽しむ！",
-    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
-  },
-  "_onboarding_films_subtitle_3": {
-    "translation": "急がない！\nプリントを現像する間、その瞬間を生かす",
-    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
-  },
-  "_onboarding_films_title_4": {
-    "translation": "加速する！",
-    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
-  },
-  "_onboarding_films_subtitle_4": {
-    "translation": "待ちたくないですか？\n開発のスピードアップ",
-    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
-  },
-  "_onboarding_shared_title_1": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_1": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_2": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_2": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_3": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_3": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_4": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_4": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_5": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_5": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_6": {
-    "translation": "一緒に撮ろう！",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_6": {
-    "translation": "アクティビティを友人と共有し、一緒に写真を撮ることができる。",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_7": {
-    "translation": "共有アルバム",
-    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
-  },
-  "_onboarding_shared_subtitle_7": {
-    "translation": "アクティビティは共有コレクションとしてアルバムに保存されます。",
-    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
-  },
-  "_onboarding_album_title_1": {
-    "translation": "アルバム",
-    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
-  },
-  "_onboarding_album_subtitle_1": {
-    "translation": "待ち時間が終わると、アルバムの写真が完成します。",
-    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
-  },
-  "_onboarding_album_title_2": {
-    "translation": "アルバム・ビデオ",
-    "sourceHash": "712fcaacc12f7968791084b28c142072"
-  },
-  "_onboarding_album_subtitle_2": {
-    "translation": "あなたのアルバムから生成された特別なビデオが完成しました！",
-    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
-  },
-  "_onboarding_album_title_3": {
-    "translation": "輸出アルバム！",
-    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
-  },
-  "_onboarding_album_subtitle_3": {
-    "translation": "アプリから携帯電話のギャラリーにアルバムをエクスポートする",
-    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
+  "onboardingAlbumMessage": {
+    "translation": "カメラを選んでいつでもカスタムロールを開始",
+    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
   }
 }

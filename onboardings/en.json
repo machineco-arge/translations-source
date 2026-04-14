@@ -1,150 +1,58 @@
 {
-  "onboarding_finish_button": {
-    "translation": "Get Started",
-    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  "onboardingFirstTitle": {
+    "translation": "Focus on the moment",
+    "sourceHash": "8391cca0a88ba17118c26d45c14b4f64"
   },
-  "_onboarding_home_title_1": {
-    "translation": "Analogue Experience",
-    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  "onboardingFirstMessage": {
+    "translation": "There is no instant preview.\nYou won’t see the result until the entire roll is developed",
+    "sourceHash": "1add7e98d63246c7b9b74f52bf9d8216"
   },
-  "_onboarding_home_subtitle_1": {
-    "translation": "36 Shots, No Preview\nShoot Together \nShared Album!",
-    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  "onboardingSecondTitle": {
+    "translation": "Patience is part of the craft",
+    "sourceHash": "9db41af37cbe28230f70138ef3075df5"
   },
-  "_onboarding_home_title_2": {
-    "translation": "Cameras",
-    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  "onboardingSecondMessage": {
+    "translation": "Each roll is limited to 36 exposures.\nOnce finished, the film is sent to the lab for processing",
+    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
   },
-  "_onboarding_home_subtitle_2": {
-    "translation": "Choose analog-style camera filters",
-    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  "onboardingNext": {
+    "translation": "Next",
+    "sourceHash": "10ac3d04253ef7e1ddc73e6091c0cd55"
   },
-  "_onboarding_home_title_3": {
-    "translation": "Shots Number",
-    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  "onboardingContinue": {
+    "translation": "Continue",
+    "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
   },
-  "_onboarding_home_subtitle_3": {
-    "translation": "Compare filters, choose the number of film",
-    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  "onboardingSendStepTitle": {
+    "translation": "Ready for development",
+    "sourceHash": "287b62be3d9adba94254dc702d69e7b8"
   },
-  "_onboarding_home_title_4": {
-    "translation": "No Preview!",
-    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  "onboardingSendStepMessage": {
+    "translation": "Once sent to print, your roll will be locked and processed",
+    "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
-  "_onboarding_home_subtitle_4": {
-    "translation": "Limited shots. A pure analog shooting experience",
-    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  "onboardingCountdownTitle": {
+    "translation": "Processing roll",
+    "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
-  "_onboarding_films_title_1": {
-    "translation": "Activites",
-    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  "onboardingCountdownMessage": {
+    "translation": "Calibrating digital negatives.\nThis will take a moment",
+    "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
-  "_onboarding_films_subtitle_1": {
-    "translation": "An activity displays the selected camera, film count, activity name",
-    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  "onboardingGoToAlbumTitle": {
+    "translation": "Your frame is ready for review",
+    "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
-  "_onboarding_films_title_2": {
-    "translation": "Send to Print!",
-    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  "onboardingGoToAlbumMessage": {
+    "translation": "Tap to open the digital archive and see your captured moments",
+    "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
-  "_onboarding_films_subtitle_2": {
-    "translation": "Developed like real film, processed in the red room, and delivered as prints",
-    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  "onboardingAlbumTitle": {
+    "translation": "Take Full Control",
+    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
   },
-  "_onboarding_films_title_3": {
-    "translation": "Enjoy the Moment!",
-    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
-  },
-  "_onboarding_films_subtitle_3": {
-    "translation": "No rush!\nLet the moment live while the prints develop",
-    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
-  },
-  "_onboarding_films_title_4": {
-    "translation": "Accelerate!",
-    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
-  },
-  "_onboarding_films_subtitle_4": {
-    "translation": "Prefer not to wait?\nSpeed up the development",
-    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
-  },
-  "_onboarding_shared_title_1": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_1": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_2": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_2": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_3": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_3": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_4": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_4": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_5": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_5": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_6": {
-    "translation": "Shoot Together!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_6": {
-    "translation": "Activity can be shared with friends to capture photos together.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_7": {
-    "translation": "Shared Album!",
-    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
-  },
-  "_onboarding_shared_subtitle_7": {
-    "translation": "The activity is saved in your album as a shared collection",
-    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
-  },
-  "_onboarding_album_title_1": {
-    "translation": "Album!",
-    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
-  },
-  "_onboarding_album_subtitle_1": {
-    "translation": "Once the wait is over, your photos are ready in your album",
-    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
-  },
-  "_onboarding_album_title_2": {
-    "translation": "Album Video!",
-    "sourceHash": "712fcaacc12f7968791084b28c142072"
-  },
-  "_onboarding_album_subtitle_2": {
-    "translation": "The special video generated from your album is ready!",
-    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
-  },
-  "_onboarding_album_title_3": {
-    "translation": "Export Album!",
-    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
-  },
-  "_onboarding_album_subtitle_3": {
-    "translation": "Export your album from the app to your phone gallery",
-    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
+  "onboardingAlbumMessage": {
+    "translation": "Pick a camera and start your own custom roll anytime",
+    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
   }
 }

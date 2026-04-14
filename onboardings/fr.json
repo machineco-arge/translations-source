@@ -1,150 +1,58 @@
 {
-  "onboarding_finish_button": {
-    "translation": "Commencer",
-    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  "onboardingFirstTitle": {
+    "translation": "Se concentrer sur le moment présent",
+    "sourceHash": "8391cca0a88ba17118c26d45c14b4f64"
   },
-  "_onboarding_home_title_1": {
-    "translation": "Expérience analogique",
-    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  "onboardingFirstMessage": {
+    "translation": "Il n'y a pas de prévisualisation instantanée.\nVous ne verrez pas le résultat tant que le rouleau entier n'aura pas été développé",
+    "sourceHash": "1add7e98d63246c7b9b74f52bf9d8216"
   },
-  "_onboarding_home_subtitle_1": {
-    "translation": "36 tirs, pas d'aperçu\nTirer ensemble\nAlbum commun !",
-    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  "onboardingSecondTitle": {
+    "translation": "La patience fait partie du métier",
+    "sourceHash": "9db41af37cbe28230f70138ef3075df5"
   },
-  "_onboarding_home_title_2": {
-    "translation": "Caméras",
-    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  "onboardingSecondMessage": {
+    "translation": "Chaque bobine est limitée à 36 expositions.\nUne fois terminé, le film est envoyé au laboratoire pour être développé",
+    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
   },
-  "_onboarding_home_subtitle_2": {
-    "translation": "Choisissez des filtres de caméra de type analogique",
-    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  "onboardingNext": {
+    "translation": "Suivant",
+    "sourceHash": "10ac3d04253ef7e1ddc73e6091c0cd55"
   },
-  "_onboarding_home_title_3": {
-    "translation": "Nombre de tirs",
-    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  "onboardingContinue": {
+    "translation": "Continuer",
+    "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
   },
-  "_onboarding_home_subtitle_3": {
-    "translation": "Comparez les filtres, choisissez le nombre de films",
-    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  "onboardingSendStepTitle": {
+    "translation": "Prêt pour le développement",
+    "sourceHash": "287b62be3d9adba94254dc702d69e7b8"
   },
-  "_onboarding_home_title_4": {
-    "translation": "Pas d'aperçu !",
-    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  "onboardingSendStepMessage": {
+    "translation": "Une fois envoyé à l'impression, votre rouleau sera verrouillé et traité",
+    "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
-  "_onboarding_home_subtitle_4": {
-    "translation": "Nombre limité de prises de vue. Une expérience de prise de vue purement analogique",
-    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  "onboardingCountdownTitle": {
+    "translation": "Rouleau de traitement",
+    "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
-  "_onboarding_films_title_1": {
-    "translation": "Activités",
-    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  "onboardingCountdownMessage": {
+    "translation": "Étalonnage des négatifs numériques.\nCela prendra quelques instants",
+    "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
-  "_onboarding_films_subtitle_1": {
-    "translation": "Une activité affiche la caméra sélectionnée, le nombre de films, le nom de l'activité",
-    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  "onboardingGoToAlbumTitle": {
+    "translation": "Votre cadre est prêt à être examiné",
+    "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
-  "_onboarding_films_title_2": {
-    "translation": "Envoyer à l'impression !",
-    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  "onboardingGoToAlbumMessage": {
+    "translation": "Touchez pour ouvrir les archives numériques et voir les moments que vous avez capturés",
+    "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
-  "_onboarding_films_subtitle_2": {
-    "translation": "Développé comme un vrai film, développé dans la salle rouge et livré sous forme de tirages",
-    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  "onboardingAlbumTitle": {
+    "translation": "Prendre le contrôle total",
+    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
   },
-  "_onboarding_films_title_3": {
-    "translation": "Profitez de l'instant présent !",
-    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
-  },
-  "_onboarding_films_subtitle_3": {
-    "translation": "Pas de précipitation !\nLaissez l'instant vivre pendant que les tirages se développent",
-    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
-  },
-  "_onboarding_films_title_4": {
-    "translation": "Accélérer !",
-    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
-  },
-  "_onboarding_films_subtitle_4": {
-    "translation": "Vous préférez ne pas attendre ?\nAccélérer le développement",
-    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
-  },
-  "_onboarding_shared_title_1": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_1": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_2": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_2": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_3": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_3": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_4": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_4": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_5": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_5": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_6": {
-    "translation": "Tirer ensemble !",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_6": {
-    "translation": "L'activité peut être partagée avec des amis pour prendre des photos ensemble.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_7": {
-    "translation": "Album partagé !",
-    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
-  },
-  "_onboarding_shared_subtitle_7": {
-    "translation": "L'activité est enregistrée dans votre album en tant que collection partagée",
-    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
-  },
-  "_onboarding_album_title_1": {
-    "translation": "Album !",
-    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
-  },
-  "_onboarding_album_subtitle_1": {
-    "translation": "Une fois l'attente terminée, vos photos sont prêtes dans votre album",
-    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
-  },
-  "_onboarding_album_title_2": {
-    "translation": "Vidéo de l'album !",
-    "sourceHash": "712fcaacc12f7968791084b28c142072"
-  },
-  "_onboarding_album_subtitle_2": {
-    "translation": "La vidéo spéciale générée à partir de votre album est prête !",
-    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
-  },
-  "_onboarding_album_title_3": {
-    "translation": "Exporter l'album !",
-    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
-  },
-  "_onboarding_album_subtitle_3": {
-    "translation": "Exporter votre album de l'application vers la galerie de votre téléphone",
-    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
+  "onboardingAlbumMessage": {
+    "translation": "Choisissez un appareil photo et créez votre propre rouleau personnalisé à tout moment",
+    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
   }
 }

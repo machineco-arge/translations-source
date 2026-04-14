@@ -1,150 +1,58 @@
 {
-  "onboarding_finish_button": {
-    "translation": "Başlayın",
-    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  "onboardingFirstTitle": {
+    "translation": "An'a odaklanın",
+    "sourceHash": "8391cca0a88ba17118c26d45c14b4f64"
   },
-  "_onboarding_home_title_1": {
-    "translation": "Analog Deneyim",
-    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  "onboardingFirstMessage": {
+    "translation": "Anında ön izleme yoktur.\nTüm rulo banyo edilene kadar sonucu göremezsiniz",
+    "sourceHash": "1add7e98d63246c7b9b74f52bf9d8216"
   },
-  "_onboarding_home_subtitle_1": {
-    "translation": "36 Çekim, Önizleme Yok\nBirlikte Çekim Yapın \nPaylaşılan Albüm!",
-    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  "onboardingSecondTitle": {
+    "translation": "Sabır zanaatın bir parçasıdır",
+    "sourceHash": "9db41af37cbe28230f70138ef3075df5"
   },
-  "_onboarding_home_title_2": {
-    "translation": "Kameralar",
-    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  "onboardingSecondMessage": {
+    "translation": "Her rulo 36 pozla sınırlıdır.\nBittiğinde, film işlenmek üzere laboratuvara gönderilir",
+    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
   },
-  "_onboarding_home_subtitle_2": {
-    "translation": "Analog tarzda kamera filtreleri seçin",
-    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  "onboardingNext": {
+    "translation": "Sonraki",
+    "sourceHash": "10ac3d04253ef7e1ddc73e6091c0cd55"
   },
-  "_onboarding_home_title_3": {
-    "translation": "Çekim Sayısı",
-    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  "onboardingContinue": {
+    "translation": "Devam et",
+    "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
   },
-  "_onboarding_home_subtitle_3": {
-    "translation": "Filtreleri karşılaştırın, film sayısını seçin",
-    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  "onboardingSendStepTitle": {
+    "translation": "Geliştirme için hazır",
+    "sourceHash": "287b62be3d9adba94254dc702d69e7b8"
   },
-  "_onboarding_home_title_4": {
-    "translation": "Önizleme yok!",
-    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  "onboardingSendStepMessage": {
+    "translation": "Baskıya gönderildikten sonra rulonuz kilitlenecek ve işleme alınacaktır",
+    "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
-  "_onboarding_home_subtitle_4": {
-    "translation": "Sınırlı çekim. Saf bir analog çekim deneyimi",
-    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  "onboardingCountdownTitle": {
+    "translation": "İşleme rulosu",
+    "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
-  "_onboarding_films_title_1": {
-    "translation": "Aktiviteler",
-    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  "onboardingCountdownMessage": {
+    "translation": "Dijital negatifleri kalibre etme.\nBu biraz zaman alacaktır",
+    "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
-  "_onboarding_films_subtitle_1": {
-    "translation": "Bir etkinlikte seçilen kamera, film sayısı, etkinlik adı görüntülenir",
-    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  "onboardingGoToAlbumTitle": {
+    "translation": "Çerçeveniz incelemeye hazır",
+    "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
-  "_onboarding_films_title_2": {
-    "translation": "Baskıya Gönder!",
-    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  "onboardingGoToAlbumMessage": {
+    "translation": "Dijital arşivi açmak ve yakaladığınız anları görmek için dokunun",
+    "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
-  "_onboarding_films_subtitle_2": {
-    "translation": "Gerçek film gibi geliştirilir, kırmızı odada işlenir ve baskı olarak teslim edilir",
-    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  "onboardingAlbumTitle": {
+    "translation": "Tam Kontrolü Ele Alın",
+    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
   },
-  "_onboarding_films_title_3": {
-    "translation": "Anın Tadını Çıkarın!",
-    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
-  },
-  "_onboarding_films_subtitle_3": {
-    "translation": "Acele etmeyin!\nBaskılar gelişirken anı yaşamaya izin verin",
-    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
-  },
-  "_onboarding_films_title_4": {
-    "translation": "Hızlan!",
-    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
-  },
-  "_onboarding_films_subtitle_4": {
-    "translation": "Beklemek istemiyor musunuz?\nBaskıyı hızlandırın",
-    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
-  },
-  "_onboarding_shared_title_1": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_1": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_2": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_2": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_3": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_3": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_4": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_4": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_5": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_5": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_6": {
-    "translation": "Birlikte Fotoğraf Çekin!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_6": {
-    "translation": "Etkinlik, birlikte fotoğraf çekmek için arkadaşlarla paylaşılabilir.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_7": {
-    "translation": "Paylaşılan Albüm!",
-    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
-  },
-  "_onboarding_shared_subtitle_7": {
-    "translation": "Etkinlik albümünüze paylaşılan bir koleksiyon olarak kaydedilir",
-    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
-  },
-  "_onboarding_album_title_1": {
-    "translation": "Albüm!",
-    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
-  },
-  "_onboarding_album_subtitle_1": {
-    "translation": "Bekleme sona erdiğinde, fotoğraflarınız albümünüzde hazırdır",
-    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
-  },
-  "_onboarding_album_title_2": {
-    "translation": "Albüm Videosu!",
-    "sourceHash": "712fcaacc12f7968791084b28c142072"
-  },
-  "_onboarding_album_subtitle_2": {
-    "translation": "Albümünüzden oluşturulan özel video hazır!",
-    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
-  },
-  "_onboarding_album_title_3": {
-    "translation": "Albümü Dışa Aktar!",
-    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
-  },
-  "_onboarding_album_subtitle_3": {
-    "translation": "Albümünüzü uygulamadan telefon galerinize aktarın",
-    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
+  "onboardingAlbumMessage": {
+    "translation": "Bir kamera seçin ve istediğiniz zaman kendi özel rulonuzu başlatın",
+    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
   }
 }

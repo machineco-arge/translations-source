@@ -1,150 +1,58 @@
 {
-  "onboarding_finish_button": {
-    "translation": "Los geht's",
-    "sourceHash": "e0c4332e8c13be976552a059f106354f"
+  "onboardingFirstTitle": {
+    "translation": "Konzentration auf den Moment",
+    "sourceHash": "8391cca0a88ba17118c26d45c14b4f64"
   },
-  "_onboarding_home_title_1": {
-    "translation": "Analoge Erfahrung",
-    "sourceHash": "0ff702e3af6b2ec96a80fea1d8ee272f"
+  "onboardingFirstMessage": {
+    "translation": "Es gibt keine sofortige Vorschau.\nSie sehen das Ergebnis erst, wenn der gesamte Film entwickelt ist",
+    "sourceHash": "1add7e98d63246c7b9b74f52bf9d8216"
   },
-  "_onboarding_home_subtitle_1": {
-    "translation": "36 Aufnahmen, keine Vorschau\nGemeinsam fotografieren\nGemeinsames Album!",
-    "sourceHash": "2a3b5f260689a2e17057ae781a93a864"
+  "onboardingSecondTitle": {
+    "translation": "Geduld ist Teil des Handwerks",
+    "sourceHash": "9db41af37cbe28230f70138ef3075df5"
   },
-  "_onboarding_home_title_2": {
-    "translation": "Kameras",
-    "sourceHash": "e2463cb9309d2eb80790d05ef2a624e0"
+  "onboardingSecondMessage": {
+    "translation": "Jeder Film ist auf 36 Aufnahmen begrenzt.\nSobald der Film fertig ist, wird er zur Entwicklung an das Labor geschickt",
+    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
   },
-  "_onboarding_home_subtitle_2": {
-    "translation": "Wählen Sie Kamerafilter im analogen Stil",
-    "sourceHash": "6d02780172446ec457c47e036fb2a9a3"
+  "onboardingNext": {
+    "translation": "Weiter",
+    "sourceHash": "10ac3d04253ef7e1ddc73e6091c0cd55"
   },
-  "_onboarding_home_title_3": {
-    "translation": "Schüsse Anzahl",
-    "sourceHash": "06a6f0edc56e9fdc0aee61d416139b88"
+  "onboardingContinue": {
+    "translation": "Weiter",
+    "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
   },
-  "_onboarding_home_subtitle_3": {
-    "translation": "Vergleichen Sie Filter, wählen Sie die Anzahl der Filme",
-    "sourceHash": "0ed60788f1185bf4356c9b35366a4258"
+  "onboardingSendStepTitle": {
+    "translation": "Bereit für die Entwicklung",
+    "sourceHash": "287b62be3d9adba94254dc702d69e7b8"
   },
-  "_onboarding_home_title_4": {
-    "translation": "Keine Vorschau!",
-    "sourceHash": "98d5f640882f9becff054e950bb0bd65"
+  "onboardingSendStepMessage": {
+    "translation": "Sobald die Rolle zum Druck geschickt wurde, wird sie gesperrt und verarbeitet",
+    "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
-  "_onboarding_home_subtitle_4": {
-    "translation": "Begrenzte Aufnahmen. Ein rein analoges Schießerlebnis",
-    "sourceHash": "29bd4a1db7b420ed93541f89705043a3"
+  "onboardingCountdownTitle": {
+    "translation": "Verarbeitungsrolle",
+    "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
-  "_onboarding_films_title_1": {
-    "translation": "Aktivitäten",
-    "sourceHash": "65b3a2824742f66f878fe63065f3e1c9"
+  "onboardingCountdownMessage": {
+    "translation": "Kalibrierung von digitalen Negativen.\nDies wird einen Moment dauern",
+    "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
-  "_onboarding_films_subtitle_1": {
-    "translation": "Eine Aktivität zeigt die ausgewählte Kamera, die Anzahl der Filme und den Namen der Aktivität an",
-    "sourceHash": "8a2f94468930ddf2d15e9f03a8b9c98f"
+  "onboardingGoToAlbumTitle": {
+    "translation": "Ihr Rahmen ist bereit für die Überprüfung",
+    "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
-  "_onboarding_films_title_2": {
-    "translation": "Zum Drucken senden!",
-    "sourceHash": "0b93d652d3b39f00fbcf397d737884c8"
+  "onboardingGoToAlbumMessage": {
+    "translation": "Tippen Sie auf , um das digitale Archiv zu öffnen und Ihre eingefangenen Momente zu sehen",
+    "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
-  "_onboarding_films_subtitle_2": {
-    "translation": "Entwickelt wie ein echter Film, entwickelt in der Rotkammer und als Abzüge geliefert",
-    "sourceHash": "666caf7b2e968be8b60cb2ba62514e78"
+  "onboardingAlbumTitle": {
+    "translation": "Volle Kontrolle übernehmen",
+    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
   },
-  "_onboarding_films_title_3": {
-    "translation": "Genießen Sie den Moment!",
-    "sourceHash": "bffd481f983d596bb8deb43fe0f4bb22"
-  },
-  "_onboarding_films_subtitle_3": {
-    "translation": "Keine Eile!\nLassen Sie den Moment leben, während sich die Abzüge entwickeln",
-    "sourceHash": "7d788ba1605a9be14105f6f57a6c1992"
-  },
-  "_onboarding_films_title_4": {
-    "translation": "Beschleunigen Sie!",
-    "sourceHash": "e52261bd8eafddb251126c16c96c5400"
-  },
-  "_onboarding_films_subtitle_4": {
-    "translation": "Möchten Sie nicht warten?\nBeschleunigen Sie die Entwicklung",
-    "sourceHash": "1cc659b86148be828d9f8893f42e1797"
-  },
-  "_onboarding_shared_title_1": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_1": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_2": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_2": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_3": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_3": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_4": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_4": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_5": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_5": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_6": {
-    "translation": "Gemeinsam schießen!",
-    "sourceHash": "2e83b95d23430bf7c0c703c0d0f49459"
-  },
-  "_onboarding_shared_subtitle_6": {
-    "translation": "Die Aktivität kann mit Freunden geteilt werden, um gemeinsam Fotos zu machen.",
-    "sourceHash": "29a5eb983333023dc115b6971212ba54"
-  },
-  "_onboarding_shared_title_7": {
-    "translation": "Gemeinsames Album!",
-    "sourceHash": "095103e98fcf2a2a6847e682116a9306"
-  },
-  "_onboarding_shared_subtitle_7": {
-    "translation": "Die Aktivität wird in Ihrem Album als gemeinsame Sammlung gespeichert",
-    "sourceHash": "507a549c79ba259f738a3d8f44ccc916"
-  },
-  "_onboarding_album_title_1": {
-    "translation": "Album!",
-    "sourceHash": "a6131fe6c052ca393c538b4f9934260b"
-  },
-  "_onboarding_album_subtitle_1": {
-    "translation": "Sobald die Wartezeit vorbei ist, sind Ihre Fotos in Ihrem Album fertig",
-    "sourceHash": "23f54d9fe4b002087ee29e5ae16d2087"
-  },
-  "_onboarding_album_title_2": {
-    "translation": "Album Video!",
-    "sourceHash": "712fcaacc12f7968791084b28c142072"
-  },
-  "_onboarding_album_subtitle_2": {
-    "translation": "Das spezielle Video, das aus Ihrem Album erstellt wurde, ist fertig!",
-    "sourceHash": "03ee9201fb446007ffa12fe43c90f908"
-  },
-  "_onboarding_album_title_3": {
-    "translation": "Album exportieren!",
-    "sourceHash": "21e5ac40d4c4009a4178f8cfc2cba205"
-  },
-  "_onboarding_album_subtitle_3": {
-    "translation": "Exportieren Sie Ihr Album aus der App in die Galerie Ihres Telefons",
-    "sourceHash": "fa447ee4b833128bf454929dbc66cf81"
+  "onboardingAlbumMessage": {
+    "translation": "Wählen Sie eine Kamera und starten Sie jederzeit Ihre eigene Rolle",
+    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
   }
 }
