@@ -32,7 +32,7 @@
     "sourceHash": "743421ad1c25aca8170cd529607e2185"
   },
   "onboardingCountdownTitle": {
-    "translation": "İşleme rulosu",
+    "translation": "Rulo İşleniyor",
     "sourceHash": "fdb38e79d3179e18211732000c5031ae"
   },
   "onboardingCountdownMessage": {
@@ -40,7 +40,7 @@
     "sourceHash": "d77bcb90639f5571a5a09fcafa10122b"
   },
   "onboardingGoToAlbumTitle": {
-    "translation": "Çerçeveniz incelemeye hazır",
+    "translation": "Fotoğraflarınız incelemeye hazır",
     "sourceHash": "22cfd34da9c6f2a691a7b830d8896049"
   },
   "onboardingGoToAlbumMessage": {
