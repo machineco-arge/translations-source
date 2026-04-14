@@ -78,6 +78,7 @@
     "nameUpdatedSuccessMessage": "Kullanıcı adınız başarıyla güncellendi.",
     "nameUpdateErrorMessage": "Kullanıcı adınız güncellenirken hata oluştu.",
     "logOut": "Çıkış Yap",
+    "language": "Dil",
     "languageSettings": "Dil",
     "selectLanguage": "Dili Seç",
     "languageChanged": "Dil Değiştirildi",

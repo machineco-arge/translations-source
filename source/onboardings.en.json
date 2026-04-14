@@ -1,58 +1,20 @@
 {
-    "onboarding_finish_button": "Get Started",
+   "onboardingFirstTitle": "Focus on the moment",
+   "onboardingFirstMessage": "There is no instant preview.\nYou won’t see the result until the entire roll is developed",
+   "onboardingSecondTitle": "Patience is part of the craft",
+   "onboardingSecondMessage": "Each roll is limited to 36 exposures.\nOnce finished, the film is sent to the lab for processing",
+   "onboardingNext": "Next",
+   "onboardingContinue": "Continue",
 
-    "_onboarding_home_title_1": "Analogue Experience",
-    "_onboarding_home_subtitle_1": "36 Shots, No Preview\nShoot Together \nShared Album!",
+   "onboardingSendStepTitle": "Ready for development",
+   "onboardingSendStepMessage": "Once sent to print, your roll will be locked and processed",
 
-    "_onboarding_home_title_2": "Cameras",
-    "_onboarding_home_subtitle_2": "Choose analog-style camera filters",
+   "onboardingCountdownTitle": "Processing roll",
+   "onboardingCountdownMessage": "Calibrating digital negatives.\nThis will take a moment",
 
-    "_onboarding_home_title_3": "Shots Number",
-    "_onboarding_home_subtitle_3": "Compare filters, choose the number of film",
-    
-    "_onboarding_home_title_4": "No Preview!",
-    "_onboarding_home_subtitle_4": "Limited shots. A pure analog shooting experience",
+   "onboardingGoToAlbumTitle": "Your frame is ready for review",
+   "onboardingGoToAlbumMessage": "Tap to open the digital archive and see your captured moments",
 
-    "_onboarding_films_title_1": "Activites",
-    "_onboarding_films_subtitle_1": "An activity displays the selected camera, film count, activity name",
-
-    "_onboarding_films_title_2": "Send to Print!",
-    "_onboarding_films_subtitle_2": "Developed like real film, processed in the red room, and delivered as prints",
-
-    "_onboarding_films_title_3": "Enjoy the Moment!",
-    "_onboarding_films_subtitle_3": "No rush!\nLet the moment live while the prints develop",
-
-    "_onboarding_films_title_4": "Accelerate!",
-    "_onboarding_films_subtitle_4": "Prefer not to wait?\nSpeed up the development",
-    
-    "_onboarding_shared_title_1": "Shoot Together!",
-    "_onboarding_shared_subtitle_1": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_2": "Shoot Together!",
-    "_onboarding_shared_subtitle_2": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_3": "Shoot Together!",
-    "_onboarding_shared_subtitle_3": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_4": "Shoot Together!",
-    "_onboarding_shared_subtitle_4": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_5": "Shoot Together!",
-    "_onboarding_shared_subtitle_5": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_6": "Shoot Together!",
-    "_onboarding_shared_subtitle_6": "Activity can be shared with friends to capture photos together.",
-
-    "_onboarding_shared_title_7": "Shared Album!",
-    "_onboarding_shared_subtitle_7": "The activity is saved in your album as a shared collection",
-
-    "_onboarding_album_title_1": "Album!",
-    "_onboarding_album_subtitle_1": "Once the wait is over, your photos are ready in your album",
-
-    "_onboarding_album_title_2": "Album Video!",
-    "_onboarding_album_subtitle_2": "The special video generated from your album is ready!",
-
-    "_onboarding_album_title_3": "Export Album!",
-    "_onboarding_album_subtitle_3": "Export your album from the app to your phone gallery"
-
+   "onboardingAlbumTitle": "Take Full Control",
+   "onboardingAlbumMessage": "Pick a camera and start your own custom roll anytime"
 }
