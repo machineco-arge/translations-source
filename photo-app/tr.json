@@ -1618,7 +1618,7 @@
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
   "_common_photo": {
-    "translation": "Fotoğraflar",
+    "translation": "Foto",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
   },
   "_common_saving": {
@@ -1634,7 +1634,7 @@
     "sourceHash": "2517481c022cfadc1a4e136c84aab836"
   },
   "_common_delete": {
-    "translation": "Silmek",
+    "translation": "Sil",
     "sourceHash": "625223c183057e4748ae6abfb40596dd"
   },
   "_common_failed": {
