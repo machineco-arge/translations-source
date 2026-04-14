@@ -4,6 +4,12 @@
             "instantActivities.watchnightin": "Evde Gece"
         }
     },
+    "onboardings": {
+        "tr": {
+            "onboardingCountdownTitle": "Rulo İşleniyor",
+            "onboardingGoToAlbumTitle": "Fotoğraflarınız incelemeye hazır"
+        }
+    },
     "photo-app": {
         "en": {
             "_albumScreen_specialEmptyDescription": "Complete a roll and send it to the lab. Your special album will appear here once developed.",
