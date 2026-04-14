@@ -19,7 +19,8 @@
         },
         "tr": {
             "_common_delete": "Sil",
-            "_common_photo": "Foto"
+            "_common_photo": "Foto",
+            "_participantModal_owner": "Sahip"
         }
     },
     "login": {

@@ -144,7 +144,7 @@
     "_participantModal_noRequestId": "Katılımcı bilgisi bulunamadı.",
     "_participantModal_approveError": "Katılımcıyı onaylarken bir hata oluştu.",
     "_participantModal_rejectError": "Katılımcıyı reddederken bir hata oluştu.",
-    "_participantModal_owner": "Sahib",
+    "_participantModal_owner": "Sahibi",
     "_participantModal_sessionKeyError": "Aktivite anahtarı gönderilemedi. Lütfen daha sonra tekrar deneyin.",
     "_participantModal_sessionKeySuccess": "Aktivite anahtarı başarıyla gönderildi.",
     "_participantModal_sendSessionKey": "Aktivite anahtarını gönder",
