@@ -232,16 +232,16 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "롤을 뽑아 실험실로 보냅니다. 인쇄가 완료되면 특별한 앨범이 여기에 표시됩니다.",
-    "sourceHash": "5ec01e6f5ecc21b46ec15fa1e8ff0a75"
+    "translation": "특별한 이벤트의 경우 롤을 만들어 인쇄하도록 전송합니다. 인쇄가 완료되면 특별 앨범이 여기에 표시됩니다.",
+    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "아직 앨범 없음",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "롤을 뽑아 실험실로 보냅니다. 인쇄 후 앨범이 여기에 표시됩니다.",
-    "sourceHash": "5bcd4fd8d708fecf657ff570733b23fd"
+    "translation": "롤을 만들어 인쇄하도록 전송합니다. 인쇄 후 앨범이 여기에 표시됩니다.",
+    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
   },
   "_albumScreen_goToMyRolls": {
     "translation": "내 롤로 이동",

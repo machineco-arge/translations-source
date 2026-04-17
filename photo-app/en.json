@@ -233,7 +233,7 @@
   },
   "_albumScreen_specialEmptyDescription": {
     "translation": "Complete a roll and send it to the lab. Your special album will appear here once developed.",
-    "sourceHash": "5ec01e6f5ecc21b46ec15fa1e8ff0a75"
+    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "NO ALBUM YET",
@@ -241,7 +241,7 @@
   },
   "_albumScreen_emptyStateDescription": {
     "translation": "Complete a roll and send it to the lab. Your album will appear here once developed.",
-    "sourceHash": "5bcd4fd8d708fecf657ff570733b23fd"
+    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
   },
   "_albumScreen_goToMyRolls": {
     "translation": "Go to My Rolls",

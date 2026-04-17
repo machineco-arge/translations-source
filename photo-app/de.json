@@ -232,16 +232,16 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "Ziehen Sie eine Rolle und schicken Sie sie an das Labor. Wenn sie mit dem Druck fertig sind, wird Ihr spezielles Album hier erscheinen.",
-    "sourceHash": "5ec01e6f5ecc21b46ec15fa1e8ff0a75"
+    "translation": "Für besondere Anlässe erstellen Sie eine Rolle und schicken sie zum Druck. Wenn der Druck abgeschlossen ist, erscheint Ihr spezielles Album hier.",
+    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "NO ALBUM YET",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "Ziehen Sie eine Rolle ab und schicken Sie sie an das Labor. Ihr Album wird nach dem Druck hier erscheinen.",
-    "sourceHash": "5bcd4fd8d708fecf657ff570733b23fd"
+    "translation": "Erstellen Sie eine Rolle und senden Sie sie zum Druck. Ihr Album wird nach dem Druck hier erscheinen.",
+    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
   },
   "_albumScreen_goToMyRolls": {
     "translation": "Zu meinen Rollen gehen",
