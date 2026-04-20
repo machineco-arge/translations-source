@@ -12,10 +12,13 @@
     },
     "photo-app": {
         "en": {
-            "_albumScreen_specialEmptyDescription": "Complete a roll and send it to the lab. Your special album will appear here once developed.",
-            "_albumScreen_emptyStateDescription": "Complete a roll and send it to the lab. Your album will appear here once developed.",
-            "_goToMyRolls": "Go to My Rolls",
-            "_albumScreen_select": "Select"
+            "_albumScreen_specialEmptyDescription": "Create a special film and send it for printing. Your special album will appear here once it has been printed.",
+            "_albumScreen_emptyStateDescription": "Create a film and send it for printing. Your album will appear here once it has been printed.",
+            "_albumScreen_goToMyRolls": "Go to My Films",
+            "_albumScreen_select": "Select",
+            "_filmScreen_title": "My Films",
+            "_filmScreen_noActiveFilmsMessage": "No active films yet",
+            "_filmScreen_noActiveFilmsDescription": "Create a new film to shoot your first shots."
         },
         "tr": {
             "_common_delete": "Sil",
