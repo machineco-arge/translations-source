@@ -232,20 +232,20 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "Para eventos especiais, crie um rolo e envie-o para impressão. Quando a impressão estiver concluída, o seu álbum especial aparecerá aqui.",
-    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
+    "translation": "Crie um filme para eventos especiais e envie-o para impressão. Quando a impressão estiver concluída, o seu álbum especial aparecerá aqui.",
+    "sourceHash": "d3c1041f11ad0ab720e578d517d40167"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "AINDA NÃO HÁ ÁLBUM",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "Crie um rolo e envie-o para impressão. O seu álbum aparecerá aqui após a impressão.",
-    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
+    "translation": "Crie um filme e envie-o para impressão. O seu álbum aparecerá aqui após a impressão.",
+    "sourceHash": "3593c96cc352e2ce62c128079e4aa68f"
   },
   "_albumScreen_goToMyRolls": {
-    "translation": "Ir para os meus rolos",
-    "sourceHash": "5bce0f0b513cf1cc92207efb032e064f"
+    "translation": "Ir para Os meus filmes",
+    "sourceHash": "39e2bf131739dbd5c8d6f381bc69cc45"
   },
   "_albumScreen_screenTitle": {
     "translation": "ÁLBUNS",

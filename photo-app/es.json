@@ -232,20 +232,20 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "Para eventos especiales, crea un rollo y envíalo a imprimir. Cuando terminen de imprimir, tu álbum especial aparecerá aquí.",
-    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
+    "translation": "Crea una película para eventos especiales y envíala a imprimir. Cuando terminen de imprimir, tu álbum especial aparecerá aquí.",
+    "sourceHash": "d3c1041f11ad0ab720e578d517d40167"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "AÚN NO HAY ÁLBUM",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "Crea un rollo y envíalo a imprimir. Tu álbum aparecerá aquí después de la impresión.",
-    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
+    "translation": "Crea una película y envíala a imprimir. Tu álbum aparecerá aquí después de la impresión.",
+    "sourceHash": "3593c96cc352e2ce62c128079e4aa68f"
   },
   "_albumScreen_goToMyRolls": {
-    "translation": "Ir a Mis Rollos",
-    "sourceHash": "5bce0f0b513cf1cc92207efb032e064f"
+    "translation": "Ir a Mis películas",
+    "sourceHash": "39e2bf131739dbd5c8d6f381bc69cc45"
   },
   "_albumScreen_screenTitle": {
     "translation": "ALBUMES",

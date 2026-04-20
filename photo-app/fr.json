@@ -232,20 +232,20 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "Pour les événements spéciaux, créez un rouleau et envoyez-le à l'impression. Une fois l'impression terminée, votre album spécial apparaîtra ici.",
-    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
+    "translation": "Créez un film pour des événements spéciaux et envoyez-le à l'impression. Une fois l'impression terminée, votre album spécial apparaîtra ici.",
+    "sourceHash": "d3c1041f11ad0ab720e578d517d40167"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "PAS ENCORE D'ALBUM",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "Créez un rouleau et envoyez-le à l'impression. Votre album apparaîtra ici après l'impression.",
-    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
+    "translation": "Créez un film et envoyez-le à l'impression. Votre album apparaîtra ici après l'impression.",
+    "sourceHash": "3593c96cc352e2ce62c128079e4aa68f"
   },
   "_albumScreen_goToMyRolls": {
-    "translation": "Accéder à mes rouleaux",
-    "sourceHash": "5bce0f0b513cf1cc92207efb032e064f"
+    "translation": "Aller à Mes Films",
+    "sourceHash": "39e2bf131739dbd5c8d6f381bc69cc45"
   },
   "_albumScreen_screenTitle": {
     "translation": "ALBUMS",
@@ -292,8 +292,8 @@
     "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_title": {
-    "translation": "Mes rouleaux",
-    "sourceHash": "7079a7ce628f3b874d3d330f8b0a816e"
+    "translation": "Mes films",
+    "sourceHash": "c66ec335d396822e76a9f2d14c1a7c1b"
   },
   "_filmScreen_location": {
     "translation": "Localisation",
@@ -352,12 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "Aucun rouleau actif pour l'instant",
-    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+    "translation": "Aucun film actif pour l'instant",
+    "sourceHash": "5dd4c062b53fe1919d13dd41d8cc13d1"
   },
   "_filmScreen_noActiveFilmsDescription": {
-    "translation": "Créez un nouvel événement pour télécharger vos premières images.",
-    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
+    "translation": "Créez un nouveau film pour tourner vos premières images.",
+    "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "La demande de répression a échoué.",

@@ -232,20 +232,20 @@
     "sourceHash": "025bf7e634945668624908f6e8754692"
   },
   "_albumScreen_specialEmptyDescription": {
-    "translation": "Für besondere Anlässe erstellen Sie eine Rolle und schicken sie zum Druck. Wenn der Druck abgeschlossen ist, erscheint Ihr spezielles Album hier.",
-    "sourceHash": "e1f1ae7f963fa50cbde9ffe39b55f715"
+    "translation": "Erstellen Sie einen Film für besondere Ereignisse und schicken Sie ihn zum Druck. Wenn der Druck abgeschlossen ist, erscheint Ihr spezielles Album hier.",
+    "sourceHash": "d3c1041f11ad0ab720e578d517d40167"
   },
   "_albumScreen_emptyStateTitle": {
     "translation": "NO ALBUM YET",
     "sourceHash": "9d408c975309ddee399977c697c33681"
   },
   "_albumScreen_emptyStateDescription": {
-    "translation": "Erstellen Sie eine Rolle und senden Sie sie zum Druck. Ihr Album wird nach dem Druck hier erscheinen.",
-    "sourceHash": "e8d1358384357197acb4385312cc9b4c"
+    "translation": "Erstellen Sie einen Film und schicken Sie ihn zum Druck. Ihr Album wird nach dem Druck hier erscheinen.",
+    "sourceHash": "3593c96cc352e2ce62c128079e4aa68f"
   },
   "_albumScreen_goToMyRolls": {
-    "translation": "Zu meinen Rollen gehen",
-    "sourceHash": "5bce0f0b513cf1cc92207efb032e064f"
+    "translation": "Gehe zu Meine Filme",
+    "sourceHash": "39e2bf131739dbd5c8d6f381bc69cc45"
   },
   "_albumScreen_screenTitle": {
     "translation": "ALBUMS",
