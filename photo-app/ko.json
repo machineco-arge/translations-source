@@ -292,8 +292,8 @@
     "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_title": {
-    "translation": "내 롤",
-    "sourceHash": "7079a7ce628f3b874d3d330f8b0a816e"
+    "translation": "내 영화",
+    "sourceHash": "c66ec335d396822e76a9f2d14c1a7c1b"
   },
   "_filmScreen_location": {
     "translation": "위치",
@@ -352,12 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "아직 활성 롤이 없습니다",
-    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+    "translation": "아직 활성 필름이 없습니다",
+    "sourceHash": "5dd4c062b53fe1919d13dd41d8cc13d1"
   },
   "_filmScreen_noActiveFilmsDescription": {
-    "translation": "새 이벤트를 생성하여 첫 번째 프레임을 업로드합니다.",
-    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
+    "translation": "새 필름을 만들어 첫 번째 프레임을 촬영합니다.",
+    "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "억압 요청이 실패했습니다.",

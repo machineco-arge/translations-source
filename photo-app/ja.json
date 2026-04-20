@@ -292,8 +292,8 @@
     "sourceHash": "516a789c088e013381457f2d14e91d69"
   },
   "_filmScreen_title": {
-    "translation": "私のロール",
-    "sourceHash": "7079a7ce628f3b874d3d330f8b0a816e"
+    "translation": "私の映画",
+    "sourceHash": "c66ec335d396822e76a9f2d14c1a7c1b"
   },
   "_filmScreen_location": {
     "translation": "所在地",
@@ -352,12 +352,12 @@
     "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
   },
   "_filmScreen_noActiveFilmsMessage": {
-    "translation": "まだアクティブなロールはない",
-    "sourceHash": "890f07d6cc08e9f411146060d49d16e0"
+    "translation": "活動中の作品はまだない",
+    "sourceHash": "5dd4c062b53fe1919d13dd41d8cc13d1"
   },
   "_filmScreen_noActiveFilmsDescription": {
-    "translation": "新しいイベントを作成して、最初のフレームをアップロードしてください。",
-    "sourceHash": "386ce37c7023d701ebd5669d13e22193"
+    "translation": "最初のフレームを撮影するために新しいフィルムを作成する。",
+    "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
     "translation": "弾圧の要請は失敗に終わった。",
