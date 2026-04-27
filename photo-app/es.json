@@ -1618,8 +1618,8 @@
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
   "backup_screen_title": {
-    "translation": "RESPALDO",
-    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+    "translation": "Copia de seguridad",
+    "sourceHash": "ed23e4b031ba195df52810641ffc0fa5"
   },
   "backup_status_title": {
     "translation": "Estado de la copia de seguridad",
