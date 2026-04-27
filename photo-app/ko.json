@@ -1617,6 +1617,146 @@
     "translation": "\" {{bestName}} \"용 필름 롤이 80% 가득 찼습니다. 프린터로 보내는 것을 잊지 마세요.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "backup_screen_title": {
+    "translation": "백업",
+    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+  },
+  "backup_status_title": {
+    "translation": "백업 상태",
+    "sourceHash": "771d7f7885920d9b83e5839fa0618527"
+  },
+  "backup_last_backup": {
+    "translation": "마지막 백업",
+    "sourceHash": "66a7d9ff74be41a5cb659b201bc360a2"
+  },
+  "backup_total_photos": {
+    "translation": "총 사진 수",
+    "sourceHash": "f16222af40fe2c3b39f7fd4a0b89229f"
+  },
+  "backup_no_backup": {
+    "translation": "아직 백업이 없습니다.",
+    "sourceHash": "69f54630190b001b26f63a0e1ddd2dc5"
+  },
+  "backup_info_title": {
+    "translation": "백업 정보",
+    "sourceHash": "8a30f6e99f781a1a8f5ba3dbf3eb9b8c"
+  },
+  "backup_info_1": {
+    "translation": "모든 앨범과 사진이 서버에 백업됩니다.",
+    "sourceHash": "731857d8b15f039c91bdb1fee5dee5a2"
+  },
+  "backup_info_2": {
+    "translation": "앱을 삭제하고 다시 다운로드하면 백업에서 앱을 설치할 수 있습니다.",
+    "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
+  },
+  "backup_info_3": {
+    "translation": "새 백업을 만들면 이전 백업을 덮어쓰게 됩니다.",
+    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+  },
+  "backup_info_4": {
+    "translation": "백업에서 복원할 때 기존 앨범이 대체됩니다.",
+    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+  },
+  "backup_collecting": {
+    "translation": "앨범 데이터 수집...",
+    "sourceHash": "8aa8271d41b34c7df83775b17be2ea1c"
+  },
+  "backup_uploading_metadata": {
+    "translation": "데이터가 서버로 전송되고 있습니다.",
+    "sourceHash": "3c6b4d5243043fb0fb4f5f29b7fac697"
+  },
+  "backup_uploading_photos": {
+    "translation": "사진 업로드",
+    "sourceHash": "887caab9c9bae4331e23dce90fee6662"
+  },
+  "backup_completing": {
+    "translation": "백업 완료 중...",
+    "sourceHash": "5d54757d33dba481cfd4ede47a3cacc1"
+  },
+  "backup_done": {
+    "translation": "백업 완료!",
+    "sourceHash": "cada183a98e57700259dffaf2ccea8f4"
+  },
+  "restore_fetching": {
+    "translation": "백업에서 데이터를 가져오는 중입니다...",
+    "sourceHash": "050f6c6632ed876284f29023b821d74c"
+  },
+  "restore_downloading": {
+    "translation": "사진 다운로드",
+    "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
+  },
+  "restore_saving": {
+    "translation": "앨범이 녹음 중입니다...",
+    "sourceHash": "953df74d08a294eb798ebc905d5d654b"
+  },
+  "restore_done": {
+    "translation": "복원 완료!",
+    "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
+  },
+  "backup_in_progress": {
+    "translation": "백업...",
+    "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
+  },
+  "backup_button": {
+    "translation": "백업 앨범",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "restore_in_progress": {
+    "translation": "로드 중...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "restore_button": {
+    "translation": "백업에서 로드",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "backup_confirm_title": {
+    "translation": "백업 앨범",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "backup_confirm_overwrite": {
+    "translation": "기존 백업을 덮어씁니다. 계속하시겠습니까?",
+    "sourceHash": "1c7848fcd4f54cfaf380179ec090d9d9"
+  },
+  "backup_confirm_message": {
+    "translation": "모든 앨범이 서버에 백업됩니다. 계속하시겠습니까?",
+    "sourceHash": "760af51eeb310dddd432dcadbb18de03"
+  },
+  "restore_confirm_title": {
+    "translation": "백업에서 로드",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "restore_confirm_message": {
+    "translation": "이 날짜의 백업이 복원됩니다. 기존 앨범을 덮어쓰게 됩니다. 계속하시겠습니까?",
+    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+  },
+  "backup_success_title": {
+    "translation": "백업 성공",
+    "sourceHash": "5f1a73403d9fd925c4af2713b024f1a0"
+  },
+  "restore_success_title": {
+    "translation": "복원 성공",
+    "sourceHash": "73c4516d60e64c56f9be4c0ea358b11a"
+  },
+  "backup_no_backup_title": {
+    "translation": "대체품을 찾을 수 없음",
+    "sourceHash": "5fed2dc0b943f64d3c8252b72969f7c1"
+  },
+  "backup_error_message": {
+    "translation": "처리하는 동안 오류가 발생했습니다. 인터넷 연결을 확인한 후 다시 시도하세요.",
+    "sourceHash": "cb053b7721247e2e975c8ee1a449e606"
+  },
+  "backup_success_message": {
+    "translation": "앨범이 성공적으로 백업되었습니다.",
+    "sourceHash": "8d0ea9dbf50e94c5d18d677f40e4a181"
+  },
+  "restore_success_message": {
+    "translation": "앨범이 성공적으로 복원되었습니다.",
+    "sourceHash": "82c1fe1f4444c36bed7269672312de6e"
+  },
+  "backup_no_backup_message": {
+    "translation": "아직 백업이 없습니다. 먼저 백업을 만들어야 합니다.",
+    "sourceHash": "dfb523525950d50f552efe7b3e81f654"
+  },
   "_common_photo": {
     "translation": "사진",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

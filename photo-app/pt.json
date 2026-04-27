@@ -1617,6 +1617,146 @@
     "translation": "O seu rolo de filme para \" {{bestName}} \" está 80% cheio. Não se esqueça de o enviar para a impressora.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "backup_screen_title": {
+    "translation": "BACKUP",
+    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+  },
+  "backup_status_title": {
+    "translation": "Estado da cópia de segurança",
+    "sourceHash": "771d7f7885920d9b83e5839fa0618527"
+  },
+  "backup_last_backup": {
+    "translation": "Última cópia de segurança",
+    "sourceHash": "66a7d9ff74be41a5cb659b201bc360a2"
+  },
+  "backup_total_photos": {
+    "translation": "Total de fotos",
+    "sourceHash": "f16222af40fe2c3b39f7fd4a0b89229f"
+  },
+  "backup_no_backup": {
+    "translation": "Ainda não tem uma cópia de segurança.",
+    "sourceHash": "69f54630190b001b26f63a0e1ddd2dc5"
+  },
+  "backup_info_title": {
+    "translation": "Sobre a cópia de segurança",
+    "sourceHash": "8a30f6e99f781a1a8f5ba3dbf3eb9b8c"
+  },
+  "backup_info_1": {
+    "translation": "Todos os seus álbuns e fotografias são guardados no servidor.",
+    "sourceHash": "731857d8b15f039c91bdb1fee5dee5a2"
+  },
+  "backup_info_2": {
+    "translation": "Quando apaga a aplicação e a descarrega novamente, pode instalá-la a partir da cópia de segurança.",
+    "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
+  },
+  "backup_info_3": {
+    "translation": "Quando efectua uma nova cópia de segurança, a cópia de segurança anterior é substituída.",
+    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+  },
+  "backup_info_4": {
+    "translation": "Os álbuns existentes serão substituídos ao restaurar a partir da cópia de segurança.",
+    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+  },
+  "backup_collecting": {
+    "translation": "Recolha de dados do álbum...",
+    "sourceHash": "8aa8271d41b34c7df83775b17be2ea1c"
+  },
+  "backup_uploading_metadata": {
+    "translation": "Os dados estão a ser enviados para o servidor.",
+    "sourceHash": "3c6b4d5243043fb0fb4f5f29b7fac697"
+  },
+  "backup_uploading_photos": {
+    "translation": "Carregamento de fotografias",
+    "sourceHash": "887caab9c9bae4331e23dce90fee6662"
+  },
+  "backup_completing": {
+    "translation": "Concluir a cópia de segurança...",
+    "sourceHash": "5d54757d33dba481cfd4ede47a3cacc1"
+  },
+  "backup_done": {
+    "translation": "Cópia de segurança concluída!",
+    "sourceHash": "cada183a98e57700259dffaf2ccea8f4"
+  },
+  "restore_fetching": {
+    "translation": "Os dados estão a ser retirados da cópia de segurança...",
+    "sourceHash": "050f6c6632ed876284f29023b821d74c"
+  },
+  "restore_downloading": {
+    "translation": "Descarregar fotografias",
+    "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
+  },
+  "restore_saving": {
+    "translation": "Os álbuns estão a ser gravados...",
+    "sourceHash": "953df74d08a294eb798ebc905d5d654b"
+  },
+  "restore_done": {
+    "translation": "Restauro concluído!",
+    "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
+  },
+  "backup_in_progress": {
+    "translation": "Voltando atrás...",
+    "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
+  },
+  "backup_button": {
+    "translation": "Álbuns de cópia de segurança",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "restore_in_progress": {
+    "translation": "Carregando...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "restore_button": {
+    "translation": "Carregar da cópia de segurança",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "backup_confirm_title": {
+    "translation": "Álbuns de cópia de segurança",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "backup_confirm_overwrite": {
+    "translation": "A cópia de segurança existente será substituída. Deseja continuar?",
+    "sourceHash": "1c7848fcd4f54cfaf380179ec090d9d9"
+  },
+  "backup_confirm_message": {
+    "translation": "Todos os seus álbuns serão guardados no servidor. Deseja continuar?",
+    "sourceHash": "760af51eeb310dddd432dcadbb18de03"
+  },
+  "restore_confirm_title": {
+    "translation": "Carregar da cópia de segurança",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "restore_confirm_message": {
+    "translation": "A cópia de segurança a partir desta data será restaurada. Os seus álbuns existentes serão substituídos. Deseja continuar?",
+    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+  },
+  "backup_success_title": {
+    "translation": "Cópia de segurança bem sucedida",
+    "sourceHash": "5f1a73403d9fd925c4af2713b024f1a0"
+  },
+  "restore_success_title": {
+    "translation": "Restauro bem sucedido",
+    "sourceHash": "73c4516d60e64c56f9be4c0ea358b11a"
+  },
+  "backup_no_backup_title": {
+    "translation": "Nenhum substituto encontrado",
+    "sourceHash": "5fed2dc0b943f64d3c8252b72969f7c1"
+  },
+  "backup_error_message": {
+    "translation": "Ocorreu um erro durante o processamento. Verifique a sua ligação à Internet e tente novamente.",
+    "sourceHash": "cb053b7721247e2e975c8ee1a449e606"
+  },
+  "backup_success_message": {
+    "translation": "A cópia de segurança dos seus álbuns foi efectuada com êxito.",
+    "sourceHash": "8d0ea9dbf50e94c5d18d677f40e4a181"
+  },
+  "restore_success_message": {
+    "translation": "Os seus álbuns foram restaurados com êxito.",
+    "sourceHash": "82c1fe1f4444c36bed7269672312de6e"
+  },
+  "backup_no_backup_message": {
+    "translation": "Ainda não tem uma cópia de segurança. Primeiro, é necessário efetuar uma cópia de segurança.",
+    "sourceHash": "dfb523525950d50f552efe7b3e81f654"
+  },
   "_common_photo": {
     "translation": "Fotos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

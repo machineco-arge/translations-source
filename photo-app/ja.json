@@ -1617,6 +1617,146 @@
     "translation": "{{bestName}} \"のフィルムロールが80%いっぱいになりました。プリンターに送るのを忘れないでください。",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "backup_screen_title": {
+    "translation": "バックアップ",
+    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+  },
+  "backup_status_title": {
+    "translation": "バックアップ状況",
+    "sourceHash": "771d7f7885920d9b83e5839fa0618527"
+  },
+  "backup_last_backup": {
+    "translation": "最後のバックアップ",
+    "sourceHash": "66a7d9ff74be41a5cb659b201bc360a2"
+  },
+  "backup_total_photos": {
+    "translation": "写真合計",
+    "sourceHash": "f16222af40fe2c3b39f7fd4a0b89229f"
+  },
+  "backup_no_backup": {
+    "translation": "まだバックアップがないじゃないか。",
+    "sourceHash": "69f54630190b001b26f63a0e1ddd2dc5"
+  },
+  "backup_info_title": {
+    "translation": "バックアップについて",
+    "sourceHash": "8a30f6e99f781a1a8f5ba3dbf3eb9b8c"
+  },
+  "backup_info_1": {
+    "translation": "すべてのアルバムと写真はサーバーにバックアップされます。",
+    "sourceHash": "731857d8b15f039c91bdb1fee5dee5a2"
+  },
+  "backup_info_2": {
+    "translation": "アプリを削除して再度ダウンロードすると、バックアップからインストールできる。",
+    "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
+  },
+  "backup_info_3": {
+    "translation": "新しいバックアップを取ると、前のバックアップは上書きされます。",
+    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+  },
+  "backup_info_4": {
+    "translation": "バックアップから復元する場合、既存のアルバムは置き換えられます。",
+    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+  },
+  "backup_collecting": {
+    "translation": "アルバムデータの収集...",
+    "sourceHash": "8aa8271d41b34c7df83775b17be2ea1c"
+  },
+  "backup_uploading_metadata": {
+    "translation": "データはサーバーに送信されている。",
+    "sourceHash": "3c6b4d5243043fb0fb4f5f29b7fac697"
+  },
+  "backup_uploading_photos": {
+    "translation": "写真のアップロード",
+    "sourceHash": "887caab9c9bae4331e23dce90fee6662"
+  },
+  "backup_completing": {
+    "translation": "バックアップの完了...",
+    "sourceHash": "5d54757d33dba481cfd4ede47a3cacc1"
+  },
+  "backup_done": {
+    "translation": "バックアップ完了！",
+    "sourceHash": "cada183a98e57700259dffaf2ccea8f4"
+  },
+  "restore_fetching": {
+    "translation": "データはバックアップから取られている...。",
+    "sourceHash": "050f6c6632ed876284f29023b821d74c"
+  },
+  "restore_downloading": {
+    "translation": "写真のダウンロード",
+    "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
+  },
+  "restore_saving": {
+    "translation": "アルバムがレコーディングされている...",
+    "sourceHash": "953df74d08a294eb798ebc905d5d654b"
+  },
+  "restore_done": {
+    "translation": "リストア完了！",
+    "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
+  },
+  "backup_in_progress": {
+    "translation": "バックアップ...",
+    "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
+  },
+  "backup_button": {
+    "translation": "バックアップアルバム",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "restore_in_progress": {
+    "translation": "読み込み中...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "restore_button": {
+    "translation": "バックアップからロード",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "backup_confirm_title": {
+    "translation": "バックアップアルバム",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "backup_confirm_overwrite": {
+    "translation": "既存のバックアップは上書きされます。続行しますか？",
+    "sourceHash": "1c7848fcd4f54cfaf380179ec090d9d9"
+  },
+  "backup_confirm_message": {
+    "translation": "すべてのアルバムはサーバーにバックアップされます。続けますか？",
+    "sourceHash": "760af51eeb310dddd432dcadbb18de03"
+  },
+  "restore_confirm_title": {
+    "translation": "バックアップからロード",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "restore_confirm_message": {
+    "translation": "この日付のバックアップが復元されます。既存のアルバムは上書きされます。続行しますか？",
+    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+  },
+  "backup_success_title": {
+    "translation": "バックアップ成功",
+    "sourceHash": "5f1a73403d9fd925c4af2713b024f1a0"
+  },
+  "restore_success_title": {
+    "translation": "リストア成功",
+    "sourceHash": "73c4516d60e64c56f9be4c0ea358b11a"
+  },
+  "backup_no_backup_title": {
+    "translation": "代用品なし",
+    "sourceHash": "5fed2dc0b943f64d3c8252b72969f7c1"
+  },
+  "backup_error_message": {
+    "translation": "処理中にエラーが発生しました。インターネット接続を確認し、再度お試しください。",
+    "sourceHash": "cb053b7721247e2e975c8ee1a449e606"
+  },
+  "backup_success_message": {
+    "translation": "アルバムのバックアップが完了しました。",
+    "sourceHash": "8d0ea9dbf50e94c5d18d677f40e4a181"
+  },
+  "restore_success_message": {
+    "translation": "アルバムは正常に復元されました。",
+    "sourceHash": "82c1fe1f4444c36bed7269672312de6e"
+  },
+  "backup_no_backup_message": {
+    "translation": "まだバックアップを取っていない。まずバックアップを取る必要があります。",
+    "sourceHash": "dfb523525950d50f552efe7b3e81f654"
+  },
   "_common_photo": {
     "translation": "写真",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

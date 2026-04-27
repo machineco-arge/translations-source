@@ -1617,6 +1617,146 @@
     "translation": "您的 \" {{bestName}} \" 胶卷已满 80%。别忘了把它送到打印机。",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "backup_screen_title": {
+    "translation": "备份",
+    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+  },
+  "backup_status_title": {
+    "translation": "备份状态",
+    "sourceHash": "771d7f7885920d9b83e5839fa0618527"
+  },
+  "backup_last_backup": {
+    "translation": "最后一次备份",
+    "sourceHash": "66a7d9ff74be41a5cb659b201bc360a2"
+  },
+  "backup_total_photos": {
+    "translation": "照片总数",
+    "sourceHash": "f16222af40fe2c3b39f7fd4a0b89229f"
+  },
+  "backup_no_backup": {
+    "translation": "你还没有备份。",
+    "sourceHash": "69f54630190b001b26f63a0e1ddd2dc5"
+  },
+  "backup_info_title": {
+    "translation": "关于备份",
+    "sourceHash": "8a30f6e99f781a1a8f5ba3dbf3eb9b8c"
+  },
+  "backup_info_1": {
+    "translation": "您的所有相册和照片都会备份到服务器上。",
+    "sourceHash": "731857d8b15f039c91bdb1fee5dee5a2"
+  },
+  "backup_info_2": {
+    "translation": "删除应用后再次下载时，可以从备份中安装。",
+    "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
+  },
+  "backup_info_3": {
+    "translation": "当您进行新的备份时，之前的备份会被覆盖。",
+    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+  },
+  "backup_info_4": {
+    "translation": "从备份恢复时，现有相册将被替换。",
+    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+  },
+  "backup_collecting": {
+    "translation": "收集相册数据...",
+    "sourceHash": "8aa8271d41b34c7df83775b17be2ea1c"
+  },
+  "backup_uploading_metadata": {
+    "translation": "数据正在发送到服务器。",
+    "sourceHash": "3c6b4d5243043fb0fb4f5f29b7fac697"
+  },
+  "backup_uploading_photos": {
+    "translation": "上传照片",
+    "sourceHash": "887caab9c9bae4331e23dce90fee6662"
+  },
+  "backup_completing": {
+    "translation": "完成备份...",
+    "sourceHash": "5d54757d33dba481cfd4ede47a3cacc1"
+  },
+  "backup_done": {
+    "translation": "备份完成！",
+    "sourceHash": "cada183a98e57700259dffaf2ccea8f4"
+  },
+  "restore_fetching": {
+    "translation": "数据来自备份...",
+    "sourceHash": "050f6c6632ed876284f29023b821d74c"
+  },
+  "restore_downloading": {
+    "translation": "下载照片",
+    "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
+  },
+  "restore_saving": {
+    "translation": "正在录制专辑",
+    "sourceHash": "953df74d08a294eb798ebc905d5d654b"
+  },
+  "restore_done": {
+    "translation": "恢复完成！",
+    "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
+  },
+  "backup_in_progress": {
+    "translation": "备份...",
+    "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
+  },
+  "backup_button": {
+    "translation": "备份相册",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "restore_in_progress": {
+    "translation": "正在加载...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "restore_button": {
+    "translation": "从备份加载",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "backup_confirm_title": {
+    "translation": "备份相册",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "backup_confirm_overwrite": {
+    "translation": "您的现有备份将被覆盖。您想继续吗？",
+    "sourceHash": "1c7848fcd4f54cfaf380179ec090d9d9"
+  },
+  "backup_confirm_message": {
+    "translation": "您的所有相册都将备份到服务器上。您还想继续吗？",
+    "sourceHash": "760af51eeb310dddd432dcadbb18de03"
+  },
+  "restore_confirm_title": {
+    "translation": "从备份加载",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "restore_confirm_message": {
+    "translation": "将恢复从该日期开始的备份。您现有的相册将被覆盖。您想继续吗？",
+    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+  },
+  "backup_success_title": {
+    "translation": "备份成功",
+    "sourceHash": "5f1a73403d9fd925c4af2713b024f1a0"
+  },
+  "restore_success_title": {
+    "translation": "恢复成功",
+    "sourceHash": "73c4516d60e64c56f9be4c0ea358b11a"
+  },
+  "backup_no_backup_title": {
+    "translation": "未找到替代品",
+    "sourceHash": "5fed2dc0b943f64d3c8252b72969f7c1"
+  },
+  "backup_error_message": {
+    "translation": "处理过程中出现错误。请检查网络连接并重试。",
+    "sourceHash": "cb053b7721247e2e975c8ee1a449e606"
+  },
+  "backup_success_message": {
+    "translation": "您的相册已成功备份。",
+    "sourceHash": "8d0ea9dbf50e94c5d18d677f40e4a181"
+  },
+  "restore_success_message": {
+    "translation": "您的相册已成功恢复。",
+    "sourceHash": "82c1fe1f4444c36bed7269672312de6e"
+  },
+  "backup_no_backup_message": {
+    "translation": "您还没有备份。您需要先进行备份。",
+    "sourceHash": "dfb523525950d50f552efe7b3e81f654"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

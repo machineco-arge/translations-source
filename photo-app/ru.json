@@ -1617,6 +1617,146 @@
     "translation": "Ваш рулон пленки для \" {{bestName}} \" заполнен на 80%. Не забудьте отправить его на печать.",
     "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
   },
+  "backup_screen_title": {
+    "translation": "РЕЗЕРВНАЯ КОПИЯ",
+    "sourceHash": "4c0b042c9a91f946e04504619f12d7fb"
+  },
+  "backup_status_title": {
+    "translation": "Состояние резервного копирования",
+    "sourceHash": "771d7f7885920d9b83e5839fa0618527"
+  },
+  "backup_last_backup": {
+    "translation": "Последняя резервная копия",
+    "sourceHash": "66a7d9ff74be41a5cb659b201bc360a2"
+  },
+  "backup_total_photos": {
+    "translation": "Всего фотографий",
+    "sourceHash": "f16222af40fe2c3b39f7fd4a0b89229f"
+  },
+  "backup_no_backup": {
+    "translation": "У вас еще нет резервной копии.",
+    "sourceHash": "69f54630190b001b26f63a0e1ddd2dc5"
+  },
+  "backup_info_title": {
+    "translation": "О резервном копировании",
+    "sourceHash": "8a30f6e99f781a1a8f5ba3dbf3eb9b8c"
+  },
+  "backup_info_1": {
+    "translation": "Все ваши альбомы и фотографии сохраняются на сервере.",
+    "sourceHash": "731857d8b15f039c91bdb1fee5dee5a2"
+  },
+  "backup_info_2": {
+    "translation": "Когда вы удалите приложение и загрузите его снова, вы сможете установить его из резервной копии.",
+    "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
+  },
+  "backup_info_3": {
+    "translation": "При создании новой резервной копии предыдущая резервная копия перезаписывается.",
+    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+  },
+  "backup_info_4": {
+    "translation": "При восстановлении из резервной копии существующие альбомы будут заменены.",
+    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+  },
+  "backup_collecting": {
+    "translation": "Сбор данных об альбомах...",
+    "sourceHash": "8aa8271d41b34c7df83775b17be2ea1c"
+  },
+  "backup_uploading_metadata": {
+    "translation": "Данные отправляются на сервер.",
+    "sourceHash": "3c6b4d5243043fb0fb4f5f29b7fac697"
+  },
+  "backup_uploading_photos": {
+    "translation": "Загрузка фотографий",
+    "sourceHash": "887caab9c9bae4331e23dce90fee6662"
+  },
+  "backup_completing": {
+    "translation": "Завершение резервного копирования...",
+    "sourceHash": "5d54757d33dba481cfd4ede47a3cacc1"
+  },
+  "backup_done": {
+    "translation": "Резервное копирование завершено!",
+    "sourceHash": "cada183a98e57700259dffaf2ccea8f4"
+  },
+  "restore_fetching": {
+    "translation": "Данные берутся из резервной копии...",
+    "sourceHash": "050f6c6632ed876284f29023b821d74c"
+  },
+  "restore_downloading": {
+    "translation": "Загрузка фотографий",
+    "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
+  },
+  "restore_saving": {
+    "translation": "Записываются альбомы...",
+    "sourceHash": "953df74d08a294eb798ebc905d5d654b"
+  },
+  "restore_done": {
+    "translation": "Восстановление завершено!",
+    "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
+  },
+  "backup_in_progress": {
+    "translation": "Назад...",
+    "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
+  },
+  "backup_button": {
+    "translation": "Резервные альбомы",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "restore_in_progress": {
+    "translation": "Загрузка...",
+    "sourceHash": "4deb007bb8ff5e474e71e2bcf1e00e5d"
+  },
+  "restore_button": {
+    "translation": "Загрузка из резервной копии",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "backup_confirm_title": {
+    "translation": "Резервные альбомы",
+    "sourceHash": "84d75026e44541d7a34bad3fd28f62af"
+  },
+  "backup_confirm_overwrite": {
+    "translation": "Существующая резервная копия будет перезаписана. Вы хотите продолжить?",
+    "sourceHash": "1c7848fcd4f54cfaf380179ec090d9d9"
+  },
+  "backup_confirm_message": {
+    "translation": "Все ваши альбомы будут сохранены на сервере. Вы хотите продолжить?",
+    "sourceHash": "760af51eeb310dddd432dcadbb18de03"
+  },
+  "restore_confirm_title": {
+    "translation": "Загрузка из резервной копии",
+    "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
+  },
+  "restore_confirm_message": {
+    "translation": "Будет восстановлена резервная копия с этой даты. Существующие альбомы будут перезаписаны. Вы хотите продолжить?",
+    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+  },
+  "backup_success_title": {
+    "translation": "Резервное копирование успешно",
+    "sourceHash": "5f1a73403d9fd925c4af2713b024f1a0"
+  },
+  "restore_success_title": {
+    "translation": "Восстановление прошло успешно",
+    "sourceHash": "73c4516d60e64c56f9be4c0ea358b11a"
+  },
+  "backup_no_backup_title": {
+    "translation": "Замена не найдена",
+    "sourceHash": "5fed2dc0b943f64d3c8252b72969f7c1"
+  },
+  "backup_error_message": {
+    "translation": "Во время обработки произошла ошибка. Пожалуйста, проверьте подключение к Интернету и повторите попытку.",
+    "sourceHash": "cb053b7721247e2e975c8ee1a449e606"
+  },
+  "backup_success_message": {
+    "translation": "Резервное копирование ваших альбомов успешно завершено.",
+    "sourceHash": "8d0ea9dbf50e94c5d18d677f40e4a181"
+  },
+  "restore_success_message": {
+    "translation": "Ваши альбомы были успешно восстановлены.",
+    "sourceHash": "82c1fe1f4444c36bed7269672312de6e"
+  },
+  "backup_no_backup_message": {
+    "translation": "У вас еще нет резервной копии. Сначала нужно создать резервную копию.",
+    "sourceHash": "dfb523525950d50f552efe7b3e81f654"
+  },
   "_common_photo": {
     "translation": "Фотографии",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
