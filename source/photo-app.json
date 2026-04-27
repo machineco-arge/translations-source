@@ -456,7 +456,7 @@
     "_notifications_printReminderTitle": "Baskı Zamanı!",
     "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
     
-    "backup_screen_title": "YEDEKLEME",
+    "backup_screen_title": "Yedekleme",
     "backup_status_title": "Yedekleme Durumu",
     "backup_last_backup": "Son yedekleme",
     "backup_total_photos": "Toplam fotoğraf",
