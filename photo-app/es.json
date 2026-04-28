@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "Los álbumes existentes se sustituirán al restaurar desde la copia de seguridad.",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "Al restaurar a partir de una copia de seguridad, los álbumes y las fotos de la copia de seguridad se fusionan.",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "Recopilación de datos del álbum...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "Se restaurará la copia de seguridad de esta fecha. Los álbumes existentes se sobrescribirán. ¿Desea continuar?",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "La copia de seguridad de esta fecha se fusionará (prioridad de la copia de seguridad); sólo se conservarán los álbumes que sean locales. ¿Desea continuar?",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "Copia de seguridad correcta",

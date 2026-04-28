@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "Ihre vorhandenen Alben werden bei der Wiederherstellung aus dem Backup ersetzt.",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "Bei der Wiederherstellung aus einer Sicherung werden die Alben und Fotos aus der Sicherung zusammengeführt.",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "Sammeln von Albumdaten...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "Das Backup von diesem Datum wird wiederhergestellt. Ihre bestehenden Alben werden dabei überschrieben. Möchten Sie fortfahren?",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "Die Sicherung an diesem Datum wird zusammengeführt (Priorität der Sicherung); nur lokale Alben bleiben erhalten. Möchten Sie fortfahren?",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "Sicherung erfolgreich",

@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "백업에서 복원할 때 기존 앨범이 대체됩니다.",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "백업에서 복원할 때 백업의 앨범과 사진이 병합됩니다.",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "앨범 데이터 수집...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "이 날짜의 백업이 복원됩니다. 기존 앨범을 덮어쓰게 됩니다. 계속하시겠습니까?",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "이 날짜의 백업이 병합되며(백업 우선순위), 로컬에 있는 앨범만 보존됩니다. 계속하시겠습니까?",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "백업 성공",

@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "从备份恢复时，现有相册将被替换。",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "从备份恢复时，会合并备份中的相册和照片。",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "收集相册数据...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "将恢复从该日期开始的备份。您现有的相册将被覆盖。您想继续吗？",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "将合并此日期的备份（备份优先级）；仅保留本地相册。要继续吗？",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "备份成功",

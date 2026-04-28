@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "Gli album esistenti verranno sostituiti durante il ripristino dal backup.",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "Quando si ripristina da un backup, gli album e le foto del backup vengono uniti.",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "Raccolta dei dati dell'album...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "Verrà ripristinato il backup da questa data. Gli album esistenti verranno sovrascritti. Si desidera continuare?",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "Il backup di questa data sarà unito (priorità del backup); solo gli album che sono locali saranno conservati. Si desidera continuare?",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "Backup riuscito",

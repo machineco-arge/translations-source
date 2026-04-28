@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "Yedekten yükleme sırasında mevcut albümleriniz değiştirilecektir.",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "Yedekten yüklemede yedekteki albümler ve fotoğraflar birleştirilir.",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "Albüm verileri toplanıyor...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "Bu tarihteki yedekleme geri yüklenecek. Mevcut albümleriniz üzerine yazılacak. Devam etmek istiyor musunuz?",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "Bu tarihteki yedek birleştirilecek (yedek öncelikli); yalnızca yerelde olan albümler korunur. Devam etmek istiyor musunuz?",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "Yedekleme Başarılı",

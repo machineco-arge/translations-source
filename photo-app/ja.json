@@ -1654,8 +1654,8 @@
     "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
   },
   "backup_info_4": {
-    "translation": "バックアップから復元する場合、既存のアルバムは置き換えられます。",
-    "sourceHash": "9ae60ae511004a0243c53e589a7834b3"
+    "translation": "バックアップから復元する場合、バックアップのアルバムと写真は統合されます。",
+    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
   },
   "backup_collecting": {
     "translation": "アルバムデータの収集...",
@@ -1726,8 +1726,8 @@
     "sourceHash": "32d1de83e7ebe253e62f8b3bb5d8a18f"
   },
   "restore_confirm_message": {
-    "translation": "この日付のバックアップが復元されます。既存のアルバムは上書きされます。続行しますか？",
-    "sourceHash": "ba0b0f55ff7f16da64f0fced32d38b4b"
+    "translation": "この日付のバックアップはマージされます（バックアップの優先順位）。続行しますか？",
+    "sourceHash": "ea22d94cf0a2d85e37ff5c1ba9b3c6a9"
   },
   "backup_success_title": {
     "translation": "バックアップ成功",
