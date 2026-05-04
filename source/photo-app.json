@@ -317,7 +317,7 @@
     "_subscription_productNotFoundMessage": "Abonelik ürünü bulunamadı. Lütfen mağaza yapılandırmanızı kontrol edin.",
     "_subscription_fetchProductsError": "Abonelik ürünleri yüklenirken bir sorun oluştu.",
     "_subscription_unknownError": "Bilinmeyen bir hata oluştu",
-    "_subscription_purchaseErrorHints": "Lütfen:\n• Ürün kimliğinin doğru olduğunu\n• Base planın aktif olduğunu\n• Test hesabıyla denediğinizi kontrol edin.",
+    "_subscription_purchaseErrorHints": "Lütfen:\n• Ürün kimliğinin doğru olduğunu\n• Base planın aktif olduğunu kontrol edin.",
     "_subscription_purchaseErrorTitle": "Satın alma hatası",
     "_subscription_purchaseFailed": "Satın alma işlemi başarısız oldu.",
     "_subscription_restoreSuccess": "Satın alımınız başarıyla geri yüklendi.",
