@@ -1102,12 +1102,12 @@
     "sourceHash": "ae063796cdc9313bee226d61e04d28ca"
   },
   "benefit1": {
-    "translation": "1500 crédits au total par mois",
-    "sourceHash": "9bb38eb8b2ba74a3a2dd3a0adcce8998"
+    "translation": "Expérience illimitée",
+    "sourceHash": "39f1528f693a4ef784cee5095316de91"
   },
   "benefit2": {
-    "translation": "50 crédits par jour",
-    "sourceHash": "ad38458f861467c5d985abb363e1ebd0"
+    "translation": "Caméras spécialisées",
+    "sourceHash": "bb4347652eb47ec80752a27eb213709a"
   },
   "benefit3": {
     "translation": "Une expérience sans publicité",
@@ -1136,6 +1136,58 @@
   "subscription_expires_on": {
     "translation": "Date d'expiration de l'abonnement :",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
+  },
+  "_proFilter_subscriptionRequiredTitle": {
+    "translation": "Adhésion pro requise",
+    "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
+  },
+  "_proFilter_subscriptionRequiredMessage": {
+    "translation": "Cette caméra nécessite un abonnement Pro. Vous pouvez accéder à l'écran d'abonnement pour l'utiliser.",
+    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
+  },
+  "_subscription_productNotFoundTitle": {
+    "translation": "Produit non trouvé",
+    "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
+  },
+  "_subscription_productNotFoundMessage": {
+    "translation": "Aucun produit d'abonnement n'a été trouvé. Veuillez vérifier la configuration de votre magasin.",
+    "sourceHash": "2c32c5d5d73f2fa92cc28d1a9efbd5d8"
+  },
+  "_subscription_fetchProductsError": {
+    "translation": "Il y a eu un problème de chargement des produits d'abonnement.",
+    "sourceHash": "267eb2bd520b9a26d949bc12055b4d6c"
+  },
+  "_subscription_unknownError": {
+    "translation": "Une erreur inconnue s'est produite",
+    "sourceHash": "c1796ffa1498d65be147277303845745"
+  },
+  "_subscription_purchaseErrorHints": {
+    "translation": "S'il vous plaît\n- L'identification du produit est correcte\n- Le plan de base est actif\n- Vérifiez que vous avez essayé avec le compte test.",
+    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+  },
+  "_subscription_purchaseErrorTitle": {
+    "translation": "Erreur d'achat",
+    "sourceHash": "b30283aac79cb048af73495b4db8d9d9"
+  },
+  "_subscription_purchaseFailed": {
+    "translation": "L'achat a échoué.",
+    "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
+  },
+  "_subscription_restoreSuccess": {
+    "translation": "Votre achat a été restauré avec succès.",
+    "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
+  },
+  "_subscription_restoreNotFoundTitle": {
+    "translation": "Pas d'achat trouvé",
+    "sourceHash": "411b982ff38460d65217f77f1443f441"
+  },
+  "_subscription_restoreNotFoundMessage": {
+    "translation": "Aucun abonnement actif n'a été trouvé pour la restauration.",
+    "sourceHash": "4db926735c9a52f61b3040501ee26529"
+  },
+  "_subscription_restoreError": {
+    "translation": "Il y a eu un problème pour restaurer les achats.",
+    "sourceHash": "3880ae804aa26942821bbf684fad2120"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Conditions d'utilisation et politique de confidentialité",
@@ -1844,5 +1896,9 @@
   "_common_yes": {
     "translation": "Oui",
     "sourceHash": "f94f854949fc94f06c85986f1e814b34"
+  },
+  "_common_detail": {
+    "translation": "Détail",
+    "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
   }
 }

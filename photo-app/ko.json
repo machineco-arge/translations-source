@@ -1102,12 +1102,12 @@
     "sourceHash": "ae063796cdc9313bee226d61e04d28ca"
   },
   "benefit1": {
-    "translation": "매월 총 1500 크레딧",
-    "sourceHash": "9bb38eb8b2ba74a3a2dd3a0adcce8998"
+    "translation": "무제한 경험",
+    "sourceHash": "39f1528f693a4ef784cee5095316de91"
   },
   "benefit2": {
-    "translation": "하루 50 크레딧",
-    "sourceHash": "ad38458f861467c5d985abb363e1ebd0"
+    "translation": "특수 카메라",
+    "sourceHash": "bb4347652eb47ec80752a27eb213709a"
   },
   "benefit3": {
     "translation": "광고 없는 경험",
@@ -1136,6 +1136,58 @@
   "subscription_expires_on": {
     "translation": "구독 만료일:",
     "sourceHash": "1ae10d12cf6fc3cb1572ebe82bc8e49c"
+  },
+  "_proFilter_subscriptionRequiredTitle": {
+    "translation": "프로 멤버십 필요",
+    "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
+  },
+  "_proFilter_subscriptionRequiredMessage": {
+    "translation": "이 카메라는 Pro 멤버십이 필요합니다. 구독 화면으로 이동하여 사용할 수 있습니다.",
+    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
+  },
+  "_subscription_productNotFoundTitle": {
+    "translation": "제품을 찾을 수 없습니다",
+    "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
+  },
+  "_subscription_productNotFoundMessage": {
+    "translation": "구독 제품을 찾을 수 없습니다. 스토어 구성을 확인해 주세요.",
+    "sourceHash": "2c32c5d5d73f2fa92cc28d1a9efbd5d8"
+  },
+  "_subscription_fetchProductsError": {
+    "translation": "정기구독 제품을 로드하는 동안 문제가 발생했습니다.",
+    "sourceHash": "267eb2bd520b9a26d949bc12055b4d6c"
+  },
+  "_subscription_unknownError": {
+    "translation": "알 수 없는 오류가 발생했습니다",
+    "sourceHash": "c1796ffa1498d65be147277303845745"
+  },
+  "_subscription_purchaseErrorHints": {
+    "translation": "제발\n- 제품 식별이 정확합니다.\n- 기본 요금제가 활성화되어 있습니다.\n- 테스트 계정으로 시도했는지 확인합니다.",
+    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+  },
+  "_subscription_purchaseErrorTitle": {
+    "translation": "구매 오류",
+    "sourceHash": "b30283aac79cb048af73495b4db8d9d9"
+  },
+  "_subscription_purchaseFailed": {
+    "translation": "구매가 실패했습니다.",
+    "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
+  },
+  "_subscription_restoreSuccess": {
+    "translation": "구매가 성공적으로 복원되었습니다.",
+    "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
+  },
+  "_subscription_restoreNotFoundTitle": {
+    "translation": "구매가 없습니다",
+    "sourceHash": "411b982ff38460d65217f77f1443f441"
+  },
+  "_subscription_restoreNotFoundMessage": {
+    "translation": "복원할 활성 구독을 찾을 수 없습니다.",
+    "sourceHash": "4db926735c9a52f61b3040501ee26529"
+  },
+  "_subscription_restoreError": {
+    "translation": "구매를 복원하는 데 문제가 발생했습니다.",
+    "sourceHash": "3880ae804aa26942821bbf684fad2120"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "서비스 약관 및 개인정보 처리방침",
@@ -1844,5 +1896,9 @@
   "_common_yes": {
     "translation": "예",
     "sourceHash": "f94f854949fc94f06c85986f1e814b34"
+  },
+  "_common_detail": {
+    "translation": "세부 정보",
+    "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
   }
 }
