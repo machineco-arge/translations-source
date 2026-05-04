@@ -1162,8 +1162,8 @@
     "sourceHash": "c1796ffa1498d65be147277303845745"
   },
   "_subscription_purchaseErrorHints": {
-    "translation": "제발\n- 제품 식별이 정확합니다.\n- 기본 요금제가 활성화되어 있습니다.\n- 테스트 계정으로 시도했는지 확인합니다.",
-    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+    "translation": "제발\n- 제품 ID가 올바른지 확인합니다.\n- 기본 요금제가 활성화되어 있는지 확인합니다.",
+    "sourceHash": "04f77de94a823d23f23d8c0db50c2583"
   },
   "_subscription_purchaseErrorTitle": {
     "translation": "구매 오류",

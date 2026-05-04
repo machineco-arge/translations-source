@@ -1162,8 +1162,8 @@
     "sourceHash": "c1796ffa1498d65be147277303845745"
   },
   "_subscription_purchaseErrorHints": {
-    "translation": "请\n- 产品标识正确\n- 基本计划已激活\n- 检查您是否使用测试账户进行了尝试。",
-    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+    "translation": "请\n- 产品 ID 是否正确\n- 检查基本计划是否激活。",
+    "sourceHash": "04f77de94a823d23f23d8c0db50c2583"
   },
   "_subscription_purchaseErrorTitle": {
     "translation": "购买错误",

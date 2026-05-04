@@ -1162,8 +1162,8 @@
     "sourceHash": "c1796ffa1498d65be147277303845745"
   },
   "_subscription_purchaseErrorHints": {
-    "translation": "Lütfen:\n• Ürün kimliğinin doğru olduğunu\n• Base planın aktif olduğunu\n• Test hesabıyla denediğinizi kontrol edin.",
-    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+    "translation": "Lütfen:\n• Ürün kimliğinin doğru olduğunu\n• Base planın aktif olduğunu kontrol edin.",
+    "sourceHash": "04f77de94a823d23f23d8c0db50c2583"
   },
   "_subscription_purchaseErrorTitle": {
     "translation": "Satın alma hatası",

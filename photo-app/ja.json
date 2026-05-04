@@ -1162,8 +1162,8 @@
     "sourceHash": "c1796ffa1498d65be147277303845745"
   },
   "_subscription_purchaseErrorHints": {
-    "translation": "お願い\n- 製品の識別が正しい\n- 基本プランが有効である\n- テストアカウントで試したことを確認してください。",
-    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+    "translation": "お願い\n- プロダクトIDが正しいか\n- 基本プランが有効であることを確認してください。",
+    "sourceHash": "04f77de94a823d23f23d8c0db50c2583"
   },
   "_subscription_purchaseErrorTitle": {
     "translation": "購入エラー",

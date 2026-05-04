@@ -1162,8 +1162,8 @@
     "sourceHash": "c1796ffa1498d65be147277303845745"
   },
   "_subscription_purchaseErrorHints": {
-    "translation": "Por favor\n- A identificação do produto está correta\n- O plano base está ativo\n- Verifique se experimentou com a conta de teste.",
-    "sourceHash": "d59e1a9d1c95c76ad7867a53b05ccdc6"
+    "translation": "Por favor\n- O ID do produto está correto\n- Verifique se o plano base está ativo.",
+    "sourceHash": "04f77de94a823d23f23d8c0db50c2583"
   },
   "_subscription_purchaseErrorTitle": {
     "translation": "Erro de compra",
