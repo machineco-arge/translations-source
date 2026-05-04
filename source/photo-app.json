@@ -302,8 +302,8 @@
     "pro_membership": "Pro Üyelik",
     "standard_member": "Standart Üye",
     "pro_member": "Pro Üye",
-    "benefit1": "Her ay toplamda 1500 kredi",
-    "benefit2": "Günlük 50 kredi",
+    "benefit1": "Sınırsız Deneyim",
+    "benefit2": "Özel Kameralar",
     "benefit3": "Reklamsız deneyim",
     "benefit4": "Hızlı film baskıları",
     "pro_member_message": "Pro Üyesisin. Teşekkürler!",
@@ -311,6 +311,19 @@
     "subscribe_now": "Abone Ol",
     "restore_purchases": "Satın Alımları Geri Yükle",
     "subscription_expires_on": "Abonelik süresi sona erme tarihi:",
+    "_proFilter_subscriptionRequiredTitle": "Pro üyelik gerekli",
+    "_proFilter_subscriptionRequiredMessage": "Bu kamera Pro üyelik gerektirir. Kullanmak için abonelik ekranına gidebilirsiniz.",
+    "_subscription_productNotFoundTitle": "Ürün bulunamadı",
+    "_subscription_productNotFoundMessage": "Abonelik ürünü bulunamadı. Lütfen mağaza yapılandırmanızı kontrol edin.",
+    "_subscription_fetchProductsError": "Abonelik ürünleri yüklenirken bir sorun oluştu.",
+    "_subscription_unknownError": "Bilinmeyen bir hata oluştu",
+    "_subscription_purchaseErrorHints": "Lütfen:\n• Ürün kimliğinin doğru olduğunu\n• Base planın aktif olduğunu\n• Test hesabıyla denediğinizi kontrol edin.",
+    "_subscription_purchaseErrorTitle": "Satın alma hatası",
+    "_subscription_purchaseFailed": "Satın alma işlemi başarısız oldu.",
+    "_subscription_restoreSuccess": "Satın alımınız başarıyla geri yüklendi.",
+    "_subscription_restoreNotFoundTitle": "Satın alım bulunamadı",
+    "_subscription_restoreNotFoundMessage": "Geri yüklenecek aktif bir abonelik bulunamadı.",
+    "_subscription_restoreError": "Satın alımlar geri yüklenirken bir sorun oluştu.",
 
 
     "termsOfServiceAndPrivacyPolicy": "Hizmet Şartları ve Gizlilik Politikası",
@@ -513,6 +526,7 @@
     "_common_accept": "Kabul Et",
     "_common_reject": "Reddet",
     "_common_no": "Hayır",
-    "_common_yes": "Evet"
+    "_common_yes": "Evet",
+    "_common_detail": "Detay"
 
 }
