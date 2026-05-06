@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "Wenn Sie eine neue Sicherung erstellen, wird die vorherige Sicherung überschrieben.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "Wenn Sie eine neue Sicherung erstellen, wird die vorherige Sicherung überschrieben. Bei der Wiederherstellung aus einer Sicherung werden die Alben und Fotos aus der Sicherung zusammengeführt.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "Bei der Wiederherstellung aus einer Sicherung werden die Alben und Fotos aus der Sicherung zusammengeführt.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "Schließen Sie die Anwendung nicht, bevor der Backup/Restore-Vorgang abgeschlossen ist!",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "Sammeln von Albumdaten...",

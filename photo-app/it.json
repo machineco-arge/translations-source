@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "Quando si esegue un nuovo backup, il backup precedente viene sovrascritto.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "Quando si esegue un nuovo backup, il backup precedente viene sovrascritto. Quando si ripristina da un backup, gli album e le foto del backup vengono uniti.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "Quando si ripristina da un backup, gli album e le foto del backup vengono uniti.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "Non chiudere l'applicazione finché il processo di backup/ripristino non è terminato!",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "Raccolta dei dati dell'album...",

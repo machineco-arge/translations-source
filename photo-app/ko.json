@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "새 백업을 만들면 이전 백업을 덮어쓰게 됩니다.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "새 백업을 만들면 이전 백업을 덮어씁니다. 백업에서 복원할 때 백업의 앨범과 사진이 병합됩니다.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "백업에서 복원할 때 백업의 앨범과 사진이 병합됩니다.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "백업/복원 프로세스가 완료될 때까지 애플리케이션을 닫지 마세요!",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "앨범 데이터 수집...",

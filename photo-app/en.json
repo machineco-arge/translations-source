@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "When you take a new backup, the previous backup is overwritten.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "When you make a new backup, the previous backup is overwritten. Restoring from a backup merges albums and photos from the backup.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "Restoring from backup merges albums and photos from the backup.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "Do not close the app until the Backup/Restore process is finished!",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "Collecting album data...",

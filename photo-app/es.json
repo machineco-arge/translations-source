@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "Cuando realizas una nueva copia de seguridad, la anterior se sobrescribe.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "Al realizar una nueva copia de seguridad, se sobrescribe la anterior. Al restaurar a partir de una copia de seguridad, se fusionan los álbumes y las fotos de la copia de seguridad.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "Al restaurar a partir de una copia de seguridad, los álbumes y las fotos de la copia de seguridad se fusionan.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "No cierre la aplicación hasta que el proceso de copia de seguridad/restauración haya finalizado.",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "Recopilación de datos del álbum...",

@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "新しいバックアップを取ると、前のバックアップは上書きされます。",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "新しいバックアップを作成すると、以前のバックアップは上書きされます。バックアップから復元する場合、バックアップのアルバムと写真はマージされます。",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "バックアップから復元する場合、バックアップのアルバムと写真は統合されます。",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "バックアップ/リストア処理が終了するまで、アプリケーションを終了しないでください！",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "アルバムデータの収集...",

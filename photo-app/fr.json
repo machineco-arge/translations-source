@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "Lorsque vous effectuez une nouvelle sauvegarde, la sauvegarde précédente est écrasée.",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "Lorsque vous effectuez une nouvelle sauvegarde, la précédente est écrasée. Lors de la restauration à partir d'une sauvegarde, les albums et les photos de la sauvegarde sont fusionnés.",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "Lors de la restauration à partir d'une sauvegarde, les albums et les photos de la sauvegarde sont fusionnés.",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "Ne fermez pas l'application tant que le processus de sauvegarde/restauration n'est pas terminé !",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "Collecter des données sur les albums...",

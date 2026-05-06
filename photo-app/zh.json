@@ -1702,12 +1702,12 @@
     "sourceHash": "032ff79a1ed4bb97497bf224d7d3f35e"
   },
   "backup_info_3": {
-    "translation": "当您进行新的备份时，之前的备份会被覆盖。",
-    "sourceHash": "bbc72de7ab3ecf0334c1b1bbbed788ca"
+    "translation": "制作新备份时，前一个备份会被覆盖。从备份恢复时，会合并备份中的相册和照片。",
+    "sourceHash": "de8b8b464c461d18544321ac58e93af5"
   },
   "backup_info_4": {
-    "translation": "从备份恢复时，会合并备份中的相册和照片。",
-    "sourceHash": "0dafddd6427b95da58bb84eff8c23529"
+    "translation": "在备份/还原过程结束之前，请勿关闭应用程序！",
+    "sourceHash": "025b75c8b9edcfa969516a4ebc43d835"
   },
   "backup_collecting": {
     "translation": "收集相册数据...",
