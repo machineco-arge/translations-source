@@ -447,6 +447,26 @@
     "translation": "Beim Teilen des Einladungslinks ist ein Fehler aufgetreten.",
     "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
+  "_filmScreen_shareChoiceTitle": {
+    "translation": "Optionen für Einladungen",
+    "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
+  },
+  "_filmScreen_shareChoiceMessage": {
+    "translation": "Möchten Sie die Einladung mit einem QR-Code weitergeben, oder möchten Sie den Link auf andere Weise weitergeben?",
+    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+  },
+  "_filmScreen_shareOthersButtonLabel": {
+    "translation": "Andere",
+    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+  },
+  "_filmScreen_shareQr": {
+    "translation": "QR",
+    "sourceHash": "66c35cd8077f7e1db5faefbc048a646a"
+  },
+  "_filmScreen_shareQrTitle": {
+    "translation": "QR-Code",
+    "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Die Filmrolle ist voll, warten Sie darauf, dass der Aktivitätsinhaber sie zum Drucken schickt",
     "sourceHash": "7f348dd082239756811235185f1e60be"

@@ -447,6 +447,26 @@
     "translation": "Si è verificato un errore nella condivisione del link di invito.",
     "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
+  "_filmScreen_shareChoiceTitle": {
+    "translation": "Opzioni di invito",
+    "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
+  },
+  "_filmScreen_shareChoiceMessage": {
+    "translation": "Volete condividere l'invito con un codice QR o volete condividere il link in altri modi?",
+    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+  },
+  "_filmScreen_shareOthersButtonLabel": {
+    "translation": "Altri",
+    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+  },
+  "_filmScreen_shareQr": {
+    "translation": "QR",
+    "sourceHash": "66c35cd8077f7e1db5faefbc048a646a"
+  },
+  "_filmScreen_shareQrTitle": {
+    "translation": "Codice QR",
+    "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Il rullino è pieno, attendere che il titolare dell'attività lo mandi in stampa",
     "sourceHash": "7f348dd082239756811235185f1e60be"

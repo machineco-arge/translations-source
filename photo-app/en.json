@@ -447,6 +447,26 @@
     "translation": "There was an error sharing the invitation link.",
     "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
+  "_filmScreen_shareChoiceTitle": {
+    "translation": "Invitation Options",
+    "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
+  },
+  "_filmScreen_shareChoiceMessage": {
+    "translation": "Do you want to share the invitation with a QR code, or do you want to share the link in other ways?",
+    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+  },
+  "_filmScreen_shareOthersButtonLabel": {
+    "translation": "Others",
+    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+  },
+  "_filmScreen_shareQr": {
+    "translation": "QR",
+    "sourceHash": "66c35cd8077f7e1db5faefbc048a646a"
+  },
+  "_filmScreen_shareQrTitle": {
+    "translation": "QR Code",
+    "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Roll of film is full, wait for the activity owner to send it to print",
     "sourceHash": "7f348dd082239756811235185f1e60be"

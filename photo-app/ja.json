@@ -447,6 +447,26 @@
     "translation": "招待状のリンクを共有する際にエラーが発生しました。",
     "sourceHash": "281ef7bc0af9c7ede6ba189fffa6b09e"
   },
+  "_filmScreen_shareChoiceTitle": {
+    "translation": "招待オプション",
+    "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
+  },
+  "_filmScreen_shareChoiceMessage": {
+    "translation": "QRコードで招待状を共有しますか、または他の方法でリンクを共有しますか？",
+    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+  },
+  "_filmScreen_shareOthersButtonLabel": {
+    "translation": "その他",
+    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+  },
+  "_filmScreen_shareQr": {
+    "translation": "QR",
+    "sourceHash": "66c35cd8077f7e1db5faefbc048a646a"
+  },
+  "_filmScreen_shareQrTitle": {
+    "translation": "QRコード",
+    "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "フィルムロールがいっぱいになったので、アクティビティ所有者がプリントに送るのを待つ。",
     "sourceHash": "7f348dd082239756811235185f1e60be"
