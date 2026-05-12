@@ -117,6 +117,12 @@
     "_filmScreen_shareActivityMessageAnonymous": "Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
     "_filmScreen_shareInviteTitle": "Aktivite Davet Bağlantısı",
     "_filmScreen_shareFailedErrorMessage": "Davet bağlantısı paylaşılırken bir hata oluştu.",
+    "_filmScreen_shareChoiceTitle": "Davet Seçenekleri",
+    "_filmScreen_shareChoiceMessage": "Daveti QR kodu ile mi paylaşmak istersiniz, yoksa bağlantıyı diğer yöntemlerle mi paylaşmak istersiniz?",
+    "_filmScreen_shareOthersButtonLabel": "Diğerleri",
+    "_filmScreen_shareQr": "QR",
+    "_filmScreen_shareQrTitle": "QR Kodu",
+    
     "_filmScreen_filmIsFullAlertMessageParticipant": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
     "_filmScreen_linkShareError": "Bu aktivite için davet bağlantısı bulunamadı.",
     "_filmScreen_editNameError": "Aktivite ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
