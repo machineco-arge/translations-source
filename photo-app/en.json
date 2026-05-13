@@ -267,6 +267,14 @@
     "translation": "Slide Show",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "This album is available for kiosk printing.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "First select your photos by pressing the 'Select' button. Then press the 'Print' button. Now you can send your photos to the kiosk.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

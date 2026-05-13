@@ -267,6 +267,14 @@
     "translation": "Diaporama",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "Vous pouvez obtenir une impression kiosque dans cet album.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "Sélectionnez d'abord vos photos en appuyant sur le bouton \"Select\". Appuyez ensuite sur le bouton \"Imprimer\". Vous pouvez maintenant envoyer vos photos au kiosque.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Le rouleau de film est plein, vous pouvez l'envoyer à l'impression.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

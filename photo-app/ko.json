@@ -267,6 +267,14 @@
     "translation": "슬라이드 쇼",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "이 앨범에서 키오스크 인쇄를 받을 수 있습니다.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "먼저 '선택' 버튼을 눌러 사진을 선택합니다. 그런 다음 '인쇄' 버튼을 누릅니다. 이제 키오스크로 사진을 보낼 수 있습니다.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

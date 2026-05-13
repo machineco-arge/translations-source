@@ -267,6 +267,14 @@
     "translation": "Apresentação de diapositivos",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "Pode obter a impressão em quiosque neste álbum.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "Primeiro, selecione as suas fotografias premindo o botão \"Selecionar\". Em seguida, prima o botão \"Imprimir\". Agora pode enviar as suas fotografias para o quiosque.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'O rolo de filme está cheio, pode enviá-lo para impressão",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -267,6 +267,14 @@
     "translation": "幻灯片展示",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "您可以在该相册中获得自助打印功能。",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "首先按 \"选择 \"按钮选择照片。然后按 \"打印 \"按钮。现在您可以将照片发送到自助服务终端。",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

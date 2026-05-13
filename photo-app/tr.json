@@ -267,6 +267,14 @@
     "translation": "Slayt Gösterisi",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "Bu albümde kiosk baskısı alabilirsin.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "Önce 'Seç' butonuna basıp fotoğraflarınızı seçin. Daha sonra 'Baskı' butonuna basın. Artık fotoğraflarınızı kiosk'a gönderebilirsiniz.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

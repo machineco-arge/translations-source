@@ -267,6 +267,14 @@
     "translation": "Diaschau",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "In diesem Album können Sie am Kiosk drucken lassen.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "Wählen Sie zunächst Ihre Fotos aus, indem Sie auf die Schaltfläche \"Auswählen\" drücken. Drücken Sie dann die Taste \"Drucken\". Jetzt können Sie Ihre Fotos an den Kiosk senden.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Die Filmrolle ist voll, Sie können sie zum Drucken schicken.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -267,6 +267,14 @@
     "translation": "Mostra di immagini",
     "sourceHash": "372a1fb70dff3acb543f17b01b470a1b"
   },
+  "_albumScreen_specialPrintNudgeTitle": {
+    "translation": "In questo album è possibile ottenere la stampa da chiosco.",
+    "sourceHash": "f0d197526d1346bdc5e10ae9c8eec3e8"
+  },
+  "_albumScreen_specialPrintNudgeDescription": {
+    "translation": "Per prima cosa selezionare le foto premendo il pulsante \"Seleziona\". Quindi premere il pulsante \"Stampa\". Ora è possibile inviare le foto al chiosco.",
+    "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
