@@ -615,6 +615,10 @@
     "translation": "라이브러리",
     "sourceHash": "0d0168a0a7340cfa3a6c8d7364dd2a69"
   },
+  "_homeScreen_specialEventResolveError": {
+    "translation": "특별 이벤트를 로드하는 동안 오류가 발생했습니다.",
+    "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
   "timeOptions": {
     "express": {
       "translation": "Express",
