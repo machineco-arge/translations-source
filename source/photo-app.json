@@ -162,6 +162,7 @@
     "_homeScreen_loadingMoreContent": "Daha Fazla İçerik Yükleniyor...",
     "_homeScreen_noCamerasFound": "Kameralar Yüklenemedi. Lütfen tekrar deneyin.",
     "_homeScreen_library": "Kütüphane",
+    "_homeScreen_specialEventResolveError": "Özel etkinlik yüklenirken bir hata oluştu.",
 
     "timeOptions": {
         "express": "Ekspres",
