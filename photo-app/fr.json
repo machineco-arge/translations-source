@@ -1841,6 +1841,22 @@
     "translation": "Vous n'avez pas encore de sauvegarde. Vous devez d'abord faire une sauvegarde.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Fonction de sauvegarde",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "La fonction de sauvegarde garantit que tous vos albums et photos sont sauvegardés sur le serveur. Lorsque vous supprimez l'application et la téléchargez à nouveau, vous pouvez la charger à partir de la sauvegarde. Sauvegardez maintenant et gardez vos souvenirs en sécurité !",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "L'heure de la sauvegarde !",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "Vous avez de nouveaux albums. N'oubliez pas de sauvegarder ces albums. Vous pouvez aller à l'écran de sauvegarde maintenant si vous le souhaitez.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Photos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

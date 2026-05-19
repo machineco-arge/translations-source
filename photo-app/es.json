@@ -1841,6 +1841,22 @@
     "translation": "Aún no tienes una copia de seguridad. Primero tienes que hacer una copia de seguridad.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Función de copia de seguridad",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "La función de copia de seguridad garantiza que todos tus álbumes y fotos se guardan en el servidor. Cuando elimines la aplicación y vuelvas a descargarla, podrás cargarla desde la copia de seguridad. ¡Haz una copia de seguridad ahora y mantén tus recuerdos a salvo!",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "¡Hora de hacer copias de seguridad!",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "Tienes álbumes nuevos. No olvides hacer una copia de seguridad de estos álbumes. Si quieres, puedes ir ahora a la pantalla de copia de seguridad.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Fotos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

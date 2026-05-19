@@ -1841,6 +1841,22 @@
     "translation": "You do not have a backup yet. You need to make a backup first.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Backup Feature",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "The backup feature ensures that all your albums and photos are backed up to the server. When you delete the app and download it again, you can restore it from the backup. Backup now and keep your memories safe!",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "Backup Time!",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "You have new albums. Don't forget to back up these albums. You can go to the Backup screen now if you want.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Photos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

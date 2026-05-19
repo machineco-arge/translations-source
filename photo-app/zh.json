@@ -1841,6 +1841,22 @@
     "translation": "您还没有备份。您需要先进行备份。",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "备份功能",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "备份功能可确保将所有相册和照片备份到服务器。当您删除应用程序并再次下载时，可以从备份中加载。现在就备份，保护你的记忆！",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "备份时间！",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "您有了新的相册。别忘了备份这些相册。如果你愿意，现在就可以进入 \"备份 \"界面。",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "照片",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

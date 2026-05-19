@@ -1841,6 +1841,22 @@
     "translation": "まだバックアップを取っていない。まずバックアップを取る必要があります。",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "バックアップ機能",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "バックアップ機能により、すべてのアルバムと写真がサーバーにバックアップされます。アプリを削除して再度ダウンロードする際は、バックアップから読み込むことができます。今すぐバックアップして、思い出を守りましょう！",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "バックアップ時間！",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "新しいアルバムができましたね。これらのアルバムをバックアップすることを忘れないでください。今すぐバックアップ画面に移動できます。",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "写真",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

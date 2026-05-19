@@ -1841,6 +1841,22 @@
     "translation": "Sie haben noch keine Sicherungskopie. Sie müssen zuerst ein Backup erstellen.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Sicherungsfunktion",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "Die Backup-Funktion stellt sicher, dass alle Ihre Alben und Fotos auf dem Server gesichert werden. Wenn Sie die App löschen und erneut herunterladen, können Sie sie aus der Sicherung laden. Sichern Sie jetzt und bewahren Sie Ihre Erinnerungen sicher auf!",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "Zeit für ein Backup!",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "Sie haben neue Alben. Vergessen Sie nicht, diese Alben zu sichern. Sie können jetzt zum Bildschirm \"Sicherung\" gehen, wenn Sie möchten.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Fotos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

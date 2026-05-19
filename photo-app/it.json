@@ -1841,6 +1841,22 @@
     "translation": "Non avete ancora un backup. È necessario eseguire prima un backup.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Funzione di backup",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "La funzione di backup assicura che tutti gli album e le foto vengano salvati sul server. Quando si elimina l'app e la si scarica di nuovo, è possibile caricarla dal backup. Eseguite subito il backup e tenete al sicuro i vostri ricordi!",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "Tempo di backup!",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "Avete nuovi album. Non dimenticate di eseguire il backup di questi album. Se si desidera, è possibile accedere alla schermata di backup.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Foto",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"

@@ -1841,6 +1841,22 @@
     "translation": "Ainda não tem uma cópia de segurança. Primeiro, é necessário efetuar uma cópia de segurança.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
   },
+  "backup_feature_intro_title": {
+    "translation": "Funcionalidade de cópia de segurança",
+    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
+  },
+  "backup_feature_intro_message": {
+    "translation": "A funcionalidade de cópia de segurança garante que todos os seus álbuns e fotografias são guardados no servidor. Quando apaga a aplicação e a transfere novamente, pode carregá-la a partir da cópia de segurança. Faça uma cópia de segurança agora e mantenha as suas memórias seguras!",
+    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
+  },
+  "backup_reminder_title": {
+    "translation": "Hora da cópia de segurança!",
+    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
+  },
+  "backup_reminder_message": {
+    "translation": "Tem álbuns novos. Não se esqueça de fazer uma cópia de segurança destes álbuns. Pode ir agora para o ecrã Cópia de segurança, se quiser.",
+    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
+  },
   "_common_photo": {
     "translation": "Fotos",
     "sourceHash": "7c6a1760e163546d5ddcd6c54cac633d"
