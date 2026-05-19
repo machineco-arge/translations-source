@@ -16,5 +16,11 @@
    "onboardingGoToAlbumMessage": "Tap to open the digital archive and see your captured moments",
 
    "onboardingAlbumTitle": "Take Full Control",
-   "onboardingAlbumMessage": "Pick a camera and start your own custom roll anytime"
+   "onboardingAlbumMessage": "Pick a camera and start your own custom roll anytime",
+
+   "onboardingCameraCaptureTitle": "Take your first capture!",
+   "onboardingCameraGoBackTitle": "No preview, just live in the moment!",
+
+   "onboardingCameraExitTitle": "Do you want to finish it?",
+   "onboardingCameraExitMessage": "Do you want to skip the app introduction and discover it for yourself?"
 }
