@@ -15,12 +15,14 @@
    "onboardingGoToAlbumTitle": "Your frame is ready for review",
    "onboardingGoToAlbumMessage": "Tap to open the digital archive and see your captured moments",
 
-   "onboardingAlbumTitle": "Take Full Control",
-   "onboardingAlbumMessage": "Pick a camera and start your own custom roll anytime",
+   "onboardingAlbumTitle": "Album is ready!",
+   "onboardingAlbumMessage": "Check out the first album you created!",
 
    "onboardingCameraCaptureTitle": "Take your first capture!",
    "onboardingCameraGoBackTitle": "No preview, just live in the moment!",
 
    "onboardingCameraExitTitle": "Do you want to finish it?",
-   "onboardingCameraExitMessage": "Do you want to skip the app introduction and discover it for yourself?"
+   "onboardingCameraExitMessage": "Do you want to skip the app introduction and discover it for yourself?",
+   "onboardingSkip": "Skip",
+   "onboardingActivityTitle": "First Film"
 }
