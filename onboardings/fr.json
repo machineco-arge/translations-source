@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "Choisissez un appareil photo et créez votre propre rouleau personnalisé à tout moment",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "Prenez votre première capture !",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "Pas d'aperçu, il suffit de vivre l'instant présent !",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "Voulez-vous le terminer ?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "Voulez-vous sauter la présentation de l'application et la découvrir par vous-même ?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

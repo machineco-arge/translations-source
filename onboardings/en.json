@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "Pick a camera and start your own custom roll anytime",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "Take your first capture!",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "No preview, just live in the moment!",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "Do you want to finish it?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "Do you want to skip the app introduction and discover it for yourself?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

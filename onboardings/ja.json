@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "カメラを選んでいつでもカスタムロールを開始",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "最初のキャプチャを撮る！",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "プレビューはせず、ただその瞬間を生きる！",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "終わらせたい？",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "アプリの紹介を飛ばして、自分の目で確かめたい？",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

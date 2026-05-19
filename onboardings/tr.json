@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "Bir kamera seçin ve istediğiniz zaman kendi özel rulonuzu başlatın",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "İlk fotoğrafınızı çekin!",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "Ön izleme yok, sadece anı yaşayın!",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "Bitirmek istiyor musun?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "Uygulama tanıtımını atlayıp kendiniz keşfetmek ister misiniz?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

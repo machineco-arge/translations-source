@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "카메라를 선택하고 언제든지 나만의 맞춤 롤을 시작하세요",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "첫 번째 캡처를 찍으세요!",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "미리 보기 없이 그 순간을 생생하게 즐기세요!",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "끝내고 싶으신가요?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "앱 소개를 건너뛰고 직접 알아보고 싶으신가요?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

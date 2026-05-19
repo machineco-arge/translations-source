@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "选择一款相机，随时启动自己的自定义卷轴",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "抓拍第一张照片！",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "不预演，只活在当下！",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "你想完成它吗？",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "您想跳过应用程序介绍，自己去发现它吗？",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

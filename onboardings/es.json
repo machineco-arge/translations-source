@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "Elige una cámara y empieza tu propio rollo personalizado en cualquier momento",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "¡Tome su primera captura!",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "Sin vista previa, ¡vive el momento!",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "¿Quieres terminarlo?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "¿Quieres saltarte la introducción de la aplicación y descubrirla por ti mismo?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }

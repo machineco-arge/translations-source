@@ -54,5 +54,21 @@
   "onboardingAlbumMessage": {
     "translation": "Wählen Sie eine Kamera und starten Sie jederzeit Ihre eigene Rolle",
     "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+  },
+  "onboardingCameraCaptureTitle": {
+    "translation": "Machen Sie Ihre erste Aufnahme!",
+    "sourceHash": "5ede5591dcc8a478347eece3eac32e55"
+  },
+  "onboardingCameraGoBackTitle": {
+    "translation": "Keine Vorschau, einfach im Moment leben!",
+    "sourceHash": "e4cc5a6a7e252d6485f19adda2a93d0b"
+  },
+  "onboardingCameraExitTitle": {
+    "translation": "Willst du es zu Ende bringen?",
+    "sourceHash": "c97272269c8e5c8f2c32792749bf9b5d"
+  },
+  "onboardingCameraExitMessage": {
+    "translation": "Möchten Sie die Einführung in die App überspringen und sie selbst entdecken?",
+    "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
   }
 }
