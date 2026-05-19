@@ -513,6 +513,10 @@
     "backup_success_message": "Albümleriniz başarıyla yedeklendi.",
     "restore_success_message": "Albümleriniz başarıyla geri yüklendi.",
     "backup_no_backup_message": "Henüz bir yedeğiniz bulunmuyor. Önce yedekleme yapmanız gerekiyor.",
+    "backup_feature_intro_title": "Yedekleme Özelliği",
+    "backup_feature_intro_message": "Yedekleme özelliği, tüm albümleriniz ve fotoğraflarınızın sunucuya yedeklenmesini sağlar. Uygulamayı silip tekrar indirdiğinizde yedekten yükleyebilirsiniz. Şimdi yedekleyin, anılarınız güvende olsun!",
+    "backup_reminder_title": "Yedekleme Zamanı!",
+    "backup_reminder_message": "Yeni albümlerin var. Bu albümleri yedeklemeyi unutma. İstersen şimdi Yedekleme ekranına gidebilirsin.",
 
     "_common_photo": "Fotoğraflar",
     "_common_saving": "Kaydediliyor...",
