@@ -48,12 +48,12 @@
     "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
   "onboardingAlbumTitle": {
-    "translation": "全面掌控",
-    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
+    "translation": "相册已准备就绪！",
+    "sourceHash": "7abc390729384c47b6e8c035e80b81ea"
   },
   "onboardingAlbumMessage": {
-    "translation": "选择一款相机，随时启动自己的自定义卷轴",
-    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+    "translation": "看看你创建的第一张专辑！",
+    "sourceHash": "10da60e43d6865684f79aa2a3725e902"
   },
   "onboardingCameraCaptureTitle": {
     "translation": "抓拍第一张照片！",
@@ -70,5 +70,13 @@
   "onboardingCameraExitMessage": {
     "translation": "您想跳过应用程序介绍，自己去发现它吗？",
     "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
+  },
+  "onboardingSkip": {
+    "translation": "跳过",
+    "sourceHash": "72ef2b9b6965d078e3c7f95487a82d1c"
+  },
+  "onboardingActivityTitle": {
+    "translation": "第一部电影",
+    "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   }
 }

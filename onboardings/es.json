@@ -48,12 +48,12 @@
     "sourceHash": "52537bcc74ffd59733384f0807355ec6"
   },
   "onboardingAlbumTitle": {
-    "translation": "Toma el control total",
-    "sourceHash": "f1821ee964c3e88dab56781c31c0a68f"
+    "translation": "¡Álbum listo!",
+    "sourceHash": "7abc390729384c47b6e8c035e80b81ea"
   },
   "onboardingAlbumMessage": {
-    "translation": "Elige una cámara y empieza tu propio rollo personalizado en cualquier momento",
-    "sourceHash": "65ba30242bd3726e4fc04f28a4d3bfc6"
+    "translation": "¡Echa un vistazo al primer álbum que has creado!",
+    "sourceHash": "10da60e43d6865684f79aa2a3725e902"
   },
   "onboardingCameraCaptureTitle": {
     "translation": "¡Tome su primera captura!",
@@ -70,5 +70,13 @@
   "onboardingCameraExitMessage": {
     "translation": "¿Quieres saltarte la introducción de la aplicación y descubrirla por ti mismo?",
     "sourceHash": "ec3fc78ac685dfb8c9e88d4656554676"
+  },
+  "onboardingSkip": {
+    "translation": "Saltar",
+    "sourceHash": "72ef2b9b6965d078e3c7f95487a82d1c"
+  },
+  "onboardingActivityTitle": {
+    "translation": "Primera película",
+    "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   }
 }
