@@ -99,6 +99,46 @@
     "translation": "Hesap Oluştur",
     "sourceHash": "c8a8414d3556605f76536e5400271916"
   },
+  "forgotPassword": {
+    "translation": "Şifremi unuttum",
+    "sourceHash": "9ca0a04e52c3225416a5cd542a9af586"
+  },
+  "verificationCodeTitle": {
+    "translation": "E-posta doğrulama",
+    "sourceHash": "089750582bfbd4f31a65147bb3293173"
+  },
+  "verificationCodeMessageRegister": {
+    "translation": "E-posta adresinize gönderilen 6 haneli kodu girin.",
+    "sourceHash": "65bf974a388ea5c2db238ce2934e925b"
+  },
+  "verificationCodeMessageReset": {
+    "translation": "Şifre sıfırlama kodunu e-posta adresinize gönderdik. Kodu girin.",
+    "sourceHash": "d858121c7531e93fc3952f90c289fd8f"
+  },
+  "verificationCodePlaceholder": {
+    "translation": "Doğrulama kodu",
+    "sourceHash": "0988a8d21efdb429a87019017d13cc3f"
+  },
+  "verificationEnterValidCode": {
+    "translation": "Lütfen 6 haneli doğrulama kodunu girin.",
+    "sourceHash": "7fda192e8da3cdc031786dba93c3d33d"
+  },
+  "verificationInvalidCode": {
+    "translation": "Doğrulama kodu hatalı.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "newPasswordTitle": {
+    "translation": "Yeni şifre",
+    "sourceHash": "10a8ee3337ee4dda4b9f49521fb7dc53"
+  },
+  "newPasswordMessage": {
+    "translation": "Yeni şifrenizi girin.",
+    "sourceHash": "bf5fbc7329a3481993122a190eca5baf"
+  },
+  "passwordResetLoginFailed": {
+    "translation": "Şifreniz güncellendi ancak otomatik giriş yapılamadı. Yeni şifrenizle giriş yapmayı deneyin.",
+    "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
+  },
   "socialLoginWithGoogle": {
     "translation": "Google ile giriş yapın",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"

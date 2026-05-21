@@ -99,6 +99,46 @@
     "translation": "Create Account",
     "sourceHash": "c8a8414d3556605f76536e5400271916"
   },
+  "forgotPassword": {
+    "translation": "Forgot password",
+    "sourceHash": "9ca0a04e52c3225416a5cd542a9af586"
+  },
+  "verificationCodeTitle": {
+    "translation": "Email verification",
+    "sourceHash": "089750582bfbd4f31a65147bb3293173"
+  },
+  "verificationCodeMessageRegister": {
+    "translation": "Enter the 6-digit code sent to your email address.",
+    "sourceHash": "65bf974a388ea5c2db238ce2934e925b"
+  },
+  "verificationCodeMessageReset": {
+    "translation": "We have sent the password reset code to your e-mail address. Enter the code.",
+    "sourceHash": "d858121c7531e93fc3952f90c289fd8f"
+  },
+  "verificationCodePlaceholder": {
+    "translation": "Verification code",
+    "sourceHash": "0988a8d21efdb429a87019017d13cc3f"
+  },
+  "verificationEnterValidCode": {
+    "translation": "Please enter the 6-digit verification code.",
+    "sourceHash": "7fda192e8da3cdc031786dba93c3d33d"
+  },
+  "verificationInvalidCode": {
+    "translation": "The verification code is incorrect.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "newPasswordTitle": {
+    "translation": "New password",
+    "sourceHash": "10a8ee3337ee4dda4b9f49521fb7dc53"
+  },
+  "newPasswordMessage": {
+    "translation": "Enter your new password.",
+    "sourceHash": "bf5fbc7329a3481993122a190eca5baf"
+  },
+  "passwordResetLoginFailed": {
+    "translation": "Your password has been updated but automatic login failed. Try logging in with your new password.",
+    "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
+  },
   "socialLoginWithGoogle": {
     "translation": "Sign in with Google",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"

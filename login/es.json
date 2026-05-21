@@ -99,6 +99,46 @@
     "translation": "Crear una cuenta",
     "sourceHash": "c8a8414d3556605f76536e5400271916"
   },
+  "forgotPassword": {
+    "translation": "Contraseña olvidada",
+    "sourceHash": "9ca0a04e52c3225416a5cd542a9af586"
+  },
+  "verificationCodeTitle": {
+    "translation": "Verificación del correo electrónico",
+    "sourceHash": "089750582bfbd4f31a65147bb3293173"
+  },
+  "verificationCodeMessageRegister": {
+    "translation": "Introduzca el código de 6 dígitos enviado a su dirección de correo electrónico.",
+    "sourceHash": "65bf974a388ea5c2db238ce2934e925b"
+  },
+  "verificationCodeMessageReset": {
+    "translation": "Hemos enviado el código de restablecimiento de contraseña a su dirección de correo electrónico. Introduce el código.",
+    "sourceHash": "d858121c7531e93fc3952f90c289fd8f"
+  },
+  "verificationCodePlaceholder": {
+    "translation": "Código de verificación",
+    "sourceHash": "0988a8d21efdb429a87019017d13cc3f"
+  },
+  "verificationEnterValidCode": {
+    "translation": "Por favor, introduzca el código de verificación de 6 dígitos.",
+    "sourceHash": "7fda192e8da3cdc031786dba93c3d33d"
+  },
+  "verificationInvalidCode": {
+    "translation": "El código de verificación es incorrecto.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "newPasswordTitle": {
+    "translation": "Nueva contraseña",
+    "sourceHash": "10a8ee3337ee4dda4b9f49521fb7dc53"
+  },
+  "newPasswordMessage": {
+    "translation": "Introduce tu nueva contraseña.",
+    "sourceHash": "bf5fbc7329a3481993122a190eca5baf"
+  },
+  "passwordResetLoginFailed": {
+    "translation": "Su contraseña ha sido actualizada pero el inicio de sesión automático ha fallado. Intente iniciar sesión con su nueva contraseña.",
+    "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
+  },
   "socialLoginWithGoogle": {
     "translation": "Iniciar sesión con Google",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"
