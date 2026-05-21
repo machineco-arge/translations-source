@@ -139,6 +139,78 @@
     "translation": "Votre mot de passe a été mis à jour mais la connexion automatique a échoué. Essayez de vous connecter avec votre nouveau mot de passe.",
     "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
   },
+  "authError_invalid_email": {
+    "translation": "Saisissez une adresse électronique valide.",
+    "sourceHash": "72c66493d3c22d20cba75a7c74d3042d"
+  },
+  "authError_email_already_registered": {
+    "translation": "Un autre utilisateur est enregistré avec cet e-mail.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
+  "authError_resend_cooldown": {
+    "translation": "Veuillez réessayer après {{seconds}} secondes.",
+    "sourceHash": "f1192a04758b4d3e5371f6efbc2e0948"
+  },
+  "authError_email_send_failed": {
+    "translation": "Échec de l'envoi de l'email.",
+    "sourceHash": "34e9985a43bcb969b6e2e0f3fdf05ed7"
+  },
+  "authError_missing_verification_code": {
+    "translation": "Code de vérification requis.",
+    "sourceHash": "e599fa030bfa451787f89e50248e58dd"
+  },
+  "authError_invalid_code": {
+    "translation": "Le code de vérification est incorrect.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "authError_no_pending_code": {
+    "translation": "Demandez d'abord un code de vérification.",
+    "sourceHash": "1a99219ba5c7bf2869f45e02d97f6b38"
+  },
+  "authError_code_expired": {
+    "translation": "Le code de vérification a expiré.",
+    "sourceHash": "86e579bcb884c340b15cdecd46c890f6"
+  },
+  "authError_too_many_attempts": {
+    "translation": "Trop de tentatives. Demander un nouveau code.",
+    "sourceHash": "dcf7b57e62021f24f6b1bb27f921593b"
+  },
+  "authError_invalid_password": {
+    "translation": "Le mot de passe n'est pas valide.",
+    "sourceHash": "20386e7d6ff0805f2bf1eac1cea1c4b4"
+  },
+  "authError_email_not_found": {
+    "translation": "Aucun compte enregistré avec cet email n'a été trouvé.",
+    "sourceHash": "1b8ae53b4f224ceea7bc0fc88dff25b6"
+  },
+  "authError_account_no_password": {
+    "translation": "La réinitialisation du mot de passe n'est pas disponible pour ce compte.",
+    "sourceHash": "48606e722c85f42f1a95028223e3ebd6"
+  },
+  "authError_invalid_token": {
+    "translation": "Jeton invalide ou expiré.",
+    "sourceHash": "a01177b8183398ab16b3a744fad3f68b"
+  },
+  "authError_token_already_used": {
+    "translation": "Ce jeton a déjà été utilisé.",
+    "sourceHash": "ee78f129e3788ef7f43a47ede37cc477"
+  },
+  "authError_passwords_not_match": {
+    "translation": "Les mots de passe ne correspondent pas.",
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
+  },
+  "authError_weak_password": {
+    "translation": "Le mot de passe doit comporter au moins 6 caractères.",
+    "sourceHash": "fe37b32b00d6b5a725c04640870a6a68"
+  },
+  "authError_password_same_as_old": {
+    "translation": "Le nouveau mot de passe ne peut pas être identique à l'ancien.",
+    "sourceHash": "a649efc44770a2cec8b720123f9d9fda"
+  },
+  "authError_upstream_failed": {
+    "translation": "Le serveur n'a pas pu être atteint. Veuillez réessayer.",
+    "sourceHash": "d744237ac09fae8fd6898aa4f16ac6b9"
+  },
   "socialLoginWithGoogle": {
     "translation": "Se connecter avec Google",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"

@@ -139,6 +139,78 @@
     "translation": "Su contraseña ha sido actualizada pero el inicio de sesión automático ha fallado. Intente iniciar sesión con su nueva contraseña.",
     "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
   },
+  "authError_invalid_email": {
+    "translation": "Introduzca una dirección de correo electrónico válida.",
+    "sourceHash": "72c66493d3c22d20cba75a7c74d3042d"
+  },
+  "authError_email_already_registered": {
+    "translation": "Hay otro usuario registrado con este e-mail.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
+  "authError_resend_cooldown": {
+    "translation": "Por favor, inténtelo de nuevo después de {{seconds}} segundos.",
+    "sourceHash": "f1192a04758b4d3e5371f6efbc2e0948"
+  },
+  "authError_email_send_failed": {
+    "translation": "No se ha podido enviar el correo electrónico.",
+    "sourceHash": "34e9985a43bcb969b6e2e0f3fdf05ed7"
+  },
+  "authError_missing_verification_code": {
+    "translation": "Código de verificación requerido.",
+    "sourceHash": "e599fa030bfa451787f89e50248e58dd"
+  },
+  "authError_invalid_code": {
+    "translation": "El código de verificación es incorrecto.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "authError_no_pending_code": {
+    "translation": "Primero pide un código de verificación.",
+    "sourceHash": "1a99219ba5c7bf2869f45e02d97f6b38"
+  },
+  "authError_code_expired": {
+    "translation": "El código de verificación ha caducado.",
+    "sourceHash": "86e579bcb884c340b15cdecd46c890f6"
+  },
+  "authError_too_many_attempts": {
+    "translation": "Demasiados intentos. Solicitar nuevo código.",
+    "sourceHash": "dcf7b57e62021f24f6b1bb27f921593b"
+  },
+  "authError_invalid_password": {
+    "translation": "La contraseña no es válida.",
+    "sourceHash": "20386e7d6ff0805f2bf1eac1cea1c4b4"
+  },
+  "authError_email_not_found": {
+    "translation": "No se ha encontrado ninguna cuenta registrada con este correo electrónico.",
+    "sourceHash": "1b8ae53b4f224ceea7bc0fc88dff25b6"
+  },
+  "authError_account_no_password": {
+    "translation": "El restablecimiento de contraseña no está disponible para esta cuenta.",
+    "sourceHash": "48606e722c85f42f1a95028223e3ebd6"
+  },
+  "authError_invalid_token": {
+    "translation": "Token no válido o caducado.",
+    "sourceHash": "a01177b8183398ab16b3a744fad3f68b"
+  },
+  "authError_token_already_used": {
+    "translation": "Esta ficha ya ha sido utilizada.",
+    "sourceHash": "ee78f129e3788ef7f43a47ede37cc477"
+  },
+  "authError_passwords_not_match": {
+    "translation": "Las contraseñas no coinciden.",
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
+  },
+  "authError_weak_password": {
+    "translation": "La contraseña debe tener al menos 6 caracteres.",
+    "sourceHash": "fe37b32b00d6b5a725c04640870a6a68"
+  },
+  "authError_password_same_as_old": {
+    "translation": "La nueva contraseña no puede ser la misma que la anterior.",
+    "sourceHash": "a649efc44770a2cec8b720123f9d9fda"
+  },
+  "authError_upstream_failed": {
+    "translation": "No se ha podido acceder al servidor. Por favor, inténtelo de nuevo.",
+    "sourceHash": "d744237ac09fae8fd6898aa4f16ac6b9"
+  },
   "socialLoginWithGoogle": {
     "translation": "Iniciar sesión con Google",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"

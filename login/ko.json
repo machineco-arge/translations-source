@@ -139,6 +139,78 @@
     "translation": "비밀번호가 업데이트되었지만 자동 로그인에 실패했습니다. 새 비밀번호로 로그인해 보세요.",
     "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
   },
+  "authError_invalid_email": {
+    "translation": "유효한 이메일 주소를 입력합니다.",
+    "sourceHash": "72c66493d3c22d20cba75a7c74d3042d"
+  },
+  "authError_email_already_registered": {
+    "translation": "이 이메일에 등록된 다른 사용자가 있습니다.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
+  "authError_resend_cooldown": {
+    "translation": "0초 후에 다시 시도하세요.",
+    "sourceHash": "f1192a04758b4d3e5371f6efbc2e0948"
+  },
+  "authError_email_send_failed": {
+    "translation": "이메일을 보내지 못했습니다.",
+    "sourceHash": "34e9985a43bcb969b6e2e0f3fdf05ed7"
+  },
+  "authError_missing_verification_code": {
+    "translation": "인증 코드가 필요합니다.",
+    "sourceHash": "e599fa030bfa451787f89e50248e58dd"
+  },
+  "authError_invalid_code": {
+    "translation": "인증 코드가 올바르지 않습니다.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "authError_no_pending_code": {
+    "translation": "먼저 인증 코드를 요청합니다.",
+    "sourceHash": "1a99219ba5c7bf2869f45e02d97f6b38"
+  },
+  "authError_code_expired": {
+    "translation": "인증 코드가 만료되었습니다.",
+    "sourceHash": "86e579bcb884c340b15cdecd46c890f6"
+  },
+  "authError_too_many_attempts": {
+    "translation": "시도 횟수가 너무 많습니다. 새 코드를 요청하세요.",
+    "sourceHash": "dcf7b57e62021f24f6b1bb27f921593b"
+  },
+  "authError_invalid_password": {
+    "translation": "비밀번호가 유효하지 않습니다.",
+    "sourceHash": "20386e7d6ff0805f2bf1eac1cea1c4b4"
+  },
+  "authError_email_not_found": {
+    "translation": "이 이메일에 등록된 계정을 찾을 수 없습니다.",
+    "sourceHash": "1b8ae53b4f224ceea7bc0fc88dff25b6"
+  },
+  "authError_account_no_password": {
+    "translation": "이 계정에는 비밀번호 재설정을 사용할 수 없습니다.",
+    "sourceHash": "48606e722c85f42f1a95028223e3ebd6"
+  },
+  "authError_invalid_token": {
+    "translation": "유효하지 않거나 만료된 토큰입니다.",
+    "sourceHash": "a01177b8183398ab16b3a744fad3f68b"
+  },
+  "authError_token_already_used": {
+    "translation": "이 토큰은 이미 사용되었습니다.",
+    "sourceHash": "ee78f129e3788ef7f43a47ede37cc477"
+  },
+  "authError_passwords_not_match": {
+    "translation": "비밀번호가 일치하지 않습니다.",
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
+  },
+  "authError_weak_password": {
+    "translation": "비밀번호는 6자 이상이어야 합니다.",
+    "sourceHash": "fe37b32b00d6b5a725c04640870a6a68"
+  },
+  "authError_password_same_as_old": {
+    "translation": "새 비밀번호는 이전 비밀번호와 동일할 수 없습니다.",
+    "sourceHash": "a649efc44770a2cec8b720123f9d9fda"
+  },
+  "authError_upstream_failed": {
+    "translation": "서버에 연결할 수 없습니다. 다시 시도해 주세요.",
+    "sourceHash": "d744237ac09fae8fd6898aa4f16ac6b9"
+  },
   "socialLoginWithGoogle": {
     "translation": "Google로 로그인",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"

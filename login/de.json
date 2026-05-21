@@ -139,6 +139,78 @@
     "translation": "Ihr Passwort wurde aktualisiert, aber die automatische Anmeldung ist fehlgeschlagen. Versuchen Sie, sich mit Ihrem neuen Passwort anzumelden.",
     "sourceHash": "b2bdaa9ec25db8658dd9d384936a128f"
   },
+  "authError_invalid_email": {
+    "translation": "Geben Sie eine gültige E-Mail Adresse ein.",
+    "sourceHash": "72c66493d3c22d20cba75a7c74d3042d"
+  },
+  "authError_email_already_registered": {
+    "translation": "Es gibt einen weiteren Benutzer, der mit dieser E-Mail-Adresse registriert ist.",
+    "sourceHash": "a6c128a5e9bd28f24846c0cc5981e7f2"
+  },
+  "authError_resend_cooldown": {
+    "translation": "Bitte versuchen Sie es nach {{seconds}} Sekunden erneut.",
+    "sourceHash": "f1192a04758b4d3e5371f6efbc2e0948"
+  },
+  "authError_email_send_failed": {
+    "translation": "E-Mail kann nicht gesendet werden.",
+    "sourceHash": "34e9985a43bcb969b6e2e0f3fdf05ed7"
+  },
+  "authError_missing_verification_code": {
+    "translation": "Verifizierungscode erforderlich.",
+    "sourceHash": "e599fa030bfa451787f89e50248e58dd"
+  },
+  "authError_invalid_code": {
+    "translation": "Der Verifizierungscode ist falsch.",
+    "sourceHash": "6bc9999e9a23e57c13aa77cb0f5fcc80"
+  },
+  "authError_no_pending_code": {
+    "translation": "Fragen Sie zunächst nach einem Verifizierungscode.",
+    "sourceHash": "1a99219ba5c7bf2869f45e02d97f6b38"
+  },
+  "authError_code_expired": {
+    "translation": "Der Verifizierungscode ist abgelaufen.",
+    "sourceHash": "86e579bcb884c340b15cdecd46c890f6"
+  },
+  "authError_too_many_attempts": {
+    "translation": "Zu viele Versuche. Neuen Code anfordern.",
+    "sourceHash": "dcf7b57e62021f24f6b1bb27f921593b"
+  },
+  "authError_invalid_password": {
+    "translation": "Das Passwort ist ungültig.",
+    "sourceHash": "20386e7d6ff0805f2bf1eac1cea1c4b4"
+  },
+  "authError_email_not_found": {
+    "translation": "Es wurde kein mit dieser E-Mail registriertes Konto gefunden.",
+    "sourceHash": "1b8ae53b4f224ceea7bc0fc88dff25b6"
+  },
+  "authError_account_no_password": {
+    "translation": "Das Zurücksetzen des Passworts ist für dieses Konto nicht möglich.",
+    "sourceHash": "48606e722c85f42f1a95028223e3ebd6"
+  },
+  "authError_invalid_token": {
+    "translation": "Ungültiges oder abgelaufenes Token.",
+    "sourceHash": "a01177b8183398ab16b3a744fad3f68b"
+  },
+  "authError_token_already_used": {
+    "translation": "Dieser Token wurde bereits verwendet.",
+    "sourceHash": "ee78f129e3788ef7f43a47ede37cc477"
+  },
+  "authError_passwords_not_match": {
+    "translation": "Die Passwörter stimmen nicht überein.",
+    "sourceHash": "6812ea53de3301736b76412f5a552243"
+  },
+  "authError_weak_password": {
+    "translation": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+    "sourceHash": "fe37b32b00d6b5a725c04640870a6a68"
+  },
+  "authError_password_same_as_old": {
+    "translation": "Das neue Kennwort darf nicht mit dem alten identisch sein.",
+    "sourceHash": "a649efc44770a2cec8b720123f9d9fda"
+  },
+  "authError_upstream_failed": {
+    "translation": "Der Server konnte nicht erreicht werden. Bitte versuchen Sie es erneut.",
+    "sourceHash": "d744237ac09fae8fd6898aa4f16ac6b9"
+  },
   "socialLoginWithGoogle": {
     "translation": "Anmeldung mit Google",
     "sourceHash": "0d7d957f4be5ff044ebf52b490654533"
