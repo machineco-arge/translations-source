@@ -33,6 +33,9 @@
     "_notifications_specialParticipantRemovedBody": "\"{{activityName}}\" aktivitesinden çıkarıldınız.",
 
     "_notifications_specialPhotosReadyTitle": "Fotoğraflar Hazır",
-    "_notifications_specialPhotosReadyBody": "\"{{activityName}}\" - Fotoğraflar neredeyse hazır."
+    "_notifications_specialPhotosReadyBody": "\"{{activityName}}\" - Fotoğraflar neredeyse hazır.",
+
+    "_notifications_noFilmAfterOnboardingTitle": "İlk Filmini Başlat ✨",
+    "_notifications_noFilmAfterOnboardingBody": "Bugününü birkaç kareyle hatırla. İlk filmini başlat."
 
 }
