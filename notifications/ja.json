@@ -94,5 +94,13 @@
   "_notifications_specialPhotosReadyBody": {
     "translation": "\" {{activityName}} \" - 写真はもうすぐ準備できます。",
     "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
+  },
+  "_notifications_noFilmAfterOnboardingTitle": {
+    "translation": "初監督作品スタート",
+    "sourceHash": "55103fd4f0ee0c6e165f49dad5ead4eb"
+  },
+  "_notifications_noFilmAfterOnboardingBody": {
+    "translation": "数フレームで今日の思い出を。最初の映画を始めよう。",
+    "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
   }
 }

@@ -94,5 +94,13 @@
   "_notifications_specialPhotosReadyBody": {
     "translation": "\"{{activityName}}\" - Fotoğraflar neredeyse hazır.",
     "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
+  },
+  "_notifications_noFilmAfterOnboardingTitle": {
+    "translation": "İlk Filmini Başlat ✨",
+    "sourceHash": "55103fd4f0ee0c6e165f49dad5ead4eb"
+  },
+  "_notifications_noFilmAfterOnboardingBody": {
+    "translation": "Bugününü birkaç kareyle hatırla. İlk filmini başlat.",
+    "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
   }
 }

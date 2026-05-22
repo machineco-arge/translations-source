@@ -94,5 +94,13 @@
   "_notifications_specialPhotosReadyBody": {
     "translation": "\" {{activityName}} \" - 照片已准备就绪。",
     "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
+  },
+  "_notifications_noFilmAfterOnboardingTitle": {
+    "translation": "开始您的第一部电影 ✨",
+    "sourceHash": "55103fd4f0ee0c6e165f49dad5ead4eb"
+  },
+  "_notifications_noFilmAfterOnboardingBody": {
+    "translation": "用几帧画面记住今天。开始你的第一部电影",
+    "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
   }
 }

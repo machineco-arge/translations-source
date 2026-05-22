@@ -94,5 +94,13 @@
   "_notifications_specialPhotosReadyBody": {
     "translation": "\" {{activityName}} \" - 사진이 거의 준비되었습니다.",
     "sourceHash": "cec9382bde6bd51397d3f351c1f6675f"
+  },
+  "_notifications_noFilmAfterOnboardingTitle": {
+    "translation": "첫 영화 시작하기 ✨",
+    "sourceHash": "55103fd4f0ee0c6e165f49dad5ead4eb"
+  },
+  "_notifications_noFilmAfterOnboardingBody": {
+    "translation": "오늘을 몇 프레임으로 기억하세요. 첫 번째 영화를 시작하세요.",
+    "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
   }
 }
