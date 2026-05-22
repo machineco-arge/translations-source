@@ -102,5 +102,13 @@
   "_notifications_noFilmAfterOnboardingBody": {
     "translation": "用几帧画面记住今天。开始你的第一部电影",
     "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
+  },
+  "_notifications_noFilm3DaysInactivityTitle": {
+    "translation": "即使是普通的一天，也会像电影一样。",
+    "sourceHash": "02cf05c33277a1d9e18e0ee516653403"
+  },
+  "_notifications_noFilm3DaysInactivityBody": {
+    "translation": "不要让 FilmCam36 等待特殊时刻。拍摄今天，记住今天。",
+    "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
   }
 }

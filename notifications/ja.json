@@ -102,5 +102,13 @@
   "_notifications_noFilmAfterOnboardingBody": {
     "translation": "数フレームで今日の思い出を。最初の映画を始めよう。",
     "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
+  },
+  "_notifications_noFilm3DaysInactivityTitle": {
+    "translation": "平凡な一日が映画のように思えることもある。",
+    "sourceHash": "02cf05c33277a1d9e18e0ee516653403"
+  },
+  "_notifications_noFilm3DaysInactivityBody": {
+    "translation": "FilmCam36を特別な日まで待たせないでください。撮影することで、今日の思い出を。",
+    "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
   }
 }

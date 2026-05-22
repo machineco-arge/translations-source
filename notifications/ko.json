@@ -102,5 +102,13 @@
   "_notifications_noFilmAfterOnboardingBody": {
     "translation": "오늘을 몇 프레임으로 기억하세요. 첫 번째 영화를 시작하세요.",
     "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
+  },
+  "_notifications_noFilm3DaysInactivityTitle": {
+    "translation": "평범한 일상도 영화처럼 보일 수 있습니다.",
+    "sourceHash": "02cf05c33277a1d9e18e0ee516653403"
+  },
+  "_notifications_noFilm3DaysInactivityBody": {
+    "translation": "특별한 날을 기다리며 FilmCam36을 기다리지 마세요. 오늘을 촬영하여 기억하세요.",
+    "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
   }
 }

@@ -102,5 +102,13 @@
   "_notifications_noFilmAfterOnboardingBody": {
     "translation": "Recordar o dia de hoje com alguns fotogramas. Começa o teu primeiro filme.",
     "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
+  },
+  "_notifications_noFilm3DaysInactivityTitle": {
+    "translation": "Até um dia normal pode parecer um filme.",
+    "sourceHash": "02cf05c33277a1d9e18e0ee516653403"
+  },
+  "_notifications_noFilm3DaysInactivityBody": {
+    "translation": "Não deixe a FilmCam36 à espera de uma ocasião especial. Lembre-se de hoje filmando-o.",
+    "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
   }
 }

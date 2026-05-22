@@ -102,5 +102,13 @@
   "_notifications_noFilmAfterOnboardingBody": {
     "translation": "Bugününü birkaç kareyle hatırla. İlk filmini başlat.",
     "sourceHash": "d2f2dce87c569177d143780dba7ab6bf"
+  },
+  "_notifications_noFilm3DaysInactivityTitle": {
+    "translation": "Sıradan bir gün bile film gibi görünebilir.",
+    "sourceHash": "02cf05c33277a1d9e18e0ee516653403"
+  },
+  "_notifications_noFilm3DaysInactivityBody": {
+    "translation": "FilmCam36'yı özel bir gün için bekletme. Bugününü çekerek hatırla.",
+    "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
   }
 }
