@@ -110,5 +110,13 @@
   "_notifications_noFilm3DaysInactivityBody": {
     "translation": "Não deixe a FilmCam36 à espera de uma ocasião especial. Lembre-se de hoje filmando-o.",
     "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
+  },
+  "_notifications_noFilm1WeekTitle": {
+    "translation": "Falta um filme desta semana.",
+    "sourceHash": "bbdae0e72cc3cd196cb804cdd3cb326c"
+  },
+  "_notifications_noFilm1WeekBody": {
+    "translation": "Continue a experimentar a FilmCam36.",
+    "sourceHash": "781ea9dba638349cc20f90924b745e15"
   }
 }

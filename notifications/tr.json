@@ -110,5 +110,13 @@
   "_notifications_noFilm3DaysInactivityBody": {
     "translation": "FilmCam36'yı özel bir gün için bekletme. Bugününü çekerek hatırla.",
     "sourceHash": "466cff5381282f2c5f88f81e80c8ad35"
+  },
+  "_notifications_noFilm1WeekTitle": {
+    "translation": "Bu haftadan bir film kalsın.",
+    "sourceHash": "bbdae0e72cc3cd196cb804cdd3cb326c"
+  },
+  "_notifications_noFilm1WeekBody": {
+    "translation": "FilmCam36'yı deneyimlemeye devam et.",
+    "sourceHash": "781ea9dba638349cc20f90924b745e15"
   }
 }
