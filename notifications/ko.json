@@ -118,5 +118,13 @@
   "_notifications_noFilm1WeekBody": {
     "translation": "FilmCam36을 계속 경험해 보세요.",
     "sourceHash": "781ea9dba638349cc20f90924b745e15"
+  },
+  "_notifications_noFilm1MonthTitle": {
+    "translation": "좋은 사진 몇 장을 남겨드리겠습니다.",
+    "sourceHash": "b2542425283e52e43578fc98daeb4ce3"
+  },
+  "_notifications_noFilm1MonthBody": {
+    "translation": "한 달이 끝났습니다. 이번 달을 아날로그 영화처럼 기억하세요.",
+    "sourceHash": "0df1e1c03ab1beb7563aa6adebf1f6ff"
   }
 }

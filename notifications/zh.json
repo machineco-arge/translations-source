@@ -118,5 +118,13 @@
   "_notifications_noFilm1WeekBody": {
     "translation": "继续体验 FilmCam36。",
     "sourceHash": "781ea9dba638349cc20f90924b745e15"
+  },
+  "_notifications_noFilm1MonthTitle": {
+    "translation": "我给你们留几张好照片。",
+    "sourceHash": "b2542425283e52e43578fc98daeb4ce3"
+  },
+  "_notifications_noFilm1MonthBody": {
+    "translation": "这个月结束了。记住这个月，就像记住一部模拟电影。",
+    "sourceHash": "0df1e1c03ab1beb7563aa6adebf1f6ff"
   }
 }

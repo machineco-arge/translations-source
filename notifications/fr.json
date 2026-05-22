@@ -118,5 +118,13 @@
   "_notifications_noFilm1WeekBody": {
     "translation": "Continuez à faire l'expérience de FilmCam36.",
     "sourceHash": "781ea9dba638349cc20f90924b745e15"
+  },
+  "_notifications_noFilm1MonthTitle": {
+    "translation": "Je vous laisse avec quelques bonnes photos.",
+    "sourceHash": "b2542425283e52e43578fc98daeb4ce3"
+  },
+  "_notifications_noFilm1MonthBody": {
+    "translation": "Le mois est terminé. Souvenez-vous de ce mois comme d'un film analogique.",
+    "sourceHash": "0df1e1c03ab1beb7563aa6adebf1f6ff"
   }
 }
