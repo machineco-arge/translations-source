@@ -39,6 +39,9 @@
     "_notifications_noFilmAfterOnboardingBody": "Bugününü birkaç kareyle hatırla. İlk filmini başlat.",
     
     "_notifications_noFilm3DaysInactivityTitle": "Sıradan bir gün bile film gibi görünebilir.",
-    "_notifications_noFilm3DaysInactivityBody": "FilmCam36'yı özel bir gün için bekletme. Bugününü çekerek hatırla."
+    "_notifications_noFilm3DaysInactivityBody": "FilmCam36'yı özel bir gün için bekletme. Bugününü çekerek hatırla.",
+
+    "_notifications_noFilm1WeekTitle": "Bu haftadan bir film kalsın.",
+    "_notifications_noFilm1WeekBody": "FilmCam36'yı deneyimlemeye devam et."
 
 }
