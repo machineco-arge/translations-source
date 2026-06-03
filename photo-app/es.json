@@ -543,6 +543,22 @@
     "translation": "Impresión fotográfica finalizada",
     "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
   },
+  "_filmScreen_downloadInProgress": {
+    "translation": "Descargar fotos...",
+    "sourceHash": "7e76b8318f035a88c173e8cb0f92a074"
+  },
+  "_filmScreen_photosProcessing": {
+    "translation": "Tus fotos están siendo procesadas...",
+    "sourceHash": "77fcbc6c7c29e7d2a1bc2f392e1b9e49"
+  },
+  "_filmScreen_downloadFailed": {
+    "translation": "No se han podido descargar las fotos",
+    "sourceHash": "f5b0a3b7c37012d277fc2bda4cf94caf"
+  },
+  "_filmScreen_retryDownload": {
+    "translation": "Inténtalo de nuevo",
+    "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
+  },
   "_participantModal_statusActive": {
     "translation": "Activo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

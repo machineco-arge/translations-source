@@ -543,6 +543,22 @@
     "translation": "사진 인쇄 완료!",
     "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
   },
+  "_filmScreen_downloadInProgress": {
+    "translation": "사진 다운로드...",
+    "sourceHash": "7e76b8318f035a88c173e8cb0f92a074"
+  },
+  "_filmScreen_photosProcessing": {
+    "translation": "사진이 처리 중입니다...",
+    "sourceHash": "77fcbc6c7c29e7d2a1bc2f392e1b9e49"
+  },
+  "_filmScreen_downloadFailed": {
+    "translation": "사진을 다운로드할 수 없습니다",
+    "sourceHash": "f5b0a3b7c37012d277fc2bda4cf94caf"
+  },
+  "_filmScreen_retryDownload": {
+    "translation": "다시 시도",
+    "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
+  },
   "_participantModal_statusActive": {
     "translation": "활성",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
