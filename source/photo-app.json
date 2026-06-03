@@ -142,6 +142,10 @@
     "_filmScreen_speedUp": "Hızlandır",
     "_filmScreen_goToAlbum": "Albüme Git",
     "_filmScreen_printCompleted": "Fotoğraf Baskısı Tamamlandı!",
+    "_filmScreen_downloadInProgress": "Fotoğraflar indiriliyor...",
+    "_filmScreen_photosProcessing": "Fotoğraflarınız işleniyor...",
+    "_filmScreen_downloadFailed": "Fotoğraflar indirilemedi",
+    "_filmScreen_retryDownload": "Tekrar dene",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
