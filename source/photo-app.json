@@ -224,9 +224,9 @@
         "nightout": "Gece Dışarı Çıkmak"
     },
 
-    "_navigation_home": "Kameralar",
-    "_navigation_films": "Aktivitelerim",
-    "_navigation_album": "Albüm",
+    "_navigation_home": "Ana Sayfa",
+    "_navigation_films": "Filmlerim",
+    "_navigation_album": "Albümlerim",
     "_navigation_albums": "Albümler",
 
     "_permissions_RequiredTextTitle": "Uygulamayı kullanmak için gerekli izinleri vermeniz gerekmektedir.",
