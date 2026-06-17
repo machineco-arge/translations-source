@@ -810,16 +810,16 @@
     }
   },
   "_navigation_home": {
-    "translation": "カメラ",
-    "sourceHash": "b0ea2974181d128d23707cf20463517c"
+    "translation": "トップページ",
+    "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
   },
   "_navigation_films": {
-    "translation": "私の活動",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "私の映画",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_navigation_album": {
-    "translation": "アルバム",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "私のアルバム",
+    "sourceHash": "b46353e1cba9eb7b9f170ddb90cf4cc9"
   },
   "_navigation_albums": {
     "translation": "アルバム",
