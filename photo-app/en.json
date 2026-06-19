@@ -1802,8 +1802,8 @@
     "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
   },
   "restore_confirm_message_reinstall": {
-    "translation": "A backup from [date] has been found. Would you like to restore your albums now?",
-    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+    "translation": "Your backup has been found. Would you like to restore your albums now?",
+    "sourceHash": "d7338a01108e2865efaf00242a1c1e31"
   },
   "restore_error_message": {
     "translation": "An error occurred during the transaction.",

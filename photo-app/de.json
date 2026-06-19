@@ -1802,8 +1802,8 @@
     "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
   },
   "restore_confirm_message_reinstall": {
-    "translation": "Es wurde ein Backup vom [Datum] gefunden. Möchten Sie Ihre Alben jetzt wiederherstellen?",
-    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+    "translation": "Ihre Sicherung wurde gefunden. Möchten Sie Ihre Alben jetzt wiederherstellen?",
+    "sourceHash": "d7338a01108e2865efaf00242a1c1e31"
   },
   "restore_error_message": {
     "translation": "Bei der Ausführung ist ein Fehler aufgetreten.",

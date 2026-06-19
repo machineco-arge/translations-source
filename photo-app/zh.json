@@ -1802,8 +1802,8 @@
     "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
   },
   "restore_confirm_message_reinstall": {
-    "translation": "已找到一份日期为...的备份。您现在要恢复相册吗？",
-    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+    "translation": "已找到您的备份。您现在要恢复相册吗？",
+    "sourceHash": "d7338a01108e2865efaf00242a1c1e31"
   },
   "restore_error_message": {
     "translation": "操作过程中出现错误。",

@@ -1802,8 +1802,8 @@
     "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
   },
   "restore_confirm_message_reinstall": {
-    "translation": "Foi encontrada uma cópia de segurança com a data de... Gostaria de restaurar os seus álbuns agora?",
-    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+    "translation": "Encontrámos a sua cópia de segurança. Deseja restaurar os seus álbuns agora?",
+    "sourceHash": "d7338a01108e2865efaf00242a1c1e31"
   },
   "restore_error_message": {
     "translation": "Ocorreu um erro durante a operação.",

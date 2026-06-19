@@ -1802,8 +1802,8 @@
     "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
   },
   "restore_confirm_message_reinstall": {
-    "translation": "tarihli bir yedeğiniz bulundu. Albümlerinizi şimdi geri yüklemek ister misiniz?",
-    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+    "translation": "Yedeğiniz bulundu. Albümlerinizi şimdi geri yüklemek ister misiniz?",
+    "sourceHash": "d7338a01108e2865efaf00242a1c1e31"
   },
   "restore_error_message": {
     "translation": "İşlem sırasında bir hata oluştu.",
