@@ -1793,6 +1793,22 @@
     "translation": "Geri yükleme tamamlandı!",
     "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
   },
+  "restore_in_progress_title": {
+    "translation": "Albümler Yükleniyor",
+    "sourceHash": "19affa0c543281a85234168abca4a6d6"
+  },
+  "restore_do_not_close": {
+    "translation": "Lütfen bu işlem bitene kadar uygulamayı kapatmayın.",
+    "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
+  },
+  "restore_confirm_message_reinstall": {
+    "translation": "tarihli bir yedeğiniz bulundu. Albümlerinizi şimdi geri yüklemek ister misiniz?",
+    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+  },
+  "restore_error_message": {
+    "translation": "İşlem sırasında bir hata oluştu.",
+    "sourceHash": "3472775a2e4d73a991126a589bc0ee7d"
+  },
   "backup_in_progress": {
     "translation": "Yedekleniyor...",
     "sourceHash": "adac7e3f0b246c6bbff201873c841b87"

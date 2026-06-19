@@ -1793,6 +1793,22 @@
     "translation": "Restore complete!",
     "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
   },
+  "restore_in_progress_title": {
+    "translation": "Loading Albums",
+    "sourceHash": "19affa0c543281a85234168abca4a6d6"
+  },
+  "restore_do_not_close": {
+    "translation": "Please do not close the app until this process is complete.",
+    "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
+  },
+  "restore_confirm_message_reinstall": {
+    "translation": "A backup from [date] has been found. Would you like to restore your albums now?",
+    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+  },
+  "restore_error_message": {
+    "translation": "An error occurred during the transaction.",
+    "sourceHash": "3472775a2e4d73a991126a589bc0ee7d"
+  },
   "backup_in_progress": {
     "translation": "Backing up...",
     "sourceHash": "adac7e3f0b246c6bbff201873c841b87"

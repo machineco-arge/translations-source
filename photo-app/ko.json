@@ -1793,6 +1793,22 @@
     "translation": "복원 완료!",
     "sourceHash": "283a4f8cd6c4194cd0f58f93ef84f470"
   },
+  "restore_in_progress_title": {
+    "translation": "앨범 불러오는 중",
+    "sourceHash": "19affa0c543281a85234168abca4a6d6"
+  },
+  "restore_do_not_close": {
+    "translation": "이 작업이 완료될 때까지 앱을 종료하지 마십시오.",
+    "sourceHash": "e128bc3a7d2812b7cd0d7888989173b8"
+  },
+  "restore_confirm_message_reinstall": {
+    "translation": "[날짜]에 생성된 백업이 발견되었습니다. 지금 앨범을 복원하시겠습니까?",
+    "sourceHash": "0b2b732fca7c92889c1dd7d9e4db54c0"
+  },
+  "restore_error_message": {
+    "translation": "처리 중에 오류가 발생했습니다.",
+    "sourceHash": "3472775a2e4d73a991126a589bc0ee7d"
+  },
   "backup_in_progress": {
     "translation": "백업...",
     "sourceHash": "adac7e3f0b246c6bbff201873c841b87"
