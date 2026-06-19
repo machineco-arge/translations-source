@@ -503,7 +503,7 @@
     "restore_done": "Geri yükleme tamamlandı!",
     "restore_in_progress_title": "Albümler Yükleniyor",
     "restore_do_not_close": "Lütfen bu işlem bitene kadar uygulamayı kapatmayın.",
-    "restore_confirm_message_reinstall": "tarihli bir yedeğiniz bulundu. Albümlerinizi şimdi geri yüklemek ister misiniz?",
+    "restore_confirm_message_reinstall": "Yedeğiniz bulundu. Albümlerinizi şimdi geri yüklemek ister misiniz?",
     "restore_error_message": "İşlem sırasında bir hata oluştu.",
     "backup_in_progress": "Yedekleniyor...",
     "backup_button": "Albümleri Yedekle",
