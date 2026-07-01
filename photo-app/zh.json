@@ -244,8 +244,8 @@
     "sourceHash": "3593c96cc352e2ce62c128079e4aa68f"
   },
   "_albumScreen_goToMyRolls": {
-    "translation": "去图书馆",
-    "sourceHash": "ebfce23bae8fde421a66d0c217fdc219"
+    "translation": "返回首页",
+    "sourceHash": "4479cd13ccadee7db6d550ea5b90fe41"
   },
   "_albumScreen_screenTitle": {
     "translation": "专辑",
