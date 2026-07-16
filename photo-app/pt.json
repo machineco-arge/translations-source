@@ -1145,6 +1145,10 @@
     "translation": "Membro padrão",
     "sourceHash": "f9fcfd1edf2e2fedf3e9cfde5ad7cf54"
   },
+  "subscription_benefits_heading": {
+    "translation": "Com a Subscrição Pro, terá acesso ao seguinte:",
+    "sourceHash": "a8914be514e621988a0d4bcc59d6672c"
+  },
   "pro_member": {
     "translation": "Membro profissional",
     "sourceHash": "ae063796cdc9313bee226d61e04d28ca"

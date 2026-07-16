@@ -1145,6 +1145,10 @@
     "translation": "표준 회원",
     "sourceHash": "f9fcfd1edf2e2fedf3e9cfde5ad7cf54"
   },
+  "subscription_benefits_heading": {
+    "translation": "프로 멤버십을 이용하시면 다음과 같은 혜택을 누리실 수 있습니다:",
+    "sourceHash": "a8914be514e621988a0d4bcc59d6672c"
+  },
   "pro_member": {
     "translation": "프로 회원",
     "sourceHash": "ae063796cdc9313bee226d61e04d28ca"
