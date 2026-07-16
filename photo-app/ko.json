@@ -1713,6 +1713,14 @@
     "translation": "보내기",
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
+  "_appRating_starTitle": {
+    "translation": "점수 매기기",
+    "sourceHash": "0f595020381beb3edc6a4e2a55787749"
+  },
+  "_appRating_starMessage": {
+    "translation": "1~5개의 별점으로 경험을 평가해 주세요.",
+    "sourceHash": "59498545bf9983029595b8da3138f84f"
+  },
   "_notifications_printReminderTitle": {
     "translation": "인쇄 시간!",
     "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"

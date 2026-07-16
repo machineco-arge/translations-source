@@ -1713,6 +1713,14 @@
     "translation": "Senden Sie",
     "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
   },
+  "_appRating_starTitle": {
+    "translation": "Bewerten Sie",
+    "sourceHash": "0f595020381beb3edc6a4e2a55787749"
+  },
+  "_appRating_starMessage": {
+    "translation": "Bewerten Sie Ihre Erfahrung mit 1 bis 5 Sternen.",
+    "sourceHash": "59498545bf9983029595b8da3138f84f"
+  },
   "_notifications_printReminderTitle": {
     "translation": "Zeit zum Drucken!",
     "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
