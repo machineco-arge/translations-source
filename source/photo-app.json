@@ -479,6 +479,8 @@
     "_appRating_feedbackMessage": "Lütfen deneyiminizi geliştirmemize yardımcı olmak için geri bildirimlerinizi paylaşın. Her türlü yorum, öneri veya eleştiri bizim için çok değerlidir.",
     "_appRating_feedbackPlaceholder": "Geri bildiriminizi buraya yazın...",
     "_appRating_feedbackSubmit": "Gönder",
+    "_appRating_starTitle": "Puan Verin",
+    "_appRating_starMessage": "Deneyiminizi 1-5 yıldız arasında puanlayın.",
 
     "_notifications_printReminderTitle": "Baskı Zamanı!",
     "_notifications_printReminderBody": "\"{{bestName}}\" için film rulonuz %80 dolu. Baskıya göndermeyi unutmayın.",
