@@ -502,6 +502,7 @@
     "backup_done": "Yedekleme tamamlandı!",
     "restore_fetching": "Veriler yedekten alınıyor...",
     "restore_downloading": "Fotoğraflar indiriliyor",
+    "restore_applying_shaders": "Fotoğraflar işleniyor...",
     "restore_saving": "Albümler kaydediliyor...",
     "restore_done": "Geri yükleme tamamlandı!",
     "restore_in_progress_title": "Albümler Yükleniyor",
