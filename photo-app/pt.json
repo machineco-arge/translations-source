@@ -1797,6 +1797,10 @@
     "translation": "Descarregar fotografias",
     "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
   },
+  "restore_applying_shaders": {
+    "translation": "As fotografias estão a ser processadas...",
+    "sourceHash": "6eca19778721bb51037cccf3c055a565"
+  },
   "restore_saving": {
     "translation": "Os álbuns estão a ser gravados...",
     "sourceHash": "953df74d08a294eb798ebc905d5d654b"

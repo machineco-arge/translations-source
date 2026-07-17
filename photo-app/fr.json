@@ -1797,6 +1797,10 @@
     "translation": "Téléchargement de photos",
     "sourceHash": "cbe628a042d4951d33aef4454d9207cc"
   },
+  "restore_applying_shaders": {
+    "translation": "Les photos sont en cours de traitement...",
+    "sourceHash": "6eca19778721bb51037cccf3c055a565"
+  },
   "restore_saving": {
     "translation": "Des albums sont en cours d'enregistrement...",
     "sourceHash": "953df74d08a294eb798ebc905d5d654b"
