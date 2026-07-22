@@ -275,6 +275,26 @@
     "translation": "首先按 \"选择 \"按钮选择照片。然后按 \"打印 \"按钮。现在您可以将照片发送到自助服务终端。",
     "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
   },
+  "_albumScreen_changeFilterError": {
+    "translation": "更换过滤器时发生了一个错误。",
+    "sourceHash": "abf535cff69f40f81265697342143c97"
+  },
+  "_albumScreen_changeFilterTitle": {
+    "translation": "更换滤芯",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
+  "_albumScreen_changeFilterOverwrite": {
+    "translation": "在上面写",
+    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+  },
+  "_albumScreen_changeFilterSaveAsNew": {
+    "translation": "另存为",
+    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+  },
+  "_albumScreen_changeFilter": {
+    "translation": "更换滤芯",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

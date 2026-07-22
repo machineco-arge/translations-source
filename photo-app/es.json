@@ -275,6 +275,26 @@
     "translation": "Primero selecciona tus fotos pulsando el botón \"Seleccionar\". A continuación, pulsa el botón \"Imprimir\". Ahora puedes enviar tus fotos al quiosco.",
     "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
   },
+  "_albumScreen_changeFilterError": {
+    "translation": "Se ha producido un error al cambiar el filtro.",
+    "sourceHash": "abf535cff69f40f81265697342143c97"
+  },
+  "_albumScreen_changeFilterTitle": {
+    "translation": "Cambiar el filtro",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
+  "_albumScreen_changeFilterOverwrite": {
+    "translation": "Escribir encima",
+    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+  },
+  "_albumScreen_changeFilterSaveAsNew": {
+    "translation": "Guardar como nuevo",
+    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+  },
+  "_albumScreen_changeFilter": {
+    "translation": "Cambiar el filtro",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

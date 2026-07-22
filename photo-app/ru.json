@@ -275,6 +275,26 @@
     "translation": "Сначала выберите фотографии, нажав кнопку \"Выбрать\". Затем нажмите кнопку \"Печать\". Теперь вы можете отправить свои фотографии в киоск.",
     "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
   },
+  "_albumScreen_changeFilterError": {
+    "translation": "При замене фильтра произошла ошибка.",
+    "sourceHash": "abf535cff69f40f81265697342143c97"
+  },
+  "_albumScreen_changeFilterTitle": {
+    "translation": "Заменить фильтр",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
+  "_albumScreen_changeFilterOverwrite": {
+    "translation": "Напиши на нём",
+    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+  },
+  "_albumScreen_changeFilterSaveAsNew": {
+    "translation": "Сохранить как новый",
+    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+  },
+  "_albumScreen_changeFilter": {
+    "translation": "Заменить фильтр",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Рулон пленки полон, можно отправлять на печать",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

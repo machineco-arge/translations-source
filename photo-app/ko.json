@@ -275,6 +275,26 @@
     "translation": "먼저 '선택' 버튼을 눌러 사진을 선택합니다. 그런 다음 '인쇄' 버튼을 누릅니다. 이제 키오스크로 사진을 보낼 수 있습니다.",
     "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
   },
+  "_albumScreen_changeFilterError": {
+    "translation": "필터를 교체하는 과정에서 오류가 발생했습니다.",
+    "sourceHash": "abf535cff69f40f81265697342143c97"
+  },
+  "_albumScreen_changeFilterTitle": {
+    "translation": "필터 교체",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
+  "_albumScreen_changeFilterOverwrite": {
+    "translation": "위에 쓰기",
+    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+  },
+  "_albumScreen_changeFilterSaveAsNew": {
+    "translation": "새로 저장",
+    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+  },
+  "_albumScreen_changeFilter": {
+    "translation": "필터 교체",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

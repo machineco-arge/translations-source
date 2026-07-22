@@ -275,6 +275,26 @@
     "translation": "Önce 'Seç' butonuna basıp fotoğraflarınızı seçin. Daha sonra 'Baskı' butonuna basın. Artık fotoğraflarınızı kiosk'a gönderebilirsiniz.",
     "sourceHash": "a7f8f6ec445db9d73ad26ddc1f728709"
   },
+  "_albumScreen_changeFilterError": {
+    "translation": "Filtre değiştirilirken bir hata oluştu.",
+    "sourceHash": "abf535cff69f40f81265697342143c97"
+  },
+  "_albumScreen_changeFilterTitle": {
+    "translation": "Filtreyi Değiştir",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
+  "_albumScreen_changeFilterOverwrite": {
+    "translation": "Üzerine Yaz",
+    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+  },
+  "_albumScreen_changeFilterSaveAsNew": {
+    "translation": "Yeni Olarak Kaydet",
+    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+  },
+  "_albumScreen_changeFilter": {
+    "translation": "Filtreyi Değiştir",
+    "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
