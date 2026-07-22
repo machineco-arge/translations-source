@@ -464,8 +464,8 @@
     "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Sie müssen eingeloggt sein, um diese Funktion nutzen zu können. Möchten Sie sich anmelden?",
-    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+    "translation": "Sie können Ihre Freunde zu dieser Aktivität einladen. Um diese Funktion nutzen zu können, müssen Sie sich anmelden. Möchten Sie sich anmelden?",
+    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Aktivität Einladungslink",

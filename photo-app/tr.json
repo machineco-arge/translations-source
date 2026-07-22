@@ -464,8 +464,8 @@
     "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
-    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+    "translation": "Bu aktiviteye arkadaşlarınızı davet edebilirsiniz. Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
+    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Aktivite Davet Bağlantısı",

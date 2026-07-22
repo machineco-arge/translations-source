@@ -464,8 +464,8 @@
     "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "您必须登录后才能使用此功能。您想登录吗？",
-    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+    "translation": "您可以邀请朋友参加此活动。要使用此功能，您需要登录。您要登录吗？",
+    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "活动邀请链接",

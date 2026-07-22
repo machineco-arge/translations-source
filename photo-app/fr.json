@@ -464,8 +464,8 @@
     "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Vous devez être connecté pour utiliser cette fonction. Voulez-vous vous connecter ?",
-    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+    "translation": "Vous pouvez inviter vos amis à participer à cette activité. Pour pouvoir utiliser cette fonctionnalité, vous devez vous connecter. Souhaitez-vous vous connecter ?",
+    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Lien d'invitation à l'activité",

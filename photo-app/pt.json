@@ -464,8 +464,8 @@
     "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Tem de iniciar sessão para utilizar esta funcionalidade. Gostaria de iniciar sessão?",
-    "sourceHash": "79474185c42e53252c1bb35d1fbc7755"
+    "translation": "Pode convidar os seus amigos para esta atividade. Para poder utilizar esta funcionalidade, tem de iniciar sessão. Deseja iniciar sessão?",
+    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
   },
   "_filmScreen_shareInviteTitle": {
     "translation": "Ligação do convite para a atividade",
