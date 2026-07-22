@@ -70,6 +70,10 @@
     "_albumScreen_specialPrintNudgeTitle": "Bu albümde kiosk baskısı alabilirsin.",
     "_albumScreen_specialPrintNudgeDescription": "Önce 'Seç' butonuna basıp fotoğraflarınızı seçin. Daha sonra 'Baskı' butonuna basın. Artık fotoğraflarınızı kiosk'a gönderebilirsiniz.",
     "_albumScreen_changeFilterError": "Filtre değiştirilirken bir hata oluştu.",
+    "_albumScreen_changeFilterTitle": "Filtreyi Değiştir",
+    "_albumScreen_changeFilterOverwrite": "Üzerine Yaz",
+    "_albumScreen_changeFilterSaveAsNew": "Yeni Olarak Kaydet",
+    "_albumScreen_changeFilter": "Filtreyi Değiştir",
     
 
     "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
