@@ -121,7 +121,7 @@
     "_filmScreen_joinRequestStatusRejected": "Reddedildi",
     "_filmScreen_shareActivityTitle": "Aktiviteye Davet Et",
     "_filmScreen_shareActivityMessage": "Bu aktiviteyi paylaşımlı aktivite yapıp, arkadaşlarınızı aktivitenize davet etmek ister misiniz?",
-    "_filmScreen_shareActivityMessageAnonymous": "Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
+    "_filmScreen_shareActivityMessageAnonymous": "Bu aktiviteye arkadaşlarınızı davet edebilirsiniz. Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
     "_filmScreen_shareInviteTitle": "Aktivite Davet Bağlantısı",
     "_filmScreen_shareFailedErrorMessage": "Davet bağlantısı paylaşılırken bir hata oluştu.",
     "_filmScreen_shareChoiceTitle": "Davet Seçenekleri",
