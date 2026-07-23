@@ -1217,6 +1217,10 @@
     "translation": "该相机需要专业版会员资格。您可以进入订阅界面使用它。",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "使用此摄像头需要Pro会员资格。如需订阅，请先登录。",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "未找到产品",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

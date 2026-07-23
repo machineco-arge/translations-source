@@ -1217,6 +1217,10 @@
     "translation": "Для использования этой камеры требуется членство в программе Pro. Чтобы воспользоваться ею, перейдите на экран подписки.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Для просмотра этой камеры требуется подписка Pro. Чтобы оформить подписку, сначала необходимо войти в систему.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Продукт не найден",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

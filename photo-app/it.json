@@ -1217,6 +1217,10 @@
     "translation": "Questa telecamera richiede un abbonamento Pro. È possibile accedere alla schermata di sottoscrizione per utilizzarla.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Questa telecamera richiede un abbonamento Pro. Per abbonarti, devi prima effettuare l'accesso.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Prodotto non trovato",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

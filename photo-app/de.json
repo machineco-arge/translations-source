@@ -1217,6 +1217,10 @@
     "translation": "Für diese Kamera ist eine Pro-Mitgliedschaft erforderlich. Sie können zum Abonnement-Bildschirm gehen, um sie zu verwenden.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Für diese Kamera ist eine Pro-Mitgliedschaft erforderlich. Um sich anzumelden, müssen Sie sich zunächst einloggen.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Produkt nicht gefunden",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

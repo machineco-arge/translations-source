@@ -1217,6 +1217,10 @@
     "translation": "Esta câmara requer uma subscrição Pro. Pode aceder ao ecrã de subscrição para a utilizar.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Esta câmara requer uma subscrição Pro. Para se subscrever, tem de iniciar sessão primeiro.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Produto não encontrado",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

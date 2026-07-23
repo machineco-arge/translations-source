@@ -1217,6 +1217,10 @@
     "translation": "This camera requires a Pro membership. You can go to the subscription screen to use it.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "This camera requires a Pro subscription. You must log in first to subscribe.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Product not found",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

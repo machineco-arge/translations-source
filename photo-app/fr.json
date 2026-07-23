@@ -1217,6 +1217,10 @@
     "translation": "Cette caméra nécessite un abonnement Pro. Vous pouvez accéder à l'écran d'abonnement pour l'utiliser.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Cette caméra nécessite un abonnement Pro. Vous devez d'abord vous connecter pour vous abonner.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Produit non trouvé",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"

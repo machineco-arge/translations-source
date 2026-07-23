@@ -1217,6 +1217,10 @@
     "translation": "Bu kamera Pro üyelik gerektirir. Kullanmak için abonelik ekranına gidebilirsiniz.",
     "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
   },
+  "_proFilter_subscriptionRequiredMessageAnonymous": {
+    "translation": "Bu kamera Pro üyelik gerektirir. Abone olmak için önce giriş yapmalısınız.",
+    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Ürün bulunamadı",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
