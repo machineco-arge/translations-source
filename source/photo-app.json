@@ -332,6 +332,7 @@
     "subscription_expires_on": "Abonelik süresi sona erme tarihi:",
     "_proFilter_subscriptionRequiredTitle": "Pro üyelik gerekli",
     "_proFilter_subscriptionRequiredMessage": "Bu kamera Pro üyelik gerektirir. Kullanmak için abonelik ekranına gidebilirsiniz.",
+    "_proFilter_subscriptionRequiredMessageAnonymous": "Bu kamera Pro üyelik gerektirir. Abone olmak için önce giriş yapmalısınız.",
     "_subscription_productNotFoundTitle": "Ürün bulunamadı",
     "_subscription_productNotFoundMessage": "Abonelik ürünü bulunamadı. Lütfen mağaza yapılandırmanızı kontrol edin.",
     "_subscription_fetchProductsError": "Abonelik ürünleri yüklenirken bir sorun oluştu.",
