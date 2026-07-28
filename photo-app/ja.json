@@ -579,6 +579,18 @@
     "translation": "再試行",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "Pro会員はロール数を2倍に増やすことができます。撮影回数を増やしたいですか？",
+    "sourceHash": "c223c1cad18c88737e37b4415414c377"
+  },
+  "_filmRollExtension_messageAnonymous": {
+    "translation": "Pro会員は、写真撮影の回数を2倍に増やすことができます。Pro会員になるには、ログインする必要があります。",
+    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
+  },
+  "_filmRollExtension_messageNonPro": {
+    "translation": "Pro会員は写真撮影の回数を2倍に増やすことができます。Pro会員になりませんか？",
+    "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
+  },
   "_participantModal_statusActive": {
     "translation": "アクティブ",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

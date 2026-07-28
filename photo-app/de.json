@@ -579,6 +579,18 @@
     "translation": "Erneut versuchen",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "Pro-Mitglieder können ihr Roll-Kontingent verdoppeln. Möchten Sie Ihr Fotokontingent erhöhen?",
+    "sourceHash": "c223c1cad18c88737e37b4415414c377"
+  },
+  "_filmRollExtension_messageAnonymous": {
+    "translation": "Pro-Mitglieder können ihr Aufnahmekontingent verdoppeln. Um Pro-Mitglied zu werden, müssen Sie sich anmelden.",
+    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
+  },
+  "_filmRollExtension_messageNonPro": {
+    "translation": "Pro-Mitglieder können ihr Aufnahmekontingent verdoppeln. Möchten Sie Pro-Mitglied werden?",
+    "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
+  },
   "_participantModal_statusActive": {
     "translation": "Aktiv",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

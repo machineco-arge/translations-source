@@ -579,6 +579,18 @@
     "translation": "Riprova",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "I membri Pro possono raddoppiare il numero di scatti a disposizione. Vuoi aumentare il numero di scatti a tua disposizione?",
+    "sourceHash": "c223c1cad18c88737e37b4415414c377"
+  },
+  "_filmRollExtension_messageAnonymous": {
+    "translation": "Gli utenti Pro possono raddoppiare il numero di scatti fotografici a loro disposizione. Per diventare utente Pro, devi effettuare l'accesso.",
+    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
+  },
+  "_filmRollExtension_messageNonPro": {
+    "translation": "Gli utenti Pro possono raddoppiare il numero di scatti fotografici a loro disposizione. Vuoi diventare un utente Pro?",
+    "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
+  },
   "_participantModal_statusActive": {
     "translation": "Attivo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

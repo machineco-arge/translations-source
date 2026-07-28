@@ -579,6 +579,18 @@
     "translation": "Inténtalo de nuevo",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "Los miembros Pro pueden duplicar su derecho a rollos. ¿Quieres aumentar tu derecho a hacer fotos?",
+    "sourceHash": "c223c1cad18c88737e37b4415414c377"
+  },
+  "_filmRollExtension_messageAnonymous": {
+    "translation": "Los miembros Pro pueden duplicar su número de fotos. Para ser miembro Pro, debes iniciar sesión.",
+    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
+  },
+  "_filmRollExtension_messageNonPro": {
+    "translation": "Los miembros Pro pueden duplicar su número de fotos. ¿Quieres hacerte miembro Pro?",
+    "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
+  },
   "_participantModal_statusActive": {
     "translation": "Activo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
