@@ -319,6 +319,10 @@
     "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_bulkShareProVideoMessage": {
+    "translation": "動画を共有するには、Pro会員になる必要があります。Pro会員になりますか？",
+    "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "フィルムがいっぱいになりました。",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

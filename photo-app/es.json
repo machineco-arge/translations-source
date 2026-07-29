@@ -319,6 +319,10 @@
     "translation": "Para utilizar esta función, debes ser miembro Pro. ¿Quieres hacerte miembro Pro?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_bulkShareProVideoMessage": {
+    "translation": "Para compartirlo junto con el vídeo, tienes que ser miembro Pro. ¿Quieres hacerte miembro Pro?",
+    "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'El rollo de película está lleno, puedes enviarlo a imprimir",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

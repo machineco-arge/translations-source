@@ -319,6 +319,10 @@
     "translation": "要使用此功能，您需要成为Pro会员。您想成为Pro会员吗？",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_bulkShareProVideoMessage": {
+    "translation": "若要随视频一起分享，您需要成为Pro会员。您想成为Pro会员吗？",
+    "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

@@ -319,6 +319,10 @@
     "translation": "Bu özelliği kullanmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_bulkShareProVideoMessage": {
+    "translation": "Video ile birlikte paylaşmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
+    "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

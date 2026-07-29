@@ -319,6 +319,10 @@
     "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Хотите стать участником Pro?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_bulkShareProVideoMessage": {
+    "translation": "Чтобы поделиться этим видео, вам необходимо стать участником Pro. Хотите стать участником Pro?",
+    "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Рулон пленки полон, можно отправлять на печать",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
