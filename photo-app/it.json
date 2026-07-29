@@ -615,6 +615,10 @@
     "translation": "Gli utenti Pro possono raddoppiare il numero di scatti fotografici a loro disposizione. Vuoi diventare un utente Pro?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
   },
+  "_filmRollExtension_messagePro": {
+    "translation": "Poiché sei un membro Pro, il tuo limite di scatti fotografici verrà raddoppiato. Sei d'accordo?",
+    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
+  },
   "_participantModal_statusActive": {
     "translation": "Attivo",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

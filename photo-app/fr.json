@@ -615,6 +615,10 @@
     "translation": "Les membres Pro peuvent doubler leur quota de prises de vue. Souhaitez-vous devenir membre Pro ?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
   },
+  "_filmRollExtension_messagePro": {
+    "translation": "Comme vous êtes membre Pro, votre quota de prises de vue sera doublé. Êtes-vous d'accord ?",
+    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
+  },
   "_participantModal_statusActive": {
     "translation": "Actif",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

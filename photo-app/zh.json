@@ -615,6 +615,10 @@
     "translation": "Pro会员可以将拍照次数增加一倍。您想成为Pro会员吗？",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
   },
+  "_filmRollExtension_messagePro": {
+    "translation": "由于您已成为Pro会员，您的拍照配额将翻倍。您同意吗？",
+    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
+  },
   "_participantModal_statusActive": {
     "translation": "活跃",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"

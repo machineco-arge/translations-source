@@ -615,6 +615,10 @@
     "translation": "Pro members can double their photo-taking allowance. Would you like to become a Pro member?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
   },
+  "_filmRollExtension_messagePro": {
+    "translation": "Since you are a Pro member, your photo-taking limit will be doubled. Do you agree?",
+    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
+  },
   "_participantModal_statusActive": {
     "translation": "Active",
     "sourceHash": "81c335a576d688db1e4ac96d72a39bc0"
