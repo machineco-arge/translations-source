@@ -295,6 +295,18 @@
     "translation": "Filtreyi Değiştir",
     "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
   },
+  "_albumScreen_changeFilterProTitle": {
+    "translation": "Pro Üyelik Gerekli",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_changeFilterProMessageAnonymous": {
+    "translation": "Bu filtreyi kullanmak için Pro üye olmanız gerekiyor. Pro üye olmak için giriş yapmanız gerekmektedir.",
+    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+  },
+  "_albumScreen_changeFilterProMessage": {
+    "translation": "Bu filtreyi kullanmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
+    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Film rulosu doldu, baskıya gönderebilirsin",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

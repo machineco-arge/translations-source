@@ -295,6 +295,18 @@
     "translation": "Filter wechseln",
     "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
   },
+  "_albumScreen_changeFilterProTitle": {
+    "translation": "Pro-Mitgliedschaft erforderlich",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_changeFilterProMessageAnonymous": {
+    "translation": "Um diesen Filter nutzen zu können, müssen Sie Pro-Mitglied sein. Um Pro-Mitglied zu werden, müssen Sie sich anmelden.",
+    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+  },
+  "_albumScreen_changeFilterProMessage": {
+    "translation": "Um diesen Filter nutzen zu können, müssen Sie Pro-Mitglied sein. Möchten Sie Pro-Mitglied werden?",
+    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Die Filmrolle ist voll, Sie können sie zum Drucken schicken.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

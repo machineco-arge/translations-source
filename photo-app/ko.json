@@ -295,6 +295,18 @@
     "translation": "필터 교체",
     "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
   },
+  "_albumScreen_changeFilterProTitle": {
+    "translation": "프로 멤버십 필요",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_changeFilterProMessageAnonymous": {
+    "translation": "이 필터를 사용하려면 Pro 회원이어야 합니다. Pro 회원이 되려면 로그인하셔야 합니다.",
+    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+  },
+  "_albumScreen_changeFilterProMessage": {
+    "translation": "이 필터를 사용하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
+    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

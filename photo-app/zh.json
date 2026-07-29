@@ -295,6 +295,18 @@
     "translation": "更换滤芯",
     "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
   },
+  "_albumScreen_changeFilterProTitle": {
+    "translation": "需成为专业会员",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_changeFilterProMessageAnonymous": {
+    "translation": "要使用此筛选器，您需要成为Pro会员。要成为Pro会员，您需要先登录。",
+    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+  },
+  "_albumScreen_changeFilterProMessage": {
+    "translation": "要使用此筛选器，您需要成为Pro会员。您想成为Pro会员吗？",
+    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "胶卷已满，可以送去冲印",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
