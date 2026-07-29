@@ -300,12 +300,12 @@
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
   "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "Per utilizzare questo filtro è necessario essere iscritti alla versione Pro. Per diventare membro Pro è necessario effettuare l'accesso.",
-    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+    "translation": "Per utilizzare questa funzione è necessario essere iscritti al piano Pro. Per diventare membro Pro è necessario effettuare l'accesso.",
+    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
   },
   "_albumScreen_changeFilterProMessage": {
-    "translation": "Per utilizzare questo filtro è necessario essere iscritti al piano Pro. Vuoi iscriverti al piano Pro?",
-    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+    "translation": "Per utilizzare questa funzione è necessario diventare membro Pro. Vuoi diventare membro Pro?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Il rullino è pieno, si può inviare alla stampa",

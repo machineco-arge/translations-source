@@ -300,12 +300,12 @@
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
   "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "Чтобы использовать этот фильтр, вам необходимо стать участником Pro. Для этого вам нужно войти в систему.",
-    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+    "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Для этого вам нужно войти в систему.",
+    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
   },
   "_albumScreen_changeFilterProMessage": {
-    "translation": "Чтобы воспользоваться этим фильтром, вам необходимо стать участником Pro. Хотите стать участником Pro?",
-    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+    "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Хотите стать участником Pro?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Рулон пленки полон, можно отправлять на печать",

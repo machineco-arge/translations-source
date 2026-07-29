@@ -300,12 +300,12 @@
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
   "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "이 필터를 사용하려면 Pro 회원이어야 합니다. Pro 회원이 되려면 로그인하셔야 합니다.",
-    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+    "translation": "이 기능을 사용하려면 Pro 회원이어야 합니다. Pro 회원이 되려면 로그인하셔야 합니다.",
+    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
   },
   "_albumScreen_changeFilterProMessage": {
-    "translation": "이 필터를 사용하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
-    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+    "translation": "이 기능을 사용하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",

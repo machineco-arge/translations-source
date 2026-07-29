@@ -300,12 +300,12 @@
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
   "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "To use this filter, you must be a Pro member. To become a Pro member, you must log in.",
-    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+    "translation": "To use this feature, you must be a Pro member. You must log in to become a Pro member.",
+    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
   },
   "_albumScreen_changeFilterProMessage": {
-    "translation": "To use this filter, you need to be a Pro member. Would you like to become a Pro member?",
-    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+    "translation": "To use this feature, you need to be a Pro member. Would you like to become a Pro member?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",

@@ -300,12 +300,12 @@
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
   "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "このフィルターをご利用いただくには、Pro会員になる必要があります。Pro会員になるには、ログインする必要があります。",
-    "sourceHash": "53e1fd08fcbf6bce375bab486e5b873c"
+    "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になるには、ログインする必要があります。",
+    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
   },
   "_albumScreen_changeFilterProMessage": {
-    "translation": "このフィルターをご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
-    "sourceHash": "5dc14d833d8c31fdb62a828cf10e40d5"
+    "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "フィルムがいっぱいになりました。",
