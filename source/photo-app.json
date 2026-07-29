@@ -159,6 +159,7 @@
     "_filmRollExtension_messageParticipant": "Pro üyeler rulo hakkını iki katına çıkarabilir. Fotoğraf çekim hakkını artırmak ister misiniz?",
     "_filmRollExtension_messageAnonymous": "Pro üyeler fotoğraf çekim hakkını iki katına çıkartabilir. Pro üye olmak için giriş yapmalısınız.",
     "_filmRollExtension_messageNonPro": "Pro üyeler fotoğraf çekim hakkını iki katına çıkartabilir. Pro üye olmak ister misiniz?",
+    "_filmRollExtension_messagePro": "Pro üye olduğunuz için fotoğraf çekim hakkınız iki katına çıkartılacak. Onaylıyor musunuz?",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
