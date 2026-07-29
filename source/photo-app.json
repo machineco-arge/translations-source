@@ -113,6 +113,7 @@
     "_filmScreen_invalidInvitationLink": "Geçersiz davet bağlantısı.",
     "_filmScreen_joinRequestSentMessage": "Katılma isteğiniz başarıyla gönderildi.",
     "_filmScreen_joinRequestError": "Katılma isteği gönderilirken bir hata oluştu.",
+    "_filmScreen_participantLimitReachedMessage": "Bu aktiviteye katılım limiti doldu. Limit artırmak için aktivite sahibi Pro üye olmalı.",
     "_filmScreen_waitingForApproval": "Onay Bekleniyor",
     "_filmScreen_joinRequestNotificationsTitle": "Davet Durumları",
     "_filmScreen_noJoinRequests": "Bekleyen veya reddedilen katılım isteğiniz yok.",
@@ -129,6 +130,8 @@
     "_filmScreen_shareOthersButtonLabel": "Diğerleri",
     "_filmScreen_shareQr": "QR",
     "_filmScreen_shareQrTitle": "QR Kodu",
+    "_filmScreen_participantLimitTitle": "Katılımcı Limiti",
+    "_filmScreen_participantLimitMessage": "Bu aktivite 10 kullanıcı ile sınırlandırılacaktır. Sınırsız katılımcı için Pro üye olun.",
     
     "_filmScreen_filmIsFullAlertMessageParticipant": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
     "_filmScreen_linkShareError": "Bu aktivite için davet bağlantısı bulunamadı.",
@@ -561,6 +564,7 @@
     "_common_reject": "Reddet",
     "_common_no": "Hayır",
     "_common_yes": "Evet",
-    "_common_detail": "Detay"
+    "_common_detail": "Detay",
+    "_common_continue": "Devam Et"
 
 }
