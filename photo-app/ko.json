@@ -307,6 +307,18 @@
     "translation": "이 기능을 사용하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_proRequiredTitle": {
+    "translation": "프로 멤버십 필요",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_bulkDownloadProVideoMessage": {
+    "translation": "동영상을 함께 다운로드하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
+    "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
+  },
+  "_albumScreen_videoProRequiredMessage": {
+    "translation": "이 기능을 사용하려면 Pro 회원이 되어야 합니다. Pro 회원이 되시겠습니까?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

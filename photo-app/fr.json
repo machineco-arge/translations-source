@@ -307,6 +307,18 @@
     "translation": "Pour utiliser cette fonctionnalité, vous devez être abonné à la formule Pro. Souhaitez-vous vous abonner à la formule Pro ?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_proRequiredTitle": {
+    "translation": "Abonnement Pro requis",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_bulkDownloadProVideoMessage": {
+    "translation": "Pour télécharger la vidéo, vous devez devenir membre Pro. Souhaitez-vous devenir membre Pro ?",
+    "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
+  },
+  "_albumScreen_videoProRequiredMessage": {
+    "translation": "Pour utiliser cette fonctionnalité, vous devez être abonné à la formule Pro. Souhaitez-vous vous abonner à la formule Pro ?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Le rouleau de film est plein, vous pouvez l'envoyer à l'impression.",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

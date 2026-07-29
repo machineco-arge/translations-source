@@ -307,6 +307,18 @@
     "translation": "To use this feature, you need to be a Pro member. Would you like to become a Pro member?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_proRequiredTitle": {
+    "translation": "Pro Membership Required",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_bulkDownloadProVideoMessage": {
+    "translation": "You need to be a Pro member to download the video. Would you like to become a Pro member?",
+    "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
+  },
+  "_albumScreen_videoProRequiredMessage": {
+    "translation": "To use this feature, you need to be a Pro member. Would you like to become a Pro member?",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"

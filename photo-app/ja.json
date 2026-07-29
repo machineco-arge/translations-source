@@ -307,6 +307,18 @@
     "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
   },
+  "_albumScreen_proRequiredTitle": {
+    "translation": "プロ会員登録が必要です",
+    "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
+  },
+  "_albumScreen_bulkDownloadProVideoMessage": {
+    "translation": "動画と一緒にダウンロードするには、Pro会員になる必要があります。Pro会員になりますか？",
+    "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
+  },
+  "_albumScreen_videoProRequiredMessage": {
+    "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
+    "sourceHash": "992161c9899027e8faf98abc3d505382"
+  },
   "_cameraScreen_filmEndedMessage": {
     "translation": "フィルムがいっぱいになりました。",
     "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
