@@ -431,6 +431,10 @@
     "translation": "가입 요청을 보내는 동안 오류가 발생했습니다.",
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
+  "_filmScreen_participantLimitReachedMessage": {
+    "translation": "이 활동의 참가 인원 제한이 마감되었습니다. 인원 제한을 늘리려면 활동 주최자가 Pro 회원이어야 합니다.",
+    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+  },
   "_filmScreen_waitingForApproval": {
     "translation": "승인 대기 중",
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
@@ -494,6 +498,14 @@
   "_filmScreen_shareQrTitle": {
     "translation": "QR 코드",
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
+  "_filmScreen_participantLimitTitle": {
+    "translation": "참가 인원 제한",
+    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+  },
+  "_filmScreen_participantLimitMessage": {
+    "translation": "이 활동은 10명의 사용자로 제한됩니다. 참가 인원 제한 없이 참여하려면 Pro 회원이 되어 주세요.",
+    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
@@ -2032,5 +2044,9 @@
   "_common_detail": {
     "translation": "세부 정보",
     "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
+  },
+  "_common_continue": {
+    "translation": "계속하기",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   }
 }

@@ -431,6 +431,10 @@
     "translation": "参加リクエストの送信エラーが発生しました。",
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
+  "_filmScreen_participantLimitReachedMessage": {
+    "translation": "このアクティビティの参加人数上限に達しました。上限を増やすには、アクティビティの主催者がPro会員である必要があります。",
+    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+  },
   "_filmScreen_waitingForApproval": {
     "translation": "承認待ち",
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
@@ -494,6 +498,14 @@
   "_filmScreen_shareQrTitle": {
     "translation": "QRコード",
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
+  "_filmScreen_participantLimitTitle": {
+    "translation": "参加人数の上限",
+    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+  },
+  "_filmScreen_participantLimitMessage": {
+    "translation": "このアクティビティは10名までとさせていただきます。参加人数に制限がない場合は、Pro会員にご登録ください。",
+    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "フィルムロールがいっぱいになったので、アクティビティ所有者がプリントに送るのを待つ。",
@@ -2032,5 +2044,9 @@
   "_common_detail": {
     "translation": "詳細",
     "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
+  },
+  "_common_continue": {
+    "translation": "続ける",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   }
 }

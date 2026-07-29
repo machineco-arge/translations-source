@@ -431,6 +431,10 @@
     "translation": "There was an error sending the join request.",
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
+  "_filmScreen_participantLimitReachedMessage": {
+    "translation": "The participation limit for this activity has been reached. To increase the limit, the activity owner must be a Pro member.",
+    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+  },
   "_filmScreen_waitingForApproval": {
     "translation": "Awaiting Approval",
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
@@ -494,6 +498,14 @@
   "_filmScreen_shareQrTitle": {
     "translation": "QR Code",
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
+  "_filmScreen_participantLimitTitle": {
+    "translation": "Participant Limit",
+    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+  },
+  "_filmScreen_participantLimitMessage": {
+    "translation": "This activity is limited to 10 users. Become a Pro member for unlimited participants.",
+    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Roll of film is full, wait for the activity owner to send it to print",
@@ -2032,5 +2044,9 @@
   "_common_detail": {
     "translation": "Detail",
     "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
+  },
+  "_common_continue": {
+    "translation": "Continue",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   }
 }

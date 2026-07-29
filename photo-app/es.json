@@ -431,6 +431,10 @@
     "translation": "Se ha producido un error al enviar la solicitud de unión.",
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
+  "_filmScreen_participantLimitReachedMessage": {
+    "translation": "Se ha alcanzado el límite de participantes en esta actividad. Para aumentar el límite, el organizador de la actividad debe ser miembro Pro.",
+    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+  },
   "_filmScreen_waitingForApproval": {
     "translation": "En espera de aprobación",
     "sourceHash": "e912504678672bfaaf3b6ca4429dc3fc"
@@ -494,6 +498,14 @@
   "_filmScreen_shareQrTitle": {
     "translation": "Código QR",
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
+  },
+  "_filmScreen_participantLimitTitle": {
+    "translation": "Límite de participantes",
+    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+  },
+  "_filmScreen_participantLimitMessage": {
+    "translation": "Esta actividad estará limitada a 10 usuarios. Hazte miembro Pro para tener un número ilimitado de participantes.",
+    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "El rollo de película está lleno, espera a que el titular de la actividad lo envíe a imprimir",
@@ -2032,5 +2044,9 @@
   "_common_detail": {
     "translation": "Detalle",
     "sourceHash": "8476a9918b27d9ff6edc6e7b2d664b6c"
+  },
+  "_common_continue": {
+    "translation": "Continuar",
+    "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
   }
 }
