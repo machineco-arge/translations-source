@@ -80,6 +80,7 @@
     "_albumScreen_proRequiredTitle": "Pro Üyelik Gerekli",
     "_albumScreen_bulkDownloadProVideoMessage": "Video ile birlikte indirmek için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
     "_albumScreen_videoProRequiredMessage": "Bu özelliği kullanmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
+    "_albumScreen_bulkShareProVideoMessage": "Video ile birlikte paylaşmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
 
     "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
     "_cameraScreen_participantFilmEndedMessage": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
