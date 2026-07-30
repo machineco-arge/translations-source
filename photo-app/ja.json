@@ -1025,21 +1025,17 @@
     "translation": "フィルムロールを選択",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
-  "_selectFilm_activityCooldownHours": {
-    "translation": "{{hours}} 時間",
-    "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
+  "_selectFilm_activityCooldownMessageHours": {
+    "translation": "{{hours}} 時間後、新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
+    "sourceHash": "9c237df8cab23036b1ad673241a3f7c8"
   },
-  "_selectFilm_activityCooldownMinutes": {
-    "translation": "{{minutes}} 分",
-    "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
+  "_selectFilm_activityCooldownMessageMinutes": {
+    "translation": "{{minutes}} 分後に新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
+    "sourceHash": "082c4f767eb45076ad0540540f84ee65"
   },
-  "_selectFilm_activityCooldownHoursMinutes": {
-    "translation": "{{hours}} 時 {{minutes}} 分",
-    "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
-  },
-  "_selectFilm_activityCooldownMessage": {
-    "translation": "{{time}} その後、新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
-    "sourceHash": "17136c31e25eef2778c17bbcd51d3059"
+  "_selectFilm_activityCooldownMessageHoursMinutes": {
+    "translation": "{{hours}} 時間 {{minutes}} 分後に新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
+    "sourceHash": "03246774c277627ec49a83a4c7b83738"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "規約とポリシー",
