@@ -25,10 +25,10 @@
             "_selectFilm_activityCooldownMessage": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member."
         },
         "de": {
-            "_selectFilm_activityCooldownHours": "{{hours}} hours",
-            "_selectFilm_activityCooldownMinutes": "{{minutes}}minutes",
-            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} hours {{minutes}}minutes",
-            "_selectFilm_activityCooldownMessage": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member."
+            "_selectFilm_activityCooldownHours": "{{hours}} Stunden",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} Minuten",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} Stunden {{minutes}} Minuten",
+            "_selectFilm_activityCooldownMessage": "Sie können nach {{time}} eine neue Aktivität erstellen. Wenn Sie nicht warten möchten, werden Sie Pro-Mitglied."
         },
         "es": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
