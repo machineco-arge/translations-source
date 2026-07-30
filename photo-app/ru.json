@@ -1038,7 +1038,7 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "Вы сможете создать новое занятие через {{time}} . Если не хотите ждать, станьте участником Pro",
+    "translation": "Вы можете создать новую активность через {{time}}. Если вы не хотите ждать, станьте участником Pro.",
     "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {

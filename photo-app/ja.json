@@ -1034,11 +1034,11 @@
     "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
   },
   "_selectFilm_activityCooldownHoursMinutes": {
-    "translation": "{{hours}} 時 {{minutes}} 分",
+    "translation": "{{hours}} 時間 {{minutes}} 分",
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "{{time}} 後に新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
+    "translation": "{{time}} 後に新しいアクティビティを作成できます。待ちたくない場合は、Proメンバーになってください。",
     "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {

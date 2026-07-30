@@ -1038,7 +1038,7 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "You can create a new activity {{time}} later. If you don't want to wait, become a Pro member",
+    "translation": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member.",
     "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {

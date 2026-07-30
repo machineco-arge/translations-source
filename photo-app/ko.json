@@ -1026,7 +1026,7 @@
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
   "_selectFilm_activityCooldownHours": {
-    "translation": "{{hours}} 시",
+    "translation": "{{hours}} 시간",
     "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
   },
   "_selectFilm_activityCooldownMinutes": {
@@ -1038,7 +1038,7 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "{{time}} 후에 새로운 활동을 생성할 수 있습니다. 기다리기 싫으시다면 Pro 회원이 되어주세요",
+    "translation": "{{time}} 후에 새 활동을 만들 수 있습니다. 기다리고 싶지 않다면 Pro 회원이 되세요.",
     "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
