@@ -460,6 +460,10 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
+    "translation": "このアクティビティの参加人数上限に達しました。上限を引き上げるには、アクティビティの主催者がPro会員である必要があります。",
+    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+  },
+  "_filmScreen_ownerLimitReachedMessage": {
     "translation": "このアクティビティの参加定員に達しました。定員を増やすには、Pro会員になる必要があります。",
     "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },

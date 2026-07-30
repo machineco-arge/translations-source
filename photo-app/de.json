@@ -460,6 +460,10 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
+    "translation": "Die Teilnehmerzahl für diese Aktivität ist bereits erreicht. Um die Teilnehmerzahl zu erhöhen, muss der Veranstalter der Aktivität Pro-Mitglied sein.",
+    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+  },
+  "_filmScreen_ownerLimitReachedMessage": {
     "translation": "Die Teilnehmerzahl für diese Aktivität ist bereits erreicht. Um die Teilnehmerzahl zu erhöhen, müssen Sie Pro-Mitglied werden.",
     "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },

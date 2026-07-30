@@ -460,6 +460,10 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
+    "translation": "Лимит участия в этом мероприятии исчерпан. Чтобы увеличить лимит, организатор мероприятия должен стать участником категории «Pro».",
+    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+  },
+  "_filmScreen_ownerLimitReachedMessage": {
     "translation": "Лимит на участие в этом мероприятии исчерпан. Чтобы увеличить лимит, вам необходимо стать участником категории «Pro».",
     "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },
