@@ -18,7 +18,65 @@
             "_albumScreen_select": "Select",
             "_filmScreen_title": "My Films",
             "_filmScreen_noActiveFilmsMessage": "No active films yet",
-            "_filmScreen_noActiveFilmsDescription": "Create a new film to shoot your first shots."
+            "_filmScreen_noActiveFilmsDescription": "Create a new film to shoot your first shots.",
+            "_selectFilm_activityCooldownHours": "{{hours}} hours",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} minutes",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} hours {{minutes}} minutes",
+            "_selectFilm_activityCooldownMessage": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member."
+        },
+        "de": {
+            "_selectFilm_activityCooldownHours": "{{hours}} hours",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}}minutes",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} hours {{minutes}}minutes",
+            "_selectFilm_activityCooldownMessage": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member."
+        },
+        "es": {
+            "_selectFilm_activityCooldownHours": "{{hours}} horas",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} minutos",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} horas {{minutes}} minutos",
+            "_selectFilm_activityCooldownMessage": "Puedes crear una nueva actividad después de {{time}}. Si no quieres esperar, hazte miembro Pro."
+        },
+        "fr": {
+            "_selectFilm_activityCooldownHours": "{{hours}} heures",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} minutes",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} heures {{minutes}} minutes",
+            "_selectFilm_activityCooldownMessage": "Vous pouvez créer une nouvelle activité après {{time}}. Si vous ne voulez pas attendre, devenez membre Pro."
+        },
+        "it": {
+            "_selectFilm_activityCooldownHours": "{{hours}} ore",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} minuti",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} ore {{minutes}} minuti",
+            "_selectFilm_activityCooldownMessage": "Puoi creare una nuova attività dopo {{time}}. Se non vuoi aspettare, diventa un membro Pro."
+        },
+        "ja": {
+            "_selectFilm_activityCooldownHours": "{{hours}} 時間",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} 分",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 時間 {{minutes}} 分",
+            "_selectFilm_activityCooldownMessage": "{{time}} 後に新しいアクティビティを作成できます。待ちたくない場合は、Proメンバーになってください。"
+        },
+        "ko": {
+            "_selectFilm_activityCooldownHours": "{{hours}} 시간",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} 분",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 시간 {{minutes}} 분",
+            "_selectFilm_activityCooldownMessage": "{{time}} 후에 새 활동을 만들 수 있습니다. 기다리고 싶지 않다면 Pro 회원이 되세요."
+        },
+        "pt": {
+            "_selectFilm_activityCooldownHours": "{{hours}} horas",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} minutos",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} horas {{minutes}} minutos",
+            "_selectFilm_activityCooldownMessage": "Você pode criar uma nova atividade após {{time}}. Se você não quiser esperar, torne-se um membro Pro."
+        },
+        "ru": {
+            "_selectFilm_activityCooldownHours": "{{hours}} часов",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} минут",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} часов {{minutes}} минут",
+            "_selectFilm_activityCooldownMessage": "Вы можете создать новую активность через {{time}}. Если вы не хотите ждать, станьте участником Pro."
+        },
+        "zh": {
+            "_selectFilm_activityCooldownHours": "{{hours}} 小时",
+            "_selectFilm_activityCooldownMinutes": "{{minutes}} 分钟",
+            "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 小时 {{minutes}} 分钟",
+            "_selectFilm_activityCooldownMessage": "您可以在 {{time}} 后创建新的活动。如果您不想等待，请成为 Pro 会员。"
         },
         "tr": {
             "_common_delete": "Sil",
