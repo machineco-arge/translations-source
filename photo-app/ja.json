@@ -1025,6 +1025,22 @@
     "translation": "フィルムロールを選択",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
+  "_selectFilm_activityCooldownHours": {
+    "translation": "{{hours}} 時間",
+    "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
+  },
+  "_selectFilm_activityCooldownMinutes": {
+    "translation": "{{minutes}} 分",
+    "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
+  },
+  "_selectFilm_activityCooldownHoursMinutes": {
+    "translation": "{{hours}} 時 {{minutes}} 分",
+    "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
+  },
+  "_selectFilm_activityCooldownMessage": {
+    "translation": "{{time}} その後、新しいアクティビティを作成できます。待ちたくない場合は、Pro会員になってください",
+    "sourceHash": "17136c31e25eef2778c17bbcd51d3059"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "規約とポリシー",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

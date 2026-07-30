@@ -1025,6 +1025,22 @@
     "translation": "Selecionar rolo de filme",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
+  "_selectFilm_activityCooldownHours": {
+    "translation": "{{hours}} horas",
+    "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
+  },
+  "_selectFilm_activityCooldownMinutes": {
+    "translation": "{{minutes}} minutos",
+    "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
+  },
+  "_selectFilm_activityCooldownHoursMinutes": {
+    "translation": "{{hours}} horas {{minutes}} minutos",
+    "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
+  },
+  "_selectFilm_activityCooldownMessage": {
+    "translation": "{{time}} depois poderá criar uma nova atividade. Se não quiser esperar, torne-se membro Pro",
+    "sourceHash": "17136c31e25eef2778c17bbcd51d3059"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termos e políticas",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"

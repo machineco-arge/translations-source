@@ -1025,6 +1025,22 @@
     "translation": "필름 롤 선택",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
+  "_selectFilm_activityCooldownHours": {
+    "translation": "{{hours}} 시",
+    "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
+  },
+  "_selectFilm_activityCooldownMinutes": {
+    "translation": "{{minutes}} 분",
+    "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
+  },
+  "_selectFilm_activityCooldownHoursMinutes": {
+    "translation": "{{hours}} 시간 {{minutes}} 분",
+    "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
+  },
+  "_selectFilm_activityCooldownMessage": {
+    "translation": "{{time}} 그 후 새로운 활동을 생성할 수 있습니다. 기다리기 싫으시다면 Pro 회원이 되어주세요",
+    "sourceHash": "17136c31e25eef2778c17bbcd51d3059"
+  },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",
     "sourceHash": "2689edada1763386dbdf8716be2e2bc9"
