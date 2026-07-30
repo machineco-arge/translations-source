@@ -119,7 +119,7 @@
     "_filmScreen_invalidInvitationLink": "Geçersiz davet bağlantısı.",
     "_filmScreen_joinRequestSentMessage": "Katılma isteğiniz başarıyla gönderildi.",
     "_filmScreen_joinRequestError": "Katılma isteği gönderilirken bir hata oluştu.",
-    "_filmScreen_participantLimitReachedMessage": "Bu aktiviteye katılım limiti doldu. Limit artırmak için aktivite sahibi Pro üye olmalı.",
+    "_filmScreen_participantLimitReachedMessage": "Bu aktiviteye katılım limiti doldu. Limit artırmak için Pro üye olmanız gerekiyor.",
     "_filmScreen_waitingForApproval": "Onay Bekleniyor",
     "_filmScreen_joinRequestNotificationsTitle": "Davet Durumları",
     "_filmScreen_noJoinRequests": "Bekleyen veya reddedilen katılım isteğiniz yok.",
