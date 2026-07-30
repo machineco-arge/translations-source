@@ -460,8 +460,8 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "该活动的参与名额已满。若要增加名额，活动发起人必须成为Pro会员。",
-    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+    "translation": "该活动的参与名额已满。如需增加名额，您需要成为Pro会员。",
+    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "等待批准",

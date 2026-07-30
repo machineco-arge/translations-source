@@ -460,8 +460,8 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "이 활동의 참가 인원 제한이 마감되었습니다. 인원 제한을 늘리려면 활동 주최자가 Pro 회원이어야 합니다.",
-    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+    "translation": "이 활동의 참가 정원이 마감되었습니다. 정원을 늘리려면 Pro 회원이 되셔야 합니다.",
+    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "승인 대기 중",

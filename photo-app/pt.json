@@ -460,8 +460,8 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "O limite de participantes nesta atividade já foi atingido. Para aumentar o limite, o organizador da atividade deve ser membro Pro.",
-    "sourceHash": "e1a50d497969a29bf2f78455a1f76578"
+    "translation": "O limite de participantes nesta atividade já foi atingido. Para aumentar o limite, tem de se tornar membro Pro.",
+    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "A aguardar aprovação",
