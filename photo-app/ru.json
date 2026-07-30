@@ -1025,17 +1025,21 @@
     "translation": "Выберите рулон пленки",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
-  "_selectFilm_activityCooldownMessageHours": {
-    "translation": "{{hours}} через несколько часов вы сможете создать новое занятие. Если не хотите ждать, оформите подписку Pro",
-    "sourceHash": "9c237df8cab23036b1ad673241a3f7c8"
+  "_selectFilm_activityCooldownHours": {
+    "translation": "{{hours}} часов",
+    "sourceHash": "2dbf16cf7c11a84ea3c70698d7b4c7f9"
   },
-  "_selectFilm_activityCooldownMessageMinutes": {
-    "translation": "{{minutes}} через несколько минут вы сможете создать новое занятие. Если не хотите ждать, оформите подписку Pro",
-    "sourceHash": "082c4f767eb45076ad0540540f84ee65"
+  "_selectFilm_activityCooldownMinutes": {
+    "translation": "{{minutes}} минут",
+    "sourceHash": "ce438e3a1aa087981efaee7d94e5d6f3"
   },
-  "_selectFilm_activityCooldownMessageHoursMinutes": {
-    "translation": "{{hours}} через {{minutes}} минут вы сможете создать новое занятие. Если не хотите ждать, станьте участником Pro",
-    "sourceHash": "03246774c277627ec49a83a4c7b83738"
+  "_selectFilm_activityCooldownHoursMinutes": {
+    "translation": "{{hours}} часов {{minutes}} минут",
+    "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
+  },
+  "_selectFilm_activityCooldownMessage": {
+    "translation": "Вы сможете создать новое занятие через {{time}} . Если не хотите ждать, станьте участником Pro",
+    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Условия и политика",
