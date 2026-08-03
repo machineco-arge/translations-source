@@ -516,12 +516,12 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "QR 코드를 사용하여 초대를 공유하시겠습니까, 아니면 다른 방법으로 링크를 공유하시겠습니까?",
-    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+    "translation": "초대장을 QR 코드로 공유하시겠습니까, 아니면 이벤트 링크로 공유하시겠습니까?",
+    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
   },
   "_filmScreen_shareOthersButtonLabel": {
-    "translation": "기타",
-    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+    "translation": "링크",
+    "sourceHash": "97e7c9a7d06eac006a28bf05467fcc8b"
   },
   "_filmScreen_shareQr": {
     "translation": "QR",

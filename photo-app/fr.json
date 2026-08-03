@@ -516,12 +516,12 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "Souhaitez-vous partager l'invitation avec un code QR ou souhaitez-vous partager le lien d'une autre manière ?",
-    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+    "translation": "Souhaitez-vous partager l'invitation via un code QR ou via un lien vers l'activité ?",
+    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
   },
   "_filmScreen_shareOthersButtonLabel": {
-    "translation": "Autres",
-    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+    "translation": "Lien",
+    "sourceHash": "97e7c9a7d06eac006a28bf05467fcc8b"
   },
   "_filmScreen_shareQr": {
     "translation": "QR",

@@ -516,12 +516,12 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "您是想用二维码分享邀请函，还是想用其他方式分享链接？",
-    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+    "translation": "您是想通过二维码分享邀请，还是想通过活动链接分享？",
+    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
   },
   "_filmScreen_shareOthersButtonLabel": {
-    "translation": "其他",
-    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+    "translation": "链接",
+    "sourceHash": "97e7c9a7d06eac006a28bf05467fcc8b"
   },
   "_filmScreen_shareQr": {
     "translation": "QR",

@@ -516,12 +516,12 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "QRコードで招待状を共有しますか、または他の方法でリンクを共有しますか？",
-    "sourceHash": "40f468ab8c7b19ffa79569433c2f385b"
+    "translation": "招待はQRコードで共有しますか、それともイベントのリンクで共有しますか？",
+    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
   },
   "_filmScreen_shareOthersButtonLabel": {
-    "translation": "その他",
-    "sourceHash": "62143af1702ce0ee916139c3c4008757"
+    "translation": "リンク",
+    "sourceHash": "97e7c9a7d06eac006a28bf05467fcc8b"
   },
   "_filmScreen_shareQr": {
     "translation": "QR",
