@@ -299,10 +299,6 @@
     "translation": "Pro Membership Required",
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
-  "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "To use this feature, you must be a Pro member. You must log in to become a Pro member.",
-    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
-  },
   "_albumScreen_changeFilterProMessage": {
     "translation": "To use this feature, you need to be a Pro member. Would you like to become a Pro member?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -315,6 +311,10 @@
     "translation": "You need to be a Pro member to download the video. Would you like to become a Pro member?",
     "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
   },
+  "_albumScreen_downloadWithoutVideo": {
+    "translation": "Download without the video",
+    "sourceHash": "4b5db1a6b247e0053ebd08aaba8b1bbc"
+  },
   "_albumScreen_videoProRequiredMessage": {
     "translation": "To use this feature, you need to be a Pro member. Would you like to become a Pro member?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -322,6 +322,10 @@
   "_albumScreen_bulkShareProVideoMessage": {
     "translation": "You need to be a Pro member to share this video. Would you like to become a Pro member?",
     "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
+  "_albumScreen_shareWithoutVideo": {
+    "translation": "Share without a video",
+    "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'The roll of film is full, you can send it to print",
@@ -622,14 +626,6 @@
   "_filmScreen_retryDownload": {
     "translation": "Try again",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
-  },
-  "_filmRollExtension_messageParticipant": {
-    "translation": "Pro members can double their roll allowance. Would you like to increase your photo shoot allowance?",
-    "sourceHash": "c223c1cad18c88737e37b4415414c377"
-  },
-  "_filmRollExtension_messageAnonymous": {
-    "translation": "Pro members can double their photo-taking allowance. You must log in to become a Pro member.",
-    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
   },
   "_filmRollExtension_messageNonPro": {
     "translation": "Pro members can double their photo-taking allowance. Would you like to become a Pro member?",
@@ -1290,12 +1286,8 @@
     "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
   },
   "_proFilter_subscriptionRequiredMessage": {
-    "translation": "This camera requires a Pro membership. You can go to the subscription screen to use it.",
-    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
-  },
-  "_proFilter_subscriptionRequiredMessageAnonymous": {
-    "translation": "This camera requires a Pro subscription. You must log in first to subscribe.",
-    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+    "translation": "This camera requires a Pro membership. Would you like to become a Pro member?",
+    "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "Product not found",

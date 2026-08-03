@@ -299,10 +299,6 @@
     "translation": "Abonnement Pro requis",
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
-  "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "Pour utiliser cette fonctionnalité, vous devez être abonné à la formule Pro. Pour devenir abonné à la formule Pro, vous devez vous connecter.",
-    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
-  },
   "_albumScreen_changeFilterProMessage": {
     "translation": "Pour utiliser cette fonctionnalité, vous devez être abonné à la formule Pro. Souhaitez-vous vous abonner à la formule Pro ?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -315,6 +311,10 @@
     "translation": "Pour télécharger la vidéo, vous devez devenir membre Pro. Souhaitez-vous devenir membre Pro ?",
     "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
   },
+  "_albumScreen_downloadWithoutVideo": {
+    "translation": "Télécharger sans la vidéo",
+    "sourceHash": "4b5db1a6b247e0053ebd08aaba8b1bbc"
+  },
   "_albumScreen_videoProRequiredMessage": {
     "translation": "Pour utiliser cette fonctionnalité, vous devez être abonné à la formule Pro. Souhaitez-vous vous abonner à la formule Pro ?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -322,6 +322,10 @@
   "_albumScreen_bulkShareProVideoMessage": {
     "translation": "Pour partager cette vidéo, vous devez devenir membre Pro. Souhaitez-vous devenir membre Pro ?",
     "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
+  "_albumScreen_shareWithoutVideo": {
+    "translation": "Partager sans vidéo",
+    "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "Le rouleau de film est plein, vous pouvez l'envoyer à l'impression.",
@@ -622,14 +626,6 @@
   "_filmScreen_retryDownload": {
     "translation": "Réessayer",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
-  },
-  "_filmRollExtension_messageParticipant": {
-    "translation": "Les membres Pro peuvent doubler leur nombre de rouleaux. Souhaitez-vous augmenter votre nombre de prises de vue ?",
-    "sourceHash": "c223c1cad18c88737e37b4415414c377"
-  },
-  "_filmRollExtension_messageAnonymous": {
-    "translation": "Les membres Pro peuvent doubler leur quota de prises de vue. Pour devenir membre Pro, vous devez vous connecter.",
-    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
   },
   "_filmRollExtension_messageNonPro": {
     "translation": "Les membres Pro peuvent doubler leur quota de prises de vue. Souhaitez-vous devenir membre Pro ?",
@@ -1290,12 +1286,8 @@
     "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
   },
   "_proFilter_subscriptionRequiredMessage": {
-    "translation": "Cette caméra nécessite un abonnement Pro. Vous pouvez accéder à l'écran d'abonnement pour l'utiliser.",
-    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
-  },
-  "_proFilter_subscriptionRequiredMessageAnonymous": {
-    "translation": "Cette caméra nécessite un abonnement Pro. Vous devez d'abord vous connecter pour vous abonner.",
-    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+    "translation": "Cette caméra nécessite un abonnement Pro. Souhaitez-vous devenir membre Pro ?",
+    "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "Produit non trouvé",

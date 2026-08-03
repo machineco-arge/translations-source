@@ -299,10 +299,6 @@
     "translation": "プロ会員登録が必要です",
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
-  "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になるには、ログインする必要があります。",
-    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
-  },
   "_albumScreen_changeFilterProMessage": {
     "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -315,6 +311,10 @@
     "translation": "動画と一緒にダウンロードするには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
   },
+  "_albumScreen_downloadWithoutVideo": {
+    "translation": "動画なしでダウンロード",
+    "sourceHash": "4b5db1a6b247e0053ebd08aaba8b1bbc"
+  },
   "_albumScreen_videoProRequiredMessage": {
     "translation": "この機能をご利用いただくには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -322,6 +322,10 @@
   "_albumScreen_bulkShareProVideoMessage": {
     "translation": "動画を共有するには、Pro会員になる必要があります。Pro会員になりますか？",
     "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
+  "_albumScreen_shareWithoutVideo": {
+    "translation": "動画なしで共有する",
+    "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "フィルムがいっぱいになりました。",
@@ -622,14 +626,6 @@
   "_filmScreen_retryDownload": {
     "translation": "再試行",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
-  },
-  "_filmRollExtension_messageParticipant": {
-    "translation": "Pro会員はロール数を2倍に増やすことができます。撮影回数を増やしたいですか？",
-    "sourceHash": "c223c1cad18c88737e37b4415414c377"
-  },
-  "_filmRollExtension_messageAnonymous": {
-    "translation": "Pro会員は、写真撮影の回数を2倍に増やすことができます。Pro会員になるには、ログインする必要があります。",
-    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
   },
   "_filmRollExtension_messageNonPro": {
     "translation": "Pro会員は写真撮影の回数を2倍に増やすことができます。Pro会員になりませんか？",
@@ -1290,12 +1286,8 @@
     "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
   },
   "_proFilter_subscriptionRequiredMessage": {
-    "translation": "このカメラはPro会員登録が必要です。ご利用の際は会員登録画面へお進みください。",
-    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
-  },
-  "_proFilter_subscriptionRequiredMessageAnonymous": {
-    "translation": "このカメラをご利用いただくには、Pro会員登録が必要です。登録するには、まずログインしてください。",
-    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+    "translation": "このカメラをご利用いただくには、Pro会員登録が必要です。Pro会員になりますか？",
+    "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "製品が見つかりません",

@@ -299,10 +299,6 @@
     "translation": "Требуется подписка Pro",
     "sourceHash": "d1bd05c43aacea3cec45f7bf6e00f384"
   },
-  "_albumScreen_changeFilterProMessageAnonymous": {
-    "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Для этого вам нужно войти в систему.",
-    "sourceHash": "dfe68089446d2db82abf49c3bc4f2a56"
-  },
   "_albumScreen_changeFilterProMessage": {
     "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Хотите стать участником Pro?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -315,6 +311,10 @@
     "translation": "Чтобы скачать видео вместе с файлом, вам необходимо стать участником Pro. Хотите стать участником Pro?",
     "sourceHash": "74fdfe5ce751e6f4ca73fc9226204e2d"
   },
+  "_albumScreen_downloadWithoutVideo": {
+    "translation": "Скачать без видео",
+    "sourceHash": "4b5db1a6b247e0053ebd08aaba8b1bbc"
+  },
   "_albumScreen_videoProRequiredMessage": {
     "translation": "Чтобы воспользоваться этой функцией, вам необходимо стать участником Pro. Хотите стать участником Pro?",
     "sourceHash": "992161c9899027e8faf98abc3d505382"
@@ -322,6 +322,10 @@
   "_albumScreen_bulkShareProVideoMessage": {
     "translation": "Чтобы поделиться этим видео, вам необходимо стать участником Pro. Хотите стать участником Pro?",
     "sourceHash": "4db226c355df99c65d331ed6afeee357"
+  },
+  "_albumScreen_shareWithoutVideo": {
+    "translation": "Поделиться без видео",
+    "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
     "translation": "'Рулон пленки полон, можно отправлять на печать",
@@ -622,14 +626,6 @@
   "_filmScreen_retryDownload": {
     "translation": "Попробуйте еще раз",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
-  },
-  "_filmRollExtension_messageParticipant": {
-    "translation": "Участники категории «Pro» могут удвоить количество прокруток. Хотите увеличить количество фотосессий?",
-    "sourceHash": "c223c1cad18c88737e37b4415414c377"
-  },
-  "_filmRollExtension_messageAnonymous": {
-    "translation": "Участники категории «Pro» могут удвоить количество фотосессий. Чтобы стать участником категории «Pro», необходимо войти в систему.",
-    "sourceHash": "e301d11a7d992fb0ea432a4f0661e107"
   },
   "_filmRollExtension_messageNonPro": {
     "translation": "Участники категории «Pro» могут удвоить количество фотосессий. Хотите стать участником категории «Pro»?",
@@ -1290,12 +1286,8 @@
     "sourceHash": "e1aa7f11b2dfe2b4746dc1fc2f81b11e"
   },
   "_proFilter_subscriptionRequiredMessage": {
-    "translation": "Для использования этой камеры требуется членство в программе Pro. Чтобы воспользоваться ею, перейдите на экран подписки.",
-    "sourceHash": "1dcf8f82f879fd91c90dedecb3059ad8"
-  },
-  "_proFilter_subscriptionRequiredMessageAnonymous": {
-    "translation": "Для просмотра этой камеры требуется подписка Pro. Чтобы оформить подписку, сначала необходимо войти в систему.",
-    "sourceHash": "a35c54fff992462d283b4fc109ee7b19"
+    "translation": "Для использования этой камеры требуется подписка Pro. Хотите стать участником Pro?",
+    "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "Продукт не найден",
