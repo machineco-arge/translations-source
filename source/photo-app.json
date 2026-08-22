@@ -113,6 +113,7 @@
     "_filmScreen_selectDevelopmentTimeDescription": "Fotoğraflarınızın ne kadar sürede hazır olmasını istediğinizi seçin.",
     "_filmScreen_specialActivitiesSection": "Özel Aktivitelerim",
     "_filmScreen_myActivitiesSection": "Aktivitelerim",
+    "_filmScreen_contactSheetSubtitle": "Kare Önizlemesi",
 
 
     "_filmScreen_joinActivityTitle": "Aktiviteye Katıl",
@@ -360,6 +361,10 @@
     "_subscription_restoreNotFoundTitle": "Satın alım bulunamadı",
     "_subscription_restoreNotFoundMessage": "Geri yüklenecek aktif bir abonelik bulunamadı.",
     "_subscription_restoreError": "Satın alımlar geri yüklenirken bir sorun oluştu.",
+    "_subscription_verifyInactiveMessage": "Satın alma alındı ancak aktif bir abonelik doğrulanamadı. Lütfen birkaç dakika sonra tekrar deneyin veya satın alımları geri yükleyin.",
+    "_subscription_missingPurchaseMessage": "Satın alma tamamlandı ancak mağaza işlem bilgisi alınamadı. Lütfen satın alımları geri yükleyin veya uygulamayı yeniden başlatıp tekrar deneyin.",
+    "subscription_trial_headline": "7 gün ücretsiz dene!",
+    "subscription_trial_note": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
 
 
     "termsOfServiceAndPrivacyPolicy": "Hizmet Şartları ve Gizlilik Politikası",
