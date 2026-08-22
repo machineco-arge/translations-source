@@ -443,6 +443,10 @@
     "translation": "Meine Aktivitäten",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "Vorschau des Bildes",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "An der Aktivität teilnehmen",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "Es gab ein Problem bei der Wiederherstellung von Käufen.",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "Der Kauf wurde verbucht, es konnte jedoch kein aktives Abonnement bestätigt werden. Bitte versuchen Sie es in einigen Minuten erneut oder laden Sie die Käufe erneut hoch.",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "Der Kauf wurde abgeschlossen, es konnten jedoch keine Transaktionsdaten vom Store abgerufen werden. Bitte laden Sie die Käufe erneut herunter oder starten Sie die App neu und versuchen Sie es erneut.",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "7 Tage kostenlos testen!",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "Wenn die Kündigung nicht innerhalb von 7 Tagen erfolgt, beginnt automatisch ein monatliches Abonnement. Nutzer, die ihr Recht auf ein kostenloses Abonnement in Anspruch nehmen, beginnen direkt mit einem monatlichen Abonnement.",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Nutzungsbedingungen und Datenschutzrichtlinie",

@@ -443,6 +443,10 @@
     "translation": "My Activities",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "Thumbnail Preview",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "Join the Activity",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "There was a problem restoring purchases.",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "The purchase was received, but an active subscription could not be verified. Please try again in a few minutes or restore your purchases.",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "The purchase was completed, but the store could not retrieve the transaction details. Please restore your purchases or restart the app and try again.",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "Try it free for 7 days!",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "If not canceled within 7 days, an automatic monthly subscription will begin. Users who have used their free subscription entitlement will start directly with a monthly subscription.",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Terms of Service and Privacy Policy",

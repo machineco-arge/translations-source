@@ -443,6 +443,10 @@
     "translation": "Mes activités",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "Aperçu de l'image carrée",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "Participer à l'activité",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "Il y a eu un problème pour restaurer les achats.",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "L'achat a bien été enregistré, mais aucun abonnement actif n'a pu être validé. Veuillez réessayer dans quelques minutes ou restaurer vos achats.",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "L'achat a été effectué, mais les informations relatives à la transaction n'ont pas pu être récupérées. Veuillez réinitialiser vos achats ou redémarrer l'application et réessayer.",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "Essayez-le gratuitement pendant 7 jours !",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "Si l'abonnement n'est pas résilié dans les 7 jours, un abonnement mensuel automatique prendra effet. Les utilisateurs qui bénéficient d'un abonnement gratuit commencent directement par un abonnement mensuel.",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Conditions d'utilisation et politique de confidentialité",

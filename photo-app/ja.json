@@ -443,6 +443,10 @@
     "translation": "私の活動",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "画像のプレビュー",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "活動に参加する",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "購入履歴の復元に問題がありました。",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "購入は完了しましたが、有効なサブスクリプションを確認できませんでした。数分後に再度お試しいただくか、購入履歴を復元してください。",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "購入は完了しましたが、ストアからの取引情報を取得できませんでした。購入履歴を復元するか、アプリを再起動して再度お試しください。",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "7日間無料でお試しください！",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "7日以内にキャンセルされない場合、自動的に月額サブスクリプションが開始されます。無料サブスクリプションを利用しているユーザーは、最初から月額サブスクリプションが開始されます。",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "利用規約とプライバシーポリシー",

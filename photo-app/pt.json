@@ -443,6 +443,10 @@
     "translation": "As minhas actividades",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "Pré-visualização do quadro",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "Participar na atividade",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "Houve um problema ao restaurar as compras.",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "A compra foi registada, mas não foi possível confirmar uma subscrição ativa. Por favor, tente novamente daqui a alguns minutos ou recarregue as compras.",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "A compra foi concluída, mas não foi possível obter as informações da transação da loja. Por favor, recarregue as compras ou reinicie a aplicação e tente novamente.",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "Experimenta gratuitamente durante 7 dias!",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "Se não for cancelada no prazo de 7 dias, a subscrição mensal automática terá início. Os utilizadores que usufruírem do direito à subscrição gratuita começam diretamente com a subscrição mensal.",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Termos de serviço e política de privacidade",

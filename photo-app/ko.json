@@ -443,6 +443,10 @@
     "translation": "내 활동",
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
+  "_filmScreen_contactSheetSubtitle": {
+    "translation": "사각형 미리보기",
+    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+  },
   "_filmScreen_joinActivityTitle": {
     "translation": "활동 참여하기",
     "sourceHash": "ee8af056a7d433d975fc5272d0034312"
@@ -1332,6 +1336,22 @@
   "_subscription_restoreError": {
     "translation": "구매를 복원하는 데 문제가 발생했습니다.",
     "sourceHash": "3880ae804aa26942821bbf684fad2120"
+  },
+  "_subscription_verifyInactiveMessage": {
+    "translation": "구매는 완료되었으나 유효한 구독이 확인되지 않았습니다. 몇 분 후에 다시 시도하거나 구매 내역을 복원해 주세요.",
+    "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
+  },
+  "_subscription_missingPurchaseMessage": {
+    "translation": "구매는 완료되었으나 스토어에서 거래 정보를 가져올 수 없습니다. 구매 내역을 복원하거나 앱을 다시 시작한 후 다시 시도해 주세요.",
+    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
+  },
+  "subscription_trial_headline": {
+    "translation": "7일 동안 무료로 체험해 보세요!",
+    "sourceHash": "0fc7ef56d1549263475522df13a8d076"
+  },
+  "subscription_trial_note": {
+    "translation": "7일 이내에 취소하지 않으면 자동으로 월간 구독이 시작됩니다. 무료 구독 혜택을 이용한 사용자는 바로 월간 구독으로 시작됩니다.",
+    "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "서비스 약관 및 개인정보 처리방침",
