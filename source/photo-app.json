@@ -113,7 +113,7 @@
     "_filmScreen_selectDevelopmentTimeDescription": "Fotoğraflarınızın ne kadar sürede hazır olmasını istediğinizi seçin.",
     "_filmScreen_specialActivitiesSection": "Özel Aktivitelerim",
     "_filmScreen_myActivitiesSection": "Aktivitelerim",
-    "_filmScreen_contactSheetSubtitle": "Kare Önizlemesi",
+    "_filmScreen_contactSheetSubtitle": "{{count}} Kare Önizlemesi",
 
 
     "_filmScreen_joinActivityTitle": "Aktiviteye Katıl",
