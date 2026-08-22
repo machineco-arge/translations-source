@@ -444,8 +444,8 @@
     "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
   },
   "_filmScreen_contactSheetSubtitle": {
-    "translation": "Kare Önizlemesi",
-    "sourceHash": "b6bcb1b9976f978b3b6fd1e40b6a27a8"
+    "translation": "{{count}} Kare Önizlemesi",
+    "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "Aktiviteye Katıl",
