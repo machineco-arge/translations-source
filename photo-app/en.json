@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} Take another photo or wait for the event organizer to submit it for printing.",
+    "translation": "Take {{totalShots}} more photos or wait for the activity owner to send them for printing.",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} Take another photo or send it to print.",
+    "translation": "Take {{totalShots}} more photos or send them for printing.",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {

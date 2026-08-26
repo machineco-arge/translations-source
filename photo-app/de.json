@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} Machen Sie noch ein Foto oder warten Sie, bis der Veranstalter es zur Veröffentlichung einreicht.",
+    "translation": "Nehmen Sie {{totalShots}} weitere Fotos auf oder warten Sie darauf, dass der Aktivitätsinhaber sie für die Ausdruck sendet.",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} Machen Sie ein weiteres Foto oder senden Sie es zum Druck.",
+    "translation": "Nehmen Sie {{totalShots}} weitere Fotos auf oder senden Sie sie für die Ausdruck.",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {

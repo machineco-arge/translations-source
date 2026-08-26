@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} 사진을 더 찍거나 활동 주최자가 인쇄용으로 보내주기를 기다리세요.",
+    "translation": "{{totalShots}} 장의 사진을 더 찍거나 활동 소유자가 인쇄용으로 보내기를 기다리세요.",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} 사진을 더 찍거나 인쇄용으로 보내세요.",
+    "translation": "{{totalShots}} 장의 사진을 더 찍거나 인쇄용으로 보내세요.",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {

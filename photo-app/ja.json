@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} 写真をさらに撮影するか、アクティビティの主催者が印刷用データを送信するのを待ってください。",
+    "translation": "あと {{totalShots}} 枚の写真を撮るか、アクティビティの所有者が印刷用に送信するのを待ってください。",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} 写真をさらに撮影するか、印刷用に送信してください。",
+    "translation": "あと {{totalShots}} 枚の写真を撮るか、印刷用に送信してください。",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {

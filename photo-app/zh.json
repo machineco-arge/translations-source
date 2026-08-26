@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} 请拍摄更多照片，或等待活动主办方将照片发送至印刷方。",
+    "translation": "再拍 {{totalShots}} 张照片，或等待活动所有者将其发送打印。",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} 拍摄更多照片或发送至印刷厂。",
+    "translation": "再拍 {{totalShots}} 张照片，或将其发送打印。",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {

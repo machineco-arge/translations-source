@@ -632,11 +632,11 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} Haz otra foto o espera a que el organizador de la actividad la envíe a imprenta.",
+    "translation": "Toma {{totalShots}} fotos más o espera a que el propietario de la actividad las envíe para imprimir.",
     "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
   },
   "_filmRollExtension_messageOwner": {
-    "translation": "{{totalShots}} Haz más fotos o envíalas a imprimir.",
+    "translation": "Toma {{totalShots}} fotos más o envíalas para imprimir.",
     "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
   },
   "_filmRollExtension_confirmText": {
