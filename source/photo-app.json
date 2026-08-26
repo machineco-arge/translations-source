@@ -83,7 +83,7 @@
     "_albumScreen_bulkShareProVideoMessage": "Video ile birlikte paylaşmak için Pro üye olmanız gerekiyor. Pro üye olmak ister misiniz?",
     "_albumScreen_shareWithoutVideo": "Video olmadan paylaş",
 
-    "_cameraScreen_filmEndedMessage": "'Film rulosu doldu, baskıya gönderebilirsin",
+    "_cameraScreen_filmEndedMessage": "Film rulosu doldu, baskıya gönderebilirsin",
     "_cameraScreen_participantFilmEndedMessage": "Film rulosu doldu, aktivite sahibinin baskıya göndermesini bekleyin",
     "_cameraScreen_switchCamera": "Kamerayı Değiştir",
     "_cameraScreen_capturePhotoErrorAlertMessage": "Fotoğraf çekilirken veya film güncellenirken bir hata oluştu.",
@@ -163,8 +163,10 @@
     "_filmScreen_photosProcessing": "Fotoğraflarınız işleniyor...",
     "_filmScreen_downloadFailed": "Fotoğraflar indirilemedi",
     "_filmScreen_retryDownload": "Tekrar dene",
+    "_filmRollExtension_messageParticipant": "{{totalShots}} fotoğraf daha çekin veya aktivite sahibinin baskıya göndermesini bekleyin.",
+    "_filmRollExtension_messageOwner": "{{totalShots}} fotoğraf daha çekin veya baskıya gönderin.",
+    "_filmRollExtension_confirmText": "+{{totalShots}} Rulo",
     "_filmRollExtension_messageNonPro": "Pro üyeler fotoğraf çekim hakkını iki katına çıkartabilir. Pro üye olmak ister misiniz?",
-    "_filmRollExtension_messagePro": "Pro üye olduğunuz için fotoğraf çekim hakkınız iki katına çıkartılacak. Onaylıyor musunuz?",
 
     "_participantModal_statusActive": "Aktif",
     "_participantModal_statusPending": "İzin Bekleniyor",
