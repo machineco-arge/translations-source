@@ -328,8 +328,8 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "'The roll of film is full, you can send it to print",
-    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
+    "translation": "The film roll is full; you can send it to be developed",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_cameraScreen_participantFilmEndedMessage": {
     "translation": "Roll of film is full, wait for the activity owner to send it to print",
@@ -631,13 +631,21 @@
     "translation": "Try again",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "{{totalShots}} Take another photo or wait for the event organizer to submit it for printing.",
+    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+  },
+  "_filmRollExtension_messageOwner": {
+    "translation": "{{totalShots}} Take another photo or send it to print.",
+    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+  },
+  "_filmRollExtension_confirmText": {
+    "translation": "+ {{totalShots}} Roll",
+    "sourceHash": "0ad323646843b2474d1f56f05ab495df"
+  },
   "_filmRollExtension_messageNonPro": {
     "translation": "Pro members can double their photo-taking allowance. Would you like to become a Pro member?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
-  },
-  "_filmRollExtension_messagePro": {
-    "translation": "Since you are a Pro member, your photo-taking limit will be doubled. Do you agree?",
-    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
   },
   "_participantModal_statusActive": {
     "translation": "Active",

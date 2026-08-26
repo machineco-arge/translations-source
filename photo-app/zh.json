@@ -328,8 +328,8 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "胶卷已满，可以送去冲印",
-    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
+    "translation": "胶卷拍完了，你可以送去冲印了",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_cameraScreen_participantFilmEndedMessage": {
     "translation": "胶卷已满，等待活动所有者送去打印",
@@ -631,13 +631,21 @@
     "translation": "再试一次",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "{{totalShots}} 请拍摄更多照片，或等待活动主办方将照片发送至印刷方。",
+    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+  },
+  "_filmRollExtension_messageOwner": {
+    "translation": "{{totalShots}} 拍摄更多照片或发送至印刷厂。",
+    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+  },
+  "_filmRollExtension_confirmText": {
+    "translation": "+ {{totalShots}} 卷筒",
+    "sourceHash": "0ad323646843b2474d1f56f05ab495df"
+  },
   "_filmRollExtension_messageNonPro": {
     "translation": "Pro会员可以将拍照次数增加一倍。您想成为Pro会员吗？",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
-  },
-  "_filmRollExtension_messagePro": {
-    "translation": "由于您已成为Pro会员，您的拍照配额将翻倍。您同意吗？",
-    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
   },
   "_participantModal_statusActive": {
     "translation": "活跃",

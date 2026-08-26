@@ -328,8 +328,8 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "'필름 롤이 꽉 찼습니다, 인쇄를 위해 보낼 수 있습니다.",
-    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
+    "translation": "필름 롤이 다 찼으니 인화소에 보낼 수 있어",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_cameraScreen_participantFilmEndedMessage": {
     "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
@@ -631,13 +631,21 @@
     "translation": "다시 시도",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "{{totalShots}} 사진을 더 찍거나 활동 주최자가 인쇄용으로 보내주기를 기다리세요.",
+    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+  },
+  "_filmRollExtension_messageOwner": {
+    "translation": "{{totalShots}} 사진을 더 찍거나 인쇄용으로 보내세요.",
+    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+  },
+  "_filmRollExtension_confirmText": {
+    "translation": "+ {{totalShots}} 롤",
+    "sourceHash": "0ad323646843b2474d1f56f05ab495df"
+  },
   "_filmRollExtension_messageNonPro": {
     "translation": "프로 회원은 사진 촬영 횟수를 두 배로 늘릴 수 있습니다. 프로 회원이 되시겠습니까?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
-  },
-  "_filmRollExtension_messagePro": {
-    "translation": "프로 회원이 되시면 사진 촬영 권한이 두 배로 늘어납니다. 동의하시겠습니까?",
-    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
   },
   "_participantModal_statusActive": {
     "translation": "활성",

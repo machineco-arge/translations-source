@@ -328,8 +328,8 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "'Рулон пленки полон, можно отправлять на печать",
-    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
+    "translation": "Пленка заполнена, можно отправлять на печать",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_cameraScreen_participantFilmEndedMessage": {
     "translation": "Рулон пленки заполнен, подождите, пока владелец активности отправит его на печать",
@@ -631,13 +631,21 @@
     "translation": "Попробуйте еще раз",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "{{totalShots}} Сделайте ещё одну фотографию или дождитесь, пока организатор мероприятия отправит её в печать.",
+    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+  },
+  "_filmRollExtension_messageOwner": {
+    "translation": "{{totalShots}} Сделайте ещё одну фотографию или отправьте её в печать.",
+    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+  },
+  "_filmRollExtension_confirmText": {
+    "translation": "+ {{totalShots}} Рулон",
+    "sourceHash": "0ad323646843b2474d1f56f05ab495df"
+  },
   "_filmRollExtension_messageNonPro": {
     "translation": "Участники категории «Pro» могут удвоить количество фотосессий. Хотите стать участником категории «Pro»?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
-  },
-  "_filmRollExtension_messagePro": {
-    "translation": "Поскольку вы являетесь участником категории «Pro», ваше право на фотосъемку будет увеличено вдвое. Согласны ли вы?",
-    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
   },
   "_participantModal_statusActive": {
     "translation": "Активный",

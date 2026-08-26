@@ -328,8 +328,8 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "Il rullino è pieno, si può inviare alla stampa",
-    "sourceHash": "7270c296984ab3cdbeb5f7f040cb5f7a"
+    "translation": "Il rullino è pieno, puoi mandarlo in stampa",
+    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
   },
   "_cameraScreen_participantFilmEndedMessage": {
     "translation": "Il rullino è pieno, attendere che il titolare dell'attività lo mandi in stampa",
@@ -631,13 +631,21 @@
     "translation": "Riprova",
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
+  "_filmRollExtension_messageParticipant": {
+    "translation": "{{totalShots}} Scatta un'altra foto oppure attendi che l'organizzatore dell'attività la invii alla redazione.",
+    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+  },
+  "_filmRollExtension_messageOwner": {
+    "translation": "{{totalShots}} Scatta un'altra foto o inviala in stampa.",
+    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+  },
+  "_filmRollExtension_confirmText": {
+    "translation": "+ {{totalShots}} Rotolo",
+    "sourceHash": "0ad323646843b2474d1f56f05ab495df"
+  },
   "_filmRollExtension_messageNonPro": {
     "translation": "Gli utenti Pro possono raddoppiare il numero di scatti fotografici a loro disposizione. Vuoi diventare un utente Pro?",
     "sourceHash": "e99ce70866742666d72011ec0e3d6bd8"
-  },
-  "_filmRollExtension_messagePro": {
-    "translation": "Poiché sei un membro Pro, il tuo limite di scatti fotografici verrà raddoppiato. Sei d'accordo?",
-    "sourceHash": "575a16895d05e315bc6e3baca4a12de7"
   },
   "_participantModal_statusActive": {
     "translation": "Attivo",
