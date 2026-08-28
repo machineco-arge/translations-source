@@ -370,7 +370,7 @@
     "subscription_trial_note": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
     "subscription_auto_renew_notice": "Abonelik, otomatik olarak yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",
     "_subscription_legalLinkError": "Bu bağlantı açılamadı. Lütfen daha sonra tekrar deneyin.",
-
+    "subscription_standard_eula": "Kullanım Koşulları (EULA)",
 
     "termsOfServiceAndPrivacyPolicy": "Hizmet Şartları ve Gizlilik Politikası",
     "termsOfService": "Hizmet Şartları",
