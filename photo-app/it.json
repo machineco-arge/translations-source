@@ -1301,6 +1301,10 @@
     "translation": "Questa fotocamera richiede un abbonamento Pro. Vuoi diventare membro Pro?",
     "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
+  "subscription_product_display_name": {
+    "translation": "FilmCam36 Pro — Monthly Subscription",
+    "sourceHash": "f941f0b9a8c57c3b989b4c626c22e73e"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Prodotto non trovato",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
@@ -1360,6 +1364,14 @@
   "subscription_trial_note": {
     "translation": "Se non viene annullato entro 7 giorni, avrà inizio automaticamente l'abbonamento mensile. Gli utenti che usufruiscono del periodo di prova gratuito iniziano direttamente con l'abbonamento mensile.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
+  },
+  "subscription_auto_renew_notice": {
+    "translation": "L'abbonamento si rinnova automaticamente e può essere gestito tramite l'App Store di Apple o Google Play.",
+    "sourceHash": "eac3c6daf36785a252b1c0db42e2936b"
+  },
+  "_subscription_legalLinkError": {
+    "translation": "Non è stato possibile aprire questo link. Si prega di riprovare più tardi.",
+    "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Termini di servizio e informativa sulla privacy",

@@ -1301,6 +1301,10 @@
     "translation": "이 카메라를 사용하려면 Pro 멤버십이 필요합니다. Pro 멤버십에 가입하시겠습니까?",
     "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
+  "subscription_product_display_name": {
+    "translation": "FilmCam36 Pro — Monthly Subscription",
+    "sourceHash": "f941f0b9a8c57c3b989b4c626c22e73e"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "제품을 찾을 수 없습니다",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
@@ -1360,6 +1364,14 @@
   "subscription_trial_note": {
     "translation": "7일 이내에 취소하지 않으면 자동으로 월간 구독이 시작됩니다. 무료 구독 혜택을 이용한 사용자는 바로 월간 구독으로 시작됩니다.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
+  },
+  "subscription_auto_renew_notice": {
+    "translation": "구독은 자동으로 갱신되며, Apple App Store 또는 Google Play를 통해 관리됩니다.",
+    "sourceHash": "eac3c6daf36785a252b1c0db42e2936b"
+  },
+  "_subscription_legalLinkError": {
+    "translation": "이 링크를 열 수 없습니다. 잠시 후 다시 시도해 주십시오.",
+    "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "서비스 약관 및 개인정보 처리방침",

@@ -1301,6 +1301,10 @@
     "translation": "Bu kamera Pro üyelik gerektirir. Pro üye olmak ister misiniz?",
     "sourceHash": "0de4f7c70a682e05b8dbde7ff04889d0"
   },
+  "subscription_product_display_name": {
+    "translation": "FilmCam36 Pro — Aylık Abonelik",
+    "sourceHash": "f941f0b9a8c57c3b989b4c626c22e73e"
+  },
   "_subscription_productNotFoundTitle": {
     "translation": "Ürün bulunamadı",
     "sourceHash": "68796ee29fc9f7d6e6504a22519b22aa"
@@ -1360,6 +1364,14 @@
   "subscription_trial_note": {
     "translation": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
+  },
+  "subscription_auto_renew_notice": {
+    "translation": "Abonelik, otomatik olarak yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",
+    "sourceHash": "eac3c6daf36785a252b1c0db42e2936b"
+  },
+  "_subscription_legalLinkError": {
+    "translation": "Bu bağlantı açılamadı. Lütfen daha sonra tekrar deneyin.",
+    "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Hizmet Şartları ve Gizlilik Politikası",
