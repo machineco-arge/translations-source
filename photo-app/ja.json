@@ -1373,6 +1373,10 @@
     "translation": "このリンクは開くことができませんでした。後ほど再度お試しください。",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "利用規約（EULA）",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "利用規約とプライバシーポリシー",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

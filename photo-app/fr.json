@@ -1373,6 +1373,10 @@
     "translation": "Ce lien n'a pas pu être ouvert. Veuillez réessayer plus tard.",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "Conditions d'utilisation (CLUF)",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Conditions d'utilisation et politique de confidentialité",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

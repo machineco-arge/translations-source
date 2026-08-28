@@ -1373,6 +1373,10 @@
     "translation": "Dieser Link konnte nicht geöffnet werden. Bitte versuchen Sie es später erneut.",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "Nutzungsbedingungen (EULA)",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Nutzungsbedingungen und Datenschutzrichtlinie",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

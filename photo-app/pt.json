@@ -1373,6 +1373,10 @@
     "translation": "Não foi possível abrir esta ligação. Por favor, tente novamente mais tarde.",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "Termos de Utilização (EULA)",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Termos de serviço e política de privacidade",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

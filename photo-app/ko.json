@@ -1373,6 +1373,10 @@
     "translation": "이 링크를 열 수 없습니다. 잠시 후 다시 시도해 주십시오.",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "이용 약관 (EULA)",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "서비스 약관 및 개인정보 처리방침",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

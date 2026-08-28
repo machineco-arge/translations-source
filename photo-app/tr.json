@@ -1373,6 +1373,10 @@
     "translation": "Bu bağlantı açılamadı. Lütfen daha sonra tekrar deneyin.",
     "sourceHash": "de566feff166a0dca4df407284afdc62"
   },
+  "subscription_standard_eula": {
+    "translation": "Kullanım Koşulları (EULA)",
+    "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Hizmet Şartları ve Gizlilik Politikası",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
