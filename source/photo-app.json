@@ -352,6 +352,7 @@
     "subscription_expires_on": "Abonelik süresi sona erme tarihi:",
     "_proFilter_subscriptionRequiredTitle": "Pro üyelik gerekli",
     "_proFilter_subscriptionRequiredMessage": "Bu kamera Pro üyelik gerektirir. Pro üye olmak ister misiniz?",
+    "subscription_product_display_name": "FilmCam36 Pro — Aylık Abonelik",
     "_subscription_productNotFoundTitle": "Ürün bulunamadı",
     "_subscription_productNotFoundMessage": "Abonelik ürünü bulunamadı. Lütfen mağaza yapılandırmanızı kontrol edin.",
     "_subscription_fetchProductsError": "Abonelik ürünleri yüklenirken bir sorun oluştu.",
@@ -367,6 +368,8 @@
     "_subscription_missingPurchaseMessage": "Satın alma tamamlandı ancak mağaza işlem bilgisi alınamadı. Lütfen satın alımları geri yükleyin veya uygulamayı yeniden başlatıp tekrar deneyin.",
     "subscription_trial_headline": "7 gün ücretsiz dene!",
     "subscription_trial_note": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
+    "subscription_auto_renew_notice": "Abonelik, otomatik olarak yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",
+    "_subscription_legalLinkError": "Bu bağlantı açılamadı. Lütfen daha sonra tekrar deneyin.",
 
 
     "termsOfServiceAndPrivacyPolicy": "Hizmet Şartları ve Gizlilik Politikası",

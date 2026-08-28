@@ -24,7 +24,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} hours {{minutes}} minutes",
             "_selectFilm_activityCooldownMessage": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member.",
             "_filmRollExtension_messageParticipant": "Take {{totalShots}} more photos or wait for the activity owner to send them for printing.",
-            "_filmRollExtension_messageOwner": "Take {{totalShots}} more photos or send them for printing."
+            "_filmRollExtension_messageOwner": "Take {{totalShots}} more photos or send them for printing.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "de": {
             "_selectFilm_activityCooldownHours": "{{hours}} Stunden",
@@ -32,7 +33,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} Stunden {{minutes}} Minuten",
             "_selectFilm_activityCooldownMessage": "Sie können nach {{time}} eine neue Aktivität erstellen. Wenn Sie nicht warten möchten, werden Sie Pro-Mitglied.",
             "_filmRollExtension_messageParticipant": "Nehmen Sie {{totalShots}} weitere Fotos auf oder warten Sie darauf, dass der Aktivitätsinhaber sie für die Ausdruck sendet.",
-            "_filmRollExtension_messageOwner": "Nehmen Sie {{totalShots}} weitere Fotos auf oder senden Sie sie für die Ausdruck."
+            "_filmRollExtension_messageOwner": "Nehmen Sie {{totalShots}} weitere Fotos auf oder senden Sie sie für die Ausdruck.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "es": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -40,7 +42,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} horas {{minutes}} minutos",
             "_selectFilm_activityCooldownMessage": "Puedes crear una nueva actividad después de {{time}}. Si no quieres esperar, hazte miembro Pro.",
             "_filmRollExtension_messageParticipant": "Toma {{totalShots}} fotos más o espera a que el propietario de la actividad las envíe para imprimir.",
-            "_filmRollExtension_messageOwner": "Toma {{totalShots}} fotos más o envíalas para imprimir."
+            "_filmRollExtension_messageOwner": "Toma {{totalShots}} fotos más o envíalas para imprimir.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "fr": {
             "_selectFilm_activityCooldownHours": "{{hours}} heures",
@@ -48,7 +51,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} heures {{minutes}} minutes",
             "_selectFilm_activityCooldownMessage": "Vous pouvez créer une nouvelle activité après {{time}}. Si vous ne voulez pas attendre, devenez membre Pro.",
             "_filmRollExtension_messageParticipant": "Prenez {{totalShots}} photos supplémentaires ou attendez que le propriétaire de l'activité les envoie pour impression.",
-            "_filmRollExtension_messageOwner": "Prenez {{totalShots}} photos supplémentaires ou envoyez-les pour impression."
+            "_filmRollExtension_messageOwner": "Prenez {{totalShots}} photos supplémentaires ou envoyez-les pour impression.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "it": {
             "_selectFilm_activityCooldownHours": "{{hours}} ore",
@@ -56,7 +60,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} ore {{minutes}} minuti",
             "_selectFilm_activityCooldownMessage": "Puoi creare una nuova attività dopo {{time}}. Se non vuoi aspettare, diventa un membro Pro.",
             "_filmRollExtension_messageParticipant": "Scatta {{totalShots}} foto in più o attendi che il proprietario dell'attività le invii per la stampa.",
-            "_filmRollExtension_messageOwner": "Scatta {{totalShots}} foto in più o inviale per la stampa."
+            "_filmRollExtension_messageOwner": "Scatta {{totalShots}} foto in più o inviale per la stampa.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "ja": {
             "_selectFilm_activityCooldownHours": "{{hours}} 時間",
@@ -64,7 +69,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 時間 {{minutes}} 分",
             "_selectFilm_activityCooldownMessage": "{{time}} 後に新しいアクティビティを作成できます。待ちたくない場合は、Proメンバーになってください。",
             "_filmRollExtension_messageParticipant": "あと {{totalShots}} 枚の写真を撮るか、アクティビティの所有者が印刷用に送信するのを待ってください。",
-            "_filmRollExtension_messageOwner": "あと {{totalShots}} 枚の写真を撮るか、印刷用に送信してください。"
+            "_filmRollExtension_messageOwner": "あと {{totalShots}} 枚の写真を撮るか、印刷用に送信してください。",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "ko": {
             "_selectFilm_activityCooldownHours": "{{hours}} 시간",
@@ -72,7 +78,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 시간 {{minutes}} 분",
             "_selectFilm_activityCooldownMessage": "{{time}} 후에 새 활동을 만들 수 있습니다. 기다리고 싶지 않다면 Pro 회원이 되세요.",
             "_filmRollExtension_messageParticipant": "{{totalShots}} 장의 사진을 더 찍거나 활동 소유자가 인쇄용으로 보내기를 기다리세요.",
-            "_filmRollExtension_messageOwner": "{{totalShots}} 장의 사진을 더 찍거나 인쇄용으로 보내세요."
+            "_filmRollExtension_messageOwner": "{{totalShots}} 장의 사진을 더 찍거나 인쇄용으로 보내세요.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "pt": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -80,7 +87,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} horas {{minutes}} minutos",
             "_selectFilm_activityCooldownMessage": "Você pode criar uma nova atividade após {{time}}. Se você não quiser esperar, torne-se um membro Pro.",
             "_filmRollExtension_messageParticipant": "Tire mais {{totalShots}} fotos ou aguarde o proprietário da atividade enviá-las para impressão.",
-            "_filmRollExtension_messageOwner": "Tire mais {{totalShots}} fotos ou envie-as para impressão."
+            "_filmRollExtension_messageOwner": "Tire mais {{totalShots}} fotos ou envie-as para impressão.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "ru": {
             "_selectFilm_activityCooldownHours": "{{hours}} часов",
@@ -88,7 +96,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} часов {{minutes}} минут",
             "_selectFilm_activityCooldownMessage": "Вы можете создать новую активность через {{time}}. Если вы не хотите ждать, станьте участником Pro.",
             "_filmRollExtension_messageParticipant": "Сделайте еще {{totalShots}} фотографий или дождитесь, пока владелец активности отправит их на печать.",
-            "_filmRollExtension_messageOwner": "Сделайте еще {{totalShots}} фотографий или отправьте их на печать."
+            "_filmRollExtension_messageOwner": "Сделайте еще {{totalShots}} фотографий или отправьте их на печать.",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "zh": {
             "_selectFilm_activityCooldownHours": "{{hours}} 小时",
@@ -96,7 +105,8 @@
             "_selectFilm_activityCooldownHoursMinutes": "{{hours}} 小时 {{minutes}} 分钟",
             "_selectFilm_activityCooldownMessage": "您可以在 {{time}} 后创建新的活动。如果您不想等待，请成为 Pro 会员。",
             "_filmRollExtension_messageParticipant": "再拍 {{totalShots}} 张照片，或等待活动所有者将其发送打印。",
-            "_filmRollExtension_messageOwner": "再拍 {{totalShots}} 张照片，或将其发送打印。"
+            "_filmRollExtension_messageOwner": "再拍 {{totalShots}} 张照片，或将其发送打印。",
+            "subscription_product_display_name": "FilmCam36 Pro — Monthly Subscription"
         },
         "tr": {
             "_common_delete": "Sil",
