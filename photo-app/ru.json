@@ -1333,6 +1333,14 @@
     "translation": "Покупка не удалась.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Заказ находится в ожидании",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "Магазин приостановил процесс покупки. После подтверждения вы сможете возобновить покупку.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Ваша покупка была успешно восстановлена.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "Покупка была оформлена, но активная подписка не подтверждена. Пожалуйста, попробуйте снова через несколько минут или восстановите покупки.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "Покупка завершена, но не удалось получить информацию о транзакции из магазина. Пожалуйста, восстановите покупки или перезапустите приложение и попробуйте ещё раз.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "Попробуйте бесплатно в течение 7 дней!",

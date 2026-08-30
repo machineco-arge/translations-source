@@ -1333,6 +1333,14 @@
     "translation": "Der Kauf ist gescheitert.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Kauf in der Warteschlange",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "Der Kaufvorgang wurde vom Shop in die Warteschlange verschoben. Nach der Bestätigung können Sie die Käufe wiederherstellen.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Ihr Kauf wurde erfolgreich wiederhergestellt.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "Der Kauf wurde verbucht, es konnte jedoch kein aktives Abonnement bestätigt werden. Bitte versuchen Sie es in einigen Minuten erneut oder laden Sie die Käufe erneut hoch.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "Der Kauf wurde abgeschlossen, es konnten jedoch keine Transaktionsdaten vom Store abgerufen werden. Bitte laden Sie die Käufe erneut herunter oder starten Sie die App neu und versuchen Sie es erneut.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "7 Tage kostenlos testen!",

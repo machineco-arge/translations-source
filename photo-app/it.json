@@ -1333,6 +1333,14 @@
     "translation": "L'acquisto non è andato a buon fine.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Acquisto in sospeso",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "L'operazione di acquisto è stata messa in attesa dal negozio. Una volta approvata, potrai ripristinare gli acquisti.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Il vostro acquisto è stato ripristinato con successo.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "L'acquisto è stato effettuato, ma non è stato possibile verificare l'esistenza di un abbonamento attivo. Si prega di riprovare tra qualche minuto o di ripristinare gli acquisti.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "L'acquisto è stato completato, ma non è stato possibile recuperare i dati della transazione dal negozio. Si prega di ripristinare gli acquisti o di riavviare l'app e riprovare.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "Provalo gratis per 7 giorni!",

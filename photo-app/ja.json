@@ -1333,6 +1333,14 @@
     "translation": "購入は失敗した。",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "購入は保留中",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "購入手続きは店舗によって保留されています。承認された後、購入履歴を復元することができます。",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "ご購入いただいた商品は正常に復元されました。",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "購入は完了しましたが、有効なサブスクリプションを確認できませんでした。数分後に再度お試しいただくか、購入履歴を復元してください。",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "購入は完了しましたが、ストアからの取引情報を取得できませんでした。購入履歴を復元するか、アプリを再起動して再度お試しください。",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "7日間無料でお試しください！",

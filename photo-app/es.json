@@ -1333,6 +1333,14 @@
     "translation": "La compra fracasó.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Compra en espera",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "La tienda ha puesto la compra en espera. Una vez que se haya aprobado, podrás reanudar la compra.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Su compra se ha restablecido correctamente.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "Se ha recibido la compra, pero no se ha podido verificar ninguna suscripción activa. Por favor, vuelve a intentarlo dentro de unos minutos o restaura las compras.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "La compra se ha completado, pero no se ha podido obtener la información de la transacción de la tienda. Por favor, restaura las compras o reinicia la aplicación e inténtalo de nuevo.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "¡Pruébalo gratis durante 7 días!",

@@ -1333,6 +1333,14 @@
     "translation": "L'achat a échoué.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Achat en attente",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "La transaction d'achat a été mise en attente par le magasin. Vous pourrez réactiver vos achats une fois qu'elle aura été validée.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Votre achat a été restauré avec succès.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "L'achat a bien été enregistré, mais aucun abonnement actif n'a pu être validé. Veuillez réessayer dans quelques minutes ou restaurer vos achats.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "L'achat a été effectué, mais les informations relatives à la transaction n'ont pas pu être récupérées. Veuillez réinitialiser vos achats ou redémarrer l'application et réessayer.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "Essayez-le gratuitement pendant 7 jours !",

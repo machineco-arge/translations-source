@@ -1333,6 +1333,14 @@
     "translation": "Satın alma işlemi başarısız oldu.",
     "sourceHash": "8f9f9e592e989171e62cc373a5649d7c"
   },
+  "_subscription_purchasePendingTitle": {
+    "translation": "Satın alma beklemede",
+    "sourceHash": "ca3cc08b1c0553ea3004b5a20d44ffb4"
+  },
+  "_subscription_purchasePendingMessage": {
+    "translation": "Satın alma işlemi mağaza tarafından beklemeye alındı. Onaylandıktan sonra satın alımları geri yükleyebilirsiniz.",
+    "sourceHash": "7862fd3bcfadd758931a3151942b8a0e"
+  },
   "_subscription_restoreSuccess": {
     "translation": "Satın alımınız başarıyla geri yüklendi.",
     "sourceHash": "c89182f92d193a7d7410f3f933bc53bd"
@@ -1352,10 +1360,6 @@
   "_subscription_verifyInactiveMessage": {
     "translation": "Satın alma alındı ancak aktif bir abonelik doğrulanamadı. Lütfen birkaç dakika sonra tekrar deneyin veya satın alımları geri yükleyin.",
     "sourceHash": "a45397a9dcb20f44c2184adade771a5b"
-  },
-  "_subscription_missingPurchaseMessage": {
-    "translation": "Satın alma tamamlandı ancak mağaza işlem bilgisi alınamadı. Lütfen satın alımları geri yükleyin veya uygulamayı yeniden başlatıp tekrar deneyin.",
-    "sourceHash": "1df5db5321d4553a82f38a49c03d5e65"
   },
   "subscription_trial_headline": {
     "translation": "7 gün ücretsiz dene!",
