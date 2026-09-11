@@ -284,12 +284,12 @@
     "sourceHash": "3415b50f7064da27bb316bedeaa63fba"
   },
   "_albumScreen_changeFilterOverwrite": {
-    "translation": "위에 쓰기",
-    "sourceHash": "d438c4339b885edef20f16e00bd0884f"
+    "translation": "저장",
+    "sourceHash": "a92701f6bf95000192f6130b6c337d38"
   },
   "_albumScreen_changeFilterSaveAsNew": {
-    "translation": "새로 저장",
-    "sourceHash": "a5f0d275e3eadb17e1fdb11be6aa7e32"
+    "translation": "다른 이름으로 저장",
+    "sourceHash": "5d1d27d4d9f1ec77c73ef6bc69ba895b"
   },
   "_albumScreen_changeFilter": {
     "translation": "필터 교체",
