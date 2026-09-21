@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "Вы можете получить отпечаток, введя промокод.",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "Введите промокод, чтобы получить право на отправку на проявку.",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "Введите промокод",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "Пленка заполнена, можно отправлять на печать",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "Плёнка заполнена, вы можете отправить её на проявку",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "Рулон пленки заполнен, подождите, пока владелец активности отправит его на печать",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "Плёнка заполнена, дождитесь, пока владелец активности отправит её на проявку",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Переключить камеру",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Вы больше не можете делать снимки, потому что владелец активности отправил этот рулон пленки в принтер.",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "Вы больше не можете делать фото, потому что владелец активности отправил эту плёнку на проявку.",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "Мои фильмы",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "Рулон пленки заполнен, вы можете отправить его на печать",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "Плёнка заполнена, вы можете отправить её на проявку",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "При создании нового рулона пленки произошла ошибка. Пожалуйста, попробуйте еще раз.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "Начинается процесс печати...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "Начинается процесс проявки...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "Рулон пленки был отнесен в темную комнату...",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "Рулон пленки отнесли в ванну...",
+    "translation": "Плёнка отправлена на проявку…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "Фотоотпечатки готовы!",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "Проявка фотографий готова!",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "Активных фильмов пока нет",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "Запрос на репрессии провалился.",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "Запрос на отправку на проявку не выполнен.",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "Эта камера больше не активна.",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Предварительный просмотр квадрата",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "Активные мероприятия",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "Отправлено на Разработку",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "Разработка Завершена",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "Загрузка...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "Нет предварительного просмотра изображения в виде квадрата",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "Процесс разработки должен быть завершен.",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} Фотография",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "Присоединяйтесь к деятельности",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Рулон пленки заполнен, подождите, пока владелец активности отправит его на печать",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "Плёнка заполнена, дождитесь, пока владелец активности отправит её на проявку",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "Для этого мероприятия не найдена ссылка на приглашение.",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "Давление усиливается...",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "Ускорение проявки...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "Ускорить",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "Фотопечать завершена!",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "Проявка фотографий завершена!",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "Загрузка фотографий...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "Сделайте еще {{totalShots}} фотографий или дождитесь, пока владелец активности отправит их на печать.",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "Сделайте еще {{totalShots}} фотографий или отправьте их на печать.",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} Рулон",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "Когда вы заполните все экспозиции на рулоне пленки в фотоаппарате или в любое другое время, вы можете \"отправить на печать\" рулон пленки в фотоаппарате. Это запустит обратный отсчет времени, в течение которого ваши фотографии будут \"проявлены\" и станут видимыми через выбранный вами период времени (например, 8, 24, 36 часов). По истечении этого времени зашифрованные фотографии будут расшифрованы и появятся в вашем альбоме.",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "Когда вы заполните все кадры плёнки в активности камеры—или в любой момент—вы можете «отправить плёнку на проявку». Это запускает обратный отсчёт на выбранное вами время (например, 8, 24, 36 часов), после которого ваши фото «проявляются» и становятся видимыми. Когда время истекает, зашифрованные фото разблокируются и появляются в вашем альбоме.",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "Основные характеристики",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "Как отправить фотографии на печать?",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "Как отправить фото на проявку?",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Нажмите кнопку \"Отправить на печать\" под активностью камеры. Затем выберите, как долго будут готовы ваши фотографии (например, 8, 12, 24, 36 часов). Помните, что для более короткого времени (Экспресс) может потребоваться просмотр рекламы с вознаграждением.",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "Нажмите кнопку «Отправить на проявку» внизу активности камеры. Затем выберите, как скоро вы хотите получить готовые фото (например, 8, 12, 24, 36 часов). Учтите, что более короткие сроки (Express) могут потребовать просмотра рекламы с вознаграждением.",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "Совместная деятельность",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "Быстрая печать на пленке",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "Быстрая проявка плёнки",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "Вы - профессиональный участник. Спасибо!",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "Время печатать!",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "Пора отправить на проявку!",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "Ваш рулон пленки для \" {{bestName}} \" заполнен на 80%. Не забудьте отправить его на печать.",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "Ваша плёнка для «{{bestName}}» заполнена на 80%. Не забудьте отправить её на проявку.",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "Резервное копирование",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "Отправить на печать",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "Отправить на проявку",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "Полный рулон пленки",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "Продолжить",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "Поделиться",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "Скачать",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }

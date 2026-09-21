@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "输入促销代码即可打印。",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "输入促销码即可获得冲印发送额度。",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "输入促销代码",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "胶卷拍完了，你可以送去冲印了",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "胶卷已满，可以送去冲印",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "胶卷已满，等待活动所有者送去打印",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "胶卷已满，请等待活动所有者送去冲印",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "切换摄像头",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "您不能再拍照了，因为活动所有者已经把这卷胶卷送到了打印机。",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "活动所有者已将此胶卷送去冲印，因此您无法再拍照。",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "我的电影",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "胶卷已满，可以送去打印",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "胶卷已满，可以送去冲印",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "创建新胶卷时发生错误。请重试。",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "印刷过程开始...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "冲印流程开始中...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "胶卷被带入暗室...",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "胶卷被带到浴缸...",
+    "translation": "胶卷已提交冲印…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "照片打印准备就绪！",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "照片冲印已就绪！",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "尚无活跃影片",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "镇压要求失败。",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "冲印发送请求失败。",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "该相机已停止使用。",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} 方块预览",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "活跃活动",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "已提交冲印",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "冲印完成",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "正在加载...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "无缩略图",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "需要完成冲印流程。",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} 照片",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "参加活动",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "胶卷已满，等待活动所有者送去打印",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "胶卷已满，请等待活动所有者送去冲印",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "未找到该活动的邀请链接。",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "压力正在加速...",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "正在加速冲印...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "加速",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "照片打印已完成！",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "照片冲印已完成！",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "下载照片...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "再拍 {{totalShots}} 张照片，或等待活动所有者将其发送打印。",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "再拍 {{totalShots}} 张照片，或将其发送打印。",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} 卷筒",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "当您在相机活动中或在任何时候拍摄完胶卷上的所有曝光后，可以 \"发送打印 \"相机中的胶卷。这将启动一个倒计时，让您的照片 \"冲洗 \"出来，并在您选择的时间段（如 8、24、36 小时）后显示出来。时间一到，您的加密照片就会被解密并出现在您的相册中。",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "当您填满相机活动中胶卷的所有画幅时——或随时——都可以将胶卷「送去冲印」。这将按您选择的时长（例如 8、24、36 小时）启动倒计时，之后照片会被「冲印」并变得可见。时间结束后，加密的照片会解锁并出现在您的相册中。",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "主要功能",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "如何发送照片以供打印？",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "如何将照片送去冲印？",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "点击相机活动下的 \"发送到打印 \"按钮。然后选择照片的准备时间（如 8、12、24、36 小时）。记住，如果时间较短（Express），您可能需要观看有奖广告。",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "点按相机活动底部的「送去冲印」按钮。然后选择希望照片多久准备好（例如 8、12、24、36 小时）。请注意，更短的时间（Express）可能需要观看激励广告。",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "共享活动",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "快速胶片打印",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "快速胶卷冲印",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "您是专业会员。谢谢！",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "打印时间",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "该送去冲印了！",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "您的 \" {{bestName}} \" 胶卷已满 80%。别忘了把它送到打印机。",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "「{{bestName}}」的胶卷已满 80%。别忘了送去冲印。",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "备份",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "发送到打印",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "送去冲印",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "胶卷满",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "继续",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "分享",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "下载",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }

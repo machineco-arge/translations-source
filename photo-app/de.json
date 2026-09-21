@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "Sie können einen Ausdruck erhalten, indem Sie Ihren Aktionscode eingeben.",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "Geben Sie Ihren Promo-Code ein, um ein Recht zur Entwicklungseinreichung zu erhalten.",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "Promo-Code eingeben",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "Der Film ist voll, du kannst ihn zum Drucken schicken",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "Filmrolle ist voll, Sie können sie zur Entwicklung senden",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "Die Filmrolle ist voll, warten Sie darauf, dass der Aktivitätsinhaber sie zum Drucken schickt",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "Filmrolle ist voll, warten Sie, bis der Aktivitätsinhaber sie zur Entwicklung sendet",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Kamera wechseln",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Sie können keine Fotos mehr machen, weil der Eigentümer der Aktivität diese Filmrolle an den Drucker geschickt hat.",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "Sie können keine Fotos mehr aufnehmen, da der Aktivitätsinhaber diese Filmrolle zur Entwicklung gesendet hat.",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "Meine Filme",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "Die Filmrolle ist voll, Sie können sie zum Drucken schicken",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "Filmrolle ist voll, Sie können sie zur Entwicklung senden",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "Beim Erstellen einer neuen Filmrolle ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "Der Druckprozess beginnt...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "Entwicklungsprozess startet...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "Die Filmrolle wurde in die Dunkelkammer gebracht...",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "Die Filmrolle wurde in die Badewanne gebracht...",
+    "translation": "Filmrolle zur Entwicklung eingereicht…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "Fotodrucke fertig!",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "Fotoentwicklungen sind fertig!",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "Noch keine aktiven Filme",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "Der Antrag auf Repression wurde abgelehnt.",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "Anfrage zur Entwicklungseinreichung fehlgeschlagen.",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "Diese Kamera ist nicht mehr aktiv.",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Vorschau des Quadrats",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "Aktive Aktivitäten",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "Zur Entwicklung eingereicht",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "Entwicklung abgeschlossen",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "Wird geladen...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "Keine Vorschaubilder",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "Die Entwicklung muss abgeschlossen werden.",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} Foto",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "An der Aktivität teilnehmen",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Die Filmrolle ist voll, warten Sie darauf, dass der Aktivitätsinhaber sie zum Drucken schickt",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "Filmrolle ist voll, warten Sie, bis der Aktivitätsinhaber sie zur Entwicklung sendet",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "Für diese Aktivität wurde kein Einladungslink gefunden.",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "Der Druck wird immer größer...",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "Entwicklung wird beschleunigt...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "Beschleunigen Sie",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "Fotodruck fertiggestellt!",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "Fotoentwicklungen abgeschlossen!",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "Herunterladen von Fotos...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "Nehmen Sie {{totalShots}} weitere Fotos auf oder warten Sie darauf, dass der Aktivitätsinhaber sie für die Ausdruck sendet.",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "Nehmen Sie {{totalShots}} weitere Fotos auf oder senden Sie sie für die Ausdruck.",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} Rolle",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "Wenn Sie alle Aufnahmen auf der Filmrolle in einer Kameraaktivität gemacht haben, oder zu einem beliebigen Zeitpunkt, können Sie die Filmrolle in der Kamera \"zum Drucken senden\". Dadurch wird ein Countdown gestartet, der es ermöglicht, dass Ihre Fotos \"entwickelt\" werden und nach einer von Ihnen gewählten Zeitspanne (z. B. 8, 24 oder 36 Stunden) sichtbar werden. Wenn die Zeit abgelaufen ist, werden die verschlüsselten Fotos entschlüsselt und erscheinen in Ihrem Album.",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "Wenn Sie alle Aufnahmen einer Filmrolle in einer Kameraaktivität gefüllt haben—oder wann immer Sie möchten—können Sie die Filmrolle \"zur Entwicklung senden\". Dadurch startet ein Countdown für die von Ihnen gewählte Dauer (z. B. 8, 24, 36 Stunden), nach der Ihre Fotos \"entwickelt\" und sichtbar werden. Wenn die Zeit abgelaufen ist, werden Ihre verschlüsselten Fotos freigeschaltet und erscheinen in Ihrem Album.",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "Hauptmerkmale",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "Wie sende ich meine Fotos zum Drucken?",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "Wie sende ich meine Fotos zur Entwicklung?",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Tippen Sie auf die Schaltfläche \"Zum Drucken senden\" unter der Kameraaktivität. Wählen Sie dann, wie lange Ihre Fotos bereitstehen sollen (z. B. 8, 12, 24, 36 Stunden). Denken Sie daran, dass Sie bei kürzeren Zeiten (Express) möglicherweise eine belohnte Werbung sehen müssen.",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "Tippen Sie unten in der Kameraaktivität auf die Schaltfläche \"Zur Entwicklung senden\". Wählen Sie dann aus, wie schnell Ihre Fotos fertig sein sollen (z. B. 8, 12, 24, 36 Stunden). Beachten Sie, dass kürzere Zeiten (Express) das Ansehen einer belohnten Werbung erfordern können.",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "Gemeinsame Aktivitäten",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "Schnelle Filmabzüge",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "Schnelle Filmentwicklungen",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "Sie sind ein Pro-Mitglied. Dankeschön!",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "Zeit zum Drucken!",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "Zeit zur Entwicklungseinreichung!",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "Ihre Filmrolle für \" {{bestName}} \" ist zu 80% voll. Vergessen Sie nicht, sie an den Drucker zu schicken.",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "Ihre Filmrolle für \"{{bestName}}\" ist zu 80 % voll. Vergessen Sie nicht, sie zur Entwicklung zu senden.",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "Sicherung",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "Zum Drucken senden",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "Zur Entwicklung senden",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "Filmrolle voll",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "Weiter",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "Teilen",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "Herunterladen",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }

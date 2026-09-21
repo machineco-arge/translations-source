@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "Puede obtener una impresión introduciendo su código promocional.",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "Introduce tu código promocional para obtener un crédito de envío a desarrollo.",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "Introduzca el código promocional",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "El carrete está lleno, ya puedes enviarlo a imprimir",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "El rollo de película está lleno, puedes enviarlo a desarrollo",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "El rollo de película está lleno, espera a que el titular de la actividad lo envíe a imprimir",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "El rollo de película está lleno, espera a que el propietario de la actividad lo envíe a desarrollo",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Cambiar cámara",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Ya no puedes hacer fotos porque el propietario de la actividad ha enviado este rollo de película a la impresora.",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "Ya no puedes tomar fotos porque el propietario de la actividad ha enviado este rollo de película a desarrollo.",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "Mis películas",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "El rollo de película está lleno, puede enviarlo a imprimir",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "El rollo de película está lleno, puedes enviarlo a desarrollo",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "Se ha producido un error al crear un nuevo rollo de película. Inténtelo de nuevo.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "Comienza el proceso de impresión...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "Iniciando el proceso de desarrollo...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "El rollo de película fue llevado al cuarto oscuro...",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "El rollo de película se llevó al baño...",
+    "translation": "Rollo de película enviado a desarrollo…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "Impresiones fotográficas",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "¡Los revelados de fotos están listos!",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "Todavía no hay películas activas",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "La petición de represión fracasó.",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "Error en la solicitud de envío a desarrollo.",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "Esta cámara ya no está activa.",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Vista previa del cuadrado",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "Actividades activas",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "Enviado para Desarrollo",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "Desarrollo Completado",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "Cargando...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "No hay vista previa del recuadro",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "El proceso de desarrollo debe completarse.",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} Fotografía",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "Únete a la actividad",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "El rollo de película está lleno, espera a que el titular de la actividad lo envíe a imprimir",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "El rollo de película está lleno, espera a que el propietario de la actividad lo envíe a desarrollo",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "No se ha encontrado ningún enlace de invitación para esta actividad.",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "La presión se acelera...",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "Acelerando el desarrollo...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "Acelerar",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "Impresión fotográfica finalizada",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "¡Revelados de fotos completados!",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "Descargar fotos...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "Toma {{totalShots}} fotos más o espera a que el propietario de la actividad las envíe para imprimir.",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "Toma {{totalShots}} fotos más o envíalas para imprimir.",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} Rollo",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "Cuando haya completado todas las exposiciones del rollo de película en una actividad de la cámara, o en cualquier momento, puede \"enviar a imprimir\" el rollo de película de la cámara. Esto inicia una cuenta atrás que permite que tus fotos se \"revelen\" y sean visibles tras un periodo de tiempo de tu elección (por ejemplo, 8, 24, 36 horas). Una vez transcurrido el tiempo, tus fotos encriptadas se desencriptan y aparecen en tu álbum.",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "Cuando hayas llenado todas las tomas de un rollo de película en una actividad de cámara—o cuando quieras—puedes \"enviar el rollo de película a desarrollo\". Esto inicia una cuenta regresiva con la duración que elijas (p. ej. 8, 24, 36 horas), tras la cual tus fotos se \"revelan\" y se vuelven visibles. Cuando se acabe el tiempo, tus fotos cifradas se desbloquean y aparecen en tu álbum.",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "Características principales",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "¿Cómo envío mis fotos a imprimir?",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "¿Cómo envío mis fotos a desarrollo?",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Pulse el botón \"Enviar a imprimir\" bajo la actividad de la cámara. A continuación, seleccione el tiempo que desea que sus fotos estén listas (por ejemplo, 8, 12, 24, 36 horas). Recuerde que para tiempos más cortos (Express) puede que necesite ver un anuncio premiado.",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "Toca el botón \"Enviar a Desarrollo\" en la parte inferior de la actividad de cámara. Luego elige en cuánto tiempo quieres que tus fotos estén listas (p. ej. 8, 12, 24, 36 horas). Ten en cuenta que los tiempos más cortos (Express) pueden requerir ver un anuncio recompensado.",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "Actividades compartidas",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "Impresiones rápidas",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "Revelados de película rápidos",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "Usted es un Miembro Pro. Gracias.",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "Hora de imprimir",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "¡Hora de enviar a desarrollo!",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "Su rollo de película para \" {{bestName}} \" está lleno al 80%. No olvide enviarlo a la impresora.",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "Tu rollo de película para \"{{bestName}}\" está al 80 %. No olvides enviarlo a desarrollo.",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "Copia de seguridad",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "Enviar a imprimir",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "Enviar a Desarrollo",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "Rollo de película lleno",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "Continuar",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "Compartir",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "Descargar",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }

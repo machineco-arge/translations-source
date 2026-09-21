@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "プロモーション・コードを入力すると、プリントがもらえます。",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "プロモコードを入力して、現像送信用のクレジットを獲得できます。",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "プロモコードを入力",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "フィルムのロールがいっぱいになったので、現像に出してもいいよ",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "フィルムロールがいっぱいです。現像に送信できます",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "フィルムロールがいっぱいになったので、アクティビティ所有者がプリントに送るのを待つ。",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "フィルムロールがいっぱいです。アクティビティの所有者が現像に送信するのをお待ちください",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "スイッチカメラ",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "活動主がこのロールフィルムをプリンターに送ってしまったため、あなたはもう写真を撮ることができない。",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "アクティビティの所有者がこのフィルムロールを現像に送信したため、これ以上写真を撮影できません。",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "私の映画",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "フィルムがいっぱいになったら、プリントに出すことができます。",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "フィルムロールがいっぱいです。現像に送信できます",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "新しいフィルムロールの作成中にエラーが発生しました。もう一度お試しください。",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "印刷工程が始まる...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "現像プロセスを開始しています...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "フィルムはダークルームに持ち込まれた。",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "フィルムは風呂に運ばれた。",
+    "translation": "フィルムロールが現像に提出されました…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "写真プリントの準備！",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "写真の現像が完了しました！",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "活動中の作品はまだない",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "弾圧の要請は失敗に終わった。",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "現像への送信リクエストに失敗しました。",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "このカメラは現在使われていません。",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} 画像のプレビュー",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "アクティブな活動",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "開発に提出済み",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "開発完了",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "読み込み中...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "サムネイルなし",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "開発プロセスを完了する必要があります。",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} 写真",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "活動に参加する",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "フィルムロールがいっぱいになったので、アクティビティ所有者がプリントに送るのを待つ。",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "フィルムロールがいっぱいです。アクティビティの所有者が現像に送信するのをお待ちください",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "このアクティビティへの招待リンクは見つかりませんでした。",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "プレッシャーは加速している",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "現像を高速化しています...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "加速する",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "写真プリント完了",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "写真の現像が完了しました！",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "写真のダウンロード...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "あと {{totalShots}} 枚の写真を撮るか、アクティビティの所有者が印刷用に送信するのを待ってください。",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "あと {{totalShots}} 枚の写真を撮るか、印刷用に送信してください。",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} ロール",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "カメラのアクティビティでロールフィルムの露光がすべて終わったとき、またはいつでも、カメラ内のロールフィルムを「プリントに送る」ことができます。これによりカウントダウンが開始され、選択した時間（8時間、24時間、36時間など）が経過すると、写真が「現像」されて見えるようになります。時間が経過すると、暗号化された写真が復号化され、アルバムに表示されます。",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "カメラアクティビティのフィルムロールのすべてのショットを使い切ったとき—またはいつでも—フィルムロールを「現像に送信」できます。これにより、選択した時間（例：8、24、36時間）のカウントダウンが始まり、その後写真が「現像」されて表示されるようになります。時間が経過すると、暗号化された写真のロックが解除され、アルバムに表示されます。",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "主な特徴",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "どのように写真を送ればプリントできますか？",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "写真を現像に送信するにはどうすればよいですか？",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "カメラアクティビティの下にある \"プリントに送る \"ボタンをタップします。次に、写真の準備期間を選択します（例：8時間、12時間、24時間、36時間）。短い時間（エクスプレス）の場合は、リワード広告を見る必要があるかもしれないことを覚えておいてください。",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "カメラアクティビティ下部の「現像に送信」ボタンをタップします。次に、写真の準備完了までの希望時間を選択します（例：8、12、24、36時間）。短い時間（Express）では、リワード広告の視聴が必要な場合があります。",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "共有アクティビティ",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "高速フィルムプリント",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "スピーディーなフィルム現像",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "あなたはプロメンバーです。ありがとうございます！",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "印刷時間！",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "現像に送信する時間です！",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "{{bestName}} \"のフィルムロールが80%いっぱいになりました。プリンターに送るのを忘れないでください。",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "「{{bestName}}」のフィルムロールが80%満杯です。現像への送信をお忘れなく。",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "バックアップ",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "印刷に送る",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "現像に送信",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "フィルム・ロール満杯",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "続ける",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "シェア",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "ダウンロード",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }

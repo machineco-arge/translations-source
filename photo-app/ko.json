@@ -212,8 +212,8 @@
     "sourceHash": "0a479665077dc8867ddec3fb5e9935c2"
   },
   "_albumScreen_printPromoMessage": {
-    "translation": "프로모션 코드를 입력하면 인쇄물을 받을 수 있습니다.",
-    "sourceHash": "74f5cbc0b129558d8491acc9e41bb0a7"
+    "translation": "프로모션 코드를 입력하여 현상 전송 크레딧을 받으세요.",
+    "sourceHash": "fee61f1805e8b48f9a2c00153ac25a49"
   },
   "_albumScreen_printPromoPlaceholder": {
     "translation": "프로모션 코드 입력",
@@ -328,12 +328,12 @@
     "sourceHash": "8a9aef2c1201dbad88ca86d3f793f890"
   },
   "_cameraScreen_filmEndedMessage": {
-    "translation": "필름 롤이 다 찼으니 인화소에 보낼 수 있어",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "필름롤이 가득 찼습니다. 현상으로 보낼 수 있습니다",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "필름롤이 가득 찼습니다. 활동 소유자가 현상으로 보내기를 기다리세요",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_cameraScreen_switchCamera": {
     "translation": "카메라 전환",
@@ -348,8 +348,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "활동 소유자가 이 필름 롤을 프린터로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
-    "sourceHash": "516a789c088e013381457f2d14e91d69"
+    "translation": "활동 소유자가 이 필름롤을 현상으로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
+    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
   },
   "_filmScreen_title": {
     "translation": "내 영화",
@@ -380,23 +380,23 @@
     "sourceHash": "0dd5a0fd9d7802f97f0e33cc945f2618"
   },
   "_filmScreen_filmIsFullAlertMessage": {
-    "translation": "필름 롤이 가득 차면 인쇄를 위해 보낼 수 있습니다.",
-    "sourceHash": "30310a5e6ee0360680f3cfcf006becdf"
+    "translation": "필름롤이 가득 찼습니다. 현상으로 보낼 수 있습니다",
+    "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_filmScreen_filmCreateActivityErrorAlertMessage": {
     "translation": "새 필름 롤을 만드는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
     "sourceHash": "5e05ee7f90f615666b9bb28e85ed96fd"
   },
   "_filmScreen_photosInPrint": {
-    "translation": "인쇄 프로세스 시작...",
-    "sourceHash": "5e489926125b72b309f12963e0319dfe"
+    "translation": "현상 프로세스 시작 중...",
+    "sourceHash": "0a6ffbbf88e2d041fb6d61da174747ac"
   },
   "_filmScreen_filmsPreparing": {
     "translation": "필름 롤을 암실로 가져갔습니다...",
     "sourceHash": "40544f0940161f5ef431dd30cb1548dc"
   },
   "_filmScreen_photosDeveloping": {
-    "translation": "필름 롤을 목욕탕으로 가져갔습니다...",
+    "translation": "필름롤이 현상에 제출되었습니다…",
     "sourceHash": "cc199b6122d93450a47f7dd04e1f0d5e"
   },
   "_filmScreen_photosClarifying": {
@@ -408,8 +408,8 @@
     "sourceHash": "fdc12582f302cc9883a1bf9399669eb7"
   },
   "_filmScreen_photosReady": {
-    "translation": "사진 인화 준비 완료!",
-    "sourceHash": "4287bd2424e82f1ae4fac3ab7de41279"
+    "translation": "사진 현상이 준비되었습니다!",
+    "sourceHash": "8a3f1be83c650f24d1ab7375b27df2d5"
   },
   "_filmScreen_noActiveFilmsMessage": {
     "translation": "아직 활성 필름이 없습니다",
@@ -420,8 +420,8 @@
     "sourceHash": "05b2228c533e55a19befd09dc661ab72"
   },
   "_filmScreen_printRequestFailedMessage": {
-    "translation": "억압 요청이 실패했습니다.",
-    "sourceHash": "049718cc6eceae556ecfe61e379f160e"
+    "translation": "현상 전송 요청에 실패했습니다.",
+    "sourceHash": "fbb46a2f068eeb3e30c79f1cf6147fbe"
   },
   "_filmScreen_activityNotActiveErrorMessage": {
     "translation": "이 카메라는 더 이상 활성화되지 않습니다.",
@@ -446,6 +446,34 @@
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} 사각형 미리보기",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
+  },
+  "_filmScreen_activeActivitiesSection": {
+    "translation": "주요 활동",
+    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+  },
+  "_filmScreen_printingActivitiesSection": {
+    "translation": "개발에 제출됨",
+    "sourceHash": "393c2bef7574be6ab6755bdcb15d58b7"
+  },
+  "_filmScreen_completedActivitiesSection": {
+    "translation": "개발 완료",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
+  },
+  "_filmScreen_restoringAlbum": {
+    "translation": "로딩 중...",
+    "sourceHash": "cb8ebe07cb1f32207010c0eb0d4c354f"
+  },
+  "_filmScreen_contactSheetNoPreviewTitle": {
+    "translation": "사각형 미리보기 없음",
+    "sourceHash": "5cc573d051a880acf23a1eda4865284d"
+  },
+  "_filmScreen_contactSheetNoPreviewSubtitle": {
+    "translation": "개발 프로세스를 완료해야 합니다.",
+    "sourceHash": "684014f4811a15ff2ffa3cf0769858b9"
+  },
+  "_album_photoCount": {
+    "translation": "{{count}} 사진",
+    "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
     "translation": "활동 참여하기",
@@ -548,8 +576,8 @@
     "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "필름 롤이 가득 차면 활동 소유자가 인쇄할 때까지 기다립니다.",
-    "sourceHash": "7f348dd082239756811235185f1e60be"
+    "translation": "필름롤이 가득 찼습니다. 활동 소유자가 현상으로 보내기를 기다리세요",
+    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
   },
   "_filmScreen_linkShareError": {
     "translation": "이 활동에 대한 초대 링크를 찾을 수 없습니다.",
@@ -600,8 +628,8 @@
     "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
   },
   "_filmScreen_speedingUp": {
-    "translation": "압력이 가속화되고 있습니다...",
-    "sourceHash": "dc94cf34ca9a6d666fdea1b3edd9ab02"
+    "translation": "현상 가속 중...",
+    "sourceHash": "732e8ce3abf56e3e30c87474465a25b7"
   },
   "_filmScreen_speedUp": {
     "translation": "가속화",
@@ -612,8 +640,8 @@
     "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
   },
   "_filmScreen_printCompleted": {
-    "translation": "사진 인쇄 완료!",
-    "sourceHash": "f7eb5e975bbcbc88cc2bdcb72bd2f67e"
+    "translation": "사진 현상이 완료되었습니다!",
+    "sourceHash": "474f6b1e46177412c66123e9a19ab6f0"
   },
   "_filmScreen_downloadInProgress": {
     "translation": "사진 다운로드...",
@@ -633,11 +661,11 @@
   },
   "_filmRollExtension_messageParticipant": {
     "translation": "{{totalShots}} 장의 사진을 더 찍거나 활동 소유자가 인쇄용으로 보내기를 기다리세요.",
-    "sourceHash": "f199dfa9b87dffdd01e76d309eb304a9"
+    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "{{totalShots}} 장의 사진을 더 찍거나 인쇄용으로 보내세요.",
-    "sourceHash": "9be5ad38018293741e224cf3f19b28ff"
+    "sourceHash": "b5d6f628b9801932b02b499c2fd64a4c"
   },
   "_filmRollExtension_confirmText": {
     "translation": "+ {{totalShots}} 롤",
@@ -1086,8 +1114,8 @@
     "sourceHash": "785240f3dd96f787b7067a4ef1804251"
   },
   "_faq_a_printing": {
-    "translation": "카메라 활동에서 필름 롤의 노출을 모두 채웠을 때 또는 언제든지 카메라에서 필름 롤을 \"인쇄하도록 보내기\"를 할 수 있습니다. 그러면 선택한 시간(예: 8시간, 24시간, 36시간) 후에 사진을 \"현상\"하고 볼 수 있도록 카운트다운이 시작됩니다. 시간이 다 되면 암호화된 사진이 해독되어 앨범에 표시됩니다.",
-    "sourceHash": "89a08010b5a6ad7d0bab0061d45cfa6d"
+    "translation": "카메라 활동의 필름롤에 있는 모든 샷을 채웠을 때—또는 원할 때 언제든지—필름롤을 \"현상으로 보낼\" 수 있습니다. 이렇게 하면 선택한 시간(예: 8, 24, 36시간)의 카운트다운이 시작되며, 그 후 사진이 \"현상\"되어 보이게 됩니다. 시간이 지나면 암호화된 사진의 잠금이 해제되어 앨범에 나타납니다.",
+    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
   },
   "_faq_section_features": {
     "translation": "주요 기능",
@@ -1138,12 +1166,12 @@
     "sourceHash": "8e18442ddb4e7810f53e48b065243536"
   },
   "_faq_q_send_to_print": {
-    "translation": "인쇄할 사진을 보내려면 어떻게 하나요?",
-    "sourceHash": "c0940bcf94dd85629aaaced3fd480a9e"
+    "translation": "사진을 현상으로 보내려면 어떻게 하나요?",
+    "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "카메라 활동 아래의 '인쇄로 보내기' 버튼을 탭합니다. 그런 다음 사진을 준비할 시간을 선택합니다(예: 8시간, 12시간, 24시간, 36시간). 더 짧은 시간(익스프레스)의 경우 리워드 광고를 시청해야 할 수도 있습니다.",
-    "sourceHash": "fdb2ec95ae08b3cd6c937be2b83a4415"
+    "translation": "카메라 활동 하단의 \"현상으로 보내기\" 버튼을 탭하세요. 그런 다음 사진이 준비될 때까지의 시간을 선택합니다(예: 8, 12, 24, 36시간). 더 짧은 시간(Express)에는 보상형 광고 시청이 필요할 수 있습니다.",
+    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
   },
   "_faq_section_shared_cameras": {
     "translation": "공유 활동",
@@ -1270,8 +1298,8 @@
     "sourceHash": "7887972749bd2ad3839c967e1099a348"
   },
   "benefit4": {
-    "translation": "빠른 필름 인쇄",
-    "sourceHash": "d93cd9559b4220c105a5fc7c69c1415a"
+    "translation": "빠른 필름 현상",
+    "sourceHash": "97ce5c9a829f561c46563bd554d91715"
   },
   "pro_member_message": {
     "translation": "프로 회원입니다. 감사합니다!",
@@ -1862,12 +1890,12 @@
     "sourceHash": "59498545bf9983029595b8da3138f84f"
   },
   "_notifications_printReminderTitle": {
-    "translation": "인쇄 시간!",
-    "sourceHash": "17fad22dcda10f4e65bd0ad606f5ab55"
+    "translation": "현상으로 보낼 시간입니다!",
+    "sourceHash": "99393a64989e46b626b431925497b823"
   },
   "_notifications_printReminderBody": {
-    "translation": "\" {{bestName}} \"용 필름 롤이 80% 가득 찼습니다. 프린터로 보내는 것을 잊지 마세요.",
-    "sourceHash": "1f38ee46e5079d059e6bc5fbd05c9b40"
+    "translation": "\"{{bestName}}\"의 필름롤이 80% 찼습니다. 현상으로 보내는 것을 잊지 마세요.",
+    "sourceHash": "fd7ebb86be373f587067e6b23cd42209"
   },
   "backup_screen_title": {
     "translation": "백업",
@@ -2094,8 +2122,8 @@
     "sourceHash": "37a2a61a2fd7929e57a50890685c88bf"
   },
   "_common_sendToPrint": {
-    "translation": "인쇄로 보내기",
-    "sourceHash": "024a3292b48ee3c85d6d1794119cc20c"
+    "translation": "현상으로 보내기",
+    "sourceHash": "3e6c128127e78fd622e07a1f5ea5bac3"
   },
   "_common_filmEnded": {
     "translation": "필름 롤 가득",
@@ -2140,5 +2168,13 @@
   "_common_continue": {
     "translation": "계속하기",
     "sourceHash": "a5fc3a57cf5995b2bbcdd6fa5c193bae"
+  },
+  "_common_share": {
+    "translation": "공유하기",
+    "sourceHash": "b4be3bd30096a2631caaa6d2bf517978"
+  },
+  "_common_download": {
+    "translation": "다운로드",
+    "sourceHash": "35361958fa862147ff8a86279870f8a2"
   }
 }
