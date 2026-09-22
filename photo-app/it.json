@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "Non è stato possibile caricare le telecamere AI. Riprovare.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "Vi sentite affermati?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "Non ci sono foto nell'album",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Non ci sono ancora foto di intelligenza artificiale",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Salva nella galleria",
@@ -59,17 +47,13 @@
     "translation": "Si è verificato un errore nella condivisione della foto.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "Salvate nella vostra galleria fotografica!",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "È stata salvata nella tua galleria fotografica!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "Foto non ancora disponibile per il download o non trovata.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "La foto non è ancora pronta per essere scaricata oppure non è stata trovata.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Si è verificato un errore nell'eliminazione della foto AI. Riprovare.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Caricamento",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Set pronti",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "Compleanno",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Orologio d'oro",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "Giornata dello sport",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Festa in casa",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "Giorno della partita",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Esplorare la città",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Notte a casa",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Uscire di notte",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Home",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Impostazioni della lingua",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Informazioni sul credito",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "Il vostro prestito è terminato",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Aumentate il vostro credito",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "Il vostro prestito attuale",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Aumentate il vostro credito inserendo un nuovo codice.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Inviare",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "Nessun codice di credito inserito",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "Si è verificato un errore durante l'aumento del saldo del credito.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "Il saldo del credito è stato aumentato con successo.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Acquistando l'abbonamento Pro, è possibile guadagnare crediti.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Accesso richiesto",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "In modalità schermo intero:\n- Salva:** È possibile salvare la foto nella galleria del dispositivo.\n- Condividi:** È possibile condividere la foto tramite altre applicazioni.\n- Elimina:** È possibile eliminare definitivamente la foto dall'applicazione.\n- Crea foto profilo:** È possibile impostare la foto come immagine del profilo dell'applicazione.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "Telecamere AI",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "Come utilizzare le telecamere AI?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Andare alla scheda \"AI\" nella navigazione principale. Selezionare l'effetto AI desiderato e scattare la foto. Una volta elaborata, la foto apparirà nella scheda \"Album\" -> \"AI\".",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Impostazioni e profilo",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36 ha il diritto di raccogliere, analizzare e trasferire versioni anonime o elaborate personalmente del comportamento dell'utente, dati sui clic, informazioni sui dispositivi a sistemi di terze parti al fine di migliorare l'esperienza dell'utente.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. Generazione visiva AI:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "L'utente non può utilizzare il sistema di generazione di AI per produrre contenuti illegali, osceni, che violano il copyright o dannosi. L'utente è responsabile dei contenuti prodotti. Sebbene i risultati dell'IA appartengano all'utente, la piattaforma può elaborare tali contenuti nell'ambito dei requisiti tecnici.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. Versione Pro e abbonamento:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "Non avete ancora un backup. È necessario eseguire prima un backup.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Funzione di backup",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "La funzione di backup assicura che tutti gli album e le foto vengano salvati sul server. Quando si elimina l'app e la si scarica di nuovo, è possibile caricarla dal backup. Eseguite subito il backup e tenete al sicuro i vostri ricordi!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "Tempo di backup!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "Avete nuovi album. Non dimenticate di eseguire il backup di questi album. Se si desidera, è possibile accedere alla schermata di backup.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Foto",

@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "AI 카메라를 로드하지 못했습니다. 다시 시도하세요.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "검증되었다고 느끼시나요?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "앨범에 사진이 없습니다.",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "아직 인공 지능 사진이 없습니다.",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "갤러리에 저장",
@@ -59,17 +47,13 @@
     "translation": "사진을 공유하는 동안 오류가 발생했습니다.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
     "translation": "사진 갤러리에 저장되었습니다!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "사진을 아직 다운로드할 수 없거나 찾을 수 없습니다.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "사진이 아직 다운로드할 준비가 되지 않았거나 찾을 수 없습니다.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "AI 사진을 삭제하는 동안 오류가 발생했습니다. 다시 시도해 주세요.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "로드 중",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "준비된 세트",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "생일",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "골드 시계",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "스포츠 데이",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "하우스 파티",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "경기 당일",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "도시 둘러보기",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "집에서 보내는 밤",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "밤에 외출하기",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "홈",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "언어 설정",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "신용 정보",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "대출이 종료되었습니다.",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "크레딧을 늘려주세요",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "현재 대출",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "새 코드를 입력하여 크레딧을 늘리세요.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "보내기",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "신용 코드를 입력하지 않았습니다.",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "크레딧 잔액을 늘리는 동안 오류가 발생했습니다.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "크레딧 잔액이 성공적으로 증가했습니다.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "프로 멤버십을 구매하면 크레딧을 적립할 수 있습니다.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "로그인 필요",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "전체 화면 모드에서:\n- 저장:** 사진을 디바이스의 갤러리에 저장할 수 있습니다.\n- 공유:** 다른 애플리케이션을 통해 사진을 공유할 수 있습니다.\n- 삭제:** 애플리케이션에서 사진을 영구적으로 삭제할 수 있습니다.\n- 프로필 사진 만들기:** 사진을 앱 내 프로필 사진으로 설정할 수 있습니다.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "AI 카메라",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "AI 카메라는 어떻게 사용하나요?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "메인 탐색에서 'AI' 탭으로 이동합니다. 원하는 AI 효과를 선택하고 사진을 찍습니다. 사진이 처리되면 '앨범' -> 'AI' 탭에 표시됩니다.",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "설정 및 프로필",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36은 사용자 경험을 개선하기 위해 익명 또는 개인적으로 처리된 버전의 사용자 행동, 클릭 데이터, 기기 정보를 수집, 분석 및 제3자 시스템으로 전송할 권리가 있습니다.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. AI 비주얼 생성:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "사용자는 불법, 음란물, 저작권 침해 또는 유해한 콘텐츠를 제작하기 위해 AI 생성 시스템을 사용할 수 없습니다. 사용자는 생산된 콘텐츠에 대한 책임이 있습니다. AI 결과물은 사용자의 소유이지만, 플랫폼은 기술적 요구 사항의 범위 내에서 이러한 콘텐츠를 처리할 수 있습니다.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. 프로 버전 및 구독:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "아직 백업이 없습니다. 먼저 백업을 만들어야 합니다.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "백업 기능",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "백업 기능은 모든 앨범과 사진이 서버에 백업되도록 합니다. 앱을 삭제하고 다시 다운로드하면 백업에서 불러올 수 있습니다. 지금 백업하고 추억을 안전하게 보관하세요!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "백업 시간!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "새 앨범이 있습니다. 이 앨범을 백업하는 것을 잊지 마세요. 원하는 경우 지금 백업 화면으로 이동할 수 있습니다.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "사진",

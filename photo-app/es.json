@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "No se han podido cargar las cámaras AI. Inténtelo de nuevo.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "¿Te sientes validado?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "No hay fotos en el álbum",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Aún no hay fotos de inteligencia artificial",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Guardar en la galería",
@@ -59,17 +47,13 @@
     "translation": "Se ha producido un error al compartir la foto.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "¡Guardado en tu galería de fotos!",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "¡Se ha guardado en tu galería de fotos!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "Foto aún no disponible para descarga o no encontrada.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "La foto aún no está lista para descargarse o no se ha encontrado.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Se ha producido un error al eliminar la foto AI. Inténtalo de nuevo.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Cargando",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Conjuntos listos",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "Cumpleaños",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Reloj de oro",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "Día del Deporte",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Fiesta en casa",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "Día del partido",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Explora la ciudad",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Noche en casa",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Salir de noche",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Página de inicio",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Ajustes de idioma",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Información de crédito",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "Su préstamo ha terminado",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Aumente su crédito",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "Su préstamo actual",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Aumente su crédito introduciendo un nuevo código.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Enviar",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "No se ha introducido ningún código de crédito",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "Se ha producido un error al aumentar su saldo.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "Su saldo ha sido aumentado correctamente.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Si adquiere la afiliación Pro, podrá ganar créditos.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Inicio de sesión obligatorio",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "En modo de pantalla completa:\n- **Guardar:** Puedes guardar la foto en la galería de tu dispositivo.\n- Compartir:** Puedes compartir la foto a través de otras aplicaciones.\n- Eliminar:** Puedes eliminar permanentemente la foto de la aplicación.\n- Hacer foto de perfil:** Puedes establecer la foto como tu foto de perfil dentro de la aplicación.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "Cámaras AI",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "¿Cómo utilizar las cámaras AI?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Ve a la pestaña \"AI\" en la navegación principal. Selecciona un efecto AI que te guste y haz la foto. Una vez procesada la foto, aparecerá en la pestaña \"Álbum\" -> \"AI\".",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Configuración y perfil",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36 tiene derecho a recopilar, analizar y transferir versiones anónimas o procesadas personalmente del comportamiento del usuario, datos de clics, información del dispositivo a sistemas de terceros para mejorar la experiencia del usuario.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. Generación Visual AI:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "El usuario no podrá utilizar el sistema de generación de IA para producir contenidos ilegales, obscenos, que infrinjan los derechos de autor o sean perjudiciales. El usuario es responsable de los contenidos producidos. Aunque los resultados de la IA pertenecen al usuario, la plataforma puede procesar estos contenidos dentro del ámbito de los requisitos técnicos.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. Versión Pro y Suscripción:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "Aún no tienes una copia de seguridad. Primero tienes que hacer una copia de seguridad.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Función de copia de seguridad",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "La función de copia de seguridad garantiza que todos tus álbumes y fotos se guardan en el servidor. Cuando elimines la aplicación y vuelvas a descargarla, podrás cargarla desde la copia de seguridad. ¡Haz una copia de seguridad ahora y mantén tus recuerdos a salvo!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "¡Hora de hacer copias de seguridad!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "Tienes álbumes nuevos. No olvides hacer una copia de seguridad de estos álbumes. Si quieres, puedes ir ahora a la pantalla de copia de seguridad.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Fotos",

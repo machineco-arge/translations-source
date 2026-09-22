@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "Камеры AI не удалось загрузить. Пожалуйста, попробуйте еще раз.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "Чувствуете ли вы, что вас оценили?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "В альбоме нет фотографий",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Фотографии искусственного интеллекта пока нет",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Сохранить в галерее",
@@ -59,17 +47,13 @@
     "translation": "При передаче фотографии произошла ошибка.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "Сохранено в вашей фотогалерее!",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "Фотография добавлена в вашу галерею!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "Фотография еще не доступна для загрузки или не найдена.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "Фотография ещё не готова к скачиванию или не найдена.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Произошла ошибка при удалении фотографии AI. Пожалуйста, попробуйте еще раз.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Загрузка",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Готовые наборы",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "День рождения",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Золотые часы",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "День спорта",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Домашняя вечеринка",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "День матча",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Исследуйте город",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Ночь дома",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Ночные прогулки",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Главная страница",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Настройки языка",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Информация о кредите",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "Ваш кредит закончился",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Пожалуйста, увеличьте свой кредит",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "Ваш текущий кредит",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Увеличьте свой кредит, введя новый код.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Отправить",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "Не введен кредитный код",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "При увеличении вашего кредитного баланса произошла ошибка.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "Ваш кредитный баланс был успешно увеличен.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Приобретая членство Pro, вы можете зарабатывать кредиты.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Требуется вход",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "В полноэкранном режиме:\n- **Сохранить:** Вы можете сохранить фотографию в галерее вашего устройства.\n- Поделиться:** Вы можете поделиться фотографией через другие приложения.\n- Удалить:** Вы можете навсегда удалить фотографию из приложения.\n- Сделать фотографией профиля:** Вы можете установить фотографию в качестве изображения профиля в приложении.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "Камеры с искусственным интеллектом",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "Как использовать камеры искусственного интеллекта?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Перейдите на вкладку \"AI\" в основной навигации. Выберите понравившийся эффект AI и сделайте снимок. После обработки фотография появится на вкладке \"Альбом\" -> \"AI\".",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Настройки и профиль",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36 имеет право собирать, анализировать и передавать анонимные или лично обработанные версии поведения пользователя, данные о кликах, информацию об устройстве в сторонние системы с целью улучшения пользовательского опыта.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. AI Visual Generation:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "Пользователь не может использовать систему генерации искусственного интеллекта для создания незаконного, непристойного, нарушающего авторские права или вредного контента. Пользователь несет ответственность за созданный контент. Хотя результаты ИИ принадлежат пользователю, платформа может обрабатывать их в рамках технических требований.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. Про-версия и подписка:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "У вас еще нет резервной копии. Сначала нужно создать резервную копию.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Функция резервного копирования",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "Благодаря функции резервного копирования все ваши альбомы и фотографии сохраняются на сервере. Когда вы удалите приложение и загрузите его снова, вы сможете загрузить его из резервной копии. Создайте резервную копию прямо сейчас и сохраните свои воспоминания!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "Время резервного копирования!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "У вас появились новые альбомы. Не забудьте создать резервную копию этих альбомов. Если хотите, можете перейти на экран резервного копирования.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Фотографии",

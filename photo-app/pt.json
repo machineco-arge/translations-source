@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "Falha ao carregar as câmaras AI. Tente novamente.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "Sente-se afirmado?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "Não existem fotografias no álbum",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Ainda não há fotografias de inteligência artificial",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Guardar na galeria",
@@ -59,17 +47,13 @@
     "translation": "Ocorreu um erro ao partilhar a fotografia.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "Guardado na sua galeria de fotografias!",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "Foi guardada na sua galeria de fotografias!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "A fotografia ainda não está disponível para transferência ou não foi encontrada.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "A fotografia ainda não está pronta para ser descarregada ou não foi encontrada.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Ocorreu um erro ao eliminar a fotografia AI. Tente novamente.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Carregamento",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Conjuntos prontos",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "Aniversário",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Relógio de ouro",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "Dia do Desporto",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Festa na casa",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "Dia do jogo",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Explorar a cidade",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Noite em casa",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Sair à noite",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Página inicial",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Definições de idioma",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Informações sobre o crédito",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "O seu empréstimo terminou",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Por favor, aumente o seu crédito",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "O seu empréstimo atual",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Aumente o seu crédito introduzindo um novo código.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Enviar",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "Não foi introduzido qualquer código de crédito",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "Ocorreu um erro ao aumentar o seu saldo de crédito.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "O seu saldo de crédito foi aumentado com sucesso.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Ao adquirir a subscrição Pro, pode ganhar créditos.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Necessário iniciar sessão",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "No modo de ecrã inteiro:\n- **Guardar:** Pode guardar a fotografia na galeria do seu dispositivo.\n- Partilhar:** Pode partilhar a fotografia através de outras aplicações.\n- Eliminar:** Pode eliminar permanentemente a fotografia da aplicação.\n- Criar fotografia de perfil:** Pode definir a fotografia como a sua fotografia de perfil na aplicação.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "Câmaras de IA",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "Como utilizar as câmaras de IA?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Aceda ao separador \"IA\" na navegação principal. Selecione um efeito de IA que lhe agrade e tire a sua fotografia. Depois de a fotografia ser processada, aparecerá no separador \"Álbum\" -> \"IA\".",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Definições e perfil",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "A FilmCam36 tem o direito de recolher, analisar e transferir versões anónimas ou pessoalmente processadas do comportamento do utilizador, dados de cliques, informações sobre dispositivos para sistemas de terceiros, a fim de melhorar a experiência do utilizador.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. geração visual de IA:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "O utilizador não pode utilizar o sistema de geração de IA para produzir conteúdos ilegais, obscenos, que violem os direitos de autor ou prejudiciais. O utilizador é responsável pelo conteúdo produzido. Embora os resultados da IA pertençam ao utilizador, a plataforma pode processar estes conteúdos no âmbito dos requisitos técnicos.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. versão Pro e subscrição:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "Ainda não tem uma cópia de segurança. Primeiro, é necessário efetuar uma cópia de segurança.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Funcionalidade de cópia de segurança",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "A funcionalidade de cópia de segurança garante que todos os seus álbuns e fotografias são guardados no servidor. Quando apaga a aplicação e a transfere novamente, pode carregá-la a partir da cópia de segurança. Faça uma cópia de segurança agora e mantenha as suas memórias seguras!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "Hora da cópia de segurança!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "Tem álbuns novos. Não se esqueça de fazer uma cópia de segurança destes álbuns. Pode ir agora para o ecrã Cópia de segurança, se quiser.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Fotos",

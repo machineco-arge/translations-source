@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "AI Kameraları Yüklenemedi. Lütfen tekrar deneyin.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "Onaylanıyor musun?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "Albümde hiç fotoğraf yok",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Henüz yapay zeka fotoğrafı yok",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "Galeriye kaydet",
@@ -59,17 +47,13 @@
     "translation": "Fotoğraf paylaşılırken bir hata oluştu.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
     "translation": "Fotoğraf galerinize kaydedildi!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
     "translation": "Fotoğraf henüz indirilmeye hazır değil veya bulunamadı.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Yapay zeka fotoğrafını silerken bir hata oluştu. Lütfen tekrar deneyin.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Yükleniyor",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Hazır Setler",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "Doğum Günü",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Altın Saat",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "Spor Günü",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Ev Partisi",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "Maç Günü",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Şehri Keşfet",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Evde Gece",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Gece Dışarı Çıkmak",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Ana Sayfa",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Dil Ayarları",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Kredi Bilgileri",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "Krediniz Bitti",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Lütfen Kredinizi Arttırın",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "Mevcut Krediniz",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Yeni Kod Girerek Kredinizi Artırın.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Gönder",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "Girilen kredi kodu yok",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "Kredi bakiyeniz artırılırken bir hata oluştu.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "Kredi bakiyeniz başarıyla artırıldı.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Pro Üyelik satın alarak, kredi kazanabilirsiniz.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Giriş Yapmak Gerekli",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "Tam ekran modundayken:\n- **Kaydet:** Fotoğrafı cihazınızın galerisine kaydedebilirsiniz.\n- **Paylaş:** Fotoğrafı diğer uygulamalar üzerinden paylaşabilirsiniz.\n- **Sil:** Fotoğrafı uygulamadan kalıcı olarak silebilirsiniz.\n- **Profil Fotoğrafı Yap:** Fotoğrafı uygulama içi profil resminiz olarak ayarlayabilirsiniz.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "AI Kameralar",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "AI Kameraları nasıl kullanılır?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Ana navigasyondaki \"AI\" sekmesine gidin. Beğendiğiniz bir AI efektini seçin ve fotoğrafınızı çekin. Fotoğrafınız işlendikten sonra \"Albüm\" -> \"AI\" sekmesinde görünecektir.",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Ayarlar ve Profil",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36 kullanım deneyimini geliştirmek amacıyla kullanıcı davranışları, tıklama verileri, cihaz bilgilerinin anonim veya kişisel olarak işlenmiş versiyonlarını toplama, analiz etme ve üçüncü taraf sistemlere aktarma hakkına sahiptir.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. AI Görsel Üretimi:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "Kullanıcı, AI üretim sistemini yasa dışı, müstehcen, telif ihlali içeren veya zararlı içerikler üretmek amacıyla kullanamaz. Üretilen içeriklerin sorumluluğu kullanıcıya aittir. AI çıktıları kullanıcıya ait olmakla birlikte platform, teknik gereklilikler kapsamında bu içerikleri işleyebilir.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. Pro Sürüm ve Abonelik:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "Henüz bir yedeğiniz bulunmuyor. Önce yedekleme yapmanız gerekiyor.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Yedekleme Özelliği",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "Yedekleme özelliği, tüm albümleriniz ve fotoğraflarınızın sunucuya yedeklenmesini sağlar. Uygulamayı silip tekrar indirdiğinizde yedekten yükleyebilirsiniz. Şimdi yedekleyin, anılarınız güvende olsun!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "Yedekleme Zamanı!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "Yeni albümlerin var. Bu albümleri yedeklemeyi unutma. İstersen şimdi Yedekleme ekranına gidebilirsin.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Foto",

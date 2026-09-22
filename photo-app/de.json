@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "AI-Kameras konnten nicht geladen werden. Bitte versuchen Sie es erneut.",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "Fühlen Sie sich bestätigt?",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "Es sind keine Fotos im Album vorhanden",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "Noch keine Fotos von künstlicher Intelligenz",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "In der Galerie speichern",
@@ -59,17 +47,13 @@
     "translation": "Es gab einen Fehler beim Teilen des Fotos.",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "In Ihrer Fotogalerie gespeichert!",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "Es wurde in Ihrer Fotogalerie gespeichert!",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "Foto noch nicht zum Download verfügbar oder nicht gefunden.",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "Das Foto ist noch nicht zum Herunterladen bereit oder wurde nicht gefunden.",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "Beim Löschen des AI-Fotos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "Laden",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "Fertige Sets",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "Geburtstag",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "Goldene Uhr",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "Tag des Sports",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "Hausparty",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "Spieltag",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "Erkunden Sie die Stadt",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "Nacht zu Hause",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "Ausgehen bei Nacht",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "Startseite",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "Spracheinstellungen",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "Kreditinformationen",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "Ihr Darlehen ist abgelaufen",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "Bitte erhöhen Sie Ihr Guthaben",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "Ihr aktuelles Darlehen",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "Erhöhen Sie Ihr Guthaben durch Eingabe eines neuen Codes.",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "Senden Sie",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "Kein Gutscheincode eingegeben",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "Bei der Erhöhung Ihres Guthabens ist ein Fehler aufgetreten.",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "Ihr Guthaben wurde erfolgreich erhöht.",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "Durch den Erwerb der Pro-Mitgliedschaft können Sie Credits verdienen.",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "Anmeldung erforderlich",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "Im Vollbildmodus:\n- **Speichern:** Sie können das Foto in der Galerie Ihres Geräts speichern.\n- Freigeben:** Sie können das Foto über andere Anwendungen freigeben.\n- Löschen:** Sie können das Foto dauerhaft aus der Anwendung löschen.\n- Profilfoto erstellen:** Sie können das Foto als Ihr app-internes Profilbild festlegen.",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "AI-Kameras",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "Wie verwendet man AI-Kameras?",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "Gehen Sie in der Hauptnavigation auf die Registerkarte \"AI\". Wählen Sie einen AI-Effekt, der Ihnen gefällt, und nehmen Sie Ihr Foto auf. Nachdem Ihr Foto verarbeitet wurde, erscheint es auf der Registerkarte \"Album\" -> \"AI\".",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "Einstellungen und Profil",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36 hat das Recht, anonyme oder persönlich verarbeitete Versionen des Nutzerverhaltens, Klickdaten und Geräteinformationen zu sammeln, zu analysieren und an Drittsysteme zu übermitteln, um das Nutzererlebnis zu verbessern.",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11. AI Visual Generation:",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "Der Nutzer darf das KI-Generierungssystem nicht zur Erstellung illegaler, obszöner, urheberrechtsverletzender oder schädlicher Inhalte verwenden. Der Nutzer ist für die produzierten Inhalte verantwortlich. Obwohl die KI-Outputs dem Nutzer gehören, darf die Plattform diese Inhalte im Rahmen der technischen Anforderungen verarbeiten.",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12. die Pro-Version und das Abonnement:",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "Sie haben noch keine Sicherungskopie. Sie müssen zuerst ein Backup erstellen.",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "Sicherungsfunktion",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "Die Backup-Funktion stellt sicher, dass alle Ihre Alben und Fotos auf dem Server gesichert werden. Wenn Sie die App löschen und erneut herunterladen, können Sie sie aus der Sicherung laden. Sichern Sie jetzt und bewahren Sie Ihre Erinnerungen sicher auf!",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "Zeit für ein Backup!",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "Sie haben neue Alben. Vergessen Sie nicht, diese Alben zu sichern. Sie können jetzt zum Bildschirm \"Sicherung\" gehen, wenn Sie möchten.",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "Fotos",

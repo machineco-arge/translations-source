@@ -1,19 +1,7 @@
 {
-  "_aiScreen_notFoundAiFilters": {
-    "translation": "AIカメラの読み込みに失敗しました。もう一度お試しください。",
-    "sourceHash": "426fbcb03846a55751d4b841bc508252"
-  },
-  "_aiScreen_transformQuestion": {
-    "translation": "あなたは認められていると感じますか？",
-    "sourceHash": "346d71667b9e5a9a330ac8022547df1c"
-  },
   "_albumScreen_noAlbumPhotos": {
     "translation": "アルバムに写真はありません",
     "sourceHash": "1cbdab78b0f63e229fadaf853baa7413"
-  },
-  "_albumScreen_noAIPhoto": {
-    "translation": "人工知能の写真はまだない",
-    "sourceHash": "60e6eef6ae69338bbca3d347b711f30d"
   },
   "_albumScreen_savePhotoToGallery": {
     "translation": "ギャラリーに保存",
@@ -59,17 +47,13 @@
     "translation": "写真の共有に誤りがありました。",
     "sourceHash": "9e4d10b95b23c1385267ee944e23ba96"
   },
-  "_albumScreen_savedAIPhotoSuccessAlertMessage": {
-    "translation": "フォトギャラリーに保存",
+  "_albumScreen_savedPhotoSuccessAlertMessage": {
+    "translation": "写真ギャラリーに保存されました！",
     "sourceHash": "13018820883c28b0d1c94d4cf49e3980"
   },
-  "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": {
-    "translation": "写真はまだダウンロードできません。",
+  "_albumScreen_savedPhotoErrorAlertMessageNotFound": {
+    "translation": "写真はまだダウンロードできないか、見つかりませんでした。",
     "sourceHash": "9527062f09a30f1d3e99afda777b0b0b"
-  },
-  "_albumScreen_deleteAIPhotoFailedAlertMessage": {
-    "translation": "AIフォトの削除にエラーが発生しました。もう一度お試しください。",
-    "sourceHash": "750aad2d244b8082512bbc3df2c8c11f"
   },
   "_albumScreen_LocatingImageFile": {
     "translation": "ローディング",
@@ -887,44 +871,6 @@
       }
     }
   },
-  "instantActivitiesTitle": {
-    "translation": "レディ・セット",
-    "sourceHash": "4150b40d059b16a4f1d0a0b6138ce95c"
-  },
-  "instantActivities": {
-    "birthday": {
-      "translation": "誕生日",
-      "sourceHash": "0453cacd0a38b3437e8a0ed56a9e66f7"
-    },
-    "goldenhour": {
-      "translation": "ゴールド・ウォッチ",
-      "sourceHash": "1c8bdf24f4588f7759f96073b5a9e1fa"
-    },
-    "gymday": {
-      "translation": "運動会",
-      "sourceHash": "1455897a1cd834b1212eedbf125e45a0"
-    },
-    "homeparty": {
-      "translation": "ハウスパーティー",
-      "sourceHash": "6dd3500c22bb1de379b72fab9b3208f9"
-    },
-    "matchday": {
-      "translation": "試合当日",
-      "sourceHash": "93b7495e399d182a11fc6f9f866bd1b5"
-    },
-    "explorethecity": {
-      "translation": "街を探索する",
-      "sourceHash": "700a95e9c16789066962c2f28e756ee7"
-    },
-    "watchnightin": {
-      "translation": "我が家の夜",
-      "sourceHash": "45e83baa4887ce63167e6d4e99dd41b8"
-    },
-    "nightout": {
-      "translation": "夜の外出",
-      "sourceHash": "b2e290d6517afe4002d3f71b3ea468d5"
-    }
-  },
   "_navigation_home": {
     "translation": "トップページ",
     "sourceHash": "6518353d2e409c0a3b2d0d622be755a2"
@@ -984,46 +930,6 @@
   "_settings_languageSettings": {
     "translation": "言語設定",
     "sourceHash": "e49e4949965362cfc103fbf9696bb27c"
-  },
-  "_credit_screen": {
-    "translation": "クレジット情報",
-    "sourceHash": "7a5f4c4141bbfe014a2d5ff1e70d6d15"
-  },
-  "noCredit": {
-    "translation": "ローン終了",
-    "sourceHash": "5c17e92fd50500f9a50de9f4545b6375"
-  },
-  "increaseYourCredit": {
-    "translation": "クレジットを増やしてください",
-    "sourceHash": "791f5248e36a02ec300903aa04205d63"
-  },
-  "currentCredit": {
-    "translation": "現在のローン",
-    "sourceHash": "b6112054e78952de853fddcd4828b55b"
-  },
-  "enterCode": {
-    "translation": "新しいコードを入力してクレジットを増やす。",
-    "sourceHash": "3869aef6f1d674aefb148d48f4d19faf"
-  },
-  "send": {
-    "translation": "送信",
-    "sourceHash": "73fb0227c9e130074bd4fd1e350c165a"
-  },
-  "noCreditCode": {
-    "translation": "クレジットコードが入力されていない",
-    "sourceHash": "56ff13960271c8d22a9928f071fea5ec"
-  },
-  "increaseCreditError": {
-    "translation": "クレジット残高を増やす際にエラーが発生しました。",
-    "sourceHash": "ce77ab60e1f3092c2a0a3b4906ab8770"
-  },
-  "increaseCreditSuccess": {
-    "translation": "クレジット残高の増額に成功しました。",
-    "sourceHash": "7b867dc7ff26f2b431c52b514ea348a5"
-  },
-  "proSubscriptionPrompt": {
-    "translation": "プロメンバーシップを購入すると、クレジットを獲得できます。",
-    "sourceHash": "35cfb4df3ff0133c61b27911b55f221b"
   },
   "_selectFilm_loginRequiredToCreateActivityTitle": {
     "translation": "ログインが必要です",
@@ -1228,18 +1134,6 @@
   "_faq_a_photo_actions": {
     "translation": "フルスクリーンモードで\n- 保存:**デバイスのギャラリーに写真を保存することができます。\n- 共有：**他のアプリケーションを介して写真を共有することができます。\n- 削除:** アプリケーションから写真を完全に削除できます。\n- プロフィール写真にする：** 写真をアプリ内のプロフィール写真に設定できます。",
     "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
-  },
-  "_faq_section_ai_cameras": {
-    "translation": "AIカメラ",
-    "sourceHash": "130ce688f3c4a637494e1b1860f29a61"
-  },
-  "_faq_q_ai_usage": {
-    "translation": "AIカメラの使い方",
-    "sourceHash": "b92eeed3ca6ed999ea585bc220d633e8"
-  },
-  "_faq_a_ai_usage": {
-    "translation": "メインナビゲーションの \"AI \"タブに移動します。お好みのAIエフェクトを選択し、写真を撮影します。写真が処理されると、「アルバム」→「AI」タブに表示されます。",
-    "sourceHash": "2e00786bc7df5d90e6b89ffede363cef"
   },
   "_faq_section_settings": {
     "translation": "設定とプロフィール",
@@ -1592,14 +1486,6 @@
   "termsOfService_DataCollect_1": {
     "translation": "FilmCam36は、ユーザー体験を向上させるために、ユーザー行動、クリックデータ、デバイス情報の匿名または個人的に処理されたバージョンを収集、分析、および第三者システムに転送する権利を有します。",
     "sourceHash": "66f9517792c23b49cc1e6c332ee5ed2a"
-  },
-  "termsOfService_AI_ImageGeneration": {
-    "translation": "11.AIビジュアルジェネレーション：",
-    "sourceHash": "203b47c12959eb38079d7f94c85cb762"
-  },
-  "termsOfService_AI_ImageGeneration_1": {
-    "translation": "利用者は、AI生成システムを使用して、違法、わいせつ、著作権侵害または有害なコンテンツを生成することはできません。利用者は、生成されたコンテンツについて責任を負うものとします。AIの出力は利用者に帰属しますが、プラットフォームは技術的要件の範囲内でこれらのコンテンツを処理することができます。",
-    "sourceHash": "7ad499da0f0ef7333bc3da65e7c70c89"
   },
   "termsOfService_Pro_Subscription": {
     "translation": "12.プロバージョンとサブスクリプション",
@@ -2056,22 +1942,6 @@
   "backup_no_backup_message": {
     "translation": "まだバックアップを取っていない。まずバックアップを取る必要があります。",
     "sourceHash": "dfb523525950d50f552efe7b3e81f654"
-  },
-  "backup_feature_intro_title": {
-    "translation": "バックアップ機能",
-    "sourceHash": "559f6acc4cd98969c1de5dde284920a7"
-  },
-  "backup_feature_intro_message": {
-    "translation": "バックアップ機能により、すべてのアルバムと写真がサーバーにバックアップされます。アプリを削除して再度ダウンロードする際は、バックアップから読み込むことができます。今すぐバックアップして、思い出を守りましょう！",
-    "sourceHash": "36dafb80b4edb9fb411b6acea05b5b0e"
-  },
-  "backup_reminder_title": {
-    "translation": "バックアップ時間！",
-    "sourceHash": "410cbc04c93224f32b43edce6421fa4e"
-  },
-  "backup_reminder_message": {
-    "translation": "新しいアルバムができましたね。これらのアルバムをバックアップすることを忘れないでください。今すぐバックアップ画面に移動できます。",
-    "sourceHash": "1355dc74dc3506d64e332b7add8e4ac2"
   },
   "_common_photo": {
     "translation": "写真",
