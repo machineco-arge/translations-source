@@ -1,9 +1,4 @@
 {
-    "filters": {
-        "tr": {
-            "instantActivities.watchnightin": "Evde Gece"
-        }
-    },
     "onboardings": {
         "tr": {
             "onboardingCountdownTitle": "Rulo İşleniyor",

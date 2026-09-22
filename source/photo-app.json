@@ -1,9 +1,5 @@
 {
-    "_aiScreen_notFoundAiFilters": "AI Kameraları Yüklenemedi. Lütfen tekrar deneyin.",
-    "_aiScreen_transformQuestion": "Onaylanıyor musun?",
-
     "_albumScreen_noAlbumPhotos": "Albümde hiç fotoğraf yok",
-    "_albumScreen_noAIPhoto": "Henüz yapay zeka fotoğrafı yok",
     "_albumScreen_savePhotoToGallery": "Galeriye kaydet",
     "_albumScreen_sharePhoto": "Paylaş",
     "_albumScreen_deletePhoto": "Fotoğrafı sil",
@@ -15,9 +11,8 @@
     "_albumScreen_select": "Seç",
     "_albumScreen_deletePhotoFailedAlertMessage": "Fotoğrafı silerken bir hata oluştu. Lütfen tekrar deneyin.",
     "_albumScreen_sharePhotoErrorMessage": "Fotoğraf paylaşılırken bir hata oluştu.",
-    "_albumScreen_savedAIPhotoSuccessAlertMessage": "Fotoğraf galerinize kaydedildi!",
-    "_albumScreen_savedAIPhotoErrorAlertMessageNotFound": "Fotoğraf henüz indirilmeye hazır değil veya bulunamadı.",
-    "_albumScreen_deleteAIPhotoFailedAlertMessage": "Yapay zeka fotoğrafını silerken bir hata oluştu. Lütfen tekrar deneyin.",
+    "_albumScreen_savedPhotoSuccessAlertMessage": "Fotoğraf galerinize kaydedildi!",
+    "_albumScreen_savedPhotoErrorAlertMessageNotFound": "Fotoğraf henüz indirilmeye hazır değil veya bulunamadı.",
     "_albumScreen_LocatingImageFile": "Yükleniyor",
     "_albumScreen_ImageCouldNotLoaded": "Resim yüklenemedi",
     "_albumScreen_ErrorCausingFilePathsChange": "Uygulama yeniden oluşturulmuş olabilir ve bu da dosya yollarının değişmesine neden olabilir.",
@@ -238,19 +233,6 @@
             "nofilterdescription": "Orijinal fotoğrafınız\nTelefon Kamerası"
         }
     },
-    
-
-    "instantActivitiesTitle": "Hazır Setler",
-    "instantActivities": {
-        "birthday": "Doğum Günü",
-        "goldenhour": "Altın Saat",
-        "gymday": "Spor Günü",
-        "homeparty": "Ev Partisi",
-        "matchday": "Maç Günü",
-        "explorethecity": "Şehri Keşfet",
-        "watchnightin": "Evde Gece",
-        "nightout": "Gece Dışarı Çıkmak"
-    },
 
     "_navigation_home": "Ana Sayfa",
     "_navigation_films": "Benim Filmlerim",
@@ -269,17 +251,6 @@
     "_settings_accountSettings": "Hesap Ayarları",
     "_settings_darkOrLightModeSettings": "Tema Ayarları",
     "_settings_languageSettings": "Dil Ayarları",
-    "_credit_screen": "Kredi Bilgileri",
-
-    "noCredit": "Krediniz Bitti",
-    "increaseYourCredit": "Lütfen Kredinizi Arttırın",
-    "currentCredit": "Mevcut Krediniz",
-    "enterCode": "Yeni Kod Girerek Kredinizi Artırın.",
-    "send": "Gönder",
-    "noCreditCode": "Girilen kredi kodu yok",
-    "increaseCreditError": "Kredi bakiyeniz artırılırken bir hata oluştu.",
-    "increaseCreditSuccess": "Kredi bakiyeniz başarıyla artırıldı.",
-    "proSubscriptionPrompt": "Pro Üyelik satın alarak, kredi kazanabilirsiniz.",
 
     "_selectFilm_loginRequiredToCreateActivityTitle": "Giriş Yapmak Gerekli",
     "_selectFilm_loginRequiredToCreateActivityMessage": "Bu aktiviteyi oluşturmak için giriş yapmalısınız.",
@@ -333,9 +304,6 @@
     "_faq_a_album_tabs": "- **Albümler:** Oluşturduğunuz aktivitelerdeki kameranızdan banyo edilmiş fotoğraflarınızı albümler halinde burada bulabilirsiniz.\n",
     "_faq_q_photo_actions": "Fotoğraflarımla ne yapabilirim?",
     "_faq_a_photo_actions": "Tam ekran modundayken:\n- **Kaydet:** Fotoğrafı cihazınızın galerisine kaydedebilirsiniz.\n- **Paylaş:** Fotoğrafı diğer uygulamalar üzerinden paylaşabilirsiniz.\n- **Sil:** Fotoğrafı uygulamadan kalıcı olarak silebilirsiniz.\n- **Profil Fotoğrafı Yap:** Fotoğrafı uygulama içi profil resminiz olarak ayarlayabilirsiniz.",
-    "_faq_section_ai_cameras": "AI Kameralar",
-    "_faq_q_ai_usage": "AI Kameraları nasıl kullanılır?",
-    "_faq_a_ai_usage": "Ana navigasyondaki \"AI\" sekmesine gidin. Beğendiğiniz bir AI efektini seçin ve fotoğrafınızı çekin. Fotoğrafınız işlendikten sonra \"Albüm\" -> \"AI\" sekmesinde görünecektir.",
     "_faq_section_settings": "Ayarlar ve Profil",
     "_faq_q_edit_profile": "Profilimi nasıl düzenlerim?",
     "_faq_a_edit_profile": "\"Albüm\" sekmesindeyken en üstteki profil bölümünden veya Ayarlar menüsünden \"Hesap\" seçeneğine giderek profil bilgilerinizi ve fotoğrafınızı güncelleyebilirsiniz.",
@@ -432,9 +400,6 @@
 
     "termsOfService_DataCollect": "10. İstatistiksel Veri Toplama:",
     "termsOfService_DataCollect_1": "FilmCam36 kullanım deneyimini geliştirmek amacıyla kullanıcı davranışları, tıklama verileri, cihaz bilgilerinin anonim veya kişisel olarak işlenmiş versiyonlarını toplama, analiz etme ve üçüncü taraf sistemlere aktarma hakkına sahiptir.",
-
-    "termsOfService_AI_ImageGeneration": "11. AI Görsel Üretimi:",
-    "termsOfService_AI_ImageGeneration_1": "Kullanıcı, AI üretim sistemini yasa dışı, müstehcen, telif ihlali içeren veya zararlı içerikler üretmek amacıyla kullanamaz. Üretilen içeriklerin sorumluluğu kullanıcıya aittir. AI çıktıları kullanıcıya ait olmakla birlikte platform, teknik gereklilikler kapsamında bu içerikleri işleyebilir.",
 
     "termsOfService_Pro_Subscription": "12. Pro Sürüm ve Abonelik:",
     "termsOfService_Pro_Subscription_1": "Pro sürüm; ek kredi, premium içerik erişimi ve özel özellikler sunabilir. Ödemeler App Store ve Google Play üzerinden yapılır. İade politikası tamamen Apple ve Google tarafından belirlenir. The Machine Company doğrudan iade yapmaz.",
@@ -565,10 +530,6 @@
     "backup_success_message": "Albümleriniz başarıyla yedeklendi.",
     "restore_success_message": "Albümleriniz başarıyla geri yüklendi.",
     "backup_no_backup_message": "Henüz bir yedeğiniz bulunmuyor. Önce yedekleme yapmanız gerekiyor.",
-    "backup_feature_intro_title": "Yedekleme Özelliği",
-    "backup_feature_intro_message": "Yedekleme özelliği, tüm albümleriniz ve fotoğraflarınızın sunucuya yedeklenmesini sağlar. Uygulamayı silip tekrar indirdiğinizde yedekten yükleyebilirsiniz. Şimdi yedekleyin, anılarınız güvende olsun!",
-    "backup_reminder_title": "Yedekleme Zamanı!",
-    "backup_reminder_message": "Yeni albümlerin var. Bu albümleri yedeklemeyi unutma. İstersen şimdi Yedekleme ekranına gidebilirsin.",
 
     "_common_photo": "Fotoğraflar",
     "_common_saving": "Kaydediliyor...",
