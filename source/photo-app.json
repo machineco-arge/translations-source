@@ -87,6 +87,7 @@
 
     "_filmScreen_title": "Benim Filmlerim",
     "_filmScreen_location": "Konum",
+    "_filmScreen_unknownLocation": "Konum bilgisi bulunamadı",
     "_filmScreen_date": "Tarih",
     "_filmScreen_remainingPhoto": "Kalan Fotoğraf",
     "_filmScreen_editActivityTitle": "Aktivite Başlığını Düzenle",
