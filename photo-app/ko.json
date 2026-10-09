@@ -343,6 +343,10 @@
     "translation": "위치",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
   },
+  "_filmScreen_unknownLocation": {
+    "translation": "위치 정보를 찾을 수 없습니다",
+    "sourceHash": "b8df988b1d787f98c0d0214a6321aa00"
+  },
   "_filmScreen_date": {
     "translation": "역사",
     "sourceHash": "27486dc0fa9db689a0a3fefeab58bda7"

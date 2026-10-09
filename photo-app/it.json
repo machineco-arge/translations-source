@@ -343,6 +343,10 @@
     "translation": "Posizione",
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
   },
+  "_filmScreen_unknownLocation": {
+    "translation": "Impossibile trovare le informazioni sulla posizione",
+    "sourceHash": "b8df988b1d787f98c0d0214a6321aa00"
+  },
   "_filmScreen_date": {
     "translation": "La storia",
     "sourceHash": "27486dc0fa9db689a0a3fefeab58bda7"
