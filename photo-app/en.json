@@ -344,8 +344,8 @@
     "sourceHash": "f5f8755c950be475ee83824aa75aa1eb"
   },
   "_filmScreen_unknownLocation": {
-    "translation": "Location information could not be found",
-    "sourceHash": "b8df988b1d787f98c0d0214a6321aa00"
+    "translation": "Location not found",
+    "sourceHash": "858a9a8ec20082545998649966b6cb70"
   },
   "_filmScreen_date": {
     "translation": "History",
