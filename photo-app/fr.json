@@ -624,8 +624,8 @@
     "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
   },
   "_filmScreen_goToAlbum": {
-    "translation": "Aller à l'album",
-    "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
+    "translation": "Afficher les photos",
+    "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
   },
   "_filmScreen_printCompleted": {
     "translation": "Développements photo terminés !",

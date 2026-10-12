@@ -624,8 +624,8 @@
     "sourceHash": "86e821d5af8426d7e347dc1519ef2d5f"
   },
   "_filmScreen_goToAlbum": {
-    "translation": "转到相册",
-    "sourceHash": "f51c3d44f0f3cadc5b323d4a2e6487d5"
+    "translation": "查看照片",
+    "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
   },
   "_filmScreen_printCompleted": {
     "translation": "照片冲印已完成！",
