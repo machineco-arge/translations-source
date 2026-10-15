@@ -2,9 +2,12 @@
    "onboardingFirstTitle": "Focus on the moment",
    "onboardingFirstMessage": "There is no instant preview.\nYou won’t see the result until the entire roll is developed",
    "onboardingSecondTitle": "Make each frame matter",
-   "onboardingSecondMessage": "Each roll is limited to 36 exposures.\nOnce finished, the film is sent to the lab for processing",
+   "onboardingSecondMessage": "Each roll is limited to 36 exposures.\nWhen you've finished taking photos on your film, you can send it for development.",
    "onboardingNext": "Next",
    "onboardingContinue": "Continue",
+
+   "onboardingNegativesStepTitle": "The negatives are ready!",
+   "onboardingNegativesStepMessage": "You can view the digital negative of the film roll before the film is developed.",
 
    "onboardingSendStepTitle": "Ready for development",
    "onboardingSendStepMessage": "Once sent to print, your roll will be locked and processed",
@@ -24,5 +27,7 @@
    "onboardingCameraExitTitle": "Do you want to finish it?",
    "onboardingCameraExitMessage": "Do you want to skip the app introduction and discover it for yourself?",
    "onboardingSkip": "Skip",
-   "onboardingActivityTitle": "First Film"
+   "onboardingActivityTitle": "First Film",
+   "onboardingGoToHomeTitle": "Now create your own film",
+   "onboardingGoToHomeMessage": "Create your own film by exploring the cameras and selecting the one that best suits the moment."
 }
