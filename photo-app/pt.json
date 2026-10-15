@@ -316,8 +316,8 @@
     "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "O rolo de filme está cheio, aguarde o proprietário da atividade enviá-lo para revelação",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "O rolo de filme está cheio, aguarde o proprietário do filme enviar o filme para revelação",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Mudar de câmara",
@@ -332,8 +332,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Você não pode mais tirar fotos porque o proprietário da atividade enviou este rolo de filme para revelação.",
-    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
+    "translation": "Você não pode mais tirar fotos porque o proprietário do filme enviou este rolo de filme para revelação.",
+    "sourceHash": "3772dcfeaa6d0c190c81029c0ddd8b76"
   },
   "_filmScreen_title": {
     "translation": "Os meus filmes",
@@ -356,8 +356,8 @@
     "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
   },
   "_filmScreen_editActivityTitle": {
-    "translation": "Editar título da atividade",
-    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+    "translation": "Editar título do filme",
+    "sourceHash": "106e4b6f37f8544afa462d9cce69373b"
   },
   "_filmScreen_enterNewActivityTitle": {
     "translation": "Introduzir um novo título (máximo de {{maxTitleLength}} caracteres, deixar em branco para voltar à predefinição)",
@@ -424,20 +424,20 @@
     "sourceHash": "2826a23619aa76f754015db43192740a"
   },
   "_filmScreen_specialActivitiesSection": {
-    "translation": "Actividades especiais",
-    "sourceHash": "2f96950c38146317a97619ca2facae56"
+    "translation": "Meus filmes especiais",
+    "sourceHash": "c2ebbff7e702f66e685efd048e4019a0"
   },
   "_filmScreen_myActivitiesSection": {
-    "translation": "As minhas actividades",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "Meus Filmes",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Pré-visualização do quadrado",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_activeActivitiesSection": {
-    "translation": "Atividades em curso",
-    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+    "translation": "Meus filmes ativos",
+    "sourceHash": "ea245cdbfab7ab1b5cb42b3c514d7dc9"
   },
   "_filmScreen_printingActivitiesSection": {
     "translation": "Enviado para Desenvolvimento",
@@ -464,12 +464,12 @@
     "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
-    "translation": "Participar na atividade",
-    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+    "translation": "Entrar no filme",
+    "sourceHash": "04156e93560a66f5ff971c741d9c7d5f"
   },
   "_filmScreen_joinActivityMessage": {
-    "translation": "Deseja participar nesta atividade?",
-    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+    "translation": "Deseja entrar neste filme?",
+    "sourceHash": "17ea392bb38bcb5927d655c76579ad88"
   },
   "_filmScreen_invalidInvitationLink": {
     "translation": "Ligação de convite inválida.",
@@ -484,12 +484,12 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "O limite de participantes nesta atividade já foi atingido. Para aumentar o limite, o organizador da atividade deve ser membro Pro.",
-    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+    "translation": "O limite de participantes deste filme foi atingido. Para aumentar o limite, o proprietário do filme deve ser membro Pro.",
+    "sourceHash": "11b76e4edacdcab268ef8ed55360a12a"
   },
   "_filmScreen_ownerLimitReachedMessage": {
-    "translation": "O limite de participantes nesta atividade já foi atingido. Para aumentar o limite, tem de se tornar membro Pro.",
-    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
+    "translation": "O limite de participantes deste filme foi atingido. Para aumentar o limite, você precisa se tornar membro Pro.",
+    "sourceHash": "75bd4372eab88521bba001985bd1cf4c"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "A aguardar aprovação",
@@ -504,8 +504,8 @@
     "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
   },
   "_filmScreen_sharedActivity": {
-    "translation": "Atividade partilhada",
-    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+    "translation": "Filme compartilhado",
+    "sourceHash": "fb4bda78c3e5e8b7f0504378908423c9"
   },
   "_filmScreen_joinRequestStatusPending": {
     "translation": "A aguardar autorização",
@@ -516,20 +516,20 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "Convidar para a atividade",
-    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
+    "translation": "Convidar para o filme",
+    "sourceHash": "e12d058930b128ee2249ac4bf581425c"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Gostaria de tornar esta atividade uma atividade partilhada e convidar os seus amigos para a sua atividade?",
-    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
+    "translation": "Deseja tornar este filme um filme compartilhado e convidar seus amigos para o seu filme?",
+    "sourceHash": "9788bb537d9590af723a2bc063ce4e36"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Pode convidar os seus amigos para esta atividade. Para poder utilizar esta funcionalidade, tem de iniciar sessão. Deseja iniciar sessão?",
-    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
+    "translation": "Você pode convidar seus amigos para este filme. Para usar este recurso, é necessário entrar. Deseja entrar?",
+    "sourceHash": "7cbd9b765d99c4db34228817507a3048"
   },
   "_filmScreen_shareInviteTitle": {
-    "translation": "Ligação do convite para a atividade",
-    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+    "translation": "Link de convite do filme",
+    "sourceHash": "60a42cd6f8e08f9588943e633a96f8b0"
   },
   "_filmScreen_shareFailedErrorMessage": {
     "translation": "Ocorreu um erro ao partilhar a ligação do convite.",
@@ -540,8 +540,8 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "Prefere partilhar o convite através do código QR ou através do link da atividade?",
-    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
+    "translation": "Prefere partilhar o convite através de um código QR ou através de um link?",
+    "sourceHash": "f146df177b97df7295ccb477aaee768f"
   },
   "_filmScreen_shareOthersButtonLabel": {
     "translation": "Link",
@@ -560,60 +560,56 @@
     "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "Esta atividade estará limitada a 10 utilizadores. Para um número ilimitado de participantes, torne-se membro Pro.",
-    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
+    "translation": "Quando este filme se tornar um filme compartilhado, será limitado a 10 usuários. Torne-se membro Pro para participantes ilimitados.",
+    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "O rolo de filme está cheio, aguarde o proprietário da atividade enviá-lo para revelação",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "O rolo de filme está cheio, aguarde o proprietário do filme enviar o filme para revelação",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_filmScreen_linkShareError": {
-    "translation": "Não foi encontrada nenhuma ligação de convite para esta atividade.",
-    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+    "translation": "Link de convite não encontrado para este filme.",
+    "sourceHash": "c359247eaa02b092459a6401c30fdf38"
   },
   "_filmScreen_editNameError": {
-    "translation": "Ocorreu um erro ao atualizar o nome da atividade. Tente novamente mais tarde.",
-    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+    "translation": "Ocorreu um erro ao atualizar o nome do filme. Tente novamente mais tarde.",
+    "sourceHash": "84ea25009389c2db106b0d05b427762f"
   },
   "_filmScreen_requestKeyError": {
-    "translation": "Ocorreu um erro ao pedir a chave de atividade.",
-    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+    "translation": "Ocorreu um erro ao solicitar a chave do filme.",
+    "sourceHash": "7ef38fa1b54f5d015067e696ec6e2fd3"
   },
   "_filmScreen_requestKeySuccess": {
-    "translation": "O pedido de chave de atividade foi enviado com êxito.",
-    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+    "translation": "Solicitação da chave do filme enviada com sucesso.",
+    "sourceHash": "dc7d244b602d4f8e7f5adee8ce1e0e84"
   },
   "_filmScreen_deleteActivity": {
-    "translation": "Eliminar atividade",
-    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+    "translation": "Excluir filme",
+    "sourceHash": "6381a18ff3c5b98ab8d0e5b897ee4e71"
   },
   "_filmScreen_deleteActivityMessage": {
-    "translation": "Tem a certeza de que pretende eliminar esta atividade? Esta ação não pode ser anulada.",
-    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+    "translation": "Tem certeza de que deseja excluir este filme? Esta ação não pode ser desfeita.",
+    "sourceHash": "c3e0a39434c17f8aa172d53152ca94e2"
   },
   "_filmScreen_deleteActivityErrorMessage": {
-    "translation": "Ocorreu um erro ao eliminar a atividade.",
-    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+    "translation": "Ocorreu um erro ao excluir o filme.",
+    "sourceHash": "6f69dee1d269a520e658a6a76ec15fe0"
   },
   "_filmScreen_leaveActivity": {
-    "translation": "Atividade de férias",
-    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+    "translation": "Sair do filme",
+    "sourceHash": "22b263f39460b0d140f8d28dc1100abc"
   },
   "_filmScreen_leaveActivityMessage": {
-    "translation": "Tem a certeza de que quer deixar esta atividade?",
-    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+    "translation": "Tem certeza de que deseja sair deste filme?",
+    "sourceHash": "b04a6aae37343aa7b461afc6c9679c7f"
   },
   "_filmScreen_leaveActivityErrorMessage": {
-    "translation": "Ocorreu um erro ao sair da atividade.",
-    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+    "translation": "Ocorreu um erro ao sair do filme.",
+    "sourceHash": "5ef0adf4613b3626af198e372d5bf0e5"
   },
   "_filmScreen_share": {
-    "translation": "Convite",
-    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
-  },
-  "_filmScreen_cannotShareActivityWithPhotos": {
-    "translation": "Não é possível partilhar uma atividade normal com fotografias.",
-    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+    "translation": "Adicionar amigo",
+    "sourceHash": "f6f22c3223328c2cf8cd54302e5ad525"
   },
   "_filmScreen_speedingUp": {
     "translation": "Acelerando a revelação...",
@@ -626,6 +622,10 @@
   "_filmScreen_goToAlbum": {
     "translation": "Ver fotografias",
     "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
+  },
+  "_filmScreen_newAlbum": {
+    "translation": "Novo",
+    "sourceHash": "b41bc3592e0e3f8d26b1c93ff0318a5d"
   },
   "_filmScreen_printCompleted": {
     "translation": "Revelações de fotos concluídas!",
@@ -648,8 +648,8 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "Tire mais {{totalShots}} fotos ou aguarde o proprietário da atividade enviá-las para impressão.",
-    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
+    "translation": "Tire mais {{totalShots}} fotos ou aguarde o proprietário do filme enviar o filme para revelação.",
+    "sourceHash": "a4028bde482c63db518dd62d7696ab83"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "Tire mais {{totalShots}} fotos ou envie-as para impressão.",
@@ -684,8 +684,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "Ainda não há procura para esta atividade.",
-    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
+    "translation": "Ainda não há solicitações para este filme.",
+    "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
     "translation": "Não foram encontradas informações sobre os participantes.",
@@ -704,20 +704,20 @@
     "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "Não foi possível enviar a chave de atividade. Por favor, tente novamente mais tarde.",
-    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
+    "translation": "Não foi possível enviar a chave do filme. Tente novamente mais tarde.",
+    "sourceHash": "d1df5ff47a5c764155d511541633c00c"
   },
   "_participantModal_sessionKeySuccess": {
-    "translation": "A chave de atividade foi enviada com sucesso.",
-    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+    "translation": "Chave do filme enviada com sucesso.",
+    "sourceHash": "dc642647700f846e3519e45ee8bf0fe4"
   },
   "_participantModal_sendSessionKey": {
-    "translation": "Enviar chave de atividade",
-    "sourceHash": "19789df66647c81a679daec245f546b1"
+    "translation": "Enviar chave do filme",
+    "sourceHash": "61f4b3595078e04bdf040aa7be3476b8"
   },
   "_participantModal_noHasSessionKey": {
-    "translation": "Não tem uma chave de atividade.",
-    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+    "translation": "Você não tem uma chave do filme.",
+    "sourceHash": "ad6f8bc160ed411a1359169296962c83"
   },
   "_participantModal_requestSessionKey": {
     "translation": "Perguntar de novo",
@@ -738,6 +738,14 @@
   "_homeScreen_specialEventResolveError": {
     "translation": "Ocorreu um erro ao carregar o evento especial.",
     "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
+  "_homeScreen_selectCamera": {
+    "translation": "Escolhe a tua câmara",
+    "sourceHash": "22f40a5854822323681b14a3fae59d73"
+  },
+  "_homeScreen_selectFilmRoll": {
+    "translation": "Selecione um rolo de filme e comece a fotografar.",
+    "sourceHash": "3a425cfca5342336a6d1e9541399b5fa"
   },
   "timeOptions": {
     "express": {
@@ -940,8 +948,8 @@
     "sourceHash": "36ccaa3c7a03143779eac361c313715d"
   },
   "_selectFilm_loginRequiredToCreateActivityMessage": {
-    "translation": "É necessário iniciar sessão para criar esta atividade.",
-    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+    "translation": "Você precisa entrar para criar este filme.",
+    "sourceHash": "158d96696559e093de8eba35f1e71279"
   },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "O seu direito ao rolo de filme esgotou-se",
@@ -952,20 +960,20 @@
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
   "_selectFilm_filmCreateActivityAlertTitle": {
-    "translation": "Criar atividade",
-    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+    "translation": "Criando filme",
+    "sourceHash": "b795112c250285c2e1fa91335c93a578"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "A sua atividade é criada com a câmara ' {{cameraName}} - {{shots}} '.",
-    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
+    "translation": "Seu filme está sendo criado com a câmera '{{cameraName}} - {{shots}}'.",
+    "sourceHash": "c877c6095fcae03c6d2cbaad759fd334"
   },
   "_selectFilm_confirmCreateActivityTitle": {
     "translation": "Tens a certeza?",
     "sourceHash": "73013ad3a613e5d23694f758eed26863"
   },
   "_selectFilm_confirmCreateActivityMessage": {
-    "translation": "Tem a certeza de que pretende criar uma nova atividade?",
-    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
+    "translation": "Tem certeza de que deseja criar um novo filme?",
+    "sourceHash": "48d4db29b0b00a6516bd56d9896b1cb4"
   },
   "_selectFilm_selectFilmCount": {
     "translation": "Selecionar rolo de filme",
@@ -984,8 +992,8 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "Você pode criar uma nova atividade após {{time}}. Se você não quiser esperar, torne-se um membro Pro.",
-    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
+    "translation": "Você pode criar um novo filme após {{time}}. Se você não quiser esperar, torne-se um membro Pro.",
+    "sourceHash": "8ee06d843f0f83fde1a3a9b46b39d30c"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Termos e políticas",
@@ -1012,144 +1020,144 @@
     "sourceHash": "35fba9105deba4815f0e649af499879f"
   },
   "_faq_q_virtual_camera": {
-    "translation": "O que é a câmara virtual?",
-    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+    "translation": "O que é um Filme virtual?",
+    "sourceHash": "76a0cb3a0b5ba909b8636fdc1009ed39"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Uma \"Atividade da câmara\" é como um rolo de filme digital. Combina um filtro de câmara da sua preferência de **Câmaras** com um rolo de filme com um número limitado de exposições (por exemplo, 12, 24, 36 exposições). Cada câmara que cria agrupa as fotografias que tira num álbum especial.",
-    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
+    "translation": "Uma \"Câmera de Filme\" é como um rolo de filme digital. Combina um filtro de câmera de que você gosta em **Câmeras** com um rolo de filme com número limitado de poses (ex.: 12, 24, 36 poses). Cada câmera de filme que você cria agrupa as fotos tiradas no seu próprio filme especial.",
+    "sourceHash": "5c44ca43dc859be9a205cd66b82d7d02"
   },
   "_faq_q_printing": {
-    "translation": "O que é o banho de fotografias (impressão)?",
-    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+    "translation": "O que é a revelação de fotos?",
+    "sourceHash": "743f779dce0e59df19b5943557128626"
   },
   "_faq_a_printing": {
-    "translation": "Quando você preenche todas as poses de um rolo de filme em uma atividade de câmera—ou quando quiser—pode \"enviar o rolo de filme para revelação\". Isso inicia uma contagem regressiva pela duração que você escolher (ex.: 8, 24, 36 horas), após a qual suas fotos são \"reveladas\" e ficam visíveis. Quando o tempo acaba, suas fotos criptografadas são desbloqueadas e aparecem no seu álbum.",
-    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
+    "translation": "Quando você preenche todas as poses de um rolo de filme em uma câmera de filme—ou quando quiser—pode \"enviar o rolo de filme para revelação\". Isso inicia uma contagem regressiva pela duração que você escolher (ex.: 8, 24, 36 horas), após a qual suas fotos são \"reveladas\" e ficam visíveis. Quando o tempo acaba, suas fotos criptografadas são desbloqueadas e aparecem no seu filme concluído.",
+    "sourceHash": "be6a36a0eba19014d95c8ce3733cec92"
   },
   "_faq_section_features": {
-    "translation": "Caraterísticas principais",
+    "translation": "Recursos principais",
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "O que posso fazer nas câmaras?",
+    "translation": "O que posso fazer em Câmeras?",
     "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "As câmaras são o local onde pode descobrir todos os filtros de câmara exclusivos da aplicação. Cada câmara representa um filtro com a sua própria cor, textura e carácter únicos. Ao tocar numa câmara, pode ver fotografias de amostra \"antes e depois\" tiradas com esse filtro e escolher a que melhor se adequa ao seu estilo.",
+    "translation": "Câmeras é onde você descobre todos os filtros de câmera exclusivos do app. Cada câmera representa um filtro com sua própria cor, textura e caráter. Toque em uma câmera para ver fotos de exemplo \"antes e depois\" tiradas com esse filtro e escolha o que melhor combina com seu estilo.",
     "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Como posso criar uma nova atividade?",
-    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
+    "translation": "Como crio um novo filme?",
+    "sourceHash": "38eeb0c639ed10b1aefbe5fc045d35e3"
   },
   "_faq_a_new_activity": {
-    "translation": "Toque numa câmara de que goste em Câmaras para aceder ao ecrã \"Selecionar rolo da câmara\". Aqui pode criar a sua nova atividade de câmara selecionando um dos rolos de filme com diferentes números de exposição (por exemplo, 12, 24, 36) para utilizar com o filtro da sua escolha.",
-    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
+    "translation": "Em Câmeras, toque em uma câmera de que você goste para ir à tela \"Selecionar rolo de filme\". Lá, escolha um rolo com diferentes números de poses (como 12, 24, 36) para usar com o filtro selecionado e criar seu novo filme.",
+    "sourceHash": "e0cb4211b878270a872c4c8990f91fa8"
   },
   "_faq_section_my_cameras": {
-    "translation": "As minhas actividades",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "Meus Filmes",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_faq_q_camera_cards": {
-    "translation": "O que significam os cartões de atividade?",
-    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
+    "translation": "O que significam os cartões de filme?",
+    "sourceHash": "4568eeed1fe76565c3a14459100addd7"
   },
   "_faq_a_camera_cards": {
-    "translation": "Cada cartão representa uma câmara virtual e apresenta as informações seguintes:\n- **Título:** O nome da atividade, que pode ser alterado.\n- Data e local:** A data em que a atividade foi criada e (se disponível) o local onde a última fotografia foi tirada.\n- Informações sobre a fotografia:** O número de exposições utilizadas no rolo de filme que está a utilizar (por exemplo, 15/24).",
-    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
+    "translation": "Cada cartão representa uma câmera de filme virtual e mostra as seguintes informações:\n- **Título:** O nome do filme que você pode alterar.\n- **Data e local:** A data de criação do filme e (se disponível) o local da última foto.\n- **Info de fotos:** O número de poses usadas no rolo (ex.: 15/24).",
+    "sourceHash": "caa97abd53d1a061aca4ec135fe7c629"
   },
   "_faq_q_add_photo": {
-    "translation": "Como é que adiciono uma fotografia a uma atividade existente?",
-    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
+    "translation": "Como adiciono fotos a um filme existente?",
+    "sourceHash": "3bd48768a5598b2cec2e9fe0b61b569c"
   },
   "_faq_a_add_photo": {
-    "translation": "Se houver uma exposição vazia no rolo da câmara, pode tocar na atividade da câmara correspondente no ecrã \"As minhas actividades\" para mudar diretamente para o ecrã da câmara e continuar a tirar fotografias.",
-    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
+    "translation": "Se ainda houver poses vazias no rolo, toque no cartão do filme correspondente na tela \"Meus Filmes\" para ir diretamente à tela da câmera e continuar tirando fotos.",
+    "sourceHash": "47b69a2245281878476343206bcc67af"
   },
   "_faq_q_rename_camera": {
-    "translation": "Como posso alterar o nome da atividade?",
-    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
+    "translation": "Como altero o nome do filme?",
+    "sourceHash": "d57b3c64c7008dd68ceed97c963b0fb0"
   },
   "_faq_a_rename_camera": {
-    "translation": "Pode dar um nome especial à sua atividade tocando no ícone da caneta junto a cada cartão de atividade.",
-    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
+    "translation": "Toque no ícone de lápis ao lado de cada cartão de filme para dar um nome personalizado ao seu filme.",
+    "sourceHash": "52d91084f655e1cef22dad63aa135011"
   },
   "_faq_q_send_to_print": {
     "translation": "Como envio minhas fotos para revelação?",
     "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Toque no botão \"Enviar para Revelação\" na parte inferior da atividade de câmera. Em seguida, escolha em quanto tempo deseja que suas fotos fiquem prontas (ex.: 8, 12, 24, 36 horas). Lembre-se de que tempos mais curtos (Express) podem exigir assistir a um anúncio recompensado.",
-    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
+    "translation": "Toque no botão \"Enviar para Revelação\" na parte inferior do cartão de filme. Em seguida, escolha em quanto tempo deseja que suas fotos fiquem prontas (ex.: 8, 12, 24, 36 horas). Lembre-se de que tempos mais curtos (Express) podem exigir assinatura Pro.",
+    "sourceHash": "eb79d52683863ef51538198731f419e7"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Actividades partilhadas",
-    "sourceHash": "936979acaeda843e3f831f8b57879a10"
+    "translation": "Filmes compartilhados",
+    "sourceHash": "ea2e454869c6a7e7a7b10958cc75e7aa"
   },
   "_faq_q_how_to_share": {
-    "translation": "Como é que partilho uma atividade?",
-    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
+    "translation": "Como compartilho um filme?",
+    "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "No ecrã \"As minhas actividades\", toque no ícone de convite no cartão de atividade que pretende partilhar. Isto tornará a atividade numa atividade partilhada e criará uma ligação de convite específica para a atividade. Pode enviar esta ligação aos seus amigos para os convidar.",
-    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
+    "translation": "Na tela \"Meus Filmes\", toque no ícone \"Participantes\" do cartão do filme que deseja compartilhar. Isso tornará o filme um filme compartilhado e criará um link de convite específico. Envie este link aos amigos para convidá-los.",
+    "sourceHash": "93e356768942ba6307ba9acde06485ff"
   },
   "_faq_q_join_shared": {
-    "translation": "Como posso aderir a uma atividade partilhada?",
-    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
+    "translation": "Como entro em um filme compartilhado?",
+    "sourceHash": "83659273325e0e65d138bf249a5f4e7a"
   },
   "_faq_a_join_shared": {
-    "translation": "Clique na ligação de convite que lhe foi enviada. Quando a aplicação se abrir, o seu pedido de participação na atividade será enviado para o proprietário da atividade. Depois de o proprietário da atividade aprovar o seu pedido, a câmara aparecerá no seu ecrã \"As minhas actividades\" e pode começar a tirar fotografias.",
-    "sourceHash": "7817fff38a09f950460ee883ad87de74"
+    "translation": "Toque no link de convite enviado a você. Ao abrir o app, sua solicitação de entrada será enviada ao proprietário do filme. Após a aprovação, a câmera de filme aparecerá na tela \"Meus Filmes\" e você poderá começar a tirar fotos.",
+    "sourceHash": "f8aaaaae57cb7cf250a4405bfbc852f8"
   },
   "_faq_q_requests_and_notifications": {
-    "translation": "Pedidos de participação e notificações",
+    "translation": "Solicitações de entrada e notificações",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "O proprietário da atividade pode ver, aprovar ou rejeitar os pedidos recebidos tocando no ícone \"Participantes\" no cartão da atividade. Receberá uma notificação quando for aprovado ou rejeitado. Pode seguir todas as suas notificações a partir do ícone de sino no canto superior direito do ecrã \"As minhas actividades\".",
-    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
+    "translation": "O proprietário do filme pode tocar no ícone \"Participantes\" do cartão para ver as solicitações recebidas e aprová-las ou rejeitá-las. Você receberá uma notificação quando for aprovado ou rejeitado.",
+    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
   },
   "_faq_q_e2e_encryption": {
-    "translation": "Segurança e privacidade (encriptação de ponta a ponta)",
+    "translation": "Segurança e privacidade (criptografia de ponta a ponta)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Todas as suas fotografias em actividades partilhadas são **encriptadas de ponta a ponta**. Isto significa que **NINGUÉM** (incluindo a equipa Filmcam36) pode ver as suas fotografias, exceto o proprietário da atividade e os participantes aprovados. É gerada uma \"chave de sessão\" privada para cada atividade partilhada, que só está disponível nos dispositivos dos participantes, e toda a encriptação/desencriptação é feita diretamente no seu dispositivo. Isto mantém as suas memórias completamente privadas para si e para os seus amigos.\n- Se eliminar acidentalmente a aplicação durante uma atividade partilhada e a \"chave de sessão\" se perder, verá um aviso na atividade de câmara relevante depois de transferir novamente a aplicação. Para todas as actividades de câmara partilhadas em que este aviso apareça, pode voltar a pedir uma \"chave de sessão\" aos participantes dessa atividade.",
-    "sourceHash": "d802fe5691925de986bc11bbc8242425"
+    "translation": "Todas as suas fotos em filmes compartilhados são **criptografadas de ponta a ponta**. Isso significa que **NINGUÉM** além do proprietário do filme e dos participantes aprovados (incluindo a equipe Filmcam36) pode ver suas fotos. Para cada filme compartilhado, é criada uma \"chave do filme\" especial que existe apenas nos dispositivos dos participantes, e toda a criptografia/descriptografia ocorre diretamente no seu dispositivo. Assim, suas memórias ficam privadas entre você e seus amigos.\n- Se você apagar o app por engano durante um filme compartilhado e perder a \"chave do filme\", após reinstalar verá um aviso no cartão do filme correspondente. Para cada câmera de filme compartilhado com esse aviso, você pode solicitar novamente a \"chave do filme\" aos participantes desse filme.",
+    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
   },
   "_faq_section_album": {
-    "translation": "Álbum",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "Filmes revelados",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
   },
   "_faq_q_album_tabs": {
-    "translation": "O que são álbuns?",
-    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
+    "translation": "O que são Filmes revelados?",
+    "sourceHash": "602ea9cc603a371d3cb7446ae35cfecb"
   },
   "_faq_a_album_tabs": {
-    "translation": "- Álbuns:** Aqui pode encontrar as fotografias reveladas pela sua câmara das actividades que criou em álbuns.\n",
-    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
+    "translation": "- **Filmes revelados:** Aqui você encontra suas fotos reveladas das câmeras de filme que criou, organizadas como filmes.\n",
+    "sourceHash": "d335e64fea49df652e245682894a3d12"
   },
   "_faq_q_photo_actions": {
-    "translation": "O que posso fazer com as minhas fotografias?",
+    "translation": "O que posso fazer com minhas fotos?",
     "sourceHash": "1f3462c677886c1796aadb6474b1360d"
   },
   "_faq_a_photo_actions": {
-    "translation": "No modo de ecrã inteiro:\n- **Guardar:** Pode guardar a fotografia na galeria do seu dispositivo.\n- Partilhar:** Pode partilhar a fotografia através de outras aplicações.\n- Eliminar:** Pode eliminar permanentemente a fotografia da aplicação.\n- Criar fotografia de perfil:** Pode definir a fotografia como a sua fotografia de perfil na aplicação.",
-    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+    "translation": "No modo de tela cheia:\n- **Salvar:** Você pode salvar a foto na galeria do dispositivo.\n- **Compartilhar:** Você pode compartilhar a foto por outros apps.\n- **Excluir:** Você pode excluir permanentemente a foto do app.",
+    "sourceHash": "7c541e94649ac3c848026a47c9f6d20f"
   },
   "_faq_section_settings": {
-    "translation": "Definições e perfil",
+    "translation": "Configurações e perfil",
     "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
   },
   "_faq_q_edit_profile": {
-    "translation": "Como é que organizo o meu perfil?",
+    "translation": "Como edito meu perfil?",
     "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
   },
   "_faq_a_edit_profile": {
-    "translation": "Quando estiver no separador \"Álbum\", pode atualizar as informações e a fotografia do seu perfil na secção de perfil na parte superior ou acedendo a \"Conta\" no menu Definições.",
-    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+    "translation": "Você pode atualizar suas informações e foto de perfil na seção de perfil no topo da tela \"Meus Filmes\" ou indo em \"Conta\" no menu Configurações.",
+    "sourceHash": "091e1c688cb669c3346526297c4fe6f6"
   },
   "_faq_q_theme": {
     "translation": "Como posso alterar o tema da aplicação (Modo escuro/claro)?",
@@ -1336,8 +1344,8 @@
     "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
-    "translation": "Atividade partilhada: Os utilizadores criam um grupo para tirar, filtrar e partilhar álbuns de fotografias em conjunto. Todo o conteúdo é encriptado de ponta a ponta.",
-    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+    "translation": "Filme compartilhado: Os usuários formam um grupo para tirar fotos juntos, filtrá-las e compartilhar o filme. Todo o conteúdo é criptografado de ponta a ponta.",
+    "sourceHash": "df377c8f89d7099a02637dee57d8b5c0"
   },
   "termsOfService_E2E": {
     "translation": "Encriptação E2E: Sistema de encriptação em que o conteúdo só pode ser desencriptado nos dispositivos de envio e receção e os servidores FilmCam36 não podem aceder ao conteúdo.",
@@ -1348,8 +1356,8 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "A FilmCam36 oferece funcionalidades para tirar fotografias, editar, aplicar filtros e criar actividades partilhadas. Os serviços FilmCam36 destinam-se a utilizadores com pelo menos 13 anos de idade. Os utilizadores são responsáveis por cumprir os requisitos legais de idade do país em que vivem. Ao utilizar a aplicação, os utilizadores declaram que cumprem estes requisitos.",
-    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
+    "translation": "O FilmCam36 oferece recursos de captura, edição e aplicação de filtros em fotos, além da criação de filmes compartilhados. Os serviços do FilmCam36 são para usuários com pelo menos 13 anos. Os usuários devem atender aos requisitos legais de idade do seu país. Ao usar o app, você declara que essas condições são atendidas.",
+    "sourceHash": "c6c71c25e612c76648d99a51b5dae4bf"
   },
   "termsOfService_ServiceUse_2": {
     "translation": "O utilizador só pode utilizar a aplicação para fins legais. O utilizador deve conceder as permissões necessárias (câmara, galeria, etc.) para utilizar a aplicação.",
@@ -1380,20 +1388,20 @@
     "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
   },
   "termsOfService_SharedActivities_UserContent": {
-    "translation": "4. actividades partilhadas e conteúdos do utilizador:",
-    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+    "translation": "4. Filmes compartilhados e conteúdo do usuário:",
+    "sourceHash": "520804b9ff73784118784e7088297314"
   },
   "termsOfService_SharedActivities_UserContent_1": {
-    "translation": "Todas as fotografias de uma atividade só podem ser visualizadas pelos membros da atividade.",
-    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+    "translation": "Todas as fotos de um filme só podem ser vistas pelos membros do filme.",
+    "sourceHash": "145b8f7ded5386353b47eface7395b24"
   },
   "termsOfService_SharedActivities_UserContent_2": {
     "translation": "Ninguém, incluindo a equipa FilmCam36, pode aceder ao conteúdo porque a aplicação utiliza encriptação de ponta a ponta.",
     "sourceHash": "73ed7993891fe69936e16c9a316d9176"
   },
   "termsOfService_SharedActivities_UserContent_3": {
-    "translation": "O utilizador é totalmente responsável pelo conteúdo que publica nas actividades partilhadas.",
-    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+    "translation": "Você é totalmente responsável pelo conteúdo que envia em filmes compartilhados.",
+    "sourceHash": "3328bdbf7989ba404f95653c7cd7945e"
   },
   "termsOfService_SharedActivities_UserContent_4": {
     "translation": "É proibida a utilização de conteúdos ilegais, nocivos ou que violem os direitos de autor.",
@@ -1404,8 +1412,8 @@
     "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
   },
   "termsOfService_E2E_Crypto_1": {
-    "translation": "O FilmCam36 encripta todas as fotografias e mensagens em actividades partilhadas como E2E:",
-    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+    "translation": "O FilmCam36 criptografa de ponta a ponta todas as fotos e mensagens em filmes compartilhados:",
+    "sourceHash": "b02a3cc85bc8f4012c657a6f4eb87872"
   },
   "termsOfService_E2E_Crypto_2": {
     "translation": "O conteúdo é encriptado no seu dispositivo.",
@@ -1420,8 +1428,8 @@
     "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
   },
   "termsOfService_E2E_Crypto_5": {
-    "translation": "As chaves de desencriptação estão apenas nos dispositivos dos membros da atividade.",
-    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+    "translation": "As chaves do filme existem apenas nos dispositivos dos membros do filme.",
+    "sourceHash": "ab1f18acadd022aa35647c1de6febe94"
   },
   "termsOfService_E2E_Crypto_6": {
     "translation": "Por conseguinte: A FilmCam36 não pode aceder, visualizar, editar ou partilhar o conteúdo do utilizador com terceiros.",
@@ -1560,12 +1568,12 @@
     "sourceHash": "5cfca368855e535991a2ba746c019615"
   },
   "privacyPolicy_CollectedData_SharedActivityData": {
-    "translation": "1.3 Dados de atividade partilhados:",
-    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+    "translation": "1.3. Dados de filmes compartilhados:",
+    "sourceHash": "df0adce1b83baee67ffd9b6d0ee33222"
   },
   "privacyPolicy_CollectedData_SharedActivityData_1": {
-    "translation": "Nomes de actividades, Membros da atividade, Fotografias (todas encriptadas E2E), Metadados para cada fotografia",
-    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+    "translation": "Nomes dos filmes, Membros do filme, Fotos (todas criptografadas E2E), Metadados de cada foto",
+    "sourceHash": "9c4bd52687f7f5d9c11c4256a23f448a"
   },
   "privacyPolicy_CollectedData_SharedActivityData_2": {
     "translation": "Nota: A equipa FilmCam36 não pode ver quaisquer fotografias. As fotografias são armazenadas em formato não descodificável.",
@@ -1584,8 +1592,8 @@
     "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
   },
   "privacyPolicy_UncollectedData_3": {
-    "translation": "Mensagens de inatividade",
-    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+    "translation": "Mensagens dentro do filme",
+    "sourceHash": "217f4984967d9e8e67c7862769c828a3"
   },
   "privacyPolicy_UncollectedData_4": {
     "translation": "Outras fotografias na galeria de utilizadores",
@@ -1608,8 +1616,8 @@
     "sourceHash": "b18450ea443d17728b0194358bc71827"
   },
   "privacyPolicy_DataStorage_2": {
-    "translation": "As fotografias de atividade são armazenadas encriptadas; as chaves permanecem nos dispositivos.",
-    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+    "translation": "As fotos do filme são armazenadas criptografadas; as chaves permanecem nos dispositivos.",
+    "sourceHash": "e11b9847cac606ad4320d1be7052bcb5"
   },
   "privacyPolicy_DataStorage_3": {
     "translation": "O conteúdo do utilizador \"não pode ser visualizado pelo programador\".",
@@ -1640,8 +1648,8 @@
     "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
   },
   "privacyPolicy_DataSharing_6": {
-    "translation": "A equipa FilmCam36 nunca terá acesso às suas Fotos, Mensagens, Chaves de desencriptação",
-    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+    "translation": "A equipe do FilmCam36 nunca pode acessar suas Fotos, Mensagens ou chaves de filme criptografadas",
+    "sourceHash": "c0da892ef857a4ecc1c4e98ca77518e1"
   },
   "ContactUs": {
     "translation": "Contactar-nos: Se tiver alguma dúvida sobre estes Termos de Serviço ou a Política de Privacidade, contacte-nos: filmcam36@themachineco.com",
@@ -1708,8 +1716,8 @@
     "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
-    "translation": "Dados a eliminar: A sua conta de utilizador, informações de perfil, todas as actividades que criou e todas as fotografias que carregou para essas actividades.",
-    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+    "translation": "Dados a excluir: Sua conta de usuário, informações de perfil, todos os filmes que você criou e todas as fotos enviadas para esses filmes.",
+    "sourceHash": "5fe8921a02908a3fca4111a11dd40f66"
   },
   "deleteAccount_policy4": {
     "translation": "Dados a armazenar: Não serão armazenados quaisquer dados pessoais, exceto para cumprimento de obrigações legais ou para fins comerciais legítimos (por exemplo, dados de análise anónimos e agregados).",

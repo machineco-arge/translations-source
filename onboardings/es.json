@@ -12,8 +12,8 @@
     "sourceHash": "6b554007f8b0740bc8837389131b75e3"
   },
   "onboardingSecondMessage": {
-    "translation": "Cada rollo está limitado a 36 exposiciones.\nUna vez terminada, la película se envía al laboratorio para su procesado",
-    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
+    "translation": "Cada carrete tiene una capacidad máxima de 36 exposiciones.\nCuando hayas terminado de hacer fotos con la película, puedes enviarla a revelar.",
+    "sourceHash": "c83e588f9b6b2f6106547cf93febbb7e"
   },
   "onboardingNext": {
     "translation": "Siguiente",
@@ -22,6 +22,14 @@
   "onboardingContinue": {
     "translation": "Continúe en",
     "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
+  },
+  "onboardingNegativesStepTitle": {
+    "translation": "¡Ya están listos los negativos!",
+    "sourceHash": "812ef0cd529058dea2186c4b730d1631"
+  },
+  "onboardingNegativesStepMessage": {
+    "translation": "Puedes ver el negativo digital del rollo de película antes de revelarlo.",
+    "sourceHash": "cc46586a29e4552c7d52bc081df57727"
   },
   "onboardingSendStepTitle": {
     "translation": "Listo para el desarrollo",
@@ -78,5 +86,13 @@
   "onboardingActivityTitle": {
     "translation": "Primera película",
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
+  },
+  "onboardingGoToHomeTitle": {
+    "translation": "Ahora crea tu propia película",
+    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+  },
+  "onboardingGoToHomeMessage": {
+    "translation": "Crea tu propia película probando las cámaras y eligiendo la que mejor se adapte al momento.",
+    "sourceHash": "de21aa56baeec831d6c4d23779605706"
   }
 }

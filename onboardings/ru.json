@@ -12,8 +12,8 @@
     "sourceHash": "6b554007f8b0740bc8837389131b75e3"
   },
   "onboardingSecondMessage": {
-    "translation": "Каждый рулон рассчитан на 36 экспозиций.\nПо окончании съемки пленка отправляется в лабораторию для обработки",
-    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
+    "translation": "Каждая пленка рассчитана на 36 кадров.\nКогда вы закончите снимать на пленку, её можно отправить на проявку.",
+    "sourceHash": "c83e588f9b6b2f6106547cf93febbb7e"
   },
   "onboardingNext": {
     "translation": "Следующий",
@@ -22,6 +22,14 @@
   "onboardingContinue": {
     "translation": "Продолжить",
     "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
+  },
+  "onboardingNegativesStepTitle": {
+    "translation": "Негативы готовы!",
+    "sourceHash": "812ef0cd529058dea2186c4b730d1631"
+  },
+  "onboardingNegativesStepMessage": {
+    "translation": "Вы можете просмотреть цифровой негатив фотопленки до её проявления.",
+    "sourceHash": "cc46586a29e4552c7d52bc081df57727"
   },
   "onboardingSendStepTitle": {
     "translation": "Готовность к разработке",
@@ -78,5 +86,13 @@
   "onboardingActivityTitle": {
     "translation": "Первый фильм",
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
+  },
+  "onboardingGoToHomeTitle": {
+    "translation": "А теперь создайте свой собственный фильм",
+    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+  },
+  "onboardingGoToHomeMessage": {
+    "translation": "Создайте свой собственный фильм, ознакомившись с камерами и выбрав ту, которая лучше всего подходит для данного момента.",
+    "sourceHash": "de21aa56baeec831d6c4d23779605706"
   }
 }

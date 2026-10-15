@@ -12,8 +12,8 @@
     "sourceHash": "6b554007f8b0740bc8837389131b75e3"
   },
   "onboardingSecondMessage": {
-    "translation": "Each roll is limited to 36 exposures.\nOnce finished, the film is sent to the lab for processing",
-    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
+    "translation": "Each roll is limited to 36 exposures.\nWhen you've finished taking photos on your film, you can send it for development.",
+    "sourceHash": "c83e588f9b6b2f6106547cf93febbb7e"
   },
   "onboardingNext": {
     "translation": "Next",
@@ -22,6 +22,14 @@
   "onboardingContinue": {
     "translation": "Continue",
     "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
+  },
+  "onboardingNegativesStepTitle": {
+    "translation": "The negatives are ready!",
+    "sourceHash": "812ef0cd529058dea2186c4b730d1631"
+  },
+  "onboardingNegativesStepMessage": {
+    "translation": "You can view the digital negative of the film roll before the film is developed.",
+    "sourceHash": "cc46586a29e4552c7d52bc081df57727"
   },
   "onboardingSendStepTitle": {
     "translation": "Ready for development",
@@ -78,5 +86,13 @@
   "onboardingActivityTitle": {
     "translation": "First Film",
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
+  },
+  "onboardingGoToHomeTitle": {
+    "translation": "Now create your own film",
+    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+  },
+  "onboardingGoToHomeMessage": {
+    "translation": "Create your own film by exploring the cameras and selecting the one that best suits the moment.",
+    "sourceHash": "de21aa56baeec831d6c4d23779605706"
   }
 }

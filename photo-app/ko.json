@@ -316,8 +316,8 @@
     "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "필름롤이 가득 찼습니다. 활동 소유자가 현상으로 보내기를 기다리세요",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "필름롤이 가득 찼습니다. 필름 소유자가 필름을 현상으로 보내기를 기다리세요",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_cameraScreen_switchCamera": {
     "translation": "카메라 전환",
@@ -332,8 +332,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "활동 소유자가 이 필름롤을 현상으로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
-    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
+    "translation": "필름 소유자가 이 필름롤을 현상으로 보냈기 때문에 더 이상 사진을 찍을 수 없습니다.",
+    "sourceHash": "3772dcfeaa6d0c190c81029c0ddd8b76"
   },
   "_filmScreen_title": {
     "translation": "내 영화",
@@ -356,8 +356,8 @@
     "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
   },
   "_filmScreen_editActivityTitle": {
-    "translation": "활동 제목 수정",
-    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+    "translation": "필름 제목 편집",
+    "sourceHash": "106e4b6f37f8544afa462d9cce69373b"
   },
   "_filmScreen_enterNewActivityTitle": {
     "translation": "새 제목을 입력합니다(최대 {{maxTitleLength}} 자, 기본값으로 돌아가려면 비워 두세요).",
@@ -424,20 +424,20 @@
     "sourceHash": "2826a23619aa76f754015db43192740a"
   },
   "_filmScreen_specialActivitiesSection": {
-    "translation": "특별 활동",
-    "sourceHash": "2f96950c38146317a97619ca2facae56"
+    "translation": "내 스페셜 필름",
+    "sourceHash": "c2ebbff7e702f66e685efd048e4019a0"
   },
   "_filmScreen_myActivitiesSection": {
-    "translation": "내 활동",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "내 필름",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} 사각형 미리보기",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_activeActivitiesSection": {
-    "translation": "주요 활동",
-    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+    "translation": "내 활성 필름",
+    "sourceHash": "ea245cdbfab7ab1b5cb42b3c514d7dc9"
   },
   "_filmScreen_printingActivitiesSection": {
     "translation": "개발에 제출됨",
@@ -464,12 +464,12 @@
     "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
-    "translation": "활동 참여하기",
-    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+    "translation": "필름에 참가",
+    "sourceHash": "04156e93560a66f5ff971c741d9c7d5f"
   },
   "_filmScreen_joinActivityMessage": {
-    "translation": "이 활동에 참여하시겠습니까?",
-    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+    "translation": "이 필름에 참가하시겠습니까?",
+    "sourceHash": "17ea392bb38bcb5927d655c76579ad88"
   },
   "_filmScreen_invalidInvitationLink": {
     "translation": "잘못된 초대 링크입니다.",
@@ -484,12 +484,12 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "이 활동의 참가 정원이 마감되었습니다. 정원을 늘리려면 활동 주최자가 Pro 회원이어야 합니다.",
-    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+    "translation": "이 필름의 참가 한도가 가득 찼습니다. 한도를 늘리려면 필름 소유자가 Pro 회원이어야 합니다.",
+    "sourceHash": "11b76e4edacdcab268ef8ed55360a12a"
   },
   "_filmScreen_ownerLimitReachedMessage": {
-    "translation": "이 활동의 참가 정원이 마감되었습니다. 정원을 늘리려면 Pro 회원이 되셔야 합니다.",
-    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
+    "translation": "이 필름의 참가 한도가 가득 찼습니다. 한도를 늘리려면 Pro 회원이 되어야 합니다.",
+    "sourceHash": "75bd4372eab88521bba001985bd1cf4c"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "승인 대기 중",
@@ -504,8 +504,8 @@
     "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
   },
   "_filmScreen_sharedActivity": {
-    "translation": "공유 활동",
-    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+    "translation": "공유 필름",
+    "sourceHash": "fb4bda78c3e5e8b7f0504378908423c9"
   },
   "_filmScreen_joinRequestStatusPending": {
     "translation": "승인 대기 중",
@@ -516,20 +516,20 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "활동에 초대",
-    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
+    "translation": "필름에 초대",
+    "sourceHash": "e12d058930b128ee2249ac4bf581425c"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "이 활동을 공유 활동으로 설정하고 친구를 활동에 초대하시겠습니까?",
-    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
+    "translation": "이 필름을 공유 필름으로 만들고 친구들을 필름에 초대하시겠습니까?",
+    "sourceHash": "9788bb537d9590af723a2bc063ce4e36"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "이 활동에 친구들을 초대할 수 있습니다. 이 기능을 사용하려면 로그인해야 합니다. 로그인하시겠습니까?",
-    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
+    "translation": "이 필름에 친구들을 초대할 수 있습니다. 이 기능을 사용하려면 로그인해야 합니다. 로그인하시겠습니까?",
+    "sourceHash": "7cbd9b765d99c4db34228817507a3048"
   },
   "_filmScreen_shareInviteTitle": {
-    "translation": "활동 초대 링크",
-    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+    "translation": "필름 초대 링크",
+    "sourceHash": "60a42cd6f8e08f9588943e633a96f8b0"
   },
   "_filmScreen_shareFailedErrorMessage": {
     "translation": "초대 링크를 공유하는 동안 오류가 발생했습니다.",
@@ -540,8 +540,8 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "초대장을 QR 코드로 공유하시겠습니까, 아니면 이벤트 링크로 공유하시겠습니까?",
-    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
+    "translation": "초대장을 QR 코드로 공유하시겠습니까, 아니면 링크로 공유하시겠습니까?",
+    "sourceHash": "f146df177b97df7295ccb477aaee768f"
   },
   "_filmScreen_shareOthersButtonLabel": {
     "translation": "링크",
@@ -560,60 +560,56 @@
     "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "이 활동은 10명의 사용자로 제한됩니다. 참가 인원 제한 없이 참여하려면 Pro 회원이 되어 주세요.",
-    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
+    "translation": "이 필름이 공유 필름이 되면 10명의 사용자로 제한됩니다. 무제한 참가를 위해 Pro 회원이 되세요.",
+    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "필름롤이 가득 찼습니다. 활동 소유자가 현상으로 보내기를 기다리세요",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "필름롤이 가득 찼습니다. 필름 소유자가 필름을 현상으로 보내기를 기다리세요",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_filmScreen_linkShareError": {
-    "translation": "이 활동에 대한 초대 링크를 찾을 수 없습니다.",
-    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+    "translation": "이 필름의 초대 링크를 찾을 수 없습니다.",
+    "sourceHash": "c359247eaa02b092459a6401c30fdf38"
   },
   "_filmScreen_editNameError": {
-    "translation": "활동 이름을 업데이트하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
-    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+    "translation": "필름 이름을 업데이트하는 중 오류가 발생했습니다. 나중에 다시 시도하세요.",
+    "sourceHash": "84ea25009389c2db106b0d05b427762f"
   },
   "_filmScreen_requestKeyError": {
-    "translation": "활동 키를 요청하는 동안 오류가 발생했습니다.",
-    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+    "translation": "필름 키를 요청하는 중 오류가 발생했습니다.",
+    "sourceHash": "7ef38fa1b54f5d015067e696ec6e2fd3"
   },
   "_filmScreen_requestKeySuccess": {
-    "translation": "활동 키 요청이 성공적으로 전송되었습니다.",
-    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+    "translation": "필름 키 요청이 성공적으로 전송되었습니다.",
+    "sourceHash": "dc7d244b602d4f8e7f5adee8ce1e0e84"
   },
   "_filmScreen_deleteActivity": {
-    "translation": "활동 삭제",
-    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+    "translation": "필름 삭제",
+    "sourceHash": "6381a18ff3c5b98ab8d0e5b897ee4e71"
   },
   "_filmScreen_deleteActivityMessage": {
-    "translation": "이 활동을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
-    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+    "translation": "이 필름을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+    "sourceHash": "c3e0a39434c17f8aa172d53152ca94e2"
   },
   "_filmScreen_deleteActivityErrorMessage": {
-    "translation": "활동을 삭제하는 동안 오류가 발생했습니다.",
-    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+    "translation": "필름을 삭제하는 중 오류가 발생했습니다.",
+    "sourceHash": "6f69dee1d269a520e658a6a76ec15fe0"
   },
   "_filmScreen_leaveActivity": {
-    "translation": "활동 남기기",
-    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+    "translation": "필름 나가기",
+    "sourceHash": "22b263f39460b0d140f8d28dc1100abc"
   },
   "_filmScreen_leaveActivityMessage": {
-    "translation": "이 활동을 종료하시겠습니까?",
-    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+    "translation": "이 필름에서 나가시겠습니까?",
+    "sourceHash": "b04a6aae37343aa7b461afc6c9679c7f"
   },
   "_filmScreen_leaveActivityErrorMessage": {
-    "translation": "활동을 종료하는 동안 오류가 발생했습니다.",
-    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+    "translation": "필름에서 나가는 중 오류가 발생했습니다.",
+    "sourceHash": "5ef0adf4613b3626af198e372d5bf0e5"
   },
   "_filmScreen_share": {
-    "translation": "초대",
-    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
-  },
-  "_filmScreen_cannotShareActivityWithPhotos": {
-    "translation": "일반 활동은 사진과 함께 공유할 수 없습니다.",
-    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+    "translation": "친구 추가",
+    "sourceHash": "f6f22c3223328c2cf8cd54302e5ad525"
   },
   "_filmScreen_speedingUp": {
     "translation": "현상 가속 중...",
@@ -626,6 +622,10 @@
   "_filmScreen_goToAlbum": {
     "translation": "사진 보기",
     "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
+  },
+  "_filmScreen_newAlbum": {
+    "translation": "새로운",
+    "sourceHash": "b41bc3592e0e3f8d26b1c93ff0318a5d"
   },
   "_filmScreen_printCompleted": {
     "translation": "사진 현상이 완료되었습니다!",
@@ -648,8 +648,8 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} 장의 사진을 더 찍거나 활동 소유자가 인쇄용으로 보내기를 기다리세요.",
-    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
+    "translation": "{{totalShots}} 장의 사진을 더 찍거나 필름 소유자가 필름을 현상으로 보내기를 기다리세요.",
+    "sourceHash": "a4028bde482c63db518dd62d7696ab83"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "{{totalShots}} 장의 사진을 더 찍거나 인쇄용으로 보내세요.",
@@ -684,8 +684,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "아직 이 활동에 대한 수요는 없습니다.",
-    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
+    "translation": "이 필름에 대한 요청이 아직 없습니다.",
+    "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
     "translation": "참가자 정보를 찾을 수 없습니다.",
@@ -704,20 +704,20 @@
     "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "활동 키를 보내지 못했습니다. 나중에 다시 시도하세요.",
-    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
+    "translation": "필름 키를 보낼 수 없습니다. 나중에 다시 시도하세요.",
+    "sourceHash": "d1df5ff47a5c764155d511541633c00c"
   },
   "_participantModal_sessionKeySuccess": {
-    "translation": "활동 키가 성공적으로 전송되었습니다.",
-    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+    "translation": "필름 키가 성공적으로 전송되었습니다.",
+    "sourceHash": "dc642647700f846e3519e45ee8bf0fe4"
   },
   "_participantModal_sendSessionKey": {
-    "translation": "활동 키 보내기",
-    "sourceHash": "19789df66647c81a679daec245f546b1"
+    "translation": "필름 키 보내기",
+    "sourceHash": "61f4b3595078e04bdf040aa7be3476b8"
   },
   "_participantModal_noHasSessionKey": {
-    "translation": "활동 키가 없습니다.",
-    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+    "translation": "필름 키가 없습니다.",
+    "sourceHash": "ad6f8bc160ed411a1359169296962c83"
   },
   "_participantModal_requestSessionKey": {
     "translation": "다시 물어보세요",
@@ -738,6 +738,14 @@
   "_homeScreen_specialEventResolveError": {
     "translation": "특별 이벤트를 로드하는 동안 오류가 발생했습니다.",
     "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
+  "_homeScreen_selectCamera": {
+    "translation": "카메라 선택",
+    "sourceHash": "22f40a5854822323681b14a3fae59d73"
+  },
+  "_homeScreen_selectFilmRoll": {
+    "translation": "필름롤을 선택하고 촬영을 시작합니다.",
+    "sourceHash": "3a425cfca5342336a6d1e9541399b5fa"
   },
   "timeOptions": {
     "express": {
@@ -940,8 +948,8 @@
     "sourceHash": "36ccaa3c7a03143779eac361c313715d"
   },
   "_selectFilm_loginRequiredToCreateActivityMessage": {
-    "translation": "이 활동을 만들려면 로그인해야 합니다.",
-    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+    "translation": "이 필름을 만들려면 로그인해야 합니다.",
+    "sourceHash": "158d96696559e093de8eba35f1e71279"
   },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "필름 롤 권한이 부족합니다.",
@@ -952,23 +960,23 @@
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
   "_selectFilm_filmCreateActivityAlertTitle": {
-    "translation": "활동 만들기",
-    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+    "translation": "필름 생성 중",
+    "sourceHash": "b795112c250285c2e1fa91335c93a578"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "활동은 카메라 ' {{cameraName}} - {{shots}} '로 만들어집니다.",
-    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
+    "translation": "'{{cameraName}} - {{shots}}' 카메라로 필름을 생성하고 있습니다.",
+    "sourceHash": "c877c6095fcae03c6d2cbaad759fd334"
   },
   "_selectFilm_confirmCreateActivityTitle": {
     "translation": "확실하신가요?",
     "sourceHash": "73013ad3a613e5d23694f758eed26863"
   },
   "_selectFilm_confirmCreateActivityMessage": {
-    "translation": "새 활동을 생성하시겠습니까?",
-    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
+    "translation": "새 필름을 만드시겠습니까?",
+    "sourceHash": "48d4db29b0b00a6516bd56d9896b1cb4"
   },
   "_selectFilm_selectFilmCount": {
-    "translation": "필름 롤 선택",
+    "translation": "필름롤 선택",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
   "_selectFilm_activityCooldownHours": {
@@ -984,8 +992,8 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "{{time}} 후에 새 활동을 만들 수 있습니다. 기다리고 싶지 않다면 Pro 회원이 되세요.",
-    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
+    "translation": "{{time}} 후에 새 필름을 만들 수 있습니다. 기다리고 싶지 않다면 Pro 회원이 되세요.",
+    "sourceHash": "8ee06d843f0f83fde1a3a9b46b39d30c"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "약관 및 정책",
@@ -1012,20 +1020,20 @@
     "sourceHash": "35fba9105deba4815f0e649af499879f"
   },
   "_faq_q_virtual_camera": {
-    "translation": "가상 카메라란 무엇인가요?",
-    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+    "translation": "가상 필름이란 무엇인가요?",
+    "sourceHash": "76a0cb3a0b5ba909b8636fdc1009ed39"
   },
   "_faq_a_virtual_camera": {
-    "translation": "'카메라 활동'은 디지털 필름 롤과 같습니다. 카메라 활동은 **카메라**에서 원하는 카메라 필터를 노출 수가 제한된 필름 롤(예: 12, 24, 36 노출)과 결합합니다. 생성한 각 카메라는 촬영한 사진을 특별한 앨범에 그룹화합니다.",
-    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
+    "translation": "\"필름 카메라\"는 디지털 필름롤과 같습니다. **카메라**에서 마음에 드는 카메라 필터와 촬영 장수가 제한된 필름롤(예: 12, 24, 36장)을 결합합니다. 만든 각 필름 카메라는 촬영한 사진을 자신만의 특별한 필름으로 그룹화합니다.",
+    "sourceHash": "5c44ca43dc859be9a205cd66b82d7d02"
   },
   "_faq_q_printing": {
-    "translation": "포토 배스(인쇄)란 무엇인가요?",
-    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+    "translation": "사진 현상이란 무엇인가요?",
+    "sourceHash": "743f779dce0e59df19b5943557128626"
   },
   "_faq_a_printing": {
-    "translation": "카메라 활동의 필름롤에 있는 모든 샷을 채웠을 때—또는 원할 때 언제든지—필름롤을 \"현상으로 보낼\" 수 있습니다. 이렇게 하면 선택한 시간(예: 8, 24, 36시간)의 카운트다운이 시작되며, 그 후 사진이 \"현상\"되어 보이게 됩니다. 시간이 지나면 암호화된 사진의 잠금이 해제되어 앨범에 나타납니다.",
-    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
+    "translation": "필름 카메라의 필름롤에 있는 모든 샷을 채웠을 때—또는 원할 때 언제든지—필름롤을 \"현상으로 보낼\" 수 있습니다. 이렇게 하면 선택한 시간(예: 8, 24, 36시간)의 카운트다운이 시작되며, 그 후 사진이 \"현상\"되어 보이게 됩니다. 시간이 지나면 암호화된 사진의 잠금이 해제되어 완성된 필름에 나타납니다.",
+    "sourceHash": "be6a36a0eba19014d95c8ce3733cec92"
   },
   "_faq_section_features": {
     "translation": "주요 기능",
@@ -1036,120 +1044,120 @@
     "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "카메라에서는 앱의 모든 독특한 카메라 필터를 살펴볼 수 있습니다. 각 카메라는 고유한 색상, 질감 및 특성을 가진 필터를 나타냅니다. 카메라를 탭하면 해당 필터로 촬영한 '전후' 샘플 사진을 보고 자신의 스타일에 가장 잘 맞는 필터를 선택할 수 있습니다.",
+    "translation": "카메라는 앱의 모든 고유한 카메라 필터를 탐색할 수 있는 곳입니다. 각 카메라는 고유한 색감, 질감, 개성을 가진 필터를 나타냅니다. 카메라를 탭하면 해당 필터로 촬영한 \"전후\" 샘플 사진을 보고 스타일에 맞는 것을 고를 수 있습니다.",
     "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "새 활동을 만들려면 어떻게 하나요?",
-    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
+    "translation": "새 필름을 만들려면 어떻게 하나요?",
+    "sourceHash": "38eeb0c639ed10b1aefbe5fc045d35e3"
   },
   "_faq_a_new_activity": {
-    "translation": "카메라에서 원하는 카메라를 탭하여 '카메라 롤 선택' 화면으로 이동합니다. 여기에서 노출 번호가 다른 필름 롤(예: 12, 24, 36) 중 하나를 선택하여 원하는 필터와 함께 사용할 새 카메라 활동을 만들 수 있습니다.",
-    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
+    "translation": "카메라에서 마음에 드는 카메라를 탭하여 \"필름롤 선택\" 화면으로 이동합니다. 여기에서 선택한 필터와 함께 사용할 서로 다른 장수(12, 24, 36 등)의 필름롤을 골라 새 필름을 만들 수 있습니다.",
+    "sourceHash": "e0cb4211b878270a872c4c8990f91fa8"
   },
   "_faq_section_my_cameras": {
-    "translation": "내 활동",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "내 필름",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_faq_q_camera_cards": {
-    "translation": "활동 카드란 무엇을 의미하나요?",
-    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
+    "translation": "필름 카드는 무엇을 의미하나요?",
+    "sourceHash": "4568eeed1fe76565c3a14459100addd7"
   },
   "_faq_a_camera_cards": {
-    "translation": "각 카드는 가상 카메라를 나타내며 다음 정보를 표시합니다:\n- 제목:** 활동 이름(변경할 수 있음).\n- 날짜 및 위치:** 활동을 만든 날짜와 (가능한 경우) 마지막 사진을 촬영한 위치입니다.\n- 사진 정보:** 사용 중인 필름 롤에 사용된 노출 횟수(예: 15/24)입니다.",
-    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
+    "translation": "각 카드는 가상 필름 카메라를 나타내며 다음 정보를 표시합니다:\n- **제목:** 변경할 수 있는 필름 이름.\n- **날짜 및 위치:** 필름이 생성된 날짜와 (있는 경우) 마지막 사진 촬영 위치.\n- **사진 정보:** 필름롤에서 사용한 샷 수(예: 15/24).",
+    "sourceHash": "caa97abd53d1a061aca4ec135fe7c629"
   },
   "_faq_q_add_photo": {
-    "translation": "기존 활동에 사진을 추가하려면 어떻게 하나요?",
-    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
+    "translation": "기존 필름에 사진을 추가하려면 어떻게 하나요?",
+    "sourceHash": "3bd48768a5598b2cec2e9fe0b61b569c"
   },
   "_faq_a_add_photo": {
-    "translation": "카메라 롤에 노출이 비어 있는 경우 '내 활동' 화면에서 해당 카메라 활동을 탭하여 카메라 화면으로 바로 전환하고 사진 촬영을 계속할 수 있습니다.",
-    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
+    "translation": "필름롤에 빈 샷이 있으면 \"내 필름\" 화면에서 해당 필름 카드를 탭하여 카메라 화면으로 바로 이동해 촬영을 계속할 수 있습니다.",
+    "sourceHash": "47b69a2245281878476343206bcc67af"
   },
   "_faq_q_rename_camera": {
-    "translation": "활동 이름은 어떻게 변경하나요?",
-    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
+    "translation": "필름 이름을 바꾸려면 어떻게 하나요?",
+    "sourceHash": "d57b3c64c7008dd68ceed97c963b0fb0"
   },
   "_faq_a_rename_camera": {
-    "translation": "각 활동 카드 옆에 있는 펜 아이콘을 탭하여 활동에 특별한 이름을 지정할 수 있습니다.",
-    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
+    "translation": "각 필름 카드 옆의 연필 아이콘을 탭하여 필름에 원하는 이름을 지정할 수 있습니다.",
+    "sourceHash": "52d91084f655e1cef22dad63aa135011"
   },
   "_faq_q_send_to_print": {
     "translation": "사진을 현상으로 보내려면 어떻게 하나요?",
     "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "카메라 활동 하단의 \"현상으로 보내기\" 버튼을 탭하세요. 그런 다음 사진이 준비될 때까지의 시간을 선택합니다(예: 8, 12, 24, 36시간). 더 짧은 시간(Express)에는 보상형 광고 시청이 필요할 수 있습니다.",
-    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
+    "translation": "필름 카드 하단의 \"현상으로 보내기\" 버튼을 탭하세요. 그런 다음 사진이 준비될 때까지의 시간을 선택합니다(예: 8, 12, 24, 36시간). 더 짧은 시간(Express)에는 Pro 회원이 필요할 수 있습니다.",
+    "sourceHash": "eb79d52683863ef51538198731f419e7"
   },
   "_faq_section_shared_cameras": {
-    "translation": "공유 활동",
-    "sourceHash": "936979acaeda843e3f831f8b57879a10"
+    "translation": "공유 필름",
+    "sourceHash": "ea2e454869c6a7e7a7b10958cc75e7aa"
   },
   "_faq_q_how_to_share": {
-    "translation": "활동을 공유하려면 어떻게 하나요?",
-    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
+    "translation": "필름을 공유하려면 어떻게 하나요?",
+    "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "'내 활동' 화면에서 공유하려는 활동 카드의 초대 아이콘을 탭합니다. 그러면 해당 활동이 공유 활동이 되고 해당 활동과 관련된 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 친구를 초대할 수 있습니다.",
-    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
+    "translation": "\"내 필름\" 화면에서 공유하려는 필름 카드의 \"참가자\" 아이콘을 탭하세요. 그러면 필름이 공유 필름이 되고 필름 전용 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 초대할 수 있습니다.",
+    "sourceHash": "93e356768942ba6307ba9acde06485ff"
   },
   "_faq_q_join_shared": {
-    "translation": "공유 활동에 참여하려면 어떻게 하나요?",
-    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
+    "translation": "공유 필름에 참가하려면 어떻게 하나요?",
+    "sourceHash": "83659273325e0e65d138bf249a5f4e7a"
   },
   "_faq_a_join_shared": {
-    "translation": "전송된 초대 링크를 클릭합니다. 애플리케이션이 열리면 액티비티 참여 요청이 액티비티 소유자에게 전송됩니다. 활동 소유자가 요청을 승인하면 '내 활동' 화면에 카메라가 나타나고 사진 촬영을 시작할 수 있습니다.",
-    "sourceHash": "7817fff38a09f950460ee883ad87de74"
+    "translation": "받은 초대 링크를 탭하세요. 앱이 열리면 참가 요청이 필름 소유자에게 전송됩니다. 소유자가 승인한 후 필름 카메라가 \"내 필름\" 화면에 나타나며 촬영을 시작할 수 있습니다.",
+    "sourceHash": "f8aaaaae57cb7cf250a4405bfbc852f8"
   },
   "_faq_q_requests_and_notifications": {
-    "translation": "참여 요청 및 알림",
+    "translation": "참가 요청 및 알림",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "활동 소유자는 활동 카드의 '참가자' 아이콘을 탭하여 수신 요청을 확인, 승인 또는 거부할 수 있습니다. 승인 또는 거부되면 알림을 받게 됩니다. '내 활동' 화면의 오른쪽 상단에 있는 종 아이콘에서 모든 알림을 확인할 수 있습니다.",
-    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
+    "translation": "필름 소유자는 필름 카드의 \"참가자\" 아이콘을 탭하여 들어온 요청을 보고 승인하거나 거절할 수 있습니다. 승인되거나 거절되면 알림을 받습니다.",
+    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
   },
   "_faq_q_e2e_encryption": {
     "translation": "보안 및 개인정보 보호(종단 간 암호화)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "공유 활동의 모든 사진은 **종단간 암호화**됩니다. 즉, 활동 소유자와 승인된 참가자를 제외한 **누구도**(Filmcam36 팀 포함)가 사진을 볼 수 없습니다. 각 공유 활동에 대해 개인 \"세션 키\"가 생성되며, 이는 참가자의 기기에서만 사용할 수 있고 모든 암호화/복호화는 기기에서 직접 수행됩니다. 따라서 나와 친구들의 추억은 완전히 비공개로 유지됩니다.\n- 공유 활동 중에 실수로 앱을 삭제하여 '세션 키'가 손실된 경우, 앱을 다시 다운로드한 후 관련 카메라 활동에 경고 메시지가 표시됩니다. 이 경고가 표시되는 모든 공유 카메라 활동의 경우, 해당 활동의 참가자에게 '세션 키'를 다시 요청할 수 있습니다.",
-    "sourceHash": "d802fe5691925de986bc11bbc8242425"
+    "translation": "공유 필름의 모든 사진은 **종단 간 암호화**됩니다. 즉, 필름 소유자와 승인된 참가자 외에는 **누구도**(Filmcam36 팀 포함) 사진을 볼 수 없습니다. 각 공유 필름마다 참가자 기기에만 있는 특별한 \"필름 키\"가 생성되며, 모든 암호화/복호화는 기기에서 직접 이루어집니다. 이렇게 추억은 당신과 친구들만의 것이 됩니다.\n- 공유 필름 사용 중 앱을 실수로 삭제해 \"필름 키\"를 잃으면, 재설치 후 해당 필름 카드에 경고가 표시됩니다. 이 경고가 있는 모든 공유 필름 카메라에 대해 해당 필름 참가자에게 \"필름 키\"를 다시 요청할 수 있습니다.",
+    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
   },
   "_faq_section_album": {
-    "translation": "앨범",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "현상된 필름",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
   },
   "_faq_q_album_tabs": {
-    "translation": "앨범이란 무엇인가요?",
-    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
+    "translation": "현상된 필름이란 무엇인가요?",
+    "sourceHash": "602ea9cc603a371d3cb7446ae35cfecb"
   },
   "_faq_a_album_tabs": {
-    "translation": "- 앨범:** 여기에서 앨범을 만든 활동에서 카메라로 현상한 사진을 찾을 수 있습니다.\n",
-    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
+    "translation": "- **현상된 필름:** 만든 필름 카메라에서 현상된 사진을 필름 단위로 여기서 찾을 수 있습니다.\n",
+    "sourceHash": "d335e64fea49df652e245682894a3d12"
   },
   "_faq_q_photo_actions": {
-    "translation": "내 사진으로 무엇을 할 수 있나요?",
+    "translation": "사진으로 무엇을 할 수 있나요?",
     "sourceHash": "1f3462c677886c1796aadb6474b1360d"
   },
   "_faq_a_photo_actions": {
-    "translation": "전체 화면 모드에서:\n- 저장:** 사진을 디바이스의 갤러리에 저장할 수 있습니다.\n- 공유:** 다른 애플리케이션을 통해 사진을 공유할 수 있습니다.\n- 삭제:** 애플리케이션에서 사진을 영구적으로 삭제할 수 있습니다.\n- 프로필 사진 만들기:** 사진을 앱 내 프로필 사진으로 설정할 수 있습니다.",
-    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+    "translation": "전체 화면 모드에서:\n- **저장:** 사진을 기기 갤러리에 저장할 수 있습니다.\n- **공유:** 다른 앱으로 사진을 공유할 수 있습니다.\n- **삭제:** 앱에서 사진을 영구적으로 삭제할 수 있습니다.",
+    "sourceHash": "7c541e94649ac3c848026a47c9f6d20f"
   },
   "_faq_section_settings": {
     "translation": "설정 및 프로필",
     "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
   },
   "_faq_q_edit_profile": {
-    "translation": "내 프로필은 어떻게 구성하나요?",
+    "translation": "프로필을 편집하려면 어떻게 하나요?",
     "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
   },
   "_faq_a_edit_profile": {
-    "translation": "'앨범' 탭에 있는 경우 상단의 프로필 섹션 또는 설정 메뉴의 '계정'으로 이동하여 프로필 정보와 사진을 업데이트할 수 있습니다.",
-    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+    "translation": "\"내 필름\" 화면 상단의 프로필 섹션 또는 설정 메뉴의 \"계정\"에서 프로필 정보와 사진을 업데이트할 수 있습니다.",
+    "sourceHash": "091e1c688cb669c3346526297c4fe6f6"
   },
   "_faq_q_theme": {
     "translation": "애플리케이션 테마(다크/라이트 모드)는 어떻게 변경하나요?",
@@ -1336,8 +1344,8 @@
     "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
-    "translation": "공유 활동: 사용자는 그룹을 만들어 함께 사진을 찍고, 필터링하고, 앨범을 공유할 수 있습니다. 모든 콘텐츠는 엔드투엔드 암호화됩니다.",
-    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+    "translation": "공유 필름: 사용자가 그룹을 만들어 함께 사진을 찍고, 필터를 적용하며, 필름을 공유하는 것. 모든 콘텐츠는 종단 간 암호화됩니다.",
+    "sourceHash": "df377c8f89d7099a02637dee57d8b5c0"
   },
   "termsOfService_E2E": {
     "translation": "E2E 암호화: 송수신 장치에서만 콘텐츠의 암호를 해독할 수 있고 FilmCam36 서버는 콘텐츠에 액세스할 수 없는 암호화 시스템입니다.",
@@ -1348,8 +1356,8 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36은 사진 촬영, 편집, 필터 적용, 공유 활동 생성 기능을 제공합니다. FilmCam36 서비스는 만 13세 이상의 사용자를 위한 서비스입니다. 사용자는 자신이 거주하는 국가의 법적 연령 요건을 충족할 책임이 있습니다. 사용자는 애플리케이션을 사용함으로써 이러한 요건을 충족함을 선언합니다.",
-    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
+    "translation": "FilmCam36은 사진 촬영, 편집, 필터 적용 및 공유 필름 생성 기능을 제공합니다. FilmCam36 서비스는 만 13세 이상 사용자를 위한 것입니다. 사용자는 거주 국가의 법적 연령 요건을 충족할 책임이 있습니다. 앱을 사용함으로써 이러한 조건이 충족되었음을 선언하게 됩니다.",
+    "sourceHash": "c6c71c25e612c76648d99a51b5dae4bf"
   },
   "termsOfService_ServiceUse_2": {
     "translation": "합법적인 목적으로만 앱을 사용할 수 있습니다. 앱을 사용하려면 필요한 권한(카메라, 갤러리 등)을 부여해야 합니다.",
@@ -1380,20 +1388,20 @@
     "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
   },
   "termsOfService_SharedActivities_UserContent": {
-    "translation": "4. 공유 활동 및 사용자 콘텐츠:",
-    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+    "translation": "4. 공유 필름 및 사용자 콘텐츠:",
+    "sourceHash": "520804b9ff73784118784e7088297314"
   },
   "termsOfService_SharedActivities_UserContent_1": {
-    "translation": "활동 내의 모든 사진은 활동 회원만 볼 수 있습니다.",
-    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+    "translation": "필름 내 모든 사진은 필름 멤버만 볼 수 있습니다.",
+    "sourceHash": "145b8f7ded5386353b47eface7395b24"
   },
   "termsOfService_SharedActivities_UserContent_2": {
     "translation": "이 애플리케이션은 종단 간 암호화를 사용하기 때문에 FilmCam36 팀을 포함한 그 누구도 콘텐츠에 액세스할 수 없습니다.",
     "sourceHash": "73ed7993891fe69936e16c9a316d9176"
   },
   "termsOfService_SharedActivities_UserContent_3": {
-    "translation": "공유 활동에 게시하는 콘텐츠에 대한 책임은 전적으로 회원님에게 있습니다.",
-    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+    "translation": "공유 필름에서 보낸 콘텐츠에 대한 책임은 전적으로 본인에게 있습니다.",
+    "sourceHash": "3328bdbf7989ba404f95653c7cd7945e"
   },
   "termsOfService_SharedActivities_UserContent_4": {
     "translation": "불법적이고 유해하며 저작권을 침해하는 콘텐츠의 사용은 금지되어 있습니다.",
@@ -1404,8 +1412,8 @@
     "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
   },
   "termsOfService_E2E_Crypto_1": {
-    "translation": "FilmCam36은 공유 활동의 모든 사진과 메시지를 E2E로 암호화합니다:",
-    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+    "translation": "FilmCam36은 공유 필름의 모든 사진과 메시지를 E2E로 암호화합니다:",
+    "sourceHash": "b02a3cc85bc8f4012c657a6f4eb87872"
   },
   "termsOfService_E2E_Crypto_2": {
     "translation": "콘텐츠는 장치에서 암호화됩니다.",
@@ -1420,8 +1428,8 @@
     "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
   },
   "termsOfService_E2E_Crypto_5": {
-    "translation": "암호 해독 키는 활동 멤버의 디바이스에만 있습니다.",
-    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+    "translation": "필름 키는 필름 멤버의 기기에만 있습니다.",
+    "sourceHash": "ab1f18acadd022aa35647c1de6febe94"
   },
   "termsOfService_E2E_Crypto_6": {
     "translation": "따라서: 필름캠36은 사용자 콘텐츠에 액세스, 열람, 편집 또는 제3자와 공유할 수 없습니다.",
@@ -1560,12 +1568,12 @@
     "sourceHash": "5cfca368855e535991a2ba746c019615"
   },
   "privacyPolicy_CollectedData_SharedActivityData": {
-    "translation": "1.3. 공유 활동 데이터:",
-    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+    "translation": "1.3. 공유 필름 데이터:",
+    "sourceHash": "df0adce1b83baee67ffd9b6d0ee33222"
   },
   "privacyPolicy_CollectedData_SharedActivityData_1": {
-    "translation": "활동 이름, 활동 구성원, 사진(모두 E2E 암호화), 각 사진의 메타데이터",
-    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+    "translation": "필름 이름, 필름 멤버, 사진(모두 E2E 암호화), 각 사진의 메타데이터",
+    "sourceHash": "9c4bd52687f7f5d9c11c4256a23f448a"
   },
   "privacyPolicy_CollectedData_SharedActivityData_2": {
     "translation": "참고: FilmCam36 팀은 사진을 볼 수 없습니다. 사진은 디코딩할 수 없는 형식으로 저장됩니다.",
@@ -1584,8 +1592,8 @@
     "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
   },
   "privacyPolicy_UncollectedData_3": {
-    "translation": "활동 중 메시지",
-    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+    "translation": "필름 내 메시지",
+    "sourceHash": "217f4984967d9e8e67c7862769c828a3"
   },
   "privacyPolicy_UncollectedData_4": {
     "translation": "사용자 갤러리의 다른 사진",
@@ -1608,8 +1616,8 @@
     "sourceHash": "b18450ea443d17728b0194358bc71827"
   },
   "privacyPolicy_DataStorage_2": {
-    "translation": "활동 사진은 암호화되어 저장되며 키는 장치에 남아 있습니다.",
-    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+    "translation": "필름 사진은 암호화되어 저장되며, 키는 기기에 남습니다.",
+    "sourceHash": "e11b9847cac606ad4320d1be7052bcb5"
   },
   "privacyPolicy_DataStorage_3": {
     "translation": "사용자 콘텐츠는 \"개발자가 볼 수 없음\" 상태입니다.",
@@ -1640,8 +1648,8 @@
     "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
   },
   "privacyPolicy_DataSharing_6": {
-    "translation": "FilmCam36 팀은 귀하의 사진, 메시지, 암호 해독 키에 절대 접근하지 않습니다.",
-    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+    "translation": "FilmCam36 팀은 사진, 메시지, 암호화된 필름 키에 절대 접근할 수 없습니다",
+    "sourceHash": "c0da892ef857a4ecc1c4e98ca77518e1"
   },
   "ContactUs": {
     "translation": "문의하기: 본 서비스 약관 또는 개인정보 처리방침에 대해 궁금한 점이 있으면 문의하시기 바랍니다: filmcam36@themachineco.com",
@@ -1708,8 +1716,8 @@
     "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
-    "translation": "삭제할 데이터: 사용자 계정, 프로필 정보, 내가 만든 모든 활동 및 이러한 활동에 업로드한 모든 사진.",
-    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+    "translation": "삭제될 데이터: 사용자 계정, 프로필 정보, 생성한 모든 필름 및 해당 필름에 업로드한 모든 사진.",
+    "sourceHash": "5fe8921a02908a3fca4111a11dd40f66"
   },
   "deleteAccount_policy4": {
     "translation": "저장되는 데이터: 법적 의무 또는 합법적인 비즈니스 목적(예: 익명화 및 집계된 분석 데이터)을 제외하고는 어떠한 개인 데이터도 저장되지 않습니다.",

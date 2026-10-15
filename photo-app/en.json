@@ -316,8 +316,8 @@
     "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "Film roll is full, wait for the activity owner to send it for development",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "Film roll is full, wait for the film owner to send the film for development",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Switch Camera",
@@ -332,8 +332,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "You can no longer take photos because the activity owner has sent this film roll for development.",
-    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
+    "translation": "You can no longer take photos because the film owner has sent this film roll for development.",
+    "sourceHash": "3772dcfeaa6d0c190c81029c0ddd8b76"
   },
   "_filmScreen_title": {
     "translation": "My Films",
@@ -356,8 +356,8 @@
     "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
   },
   "_filmScreen_editActivityTitle": {
-    "translation": "Edit Activity Title",
-    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+    "translation": "Edit Film Title",
+    "sourceHash": "106e4b6f37f8544afa462d9cce69373b"
   },
   "_filmScreen_enterNewActivityTitle": {
     "translation": "Enter a new title (maximum {{maxTitleLength}} characters, leave blank to return to default)",
@@ -424,20 +424,20 @@
     "sourceHash": "2826a23619aa76f754015db43192740a"
   },
   "_filmScreen_specialActivitiesSection": {
-    "translation": "Special Activities",
-    "sourceHash": "2f96950c38146317a97619ca2facae56"
+    "translation": "My Special Films",
+    "sourceHash": "c2ebbff7e702f66e685efd048e4019a0"
   },
   "_filmScreen_myActivitiesSection": {
-    "translation": "My Activities",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "My Films",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Square Preview",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_activeActivitiesSection": {
-    "translation": "Active Activities",
-    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+    "translation": "My Active Films",
+    "sourceHash": "ea245cdbfab7ab1b5cb42b3c514d7dc9"
   },
   "_filmScreen_printingActivitiesSection": {
     "translation": "Submitted for Development",
@@ -464,12 +464,12 @@
     "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
-    "translation": "Join the Activity",
-    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+    "translation": "Join Film",
+    "sourceHash": "04156e93560a66f5ff971c741d9c7d5f"
   },
   "_filmScreen_joinActivityMessage": {
-    "translation": "Do you want to participate in this activity?",
-    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+    "translation": "Do you want to join this film?",
+    "sourceHash": "17ea392bb38bcb5927d655c76579ad88"
   },
   "_filmScreen_invalidInvitationLink": {
     "translation": "Invalid invitation link.",
@@ -484,12 +484,12 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "The participation limit for this activity has been reached. To increase the limit, the activity owner must be a Pro member.",
-    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+    "translation": "The participant limit for this film is full. To increase the limit, the film owner must be a Pro member.",
+    "sourceHash": "11b76e4edacdcab268ef8ed55360a12a"
   },
   "_filmScreen_ownerLimitReachedMessage": {
-    "translation": "The participation limit for this activity has been reached. To increase the limit, you need to become a Pro member.",
-    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
+    "translation": "The participant limit for this film is full. To increase the limit, you need to become a Pro member.",
+    "sourceHash": "75bd4372eab88521bba001985bd1cf4c"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "Awaiting Approval",
@@ -504,8 +504,8 @@
     "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
   },
   "_filmScreen_sharedActivity": {
-    "translation": "Shared Activity",
-    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+    "translation": "Shared Film",
+    "sourceHash": "fb4bda78c3e5e8b7f0504378908423c9"
   },
   "_filmScreen_joinRequestStatusPending": {
     "translation": "Permission Pending",
@@ -516,20 +516,20 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "Invite to Activity",
-    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
+    "translation": "Invite to Film",
+    "sourceHash": "e12d058930b128ee2249ac4bf581425c"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Would you like to make this activity a shared activity and invite your friends to your activity?",
-    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
+    "translation": "Would you like to make this film a shared film and invite your friends to your film?",
+    "sourceHash": "9788bb537d9590af723a2bc063ce4e36"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "You can invite your friends to this activity. You must log in to use this feature. Would you like to log in?",
-    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
+    "translation": "You can invite your friends to this film. You need to sign in to use this feature. Would you like to sign in?",
+    "sourceHash": "7cbd9b765d99c4db34228817507a3048"
   },
   "_filmScreen_shareInviteTitle": {
-    "translation": "Activity Invitation Link",
-    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+    "translation": "Film Invite Link",
+    "sourceHash": "60a42cd6f8e08f9588943e633a96f8b0"
   },
   "_filmScreen_shareFailedErrorMessage": {
     "translation": "There was an error sharing the invitation link.",
@@ -540,8 +540,8 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "Would you like to share the invitation via a QR code, or would you like to share it via an activity link?",
-    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
+    "translation": "Would you like to share the invitation via a QR code or via a link?",
+    "sourceHash": "f146df177b97df7295ccb477aaee768f"
   },
   "_filmScreen_shareOthersButtonLabel": {
     "translation": "Link",
@@ -560,60 +560,56 @@
     "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "This activity is limited to 10 users. Become a Pro member for unlimited participants.",
-    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
+    "translation": "When this film becomes a shared film, it will be limited to 10 users. Become a Pro member for unlimited participants.",
+    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Film roll is full, wait for the activity owner to send it for development",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "Film roll is full, wait for the film owner to send the film for development",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_filmScreen_linkShareError": {
-    "translation": "No invitation link found for this activity.",
-    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+    "translation": "Invite link not found for this film.",
+    "sourceHash": "c359247eaa02b092459a6401c30fdf38"
   },
   "_filmScreen_editNameError": {
-    "translation": "There was an error updating the activity name. Please try again later.",
-    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+    "translation": "An error occurred while updating the film name. Please try again later.",
+    "sourceHash": "84ea25009389c2db106b0d05b427762f"
   },
   "_filmScreen_requestKeyError": {
-    "translation": "An error occurred while requesting the activity key.",
-    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+    "translation": "An error occurred while requesting the film key.",
+    "sourceHash": "7ef38fa1b54f5d015067e696ec6e2fd3"
   },
   "_filmScreen_requestKeySuccess": {
-    "translation": "Activity key request sent successfully.",
-    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+    "translation": "Film key request sent successfully.",
+    "sourceHash": "dc7d244b602d4f8e7f5adee8ce1e0e84"
   },
   "_filmScreen_deleteActivity": {
-    "translation": "Delete Activity",
-    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+    "translation": "Delete Film",
+    "sourceHash": "6381a18ff3c5b98ab8d0e5b897ee4e71"
   },
   "_filmScreen_deleteActivityMessage": {
-    "translation": "Are you sure you want to delete this activity? This action cannot be undone.",
-    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+    "translation": "Are you sure you want to delete this film? This action cannot be undone.",
+    "sourceHash": "c3e0a39434c17f8aa172d53152ca94e2"
   },
   "_filmScreen_deleteActivityErrorMessage": {
-    "translation": "An error occurred while deleting the activity.",
-    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+    "translation": "An error occurred while deleting the film.",
+    "sourceHash": "6f69dee1d269a520e658a6a76ec15fe0"
   },
   "_filmScreen_leaveActivity": {
-    "translation": "Leave Activity",
-    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+    "translation": "Leave Film",
+    "sourceHash": "22b263f39460b0d140f8d28dc1100abc"
   },
   "_filmScreen_leaveActivityMessage": {
-    "translation": "Are you sure you want to leave this activity?",
-    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+    "translation": "Are you sure you want to leave this film?",
+    "sourceHash": "b04a6aae37343aa7b461afc6c9679c7f"
   },
   "_filmScreen_leaveActivityErrorMessage": {
-    "translation": "An error occurred while leaving the activity.",
-    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+    "translation": "An error occurred while leaving the film.",
+    "sourceHash": "5ef0adf4613b3626af198e372d5bf0e5"
   },
   "_filmScreen_share": {
-    "translation": "Invite",
-    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
-  },
-  "_filmScreen_cannotShareActivityWithPhotos": {
-    "translation": "You cannot share a normal activity with photos.",
-    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+    "translation": "Add a Friend",
+    "sourceHash": "f6f22c3223328c2cf8cd54302e5ad525"
   },
   "_filmScreen_speedingUp": {
     "translation": "Speeding Up Development...",
@@ -626,6 +622,10 @@
   "_filmScreen_goToAlbum": {
     "translation": "View Photos",
     "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
+  },
+  "_filmScreen_newAlbum": {
+    "translation": "New",
+    "sourceHash": "b41bc3592e0e3f8d26b1c93ff0318a5d"
   },
   "_filmScreen_printCompleted": {
     "translation": "Photo Developments Completed!",
@@ -648,8 +648,8 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "Take {{totalShots}} more photos or wait for the activity owner to send them for development.",
-    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
+    "translation": "Take {{totalShots}} more photos or wait for the film owner to send the film for development.",
+    "sourceHash": "a4028bde482c63db518dd62d7696ab83"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "Take {{totalShots}} more photos or send them for development.",
@@ -684,8 +684,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "There is no demand for this activity yet.",
-    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
+    "translation": "There are no requests for this film yet.",
+    "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
     "translation": "No participant information found.",
@@ -704,20 +704,20 @@
     "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "The activity key could not be sent. Please try again later.",
-    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
+    "translation": "Failed to send the film key. Please try again later.",
+    "sourceHash": "d1df5ff47a5c764155d511541633c00c"
   },
   "_participantModal_sessionKeySuccess": {
-    "translation": "Activity key sent successfully.",
-    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+    "translation": "Film key sent successfully.",
+    "sourceHash": "dc642647700f846e3519e45ee8bf0fe4"
   },
   "_participantModal_sendSessionKey": {
-    "translation": "Send activity key",
-    "sourceHash": "19789df66647c81a679daec245f546b1"
+    "translation": "Send film key",
+    "sourceHash": "61f4b3595078e04bdf040aa7be3476b8"
   },
   "_participantModal_noHasSessionKey": {
-    "translation": "You don't have an activity key.",
-    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+    "translation": "You don't have a film key.",
+    "sourceHash": "ad6f8bc160ed411a1359169296962c83"
   },
   "_participantModal_requestSessionKey": {
     "translation": "Ask again",
@@ -738,6 +738,14 @@
   "_homeScreen_specialEventResolveError": {
     "translation": "An error occurred while loading the special event.",
     "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
+  "_homeScreen_selectCamera": {
+    "translation": "Choose Your Camera",
+    "sourceHash": "22f40a5854822323681b14a3fae59d73"
+  },
+  "_homeScreen_selectFilmRoll": {
+    "translation": "Select a film roll and start shooting.",
+    "sourceHash": "3a425cfca5342336a6d1e9541399b5fa"
   },
   "timeOptions": {
     "express": {
@@ -940,8 +948,8 @@
     "sourceHash": "36ccaa3c7a03143779eac361c313715d"
   },
   "_selectFilm_loginRequiredToCreateActivityMessage": {
-    "translation": "You must log in to create this activity.",
-    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+    "translation": "You must sign in to create this film.",
+    "sourceHash": "158d96696559e093de8eba35f1e71279"
   },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "You've Run Out of Film Roll Rights",
@@ -952,23 +960,23 @@
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
   "_selectFilm_filmCreateActivityAlertTitle": {
-    "translation": "Creating Activity",
-    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+    "translation": "Creating Film",
+    "sourceHash": "b795112c250285c2e1fa91335c93a578"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "Your activity is created with the ' {{cameraName}} - {{shots}} ' camera.",
-    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
+    "translation": "Your film is being created with the '{{cameraName}} - {{shots}}' camera.",
+    "sourceHash": "c877c6095fcae03c6d2cbaad759fd334"
   },
   "_selectFilm_confirmCreateActivityTitle": {
     "translation": "Are you sure?",
     "sourceHash": "73013ad3a613e5d23694f758eed26863"
   },
   "_selectFilm_confirmCreateActivityMessage": {
-    "translation": "Are you sure you want to create a new activity?",
-    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
+    "translation": "Are you sure you want to create a new film?",
+    "sourceHash": "48d4db29b0b00a6516bd56d9896b1cb4"
   },
   "_selectFilm_selectFilmCount": {
-    "translation": "Select Camera Roll",
+    "translation": "Select Film Roll",
     "sourceHash": "02610d5cfdef3dd1e0350f46863bf052"
   },
   "_selectFilm_activityCooldownHours": {
@@ -984,8 +992,8 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "You can create a new activity after {{time}}. If you don't want to wait, become a Pro member.",
-    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
+    "translation": "You can create a new film after {{time}}. If you don't want to wait, become a Pro member.",
+    "sourceHash": "8ee06d843f0f83fde1a3a9b46b39d30c"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Terms and Policies",
@@ -1012,20 +1020,20 @@
     "sourceHash": "35fba9105deba4815f0e649af499879f"
   },
   "_faq_q_virtual_camera": {
-    "translation": "What is a Virtual Camera?",
-    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+    "translation": "What is a Virtual Film?",
+    "sourceHash": "76a0cb3a0b5ba909b8636fdc1009ed39"
   },
   "_faq_a_virtual_camera": {
-    "translation": "A \"Camera Activity\" is like a digital roll of film. It combines a camera filter you like from **Cameras** with a roll of film with a limited number of exposures (e.g. 12, 24, 36 exposures). Each camera you create groups your photos in a special album.",
-    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
+    "translation": "A \"Film Camera\" is like a digital film roll. It combines a camera filter you like from **Cameras** with a film roll that has a limited number of shots (e.g. 12, 24, 36 shots). Each film camera you create groups the photos you take into its own special film.",
+    "sourceHash": "5c44ca43dc859be9a205cd66b82d7d02"
   },
   "_faq_q_printing": {
-    "translation": "What is Photo Bath (Printing)?",
-    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+    "translation": "What is Photo Development?",
+    "sourceHash": "743f779dce0e59df19b5943557128626"
   },
   "_faq_a_printing": {
-    "translation": "When you've filled all the shots on a film roll in a camera activity—or whenever you like—you can \"send the film roll for development.\" This starts a countdown for the duration you choose (e.g. 8, 24, 36 hours), after which your photos are \"developed\" and become visible. When the time is up, your encrypted photos are unlocked and appear in your album.",
-    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
+    "translation": "When you've filled all the shots on a film roll in a film camera—or whenever you like—you can \"send the film roll for development.\" This starts a countdown for the duration you choose (e.g. 8, 24, 36 hours), after which your photos are \"developed\" and become visible. When the time is up, your encrypted photos are unlocked and appear in your completed film.",
+    "sourceHash": "be6a36a0eba19014d95c8ce3733cec92"
   },
   "_faq_section_features": {
     "translation": "Main Features",
@@ -1036,108 +1044,108 @@
     "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "Cameras is where you can discover all the unique camera filters in the app. Each camera represents a filter with its own unique color, texture and character. By tapping on a camera, you can see \"before and after\" sample photos taken with that filter and choose the one that best suits your style.",
+    "translation": "Cameras is where you can discover all the unique camera filters in the app. Each camera represents a filter with its own color, texture, and character. Tap a camera to see \"before and after\" sample photos shot with that filter and pick the one that best fits your style.",
     "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "How do I create a new activity?",
-    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
+    "translation": "How do I create a new film?",
+    "sourceHash": "38eeb0c639ed10b1aefbe5fc045d35e3"
   },
   "_faq_a_new_activity": {
-    "translation": "Tap on a camera you like from Cameras to go to the \"Select Camera Roll\" screen. Here you can create your new camera activity by selecting one of the rolls of film with different exposure numbers (12, 24, 36, etc.) to use with the filter of your choice.",
-    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
+    "translation": "From Cameras, tap a camera you like to go to the \"Select Film Roll\" screen. There, choose a film roll with different shot counts (such as 12, 24, 36) to use with your selected filter and create your new film.",
+    "sourceHash": "e0cb4211b878270a872c4c8990f91fa8"
   },
   "_faq_section_my_cameras": {
-    "translation": "My Activities",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "My Films",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_faq_q_camera_cards": {
-    "translation": "What do activity cards mean?",
-    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
+    "translation": "What do film cards mean?",
+    "sourceHash": "4568eeed1fe76565c3a14459100addd7"
   },
   "_faq_a_camera_cards": {
-    "translation": "Each card represents a virtual camera and shows the following information:\n- **Title:** The activity name, which you can change.\n- Date and Location:** the date the activity was created and (if available) the location where the last photo was taken.\n- Photo Info:** The number of exposures used on the roll of film you used (e.g. 15/24).",
-    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
+    "translation": "Each card represents a virtual film camera and shows the following information:\n- **Title:** The film name you can change.\n- **Date and Location:** The date the film was created and (if available) the location of the last photo taken.\n- **Photo Info:** The number of shots used on your film roll (e.g. 15/24).",
+    "sourceHash": "caa97abd53d1a061aca4ec135fe7c629"
   },
   "_faq_q_add_photo": {
-    "translation": "How do I add a photo to an existing activity?",
-    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
+    "translation": "How do I add photos to an existing film?",
+    "sourceHash": "3bd48768a5598b2cec2e9fe0b61b569c"
   },
   "_faq_a_add_photo": {
-    "translation": "If there is an empty exposure on the camera roll, you can tap on the corresponding camera activity on the \"My Activities\" screen to switch directly to the camera screen and continue taking pictures.",
-    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
+    "translation": "If there are empty shots left on the film roll, tap the related film card on the \"My Films\" screen to go directly to the camera screen and continue taking photos.",
+    "sourceHash": "47b69a2245281878476343206bcc67af"
   },
   "_faq_q_rename_camera": {
-    "translation": "How do I change the activity name?",
-    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
+    "translation": "How do I change the film name?",
+    "sourceHash": "d57b3c64c7008dd68ceed97c963b0fb0"
   },
   "_faq_a_rename_camera": {
-    "translation": "You can give your activity a custom name by tapping the pen icon next to each activity card.",
-    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
+    "translation": "Tap the pencil icon next to each film card to give your film a custom name.",
+    "sourceHash": "52d91084f655e1cef22dad63aa135011"
   },
   "_faq_q_send_to_print": {
     "translation": "How do I send my photos for development?",
     "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Tap the \"Send for Development\" button at the bottom of the camera activity. Then choose how soon you want your photos to be ready (e.g. 8, 12, 24, 36 hours). Keep in mind that shorter times (Express) may require watching a rewarded ad.",
-    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
+    "translation": "Tap the \"Send for Development\" button at the bottom of the film card. Then choose how soon you want your photos to be ready (e.g. 8, 12, 24, 36 hours). Keep in mind that shorter times (Express) may require a Pro membership.",
+    "sourceHash": "eb79d52683863ef51538198731f419e7"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Shared Activities",
-    "sourceHash": "936979acaeda843e3f831f8b57879a10"
+    "translation": "Shared Films",
+    "sourceHash": "ea2e454869c6a7e7a7b10958cc75e7aa"
   },
   "_faq_q_how_to_share": {
-    "translation": "How do I share an activity?",
-    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
+    "translation": "How do I share a film?",
+    "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "On the \"My Activities\" screen, tap the invite icon on the activity card you want to share. This will make the activity a shared activity and create an invitation link specific to the activity. You can send this link to your friends to invite them.",
-    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
+    "translation": "On the \"My Films\" screen, tap the \"Participants\" icon on the film card you want to share. This will make the film a shared film and create a film-specific invite link. Send this link to your friends to invite them.",
+    "sourceHash": "93e356768942ba6307ba9acde06485ff"
   },
   "_faq_q_join_shared": {
-    "translation": "How do I join a shared activity?",
-    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
+    "translation": "How do I join a shared film?",
+    "sourceHash": "83659273325e0e65d138bf249a5f4e7a"
   },
   "_faq_a_join_shared": {
-    "translation": "Click on the invitation link sent to you. When the app opens, your request to join the activity will be sent to the activity owner. After the activity owner approves your request, the camera will appear on your \"My Activities\" screen and you can start taking photos.",
-    "sourceHash": "7817fff38a09f950460ee883ad87de74"
+    "translation": "Tap the invite link sent to you. When the app opens, your request to join the film will be sent to the film owner. After the film owner approves your request, the film camera will appear on your \"My Films\" screen and you can start taking photos.",
+    "sourceHash": "f8aaaaae57cb7cf250a4405bfbc852f8"
   },
   "_faq_q_requests_and_notifications": {
-    "translation": "Participation Requests and Notifications",
+    "translation": "Join Requests and Notifications",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "The activity owner can view, approve or reject incoming requests by tapping the \"Participants\" icon on the activity card. You will receive a notification when you are approved or rejected. You can follow all your notifications from the bell icon in the upper right corner of the \"My Activities\" screen.",
-    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
+    "translation": "The film owner can tap the \"Participants\" icon on the film card to see incoming requests and approve or reject them. You will receive a notification when you are approved or rejected.",
+    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Security and Privacy (End-to-End Encryption)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "All your photos in shared activities are **end-to-end encrypted**. This means that **NOBODY** (including the Filmcam36 team) can see your photos except the activity owner and approved participants. A private \"session key\" is generated for each shared activity, only available on the participants' devices, and all encryption/decryption is done directly on your device. This keeps your memories completely private to you and your friends.\n- If you accidentally delete the app while in a shared activity and the \"session key\" is lost, you will see a warning on the camera activity after you download the app again. For all shared camera activities where you see this warning, you can request a \"session key\" from the participants of that activity again.",
-    "sourceHash": "d802fe5691925de986bc11bbc8242425"
+    "translation": "All of your photos in shared films are **end-to-end encrypted**. This means that **NO ONE** other than the film owner and approved participants (including the Filmcam36 team) can see your photos. For each shared film, a special \"film key\" is created that exists only on participants' devices, and all encryption/decryption happens directly on your device. This way, your memories stay private to you and your friends.\n- If you accidentally delete the app while in a shared film and lose the \"film key,\" after reinstalling the app you will see a warning on the related film card. For every shared film camera where you see this warning, you can request the \"film key\" again from that film's participants.",
+    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
   },
   "_faq_section_album": {
-    "translation": "Album",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "Developed Films",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
   },
   "_faq_q_album_tabs": {
-    "translation": "What are albums?",
-    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
+    "translation": "What are Developed Films?",
+    "sourceHash": "602ea9cc603a371d3cb7446ae35cfecb"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Albums:** Here you can find your camera developed photos from the activities you have created in albums.\n",
-    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
+    "translation": "- **Developed Films:** Here you can find your developed photos from the film cameras you created, organized as films.\n",
+    "sourceHash": "d335e64fea49df652e245682894a3d12"
   },
   "_faq_q_photo_actions": {
     "translation": "What can I do with my photos?",
     "sourceHash": "1f3462c677886c1796aadb6474b1360d"
   },
   "_faq_a_photo_actions": {
-    "translation": "In full screen mode:\n- **Save:** You can save the photo to your device's gallery.\n- Share:** You can share the photo via other apps.\n- Delete:** You can permanently delete the photo from the app.\n- Make Profile Photo:** You can set the photo as your in-app profile picture.",
-    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+    "translation": "In full-screen mode:\n- **Save:** You can save the photo to your device gallery.\n- **Share:** You can share the photo through other apps.\n- **Delete:** You can permanently delete the photo from the app.",
+    "sourceHash": "7c541e94649ac3c848026a47c9f6d20f"
   },
   "_faq_section_settings": {
     "translation": "Settings and Profile",
@@ -1148,8 +1156,8 @@
     "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
   },
   "_faq_a_edit_profile": {
-    "translation": "When you are in the \"Album\" tab, you can update your profile information and photo in the profile section at the top or by going to \"Account\" in the Settings menu.",
-    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+    "translation": "You can update your profile information and photo from the profile section at the top of the \"My Films\" screen or by going to \"Account\" in the Settings menu.",
+    "sourceHash": "091e1c688cb669c3346526297c4fe6f6"
   },
   "_faq_q_theme": {
     "translation": "How do I change the app theme (Dark/Light Mode)?",
@@ -1336,8 +1344,8 @@
     "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
-    "translation": "Shared Activity: Users create a group to take, filter and share photos and albums together. All content is end-to-end encrypted.",
-    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+    "translation": "Shared Film: Users form a group to take photos together, filter them, and share the film. All content is end-to-end encrypted.",
+    "sourceHash": "df377c8f89d7099a02637dee57d8b5c0"
   },
   "termsOfService_E2E": {
     "translation": "E2E Encryption: An encryption system where content can only be decrypted on the sending and receiving devices and FilmCam36 servers cannot access the content.",
@@ -1348,8 +1356,8 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36 offers features for taking photos, editing, applying filters and creating shared activities. FilmCam36 services are for users at least 13 years old. Users are responsible for meeting the legal age requirements of their country of residence. By using the app, you represent that you meet these requirements.",
-    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
+    "translation": "FilmCam36 offers photo capture, editing, filter application, and shared film creation features. FilmCam36 services are for users at least 13 years old. Users are responsible for meeting the legal age requirements of their country. By using the app, you declare that these conditions are met.",
+    "sourceHash": "c6c71c25e612c76648d99a51b5dae4bf"
   },
   "termsOfService_ServiceUse_2": {
     "translation": "You may only use the app for legal purposes. You must grant the necessary permissions (camera, gallery, etc.) in order to use the app.",
@@ -1380,20 +1388,20 @@
     "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
   },
   "termsOfService_SharedActivities_UserContent": {
-    "translation": "4. Shared Activities and User Content:",
-    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+    "translation": "4. Shared Films and User Content:",
+    "sourceHash": "520804b9ff73784118784e7088297314"
   },
   "termsOfService_SharedActivities_UserContent_1": {
-    "translation": "All photos within an activity can only be viewed by activity members.",
-    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+    "translation": "All photos within a film can only be seen by film members.",
+    "sourceHash": "145b8f7ded5386353b47eface7395b24"
   },
   "termsOfService_SharedActivities_UserContent_2": {
     "translation": "No one, including the FilmCam36 team, can access the content because the app uses end-to-end encryption.",
     "sourceHash": "73ed7993891fe69936e16c9a316d9176"
   },
   "termsOfService_SharedActivities_UserContent_3": {
-    "translation": "You are fully responsible for the content you post in shared activities.",
-    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+    "translation": "You are fully responsible for the content you post in shared films.",
+    "sourceHash": "3328bdbf7989ba404f95653c7cd7945e"
   },
   "termsOfService_SharedActivities_UserContent_4": {
     "translation": "Using illegal, harmful, copyright infringing content is prohibited.",
@@ -1404,8 +1412,8 @@
     "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
   },
   "termsOfService_E2E_Crypto_1": {
-    "translation": "FilmCam36 encrypts all photos and messages in shared activities as E2E:",
-    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+    "translation": "FilmCam36 end-to-end encrypts all photos and messages in shared films:",
+    "sourceHash": "b02a3cc85bc8f4012c657a6f4eb87872"
   },
   "termsOfService_E2E_Crypto_2": {
     "translation": "Content is encrypted on your device.",
@@ -1420,8 +1428,8 @@
     "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
   },
   "termsOfService_E2E_Crypto_5": {
-    "translation": "Unlock keys are only on the devices of activity members.",
-    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+    "translation": "Film keys exist only on film members' devices.",
+    "sourceHash": "ab1f18acadd022aa35647c1de6febe94"
   },
   "termsOfService_E2E_Crypto_6": {
     "translation": "Therefore: FilmCam36 cannot access, view, edit or share user content with third parties.",
@@ -1560,12 +1568,12 @@
     "sourceHash": "5cfca368855e535991a2ba746c019615"
   },
   "privacyPolicy_CollectedData_SharedActivityData": {
-    "translation": "1.3. Shared Activity Data:",
-    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+    "translation": "1.3. Shared Film Data:",
+    "sourceHash": "df0adce1b83baee67ffd9b6d0ee33222"
   },
   "privacyPolicy_CollectedData_SharedActivityData_1": {
-    "translation": "Activity names, Activity members, Photos (all E2E encrypted), Metadata for each photo",
-    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+    "translation": "Film names, Film members, Photos (all E2E encrypted), Metadata for each photo",
+    "sourceHash": "9c4bd52687f7f5d9c11c4256a23f448a"
   },
   "privacyPolicy_CollectedData_SharedActivityData_2": {
     "translation": "Note: The FilmCam36 team cannot view any photos. Photos are stored in undecodable format.",
@@ -1584,8 +1592,8 @@
     "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
   },
   "privacyPolicy_UncollectedData_3": {
-    "translation": "In-activity messages",
-    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+    "translation": "In-film messages",
+    "sourceHash": "217f4984967d9e8e67c7862769c828a3"
   },
   "privacyPolicy_UncollectedData_4": {
     "translation": "More photos in the user gallery",
@@ -1608,8 +1616,8 @@
     "sourceHash": "b18450ea443d17728b0194358bc71827"
   },
   "privacyPolicy_DataStorage_2": {
-    "translation": "Activity photos are stored encrypted; keys remain on the devices.",
-    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+    "translation": "Film photos are stored encrypted; keys remain on devices.",
+    "sourceHash": "e11b9847cac606ad4320d1be7052bcb5"
   },
   "privacyPolicy_DataStorage_3": {
     "translation": "User content is \"not viewable by the developer\".",
@@ -1640,8 +1648,8 @@
     "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
   },
   "privacyPolicy_DataSharing_6": {
-    "translation": "FilmCam36 team will never have access to your Photos, Messages, Decryption keys",
-    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+    "translation": "The FilmCam36 team can never access your Photos, Messages, or encrypted film keys",
+    "sourceHash": "c0da892ef857a4ecc1c4e98ca77518e1"
   },
   "ContactUs": {
     "translation": "Contact Us: If you have any questions about these Terms of Service or the Privacy Policy, please contact us: filmcam36@themachineco.com",
@@ -1708,8 +1716,8 @@
     "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
-    "translation": "Data to be deleted: Your user account, profile information, all activities you have created and all photos you have uploaded to these activities.",
-    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+    "translation": "Data to be deleted: Your user account, profile information, all films you created, and all photos you uploaded to those films.",
+    "sourceHash": "5fe8921a02908a3fca4111a11dd40f66"
   },
   "deleteAccount_policy4": {
     "translation": "Data to be stored: Except for legal obligations or legitimate business purposes (for example, anonymized and aggregated analysis data), no personal data will be stored.",

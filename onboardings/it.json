@@ -12,8 +12,8 @@
     "sourceHash": "6b554007f8b0740bc8837389131b75e3"
   },
   "onboardingSecondMessage": {
-    "translation": "Ogni rullino è limitato a 36 esposizioni.\nUna volta terminata, la pellicola viene inviata al laboratorio per l'elaborazione",
-    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
+    "translation": "Ogni rullino ha una capacità massima di 36 scatti.\nUna volta terminato di scattare le foto, puoi portare il rullino a sviluppare.",
+    "sourceHash": "c83e588f9b6b2f6106547cf93febbb7e"
   },
   "onboardingNext": {
     "translation": "Avanti",
@@ -22,6 +22,14 @@
   "onboardingContinue": {
     "translation": "Continua",
     "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
+  },
+  "onboardingNegativesStepTitle": {
+    "translation": "Le negative sono pronte!",
+    "sourceHash": "812ef0cd529058dea2186c4b730d1631"
+  },
+  "onboardingNegativesStepMessage": {
+    "translation": "È possibile visualizzare il negativo digitale del rullino prima che la pellicola venga sviluppata.",
+    "sourceHash": "cc46586a29e4552c7d52bc081df57727"
   },
   "onboardingSendStepTitle": {
     "translation": "Pronto per lo sviluppo",
@@ -78,5 +86,13 @@
   "onboardingActivityTitle": {
     "translation": "Primo film",
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
+  },
+  "onboardingGoToHomeTitle": {
+    "translation": "Ora crea il tuo film",
+    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+  },
+  "onboardingGoToHomeMessage": {
+    "translation": "Crea il tuo filmato esplorando le diverse fotocamere e scegliendo quella più adatta al momento.",
+    "sourceHash": "de21aa56baeec831d6c4d23779605706"
   }
 }

@@ -316,8 +316,8 @@
     "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "フィルムロールがいっぱいです。アクティビティの所有者が現像に送信するのをお待ちください",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "フィルムロールがいっぱいです。フィルムの所有者がフィルムを現像に送信するのをお待ちください",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_cameraScreen_switchCamera": {
     "translation": "スイッチカメラ",
@@ -332,8 +332,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "アクティビティの所有者がこのフィルムロールを現像に送信したため、これ以上写真を撮影できません。",
-    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
+    "translation": "フィルムの所有者がこのフィルムロールを現像に送信したため、これ以上写真を撮影できません。",
+    "sourceHash": "3772dcfeaa6d0c190c81029c0ddd8b76"
   },
   "_filmScreen_title": {
     "translation": "私の映画",
@@ -356,8 +356,8 @@
     "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
   },
   "_filmScreen_editActivityTitle": {
-    "translation": "活動タイトルの編集",
-    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+    "translation": "フィルムタイトルを編集",
+    "sourceHash": "106e4b6f37f8544afa462d9cce69373b"
   },
   "_filmScreen_enterNewActivityTitle": {
     "translation": "新しいタイトルを入力する（最大 {{maxTitleLength}} 文字、デフォルトに戻るには空白にする）",
@@ -424,20 +424,20 @@
     "sourceHash": "2826a23619aa76f754015db43192740a"
   },
   "_filmScreen_specialActivitiesSection": {
-    "translation": "特別活動",
-    "sourceHash": "2f96950c38146317a97619ca2facae56"
+    "translation": "スペシャルフィルム",
+    "sourceHash": "c2ebbff7e702f66e685efd048e4019a0"
   },
   "_filmScreen_myActivitiesSection": {
-    "translation": "私の活動",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "マイフィルム",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} 画像のプレビュー",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_activeActivitiesSection": {
-    "translation": "アクティブな活動",
-    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+    "translation": "アクティブなフィルム",
+    "sourceHash": "ea245cdbfab7ab1b5cb42b3c514d7dc9"
   },
   "_filmScreen_printingActivitiesSection": {
     "translation": "開発に提出済み",
@@ -464,12 +464,12 @@
     "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
-    "translation": "活動に参加する",
-    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+    "translation": "フィルムに参加",
+    "sourceHash": "04156e93560a66f5ff971c741d9c7d5f"
   },
   "_filmScreen_joinActivityMessage": {
-    "translation": "この活動に参加したいですか？",
-    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+    "translation": "このフィルムに参加しますか？",
+    "sourceHash": "17ea392bb38bcb5927d655c76579ad88"
   },
   "_filmScreen_invalidInvitationLink": {
     "translation": "招待リンクが無効です。",
@@ -484,12 +484,12 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "このアクティビティの参加人数上限に達しました。上限を引き上げるには、アクティビティの主催者がPro会員である必要があります。",
-    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+    "translation": "このフィルムの参加上限に達しました。上限を増やすには、フィルムの所有者がProメンバーである必要があります。",
+    "sourceHash": "11b76e4edacdcab268ef8ed55360a12a"
   },
   "_filmScreen_ownerLimitReachedMessage": {
-    "translation": "このアクティビティの参加定員に達しました。定員を増やすには、Pro会員になる必要があります。",
-    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
+    "translation": "このフィルムの参加上限に達しました。上限を増やすには、Proメンバーになる必要があります。",
+    "sourceHash": "75bd4372eab88521bba001985bd1cf4c"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "承認待ち",
@@ -504,8 +504,8 @@
     "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
   },
   "_filmScreen_sharedActivity": {
-    "translation": "共有アクティビティ",
-    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+    "translation": "共有フィルム",
+    "sourceHash": "fb4bda78c3e5e8b7f0504378908423c9"
   },
   "_filmScreen_joinRequestStatusPending": {
     "translation": "認可待ち",
@@ -516,20 +516,20 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "アクティビティへの招待",
-    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
+    "translation": "フィルムに招待",
+    "sourceHash": "e12d058930b128ee2249ac4bf581425c"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "このアクティビティを共有アクティビティにして、あなたのアクティビティに友達を招待したいですか？",
-    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
+    "translation": "このフィルムを共有フィルムにして、友達をフィルムに招待しますか？",
+    "sourceHash": "9788bb537d9590af723a2bc063ce4e36"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "このアクティビティに友達を招待することができます。この機能をご利用いただくには、ログインが必要です。ログインしますか？",
-    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
+    "translation": "このフィルムに友達を招待できます。この機能を使うにはログインが必要です。ログインしますか？",
+    "sourceHash": "7cbd9b765d99c4db34228817507a3048"
   },
   "_filmScreen_shareInviteTitle": {
-    "translation": "活動招待リンク",
-    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+    "translation": "フィルム招待リンク",
+    "sourceHash": "60a42cd6f8e08f9588943e633a96f8b0"
   },
   "_filmScreen_shareFailedErrorMessage": {
     "translation": "招待状のリンクを共有する際にエラーが発生しました。",
@@ -540,8 +540,8 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "招待はQRコードで共有しますか、それともイベントのリンクで共有しますか？",
-    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
+    "translation": "招待状はQRコードで共有しますか、それともリンクで共有しますか？",
+    "sourceHash": "f146df177b97df7295ccb477aaee768f"
   },
   "_filmScreen_shareOthersButtonLabel": {
     "translation": "リンク",
@@ -560,60 +560,56 @@
     "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "このアクティビティは10名までとさせていただきます。参加人数に制限がない場合は、Pro会員にご登録ください。",
-    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
+    "translation": "このフィルムが共有フィルムになると、10ユーザーまでに制限されます。参加者を無制限にするにはProメンバーになってください。",
+    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "フィルムロールがいっぱいです。アクティビティの所有者が現像に送信するのをお待ちください",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "フィルムロールがいっぱいです。フィルムの所有者がフィルムを現像に送信するのをお待ちください",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_filmScreen_linkShareError": {
-    "translation": "このアクティビティへの招待リンクは見つかりませんでした。",
-    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+    "translation": "このフィルムの招待リンクが見つかりませんでした。",
+    "sourceHash": "c359247eaa02b092459a6401c30fdf38"
   },
   "_filmScreen_editNameError": {
-    "translation": "アクティビティ名の更新にエラーが発生しました。後でもう一度お試しください。",
-    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+    "translation": "フィルム名の更新中にエラーが発生しました。後でもう一度お試しください。",
+    "sourceHash": "84ea25009389c2db106b0d05b427762f"
   },
   "_filmScreen_requestKeyError": {
-    "translation": "アクティビティ・キーのリクエスト中にエラーが発生しました。",
-    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+    "translation": "フィルムキーのリクエスト中にエラーが発生しました。",
+    "sourceHash": "7ef38fa1b54f5d015067e696ec6e2fd3"
   },
   "_filmScreen_requestKeySuccess": {
-    "translation": "アクティビティ・キーのリクエストは正常に送信された。",
-    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+    "translation": "フィルムキーのリクエストが正常に送信されました。",
+    "sourceHash": "dc7d244b602d4f8e7f5adee8ce1e0e84"
   },
   "_filmScreen_deleteActivity": {
-    "translation": "アクティビティ削除",
-    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+    "translation": "フィルムを削除",
+    "sourceHash": "6381a18ff3c5b98ab8d0e5b897ee4e71"
   },
   "_filmScreen_deleteActivityMessage": {
-    "translation": "本当にこのアクティビティを削除しますか？このアクションは元に戻せません。",
-    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+    "translation": "このフィルムを削除してもよろしいですか？この操作は元に戻せません。",
+    "sourceHash": "c3e0a39434c17f8aa172d53152ca94e2"
   },
   "_filmScreen_deleteActivityErrorMessage": {
-    "translation": "アクティビティの削除中にエラーが発生しました。",
-    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+    "translation": "フィルムの削除中にエラーが発生しました。",
+    "sourceHash": "6f69dee1d269a520e658a6a76ec15fe0"
   },
   "_filmScreen_leaveActivity": {
-    "translation": "休暇活動",
-    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+    "translation": "フィルムから退出",
+    "sourceHash": "22b263f39460b0d140f8d28dc1100abc"
   },
   "_filmScreen_leaveActivityMessage": {
-    "translation": "本当にこの活動から離れたいのか？",
-    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+    "translation": "このフィルムから退出してもよろしいですか？",
+    "sourceHash": "b04a6aae37343aa7b461afc6c9679c7f"
   },
   "_filmScreen_leaveActivityErrorMessage": {
-    "translation": "退出時にエラーが発生しました。",
-    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+    "translation": "フィルムからの退出中にエラーが発生しました。",
+    "sourceHash": "5ef0adf4613b3626af198e372d5bf0e5"
   },
   "_filmScreen_share": {
-    "translation": "招待",
-    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
-  },
-  "_filmScreen_cannotShareActivityWithPhotos": {
-    "translation": "通常のアクティビティを写真で共有することはできない。",
-    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+    "translation": "友達を追加",
+    "sourceHash": "f6f22c3223328c2cf8cd54302e5ad525"
   },
   "_filmScreen_speedingUp": {
     "translation": "現像を高速化しています...",
@@ -626,6 +622,10 @@
   "_filmScreen_goToAlbum": {
     "translation": "写真を表示する",
     "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
+  },
+  "_filmScreen_newAlbum": {
+    "translation": "新しい",
+    "sourceHash": "b41bc3592e0e3f8d26b1c93ff0318a5d"
   },
   "_filmScreen_printCompleted": {
     "translation": "写真の現像が完了しました！",
@@ -648,8 +648,8 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "あと {{totalShots}} 枚の写真を撮るか、アクティビティの所有者が印刷用に送信するのを待ってください。",
-    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
+    "translation": "あと {{totalShots}} 枚の写真を撮るか、フィルムの所有者がフィルムを現像に送信するのをお待ちください。",
+    "sourceHash": "a4028bde482c63db518dd62d7696ab83"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "あと {{totalShots}} 枚の写真を撮るか、印刷用に送信してください。",
@@ -684,8 +684,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "この活動に対する需要はまだない。",
-    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
+    "translation": "このフィルムへのリクエストはまだありません。",
+    "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
     "translation": "参加者の情報は見つかりませんでした。",
@@ -704,20 +704,20 @@
     "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "アクティビティ・キーを送信できませんでした。後でもう一度お試しください。",
-    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
+    "translation": "フィルムキーを送信できませんでした。後でもう一度お試しください。",
+    "sourceHash": "d1df5ff47a5c764155d511541633c00c"
   },
   "_participantModal_sessionKeySuccess": {
-    "translation": "アクティビティ・キーの送信に成功した。",
-    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+    "translation": "フィルムキーが正常に送信されました。",
+    "sourceHash": "dc642647700f846e3519e45ee8bf0fe4"
   },
   "_participantModal_sendSessionKey": {
-    "translation": "アクティビティ・キーの送信",
-    "sourceHash": "19789df66647c81a679daec245f546b1"
+    "translation": "フィルムキーを送信",
+    "sourceHash": "61f4b3595078e04bdf040aa7be3476b8"
   },
   "_participantModal_noHasSessionKey": {
-    "translation": "あなたはアクティビティ・キーを持っていない。",
-    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+    "translation": "フィルムキーがありません。",
+    "sourceHash": "ad6f8bc160ed411a1359169296962c83"
   },
   "_participantModal_requestSessionKey": {
     "translation": "もう一度聞く",
@@ -738,6 +738,14 @@
   "_homeScreen_specialEventResolveError": {
     "translation": "スペシャルイベントのロード中にエラーが発生しました。",
     "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
+  "_homeScreen_selectCamera": {
+    "translation": "カメラを選択",
+    "sourceHash": "22f40a5854822323681b14a3fae59d73"
+  },
+  "_homeScreen_selectFilmRoll": {
+    "translation": "フィルムロールを選択して撮影を開始します。",
+    "sourceHash": "3a425cfca5342336a6d1e9541399b5fa"
   },
   "timeOptions": {
     "express": {
@@ -940,8 +948,8 @@
     "sourceHash": "36ccaa3c7a03143779eac361c313715d"
   },
   "_selectFilm_loginRequiredToCreateActivityMessage": {
-    "translation": "このアクティビティを作成するにはログインする必要があります。",
-    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+    "translation": "このフィルムを作成するにはログインが必要です。",
+    "sourceHash": "158d96696559e093de8eba35f1e71279"
   },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "フィルムロールの権利がなくなった",
@@ -952,20 +960,20 @@
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
   "_selectFilm_filmCreateActivityAlertTitle": {
-    "translation": "活動の創造",
-    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+    "translation": "フィルムを作成中",
+    "sourceHash": "b795112c250285c2e1fa91335c93a578"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "あなたのアクティビティはカメラ「 {{cameraName}} - {{shots}} 」で作成されます。",
-    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
+    "translation": "「{{cameraName}} - {{shots}}」カメラでフィルムを作成しています。",
+    "sourceHash": "c877c6095fcae03c6d2cbaad759fd334"
   },
   "_selectFilm_confirmCreateActivityTitle": {
     "translation": "本当か？",
     "sourceHash": "73013ad3a613e5d23694f758eed26863"
   },
   "_selectFilm_confirmCreateActivityMessage": {
-    "translation": "本当に新しいアクティビティを作成しますか？",
-    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
+    "translation": "新しいフィルムを作成してもよろしいですか？",
+    "sourceHash": "48d4db29b0b00a6516bd56d9896b1cb4"
   },
   "_selectFilm_selectFilmCount": {
     "translation": "フィルムロールを選択",
@@ -984,8 +992,8 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "{{time}} 後に新しいアクティビティを作成できます。待ちたくない場合は、Proメンバーになってください。",
-    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
+    "translation": "{{time}} 後に新しいフィルムを作成できます。待ちたくない場合は、Proメンバーになってください。",
+    "sourceHash": "8ee06d843f0f83fde1a3a9b46b39d30c"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "規約とポリシー",
@@ -1012,144 +1020,144 @@
     "sourceHash": "35fba9105deba4815f0e649af499879f"
   },
   "_faq_q_virtual_camera": {
-    "translation": "バーチャルカメラとは？",
-    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+    "translation": "バーチャルフィルムとは？",
+    "sourceHash": "76a0cb3a0b5ba909b8636fdc1009ed39"
   },
   "_faq_a_virtual_camera": {
-    "translation": "カメラ・アクティビティ \"はデジタルフィルムのようなものです。カメラアクティビティ \"は、**カメラ**からお好きなカメラフィルターと、露光回数に制限のあるロールフィルム（例：12回、24回、36回）を組み合わせたものです。あなたが作成した各カメラは、特別なアルバムに撮影した写真をグループ化します。",
-    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
+    "translation": "「フィルムカメラ」はデジタルのフィルムロールのようなものです。**カメラ**からお好みのカメラフィルターと、枚数制限のあるフィルムロール（例：12、24、36枚）を組み合わせます。作成した各フィルムカメラは、撮影した写真をそれぞれの特別なフィルムにまとめます。",
+    "sourceHash": "5c44ca43dc859be9a205cd66b82d7d02"
   },
   "_faq_q_printing": {
-    "translation": "フォトバス（プリント）とは？",
-    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+    "translation": "写真の現像とは？",
+    "sourceHash": "743f779dce0e59df19b5943557128626"
   },
   "_faq_a_printing": {
-    "translation": "カメラアクティビティのフィルムロールのすべてのショットを使い切ったとき—またはいつでも—フィルムロールを「現像に送信」できます。これにより、選択した時間（例：8、24、36時間）のカウントダウンが始まり、その後写真が「現像」されて表示されるようになります。時間が経過すると、暗号化された写真のロックが解除され、アルバムに表示されます。",
-    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
+    "translation": "フィルムカメラのフィルムロールのすべてのショットを使い切ったとき—またはいつでも—フィルムロールを「現像に送信」できます。これにより、選択した時間（例：8、24、36時間）のカウントダウンが始まり、その後写真が「現像」されて表示されるようになります。時間が経過すると、暗号化された写真のロックが解除され、完成したフィルムに表示されます。",
+    "sourceHash": "be6a36a0eba19014d95c8ce3733cec92"
   },
   "_faq_section_features": {
-    "translation": "主な特徴",
+    "translation": "主な機能",
     "sourceHash": "9d782421374acdacfed36456e90420fb"
   },
   "_faq_q_store": {
-    "translation": "カメラで何ができますか？",
+    "translation": "カメラでは何ができますか？",
     "sourceHash": "fe8da7dac5d0f0fbbd3bd0e18dd1fa9a"
   },
   "_faq_a_store": {
-    "translation": "カメラでは、アプリ内のすべてのユニークなカメラフィルターを発見することができます。それぞれのカメラは、独自の色、質感、個性を持つフィルターを表しています。カメラをタップすると、そのフィルターで撮影された「ビフォー・アフター」のサンプル写真を見ることができ、あなたのスタイルに最も適したものを選ぶことができます。",
+    "translation": "カメラでは、アプリ内のすべてのユニークなカメラフィルターを見つけられます。各カメラは、独自の色・質感・個性を持つフィルターを表します。カメラをタップすると、そのフィルターで撮影した「ビフォーアフター」のサンプル写真を見て、スタイルに合うものを選べます。",
     "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "新しいアクティビティを作成するには？",
-    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
+    "translation": "新しいフィルムを作成するには？",
+    "sourceHash": "38eeb0c639ed10b1aefbe5fc045d35e3"
   },
   "_faq_a_new_activity": {
-    "translation": "カメラ」から好きなカメラをタップして、「カメラロールを選択」画面に進みます。ここで、異なる露出番号（12、24、36など）のフィルムロールから1つを選択し、お好みのフィルターで使用することで、新しいカメラ・アクティビティを作成できます。",
-    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
+    "translation": "カメラからお好みのカメラをタップし、「フィルムロールを選択」画面に進みます。そこで選択したフィルターで使うため、異なる枚数（12、24、36など）のフィルムロールを選んで、新しいフィルムを作成できます。",
+    "sourceHash": "e0cb4211b878270a872c4c8990f91fa8"
   },
   "_faq_section_my_cameras": {
-    "translation": "私の活動",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "マイフィルム",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_faq_q_camera_cards": {
-    "translation": "アクティビティ・カードの意味は？",
-    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
+    "translation": "フィルムカードは何を意味しますか？",
+    "sourceHash": "4568eeed1fe76565c3a14459100addd7"
   },
   "_faq_a_camera_cards": {
-    "translation": "各カードは仮想カメラを表し、以下の情報を表示します：\n- タイトル:** アクティビティ名（変更可能）。\n- 日付と場所:** アクティビティが作成された日付と、（利用可能な場合）最後の写真が撮影された場所。\n- Photo Info:**使用しているフィルムの露光回数（例：15/24）。",
-    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
+    "translation": "各カードはバーチャルフィルムカメラを表し、次の情報を表示します：\n- **タイトル：** 変更できるフィルム名。\n- **日付と場所：** フィルムの作成日と（ある場合）最後の写真の撮影場所。\n- **写真情報：** フィルムロールで使用したショット数（例：15/24）。",
+    "sourceHash": "caa97abd53d1a061aca4ec135fe7c629"
   },
   "_faq_q_add_photo": {
-    "translation": "既存のアクティビティに写真を追加するには？",
-    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
+    "translation": "既存のフィルムに写真を追加するには？",
+    "sourceHash": "3bd48768a5598b2cec2e9fe0b61b569c"
   },
   "_faq_a_add_photo": {
-    "translation": "カメラロールに空の露出がある場合、「マイ・アクティビティ」画面で該当するカメラ・アクティビティをタップすると、直接カメラ画面に切り替わり、撮影を続けることができます。",
-    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
+    "translation": "フィルムロールに空きショットがある場合、「マイフィルム」画面の該当フィルムカードをタップすると、カメラ画面に直接移動して撮影を続けられます。",
+    "sourceHash": "47b69a2245281878476343206bcc67af"
   },
   "_faq_q_rename_camera": {
-    "translation": "アクティビティ名を変更するには？",
-    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
+    "translation": "フィルム名を変更するには？",
+    "sourceHash": "d57b3c64c7008dd68ceed97c963b0fb0"
   },
   "_faq_a_rename_camera": {
-    "translation": "アクティビティカードの横にあるペンのアイコンをタップすると、アクティビティに特別な名前を付けることができます。",
-    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
+    "translation": "各フィルムカード横の鉛筆アイコンをタップして、フィルムに好きな名前を付けられます。",
+    "sourceHash": "52d91084f655e1cef22dad63aa135011"
   },
   "_faq_q_send_to_print": {
-    "translation": "写真を現像に送信するにはどうすればよいですか？",
+    "translation": "写真を現像に送信するには？",
     "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "カメラアクティビティ下部の「現像に送信」ボタンをタップします。次に、写真の準備完了までの希望時間を選択します（例：8、12、24、36時間）。短い時間（Express）では、リワード広告の視聴が必要な場合があります。",
-    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
+    "translation": "フィルムカード下部の「現像に送信」ボタンをタップします。次に、写真の準備完了までの希望時間を選択します（例：8、12、24、36時間）。短い時間（Express）ではProメンバーが必要な場合があります。",
+    "sourceHash": "eb79d52683863ef51538198731f419e7"
   },
   "_faq_section_shared_cameras": {
-    "translation": "共有アクティビティ",
-    "sourceHash": "936979acaeda843e3f831f8b57879a10"
+    "translation": "共有フィルム",
+    "sourceHash": "ea2e454869c6a7e7a7b10958cc75e7aa"
   },
   "_faq_q_how_to_share": {
-    "translation": "アクティビティを共有するには？",
-    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
+    "translation": "フィルムを共有するには？",
+    "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "マイ・アクティビティ」画面で、共有したいアクティビティカードの招待アイコンをタップしてください。アクティビティが共有アクティビティになり、アクティビティ専用の招待リンクが作成されます。このリンクを友達に送って招待することができます。",
-    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
+    "translation": "「マイフィルム」画面で、共有したいフィルムカードの「参加者」アイコンをタップします。これによりフィルムが共有フィルムになり、フィルム専用の招待リンクが作成されます。このリンクを友達に送って招待できます。",
+    "sourceHash": "93e356768942ba6307ba9acde06485ff"
   },
   "_faq_q_join_shared": {
-    "translation": "共有アクティビティに参加するには？",
-    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
+    "translation": "共有フィルムに参加するには？",
+    "sourceHash": "83659273325e0e65d138bf249a5f4e7a"
   },
   "_faq_a_join_shared": {
-    "translation": "送られてきた招待リンクをクリックしてください。アプリケーションが開くと、アクティビティへの参加リクエストがアクティビティオーナーに送信されます。アクティビティ・オーナーがあなたのリクエストを承認すると、「マイ・アクティビティ」画面にカメラが表示され、撮影を開始することができます。",
-    "sourceHash": "7817fff38a09f950460ee883ad87de74"
+    "translation": "送られてきた招待リンクをタップします。アプリが開くと、参加リクエストがフィルム所有者に送信されます。所有者が承認すると、フィルムカメラが「マイフィルム」画面に表示され、撮影を始められます。",
+    "sourceHash": "f8aaaaae57cb7cf250a4405bfbc852f8"
   },
   "_faq_q_requests_and_notifications": {
-    "translation": "参加要請と通知",
+    "translation": "参加リクエストと通知",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "アクティビティ所有者は、アクティビティカードの「参加者」アイコンをタップすることで、受信リクエストの確認、承認、拒否ができます。承認または拒否されると通知が届きます。マイ・アクティビティ」画面右上のベルアイコンから、すべての通知を確認できます。",
-    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
+    "translation": "フィルム所有者は、フィルムカードの「参加者」アイコンをタップして受信したリクエストを確認し、承認または拒否できます。承認または拒否されると通知が届きます。",
+    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
   },
   "_faq_q_e2e_encryption": {
-    "translation": "セキュリティとプライバシー（エンドツーエンドの暗号化）",
+    "translation": "セキュリティとプライバシー（エンドツーエンド暗号化）",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "共有アクティビティ内の写真は全て**エンドツーエンドで暗号化**されています。つまり、アクティビティ所有者と承認された参加者以外、**誰も**（Filmcam36チームを含む）あなたの写真を見ることができません。各共有アクティビティには、参加者のデバイスでのみ利用可能なプライベートな \"セッションキー \"が生成され、すべての暗号化/復号化はあなたのデバイス上で直接行われます。これにより、思い出を完全に非公開に保つことができます。\n- 共有アクティビティ中に誤ってアプリを削除し、「セッション・キー」が失われた場合、アプリを再度ダウンロードすると、該当するカメラ・アクティビティに警告が表示されます。この警告が表示されたすべての共有カメラアクティビティでは、そのアクティビティの参加者に「セッションキー」を再度リクエストできます。",
-    "sourceHash": "d802fe5691925de986bc11bbc8242425"
+    "translation": "共有フィルム内のすべての写真は**エンドツーエンド暗号化**されます。つまり、フィルム所有者と承認済み参加者以外の**誰も**（Filmcam36チームを含む）あなたの写真を見ることはできません。各共有フィルム用に、参加者のデバイスにのみ存在する特別な「フィルムキー」が作成され、すべての暗号化／復号はデバイス上で行われます。こうして思い出はあなたと友達だけのものです。\n- 共有フィルム使用中に誤ってアプリを削除して「フィルムキー」を失った場合、再インストール後に該当フィルムカードに警告が表示されます。この警告がある共有フィルムカメラごとに、そのフィルムの参加者から再度「フィルムキー」をリクエストできます。",
+    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
   },
   "_faq_section_album": {
-    "translation": "アルバム",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "現像済みフィルム",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
   },
   "_faq_q_album_tabs": {
-    "translation": "アルバムとは何か？",
-    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
+    "translation": "現像済みフィルムとは？",
+    "sourceHash": "602ea9cc603a371d3cb7446ae35cfecb"
   },
   "_faq_a_album_tabs": {
-    "translation": "- アルバム：** ここでは、アルバムに作成したアクティビティから、カメラで現像した写真を見つけることができます。\n",
-    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
+    "translation": "- **現像済みフィルム：** 作成したフィルムカメラから現像された写真を、フィルム単位でここに見つけられます。\n",
+    "sourceHash": "d335e64fea49df652e245682894a3d12"
   },
   "_faq_q_photo_actions": {
-    "translation": "自分の写真で何ができますか？",
+    "translation": "写真で何ができますか？",
     "sourceHash": "1f3462c677886c1796aadb6474b1360d"
   },
   "_faq_a_photo_actions": {
-    "translation": "フルスクリーンモードで\n- 保存:**デバイスのギャラリーに写真を保存することができます。\n- 共有：**他のアプリケーションを介して写真を共有することができます。\n- 削除:** アプリケーションから写真を完全に削除できます。\n- プロフィール写真にする：** 写真をアプリ内のプロフィール写真に設定できます。",
-    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+    "translation": "全画面モードでは：\n- **保存：** 写真を端末のギャラリーに保存できます。\n- **共有：** 他のアプリで写真を共有できます。\n- **削除：** アプリから写真を完全に削除できます。",
+    "sourceHash": "7c541e94649ac3c848026a47c9f6d20f"
   },
   "_faq_section_settings": {
     "translation": "設定とプロフィール",
     "sourceHash": "38bb7f18035c58686f5de9a9946ecad6"
   },
   "_faq_q_edit_profile": {
-    "translation": "自分のプロフィールを整理するには？",
+    "translation": "プロフィールを編集するには？",
     "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
   },
   "_faq_a_edit_profile": {
-    "translation": "アルバム \"タブでは、上部のプロフィールセクション、または設定メニューの \"アカウント \"からプロフィール情報と写真を更新することができます。",
-    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+    "translation": "「マイフィルム」画面上部のプロフィール欄、または設定メニューの「アカウント」から、プロフィール情報と写真を更新できます。",
+    "sourceHash": "091e1c688cb669c3346526297c4fe6f6"
   },
   "_faq_q_theme": {
     "translation": "アプリケーションのテーマ（ダーク/ライトモード）を変更する方法を教えてください。",
@@ -1336,8 +1344,8 @@
     "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
-    "translation": "共有アクティビティ：ユーザーがグループを作成し、一緒に写真を撮影、フィルタリング、アルバムを共有します。すべてのコンテンツはエンドツーエンドで暗号化されます。",
-    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+    "translation": "共有フィルム：ユーザーがグループを作って一緒に写真を撮影・フィルター処理し、フィルムを共有すること。すべてのコンテンツはエンドツーエンド暗号化されます。",
+    "sourceHash": "df377c8f89d7099a02637dee57d8b5c0"
   },
   "termsOfService_E2E": {
     "translation": "E2E暗号化：送受信デバイスでのみ復号化可能な暗号化システムで、FilmCam36サーバーはコンテンツにアクセスできません。",
@@ -1348,8 +1356,8 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36は、写真の撮影、編集、フィルターの適用、共有アクティビティの作成などの機能を提供します。FilmCam36のサービスは、13歳以上のユーザーを対象としています。ユーザーは、居住する国の法的年齢要件を満たす責任を負うものとします。アプリケーションを使用することにより、利用者はこれらの要件を満たすことを宣言します。",
-    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
+    "translation": "FilmCam36は、写真の撮影・編集・フィルター適用および共有フィルム作成機能を提供します。FilmCam36のサービスは13歳以上のユーザー向けです。ユーザーは居住国の法定年齢要件を満たす義務があります。アプリを使用することで、これらの条件を満たしていることを表明したことになります。",
+    "sourceHash": "c6c71c25e612c76648d99a51b5dae4bf"
   },
   "termsOfService_ServiceUse_2": {
     "translation": "アプリは合法的な目的でのみ使用できます。アプリを使用するために必要な権限（カメラ、ギャラリーなど）を許可する必要があります。",
@@ -1380,20 +1388,20 @@
     "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
   },
   "termsOfService_SharedActivities_UserContent": {
-    "translation": "4.共有アクティビティとユーザーコンテンツ：",
-    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+    "translation": "4. 共有フィルムとユーザーコンテンツ：",
+    "sourceHash": "520804b9ff73784118784e7088297314"
   },
   "termsOfService_SharedActivities_UserContent_1": {
-    "translation": "アクティビティ内の写真はすべて、アクティビティメンバーだけが閲覧できます。",
-    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+    "translation": "フィルム内のすべての写真は、フィルムのメンバーのみが閲覧できます。",
+    "sourceHash": "145b8f7ded5386353b47eface7395b24"
   },
   "termsOfService_SharedActivities_UserContent_2": {
     "translation": "アプリケーションはエンド・ツー・エンドの暗号化を使用しているため、FilmCam36のチームを含め、誰もコンテンツにアクセスすることはできない。",
     "sourceHash": "73ed7993891fe69936e16c9a316d9176"
   },
   "termsOfService_SharedActivities_UserContent_3": {
-    "translation": "共有アクティビティに投稿したコンテンツは、すべて利用者の責任となります。",
-    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+    "translation": "共有フィルムで送信したコンテンツについては、すべてあなたが責任を負います。",
+    "sourceHash": "3328bdbf7989ba404f95653c7cd7945e"
   },
   "termsOfService_SharedActivities_UserContent_4": {
     "translation": "違法、有害、著作権を侵害するコンテンツを使用することは禁じられています。",
@@ -1404,8 +1412,8 @@
     "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
   },
   "termsOfService_E2E_Crypto_1": {
-    "translation": "FilmCam36は、共有アクティビティ内のすべての写真とメッセージをE2Eとして暗号化します：",
-    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+    "translation": "FilmCam36は、共有フィルム内のすべての写真とメッセージをE2Eで暗号化します：",
+    "sourceHash": "b02a3cc85bc8f4012c657a6f4eb87872"
   },
   "termsOfService_E2E_Crypto_2": {
     "translation": "コンテンツはデバイス上で暗号化されます。",
@@ -1420,8 +1428,8 @@
     "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
   },
   "termsOfService_E2E_Crypto_5": {
-    "translation": "復号キーは活動メンバーのデバイスにしかない。",
-    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+    "translation": "フィルムキーはフィルムメンバーのデバイスにのみ存在します。",
+    "sourceHash": "ab1f18acadd022aa35647c1de6febe94"
   },
   "termsOfService_E2E_Crypto_6": {
     "translation": "したがってFilmCam36は、ユーザーのコンテンツにアクセス、閲覧、編集、または第三者と共有することはできません。",
@@ -1560,12 +1568,12 @@
     "sourceHash": "5cfca368855e535991a2ba746c019615"
   },
   "privacyPolicy_CollectedData_SharedActivityData": {
-    "translation": "1.3.共有アクティビティデータ：",
-    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+    "translation": "1.3. 共有フィルムデータ：",
+    "sourceHash": "df0adce1b83baee67ffd9b6d0ee33222"
   },
   "privacyPolicy_CollectedData_SharedActivityData_1": {
-    "translation": "アクティビティ名、アクティビティメンバー、写真（すべてE2E暗号化）、各写真のメタデータ",
-    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+    "translation": "フィルム名、フィルムメンバー、写真（すべてE2E暗号化）、各写真のメタデータ",
+    "sourceHash": "9c4bd52687f7f5d9c11c4256a23f448a"
   },
   "privacyPolicy_CollectedData_SharedActivityData_2": {
     "translation": "注意：FilmCam36チームは写真を見ることができません。写真はデコード不可能なフォーマットで保存されます。",
@@ -1584,8 +1592,8 @@
     "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
   },
   "privacyPolicy_UncollectedData_3": {
-    "translation": "活動中メッセージ",
-    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+    "translation": "フィルム内メッセージ",
+    "sourceHash": "217f4984967d9e8e67c7862769c828a3"
   },
   "privacyPolicy_UncollectedData_4": {
     "translation": "ユーザーギャラリーの他の写真",
@@ -1608,8 +1616,8 @@
     "sourceHash": "b18450ea443d17728b0194358bc71827"
   },
   "privacyPolicy_DataStorage_2": {
-    "translation": "アクティビティ写真は暗号化されて保存され、キーはデバイスに残ります。",
-    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+    "translation": "フィルム写真は暗号化して保存され、キーはデバイスに残ります。",
+    "sourceHash": "e11b9847cac606ad4320d1be7052bcb5"
   },
   "privacyPolicy_DataStorage_3": {
     "translation": "ユーザーコンテンツは「開発者が閲覧できない」。",
@@ -1640,8 +1648,8 @@
     "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
   },
   "privacyPolicy_DataSharing_6": {
-    "translation": "FilmCam36チームは、お客様の写真、メッセージ、復号化キーにアクセスすることはできません。",
-    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+    "translation": "FilmCam36チームは、写真、メッセージ、暗号化されたフィルムキーに一切アクセスできません",
+    "sourceHash": "c0da892ef857a4ecc1c4e98ca77518e1"
   },
   "ContactUs": {
     "translation": "お問い合わせ本利用規約またはプライバシーポリシーに関するご質問は、こちらまでお問い合わせください：filmcam36@themachineco.com",
@@ -1708,8 +1716,8 @@
     "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
-    "translation": "削除されるデータあなたのユーザーアカウント、プロフィール情報、作成したすべてのアクティビティ、これらのアクティビティにアップロードしたすべての写真。",
-    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+    "translation": "削除されるデータ：ユーザーアカウント、プロフィール情報、作成したすべてのフィルム、およびそれらのフィルムにアップロードしたすべての写真。",
+    "sourceHash": "5fe8921a02908a3fca4111a11dd40f66"
   },
   "deleteAccount_policy4": {
     "translation": "保存されるデータ法的義務または正当な事業目的（匿名化および集計された分析データなど）を除き、個人データは保存されません。",

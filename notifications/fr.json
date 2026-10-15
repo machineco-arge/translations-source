@@ -24,68 +24,68 @@
     "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
   },
   "_notifications_albumReadyTitle": {
-    "translation": "Votre album est prêt ! 🎉",
-    "sourceHash": "96e6746138c8090a9b576da66da9b424"
+    "translation": "Ton film est prêt ! 🎉",
+    "sourceHash": "9c856b54a5a2776e5191fd2eeea5da2b"
   },
   "_notifications_albumReadyBody": {
-    "translation": "Vos souvenirs vous attendent dans l'album \" {{bestName}} \".",
-    "sourceHash": "901b0db5d51cf4214c13be099442a93c"
+    "translation": "Tes souvenirs t'attendent dans le film terminé « {{bestName}} ».",
+    "sourceHash": "ee6d49923093b27ec41a985108bc7988"
   },
   "_notifications_joinRequestTitle": {
-    "translation": "Nouvelle demande de participation",
+    "translation": "Nouvelle demande d'adhésion",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}} - \" {{activityName}} \" souhaite participer à votre activité.",
-    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+    "translation": "{{email}} souhaite rejoindre le film « {{activityName}} ».",
+    "sourceHash": "19182ddd3532c44e0cdf1899a61bd7c4"
   },
   "_notifications_requestApprovedTitle": {
-    "translation": "Votre demande de participation est confirmée !",
-    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+    "translation": "Ta demande d'adhésion a été approuvée !",
+    "sourceHash": "4d416b9448184b78615417b4ea8911f5"
   },
   "_notifications_requestApprovedBody": {
-    "translation": "Vous pouvez participer à l'activité \" {{activityName}} \".",
-    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+    "translation": "Tu peux rejoindre le film « {{activityName}} ».",
+    "sourceHash": "dcb58d429a41341747eff9d69c75f431"
   },
   "_notifications_requestRejectedTitle": {
-    "translation": "Votre demande de participation est rejetée",
-    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+    "translation": "Ta demande d'adhésion a été refusée",
+    "sourceHash": "ade6b9e7230167e03a6a3351a2390ee0"
   },
   "_notifications_requestRejectedBody": {
-    "translation": "Votre demande de participation à l'activité \" {{activityName}} \" n'a pas été acceptée.",
-    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+    "translation": "Ta demande pour rejoindre le film « {{activityName}} » n'a pas été acceptée.",
+    "sourceHash": "58422ac3dfd1ea3d169cc4ffc20c20a2"
   },
   "_notifications_specialJoinRequestTitle": {
-    "translation": "Nouvelle demande de participation",
+    "translation": "Nouvelle demande d'adhésion",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_specialJoinRequestBody": {
-    "translation": "{{email}} - \" {{activityName}} \" souhaite participer à votre activité.",
-    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+    "translation": "{{email}} souhaite rejoindre le film « {{activityName}} ».",
+    "sourceHash": "19182ddd3532c44e0cdf1899a61bd7c4"
   },
   "_notifications_specialRequestApprovedTitle": {
-    "translation": "Votre demande de participation est confirmée !",
-    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+    "translation": "Ta demande d'adhésion a été approuvée !",
+    "sourceHash": "4d416b9448184b78615417b4ea8911f5"
   },
   "_notifications_specialRequestApprovedBody": {
-    "translation": "Vous pouvez participer à l'activité \" {{activityName}} \".",
-    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+    "translation": "Tu peux rejoindre le film « {{activityName}} ».",
+    "sourceHash": "dcb58d429a41341747eff9d69c75f431"
   },
   "_notifications_specialRequestRejectedTitle": {
-    "translation": "Votre demande de participation est rejetée",
-    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+    "translation": "Ta demande d'adhésion a été refusée",
+    "sourceHash": "ade6b9e7230167e03a6a3351a2390ee0"
   },
   "_notifications_specialRequestRejectedBody": {
-    "translation": "Votre demande de participation à l'activité \" {{activityName}} \" n'a pas été acceptée.",
-    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+    "translation": "Ta demande pour rejoindre le film « {{activityName}} » n'a pas été acceptée.",
+    "sourceHash": "58422ac3dfd1ea3d169cc4ffc20c20a2"
   },
   "_notifications_specialParticipantRemovedTitle": {
-    "translation": "Vous êtes exclu de l'activité",
-    "sourceHash": "32414dcb3004863c8ad8b066de4feeb6"
+    "translation": "Tu as été retiré du film",
+    "sourceHash": "af4e3f3b25d65c53a79a654fce6d1616"
   },
   "_notifications_specialParticipantRemovedBody": {
-    "translation": "Vous avez été retiré de l'activité \" {{activityName}} \".",
-    "sourceHash": "519b3bc50945e03f47921dff0eeaf695"
+    "translation": "Tu as été retiré du film « {{activityName}} ».",
+    "sourceHash": "61679ff43a6c01a8e0e23c6a1e41a2d9"
   },
   "_notifications_specialPhotosReadyTitle": {
     "translation": "Photos prêtes",

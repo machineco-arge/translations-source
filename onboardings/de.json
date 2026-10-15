@@ -12,8 +12,8 @@
     "sourceHash": "6b554007f8b0740bc8837389131b75e3"
   },
   "onboardingSecondMessage": {
-    "translation": "Jeder Film ist auf 36 Aufnahmen begrenzt.\nSobald der Film fertig ist, wird er zur Entwicklung an das Labor geschickt",
-    "sourceHash": "7932fcfc261c70e3810697e8552551ec"
+    "translation": "Jede Rolle ist auf 36 Aufnahmen begrenzt.\nWenn Sie alle Aufnahmen auf dem Film gemacht haben, können Sie ihn zur Entwicklung einschicken.",
+    "sourceHash": "c83e588f9b6b2f6106547cf93febbb7e"
   },
   "onboardingNext": {
     "translation": "Weiter",
@@ -22,6 +22,14 @@
   "onboardingContinue": {
     "translation": "Weiter",
     "sourceHash": "a0bfb8e59e6c13fc8d990781f77694fe"
+  },
+  "onboardingNegativesStepTitle": {
+    "translation": "Die Negative sind fertig!",
+    "sourceHash": "812ef0cd529058dea2186c4b730d1631"
+  },
+  "onboardingNegativesStepMessage": {
+    "translation": "Sie können das digitale Negativ der Filmrolle ansehen, bevor der Film entwickelt wird.",
+    "sourceHash": "cc46586a29e4552c7d52bc081df57727"
   },
   "onboardingSendStepTitle": {
     "translation": "Bereit für die Entwicklung",
@@ -78,5 +86,13 @@
   "onboardingActivityTitle": {
     "translation": "Erster Film",
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
+  },
+  "onboardingGoToHomeTitle": {
+    "translation": "Jetzt deinen eigenen Film drehen",
+    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+  },
+  "onboardingGoToHomeMessage": {
+    "translation": "Erstelle deinen eigenen Film, indem du die verschiedenen Kameras ausprobierst und diejenige auswählst, die am besten zum jeweiligen Moment passt.",
+    "sourceHash": "de21aa56baeec831d6c4d23779605706"
   }
 }

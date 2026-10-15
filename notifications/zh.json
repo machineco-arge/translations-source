@@ -24,68 +24,68 @@
     "sourceHash": "312b3f4880efb3f65f77b8ad8b72a881"
   },
   "_notifications_albumReadyTitle": {
-    "translation": "您的相册已准备就绪！🎉",
-    "sourceHash": "96e6746138c8090a9b576da66da9b424"
+    "translation": "你的胶卷已就绪！🎉",
+    "sourceHash": "9c856b54a5a2776e5191fd2eeea5da2b"
   },
   "_notifications_albumReadyBody": {
-    "translation": "您的记忆正在相册 \" {{bestName}} \" 中等待着您。",
-    "sourceHash": "901b0db5d51cf4214c13be099442a93c"
+    "translation": "你的回忆在已完成的胶卷「{{bestName}}」中等着你。",
+    "sourceHash": "ee6d49923093b27ec41a985108bc7988"
   },
   "_notifications_joinRequestTitle": {
-    "translation": "新的参与申请",
+    "translation": "新的加入请求",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_joinRequestBody": {
-    "translation": "{{email}} - \" {{activityName}} \" 希望参加您的活动。",
-    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+    "translation": "{{email}} 想加入胶卷「{{activityName}}」。",
+    "sourceHash": "19182ddd3532c44e0cdf1899a61bd7c4"
   },
   "_notifications_requestApprovedTitle": {
-    "translation": "您的参与申请已确认！",
-    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+    "translation": "你的加入请求已获批准！",
+    "sourceHash": "4d416b9448184b78615417b4ea8911f5"
   },
   "_notifications_requestApprovedBody": {
-    "translation": "您可以参加 \" {{activityName}} \" 活动。",
-    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+    "translation": "你可以加入胶卷「{{activityName}}」。",
+    "sourceHash": "dcb58d429a41341747eff9d69c75f431"
   },
   "_notifications_requestRejectedTitle": {
-    "translation": "您的参与申请被拒绝",
-    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+    "translation": "你的加入请求被拒绝",
+    "sourceHash": "ade6b9e7230167e03a6a3351a2390ee0"
   },
   "_notifications_requestRejectedBody": {
-    "translation": "您参加活动 \" {{activityName}} \" 的申请未被接受。",
-    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+    "translation": "你加入胶卷「{{activityName}}」的请求未被接受。",
+    "sourceHash": "58422ac3dfd1ea3d169cc4ffc20c20a2"
   },
   "_notifications_specialJoinRequestTitle": {
-    "translation": "新的参与申请",
+    "translation": "新的加入请求",
     "sourceHash": "e27fa413eda7d3e9eebb3d7cfafacc4d"
   },
   "_notifications_specialJoinRequestBody": {
-    "translation": "{{email}} - \" {{activityName}} \" 希望参加您的活动。",
-    "sourceHash": "b1bb4da0cf2508ad58bdaa71f8f8f998"
+    "translation": "{{email}} 想加入胶卷「{{activityName}}」。",
+    "sourceHash": "19182ddd3532c44e0cdf1899a61bd7c4"
   },
   "_notifications_specialRequestApprovedTitle": {
-    "translation": "您的参与申请已确认！",
-    "sourceHash": "ee21450151238f4639fbefa8ed91a388"
+    "translation": "你的加入请求已获批准！",
+    "sourceHash": "4d416b9448184b78615417b4ea8911f5"
   },
   "_notifications_specialRequestApprovedBody": {
-    "translation": "您可以参加 \" {{activityName}} \" 活动。",
-    "sourceHash": "87bea37b9dedac88413bebacaedadde6"
+    "translation": "你可以加入胶卷「{{activityName}}」。",
+    "sourceHash": "dcb58d429a41341747eff9d69c75f431"
   },
   "_notifications_specialRequestRejectedTitle": {
-    "translation": "您的参与申请被拒绝",
-    "sourceHash": "19c3326fb0a1f6b549bf0ac71993a77f"
+    "translation": "你的加入请求被拒绝",
+    "sourceHash": "ade6b9e7230167e03a6a3351a2390ee0"
   },
   "_notifications_specialRequestRejectedBody": {
-    "translation": "您参加活动 \" {{activityName}} \" 的申请未被接受。",
-    "sourceHash": "2ed970b91474e2a622e04154068d5bc5"
+    "translation": "你加入胶卷「{{activityName}}」的请求未被接受。",
+    "sourceHash": "58422ac3dfd1ea3d169cc4ffc20c20a2"
   },
   "_notifications_specialParticipantRemovedTitle": {
-    "translation": "您被排除在活动之外",
-    "sourceHash": "32414dcb3004863c8ad8b066de4feeb6"
+    "translation": "你已被移出胶卷",
+    "sourceHash": "af4e3f3b25d65c53a79a654fce6d1616"
   },
   "_notifications_specialParticipantRemovedBody": {
-    "translation": "您已从活动 \" {{activityName}} \" 中移除。",
-    "sourceHash": "519b3bc50945e03f47921dff0eeaf695"
+    "translation": "你已被移出胶卷「{{activityName}}」。",
+    "sourceHash": "61679ff43a6c01a8e0e23c6a1e41a2d9"
   },
   "_notifications_specialPhotosReadyTitle": {
     "translation": "照片准备就绪",

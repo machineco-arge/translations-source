@@ -316,8 +316,8 @@
     "sourceHash": "9617eabab316a84560d168ef61f9b518"
   },
   "_cameraScreen_participantFilmEndedMessage": {
-    "translation": "Film rulosu doldu, aktivite sahibinin banyoya göndermesini bekleyin",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "Film rulosu doldu, film sahibinin filmi banyoya göndermesini bekleyin",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_cameraScreen_switchCamera": {
     "translation": "Kamerayı Değiştir",
@@ -332,8 +332,8 @@
     "sourceHash": "1a25142b005da3d22332dca31845a2e5"
   },
   "_cameraScreen_activitySendedPrintError": {
-    "translation": "Aktivite sahibi bu film rulosunu banyoya gönderdiği için artık fotoğraf çekemezsiniz.",
-    "sourceHash": "2353f41cae59d855128d5a4fe3bd3e77"
+    "translation": "Film sahibi bu film rulosunu banyoya gönderdiği için artık fotoğraf çekemezsiniz.",
+    "sourceHash": "3772dcfeaa6d0c190c81029c0ddd8b76"
   },
   "_filmScreen_title": {
     "translation": "Filmlerim",
@@ -356,8 +356,8 @@
     "sourceHash": "fd37b51664bd982a0bcba28e0054c730"
   },
   "_filmScreen_editActivityTitle": {
-    "translation": "Aktivite Başlığını Düzenle",
-    "sourceHash": "bd90d7fcb7bdba1e66382a46a4661756"
+    "translation": "Film Başlığını Düzenle",
+    "sourceHash": "106e4b6f37f8544afa462d9cce69373b"
   },
   "_filmScreen_enterNewActivityTitle": {
     "translation": "Yeni bir başlık girin (maksimum {{maxTitleLength}} karakter, varsayılana dönmek için boş bırakın)",
@@ -424,20 +424,20 @@
     "sourceHash": "2826a23619aa76f754015db43192740a"
   },
   "_filmScreen_specialActivitiesSection": {
-    "translation": "Özel Aktivitelerim",
-    "sourceHash": "2f96950c38146317a97619ca2facae56"
+    "translation": "Özel Filmlerim",
+    "sourceHash": "c2ebbff7e702f66e685efd048e4019a0"
   },
   "_filmScreen_myActivitiesSection": {
-    "translation": "Aktivitelerim",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "Filmlerim",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_filmScreen_contactSheetSubtitle": {
     "translation": "{{count}} Kare Önizlemesi",
     "sourceHash": "6f005c0ed09157654dfd419af02e8ab1"
   },
   "_filmScreen_activeActivitiesSection": {
-    "translation": "Aktif Aktiviteler",
-    "sourceHash": "011050873a2f4611fcd8dcc0e669092d"
+    "translation": "Aktif Filmlerim",
+    "sourceHash": "ea245cdbfab7ab1b5cb42b3c514d7dc9"
   },
   "_filmScreen_printingActivitiesSection": {
     "translation": "Banyoya Gönderilenler",
@@ -464,12 +464,12 @@
     "sourceHash": "b73f715ab70dde22c1dd705d5c51e1a5"
   },
   "_filmScreen_joinActivityTitle": {
-    "translation": "Aktiviteye Katıl",
-    "sourceHash": "ee8af056a7d433d975fc5272d0034312"
+    "translation": "Filme Katıl",
+    "sourceHash": "04156e93560a66f5ff971c741d9c7d5f"
   },
   "_filmScreen_joinActivityMessage": {
-    "translation": "Bu aktiviteye katılmak istiyor musunuz?",
-    "sourceHash": "d2282a7abd9586e7e2ab4923dadcee74"
+    "translation": "Bu filme katılmak istiyor musunuz?",
+    "sourceHash": "17ea392bb38bcb5927d655c76579ad88"
   },
   "_filmScreen_invalidInvitationLink": {
     "translation": "Geçersiz davet bağlantısı.",
@@ -484,12 +484,12 @@
     "sourceHash": "6a2ea8859aa2695ce8a0f2abecb80801"
   },
   "_filmScreen_participantLimitReachedMessage": {
-    "translation": "Bu aktiviteye katılım limiti doldu. Limit artırmak için aktivite sahibi Pro üye olmalıdır.",
-    "sourceHash": "1a5b2366930f3fa2db8e199def981827"
+    "translation": "Bu filme katılım limiti doldu. Limit artırmak için filmin sahibi Pro üye olmalıdır.",
+    "sourceHash": "11b76e4edacdcab268ef8ed55360a12a"
   },
   "_filmScreen_ownerLimitReachedMessage": {
-    "translation": "Bu aktiviteye katılım limiti doldu. Limit artırmak için Pro üye olmanız gerekiyor.",
-    "sourceHash": "6673ef57e8ed97f0f95dd1d9b1bfe59b"
+    "translation": "Bu filme katılım limiti doldu. Limit artırmak için Pro üye olmanız gerekiyor.",
+    "sourceHash": "75bd4372eab88521bba001985bd1cf4c"
   },
   "_filmScreen_waitingForApproval": {
     "translation": "Onay Bekleniyor",
@@ -504,8 +504,8 @@
     "sourceHash": "6d64708d2ef79df041c5cf53eec1d45c"
   },
   "_filmScreen_sharedActivity": {
-    "translation": "Paylaşımlı Aktivite",
-    "sourceHash": "ece52abb2d3582bf2cd89da89031cfa8"
+    "translation": "Paylaşımlı Film",
+    "sourceHash": "fb4bda78c3e5e8b7f0504378908423c9"
   },
   "_filmScreen_joinRequestStatusPending": {
     "translation": "İzin Bekleniyor",
@@ -516,20 +516,20 @@
     "sourceHash": "ad7766303cac803f47a7a544e8023ace"
   },
   "_filmScreen_shareActivityTitle": {
-    "translation": "Aktiviteye Davet Et",
-    "sourceHash": "38d868ab07c653ffee64d0a518a936e0"
+    "translation": "Filme Arkadaş Ekle",
+    "sourceHash": "e12d058930b128ee2249ac4bf581425c"
   },
   "_filmScreen_shareActivityMessage": {
-    "translation": "Bu aktiviteyi paylaşımlı aktivite yapıp, arkadaşlarınızı aktivitenize davet etmek ister misiniz?",
-    "sourceHash": "22c28fb824422ba59ca09d61e030e52b"
+    "translation": "Bu filmi paylaşımlı film yapıp, arkadaşlarınızı filminize arkadaş eklemek ister misiniz?",
+    "sourceHash": "9788bb537d9590af723a2bc063ce4e36"
   },
   "_filmScreen_shareActivityMessageAnonymous": {
-    "translation": "Bu aktiviteye arkadaşlarınızı davet edebilirsiniz. Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
-    "sourceHash": "b0523403c65bc75d0f19cc96c537c866"
+    "translation": "Bu filme arkadaşlarınızı davet edebilirsiniz. Bu özelliği kullanabilmek için giriş yapmanız gerekmektedir. Giriş yapmak ister misiniz?",
+    "sourceHash": "7cbd9b765d99c4db34228817507a3048"
   },
   "_filmScreen_shareInviteTitle": {
-    "translation": "Aktivite Davet Bağlantısı",
-    "sourceHash": "ad878dfb4cf79f4ebb5edab7032b1c74"
+    "translation": "Film Davet Bağlantısı",
+    "sourceHash": "60a42cd6f8e08f9588943e633a96f8b0"
   },
   "_filmScreen_shareFailedErrorMessage": {
     "translation": "Davet bağlantısı paylaşılırken bir hata oluştu.",
@@ -540,8 +540,8 @@
     "sourceHash": "ffe4b299c0d8d08a5b61a45e9359cb1a"
   },
   "_filmScreen_shareChoiceMessage": {
-    "translation": "Daveti QR kodu ile mi paylaşmak istersiniz, yoksa aktivite link ile mi paylaşmak istersiniz?",
-    "sourceHash": "6ce18955b8fa0a32db5415fec8d3ab31"
+    "translation": "Daveti QR kodu ile mi paylaşmak istersiniz, yoksa link ile mi paylaşmak istersiniz?",
+    "sourceHash": "f146df177b97df7295ccb477aaee768f"
   },
   "_filmScreen_shareOthersButtonLabel": {
     "translation": "Link",
@@ -560,60 +560,56 @@
     "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "Bu aktivite 10 kullanıcı ile sınırlandırılacaktır. Sınırsız katılımcı için Pro üye olun.",
-    "sourceHash": "1a5c1fc8b4891effca10531be2cd4829"
+    "translation": "Bu film paylaşımlı film olunca 10 kullanıcı ile sınırlandırılacaktır. Sınırsız katılımcı için Pro üye olun.",
+    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
-    "translation": "Film rulosu doldu, aktivite sahibinin banyoya göndermesini bekleyin",
-    "sourceHash": "41d1417d3340446e2ac2d3b3477aee9a"
+    "translation": "Film rulosu doldu, film sahibinin filmi banyoya göndermesini bekleyin",
+    "sourceHash": "c5f7ed6cf39038f0bf2f9515db7e6c36"
   },
   "_filmScreen_linkShareError": {
-    "translation": "Bu aktivite için davet bağlantısı bulunamadı.",
-    "sourceHash": "c27e894cebc2e7756a76afedabd705b9"
+    "translation": "Bu film için davet bağlantısı bulunamadı.",
+    "sourceHash": "c359247eaa02b092459a6401c30fdf38"
   },
   "_filmScreen_editNameError": {
-    "translation": "Aktivite ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
-    "sourceHash": "d62e88df05dfd1626ec17cdb456d6586"
+    "translation": "Film ismi güncellenirken hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "sourceHash": "84ea25009389c2db106b0d05b427762f"
   },
   "_filmScreen_requestKeyError": {
-    "translation": "Aktivite anahtarı istenirken bir hata oluştu.",
-    "sourceHash": "15796a82ea54d504487b20bbfe245c23"
+    "translation": "Film anahtarı istenirken bir hata oluştu.",
+    "sourceHash": "7ef38fa1b54f5d015067e696ec6e2fd3"
   },
   "_filmScreen_requestKeySuccess": {
-    "translation": "Aktivite anahtarı isteği başarıyla gönderildi.",
-    "sourceHash": "3c4eeb7274932684de870cfded8a35c8"
+    "translation": "Film anahtarı isteği başarıyla gönderildi.",
+    "sourceHash": "dc7d244b602d4f8e7f5adee8ce1e0e84"
   },
   "_filmScreen_deleteActivity": {
-    "translation": "Aktiviteyi Sil",
-    "sourceHash": "6090f103b49b8b3197f9633c41608d8e"
+    "translation": "Filmi Sil",
+    "sourceHash": "6381a18ff3c5b98ab8d0e5b897ee4e71"
   },
   "_filmScreen_deleteActivityMessage": {
-    "translation": "Bu aktiviteyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
-    "sourceHash": "a6119eb29f9b93a3c8c8925d2a7b3464"
+    "translation": "Bu filmi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "sourceHash": "c3e0a39434c17f8aa172d53152ca94e2"
   },
   "_filmScreen_deleteActivityErrorMessage": {
-    "translation": "Aktivite silinirken bir hata oluştu.",
-    "sourceHash": "50f4eb8ebf15ccb2a3a9a0e311f94b3f"
+    "translation": "Film silinirken bir hata oluştu.",
+    "sourceHash": "6f69dee1d269a520e658a6a76ec15fe0"
   },
   "_filmScreen_leaveActivity": {
-    "translation": "Aktiviteden Ayrıl",
-    "sourceHash": "37437b18e68766d00eb11343db4dcd97"
+    "translation": "Filmden Ayrıl",
+    "sourceHash": "22b263f39460b0d140f8d28dc1100abc"
   },
   "_filmScreen_leaveActivityMessage": {
-    "translation": "Bu aktiviteden ayrılmak istediğinizden emin misiniz?",
-    "sourceHash": "56f34e9c27ef0e9a07936174a0400d53"
+    "translation": "Bu filmden ayrılmak istediğinizden emin misiniz?",
+    "sourceHash": "b04a6aae37343aa7b461afc6c9679c7f"
   },
   "_filmScreen_leaveActivityErrorMessage": {
-    "translation": "Aktivite ayrılırken bir hata oluştu.",
-    "sourceHash": "bb06c2f19d00dcf3f4c52fc2e5a83dbd"
+    "translation": "Filmden ayrılırken bir hata oluştu.",
+    "sourceHash": "5ef0adf4613b3626af198e372d5bf0e5"
   },
   "_filmScreen_share": {
-    "translation": "Davet Et",
-    "sourceHash": "b4f712420c9d38f76c933b655ff64ce1"
-  },
-  "_filmScreen_cannotShareActivityWithPhotos": {
-    "translation": "Fotoğrafları olan normal bir aktiviteyi paylaşamazsınız.",
-    "sourceHash": "93bcf37f6c83516f33ee393f8bbfa379"
+    "translation": "Arkadaş Ekle",
+    "sourceHash": "f6f22c3223328c2cf8cd54302e5ad525"
   },
   "_filmScreen_speedingUp": {
     "translation": "Banyo Hızlandırılıyor...",
@@ -626,6 +622,10 @@
   "_filmScreen_goToAlbum": {
     "translation": "Fotoğrafları Görüntüle",
     "sourceHash": "fe8e284bfa6d8afba4af03fd283d8c66"
+  },
+  "_filmScreen_newAlbum": {
+    "translation": "Yeni",
+    "sourceHash": "b41bc3592e0e3f8d26b1c93ff0318a5d"
   },
   "_filmScreen_printCompleted": {
     "translation": "Fotoğraf Banyoları Tamamlandı!",
@@ -648,8 +648,8 @@
     "sourceHash": "cb7b79b4fdb58177faacf86d6df60eb7"
   },
   "_filmRollExtension_messageParticipant": {
-    "translation": "{{totalShots}} fotoğraf daha çekin veya aktivite sahibinin banyoya göndermesini bekleyin.",
-    "sourceHash": "26b5fb8917266e59a135c6dc6c574fa9"
+    "translation": "{{totalShots}} fotoğraf daha çekin veya film sahibinin filmi banyoya göndermesini bekleyin.",
+    "sourceHash": "a4028bde482c63db518dd62d7696ab83"
   },
   "_filmRollExtension_messageOwner": {
     "translation": "{{totalShots}} fotoğraf daha çekin veya banyoya gönderin.",
@@ -684,8 +684,8 @@
     "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
   },
   "_participantModal_noParticipants": {
-    "translation": "Bu aktivitede henüz bir istek yok.",
-    "sourceHash": "772e887c2cb735ab48ae416176e372f8"
+    "translation": "Bu film için henüz bir istek yok.",
+    "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
     "translation": "Katılımcı bilgisi bulunamadı.",
@@ -704,20 +704,20 @@
     "sourceHash": "c69c0952229c7dd557cd9de49b5ac5ef"
   },
   "_participantModal_sessionKeyError": {
-    "translation": "Aktivite anahtarı gönderilemedi. Lütfen daha sonra tekrar deneyin.",
-    "sourceHash": "82b7d5d09966392d803181b9d646d30b"
+    "translation": "Film anahtarı gönderilemedi. Lütfen daha sonra tekrar deneyin.",
+    "sourceHash": "d1df5ff47a5c764155d511541633c00c"
   },
   "_participantModal_sessionKeySuccess": {
-    "translation": "Aktivite anahtarı başarıyla gönderildi.",
-    "sourceHash": "67f9204f54d8d7ce39a098b474dad40d"
+    "translation": "Film anahtarı başarıyla gönderildi.",
+    "sourceHash": "dc642647700f846e3519e45ee8bf0fe4"
   },
   "_participantModal_sendSessionKey": {
-    "translation": "Aktivite anahtarını gönder",
-    "sourceHash": "19789df66647c81a679daec245f546b1"
+    "translation": "Film anahtarını gönder",
+    "sourceHash": "61f4b3595078e04bdf040aa7be3476b8"
   },
   "_participantModal_noHasSessionKey": {
-    "translation": "Aktivite anahtarın yok.",
-    "sourceHash": "f005b2932429af24dd57d8775c2bf512"
+    "translation": "Film anahtarın yok.",
+    "sourceHash": "ad6f8bc160ed411a1359169296962c83"
   },
   "_participantModal_requestSessionKey": {
     "translation": "Tekrar iste",
@@ -738,6 +738,14 @@
   "_homeScreen_specialEventResolveError": {
     "translation": "Özel etkinlik yüklenirken bir hata oluştu.",
     "sourceHash": "f44070542f5afd754518e0a054a93bba"
+  },
+  "_homeScreen_selectCamera": {
+    "translation": "Kameranı Seç",
+    "sourceHash": "22f40a5854822323681b14a3fae59d73"
+  },
+  "_homeScreen_selectFilmRoll": {
+    "translation": "Bir film rulosu seç ve çekime başla.",
+    "sourceHash": "3a425cfca5342336a6d1e9541399b5fa"
   },
   "timeOptions": {
     "express": {
@@ -940,8 +948,8 @@
     "sourceHash": "36ccaa3c7a03143779eac361c313715d"
   },
   "_selectFilm_loginRequiredToCreateActivityMessage": {
-    "translation": "Bu aktiviteyi oluşturmak için giriş yapmalısınız.",
-    "sourceHash": "a78b213c91f96a15860c9b94b781403c"
+    "translation": "Bu filmi oluşturmak için giriş yapmalısınız.",
+    "sourceHash": "158d96696559e093de8eba35f1e71279"
   },
   "_selectFilm_filmCreateWaitingTimeAlertTitle": {
     "translation": "Film Rulo Hakkın Bitti",
@@ -952,20 +960,20 @@
     "sourceHash": "226c93618bb62791af1583ffbf591388"
   },
   "_selectFilm_filmCreateActivityAlertTitle": {
-    "translation": "Aktivite Oluşturuluyor",
-    "sourceHash": "2d5f19dd4ae3c17cca7fa71e0cccc013"
+    "translation": "Film Oluşturuluyor",
+    "sourceHash": "b795112c250285c2e1fa91335c93a578"
   },
   "_selectFilm_filmCreateActivityAlertMessage": {
-    "translation": "'{{cameraName}} - {{shots}}' kamerası ile aktiviten oluşturuluyor.",
-    "sourceHash": "5a75881128c92bf271f41dea0971ca57"
+    "translation": "'{{cameraName}} - {{shots}}' kamerası ile filmin oluşturuluyor.",
+    "sourceHash": "c877c6095fcae03c6d2cbaad759fd334"
   },
   "_selectFilm_confirmCreateActivityTitle": {
     "translation": "Emin misin?",
     "sourceHash": "73013ad3a613e5d23694f758eed26863"
   },
   "_selectFilm_confirmCreateActivityMessage": {
-    "translation": "Yeni bir aktivite oluşturmak istediğinizden emin misin?",
-    "sourceHash": "7c5eabfbad5fdf368c20ccd72ece8a95"
+    "translation": "Yeni bir film oluşturmak istediğinizden emin misin?",
+    "sourceHash": "48d4db29b0b00a6516bd56d9896b1cb4"
   },
   "_selectFilm_selectFilmCount": {
     "translation": "Film Rulosu Seç",
@@ -984,8 +992,8 @@
     "sourceHash": "b1ca7d20af3da153d19cd126377f7dc7"
   },
   "_selectFilm_activityCooldownMessage": {
-    "translation": "Yeni bir aktiviteyi {{time}} sonra oluşturabilirsiniz. Beklemek istemiyorsanız Pro üye olun",
-    "sourceHash": "6d7bcde47432b550105c2b06369f8c44"
+    "translation": "Yeni bir filmi {{time}} sonra oluşturabilirsiniz. Beklemek istemiyorsanız Pro üye olun",
+    "sourceHash": "8ee06d843f0f83fde1a3a9b46b39d30c"
   },
   "_settings_termsOfServiceAndPrivacyPolicy": {
     "translation": "Şartlar ve Politikalar",
@@ -1012,20 +1020,20 @@
     "sourceHash": "35fba9105deba4815f0e649af499879f"
   },
   "_faq_q_virtual_camera": {
-    "translation": "Sanal Kamera Nedir?",
-    "sourceHash": "1257d51fa4c70065ac897b565088efae"
+    "translation": "Sanal Film Nedir?",
+    "sourceHash": "76a0cb3a0b5ba909b8636fdc1009ed39"
   },
   "_faq_a_virtual_camera": {
-    "translation": "Bir \"Kamera Aktivitesi\", dijital bir film rulosu gibidir. **Kameralar**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her kamera, çektiğiniz fotoğrafları kendi içinde özel bir albümde gruplandırır.",
-    "sourceHash": "75f9e997f014f7d84a4c63c655588b77"
+    "translation": "Bir \"Film Kamerası\", dijital bir film rulosu gibidir. **Kameralar**'dan beğendiğiniz bir kamera filtresini, sınırlı sayıda poz hakkına sahip (örn: 12, 24, 36 poz) film rulosu ile birleştirir. Oluşturduğunuz her film kamerası, çektiğiniz fotoğrafları kendi içinde özel bir filmde gruplandırır.",
+    "sourceHash": "5c44ca43dc859be9a205cd66b82d7d02"
   },
   "_faq_q_printing": {
-    "translation": "Fotoğraf Banyosu (Printing) Nedir?",
-    "sourceHash": "785240f3dd96f787b7067a4ef1804251"
+    "translation": "Fotoğraf Banyosu Nedir?",
+    "sourceHash": "743f779dce0e59df19b5943557128626"
   },
   "_faq_a_printing": {
-    "translation": "Bir kamera aktivitesinde bulunan film rulosundaki tüm pozları doldurduğunuzda veya istediğiniz zaman, kameradaki film rulosunu \"banyoya gönderebilirsiniz\". Bu işlem, seçtiğiniz süre (örn. 8, 24, 36 saat) sonunda fotoğraflarınızın \"banyo edilerek\" görünür hale gelmesini sağlayan bir geri sayım başlatır. Süre dolduğunda, şifrelenmiş fotoğraflarınız çözülür ve albümünüzde belirir.",
-    "sourceHash": "066aae0a6fdd7277ed7eea53d09e673b"
+    "translation": "Bir film kamerasında bulunan film rulosundaki tüm pozları doldurduğunuzda veya istediğiniz zaman, kameradaki film rulosunu \"banyoya gönderebilirsiniz\". Bu işlem, seçtiğiniz süre (örn. 8, 24, 36 saat) sonunda fotoğraflarınızın \"banyo edilerek\" görünür hale gelmesini sağlayan bir geri sayım başlatır. Süre dolduğunda, şifrelenmiş fotoğraflarınız çözülür ve tamamlanmış filminizde belirir.",
+    "sourceHash": "be6a36a0eba19014d95c8ce3733cec92"
   },
   "_faq_section_features": {
     "translation": "Ana Özellikler",
@@ -1040,104 +1048,104 @@
     "sourceHash": "a2425ef9536244596326b60d9f93a827"
   },
   "_faq_q_new_activity": {
-    "translation": "Yeni bir aktivite nasıl oluştururum?",
-    "sourceHash": "09a342df003fbeb3b9e176f2570a5d00"
+    "translation": "Yeni bir film nasıl oluştururum?",
+    "sourceHash": "38eeb0c639ed10b1aefbe5fc045d35e3"
   },
   "_faq_a_new_activity": {
-    "translation": "Kameralar'dan beğendiğiniz bir kameranın üzerine dokunarak \"Film Rulosu Seç\" ekranına gidin. Burada, seçtiğiniz filtre ile kullanmak üzere farklı poz sayılarına sahip (12, 24, 36 gibi) film rulolarından birini seçerek yeni kamera aktivitenizi oluşturabilirsiniz.",
-    "sourceHash": "be26dfb7aca501ab62e9976cb4b89810"
+    "translation": "Kameralar'dan beğendiğiniz bir kameranın üzerine dokunarak \"Film Rulosu Seç\" ekranına gidin. Burada, seçtiğiniz filtre ile kullanmak üzere farklı poz sayılarına sahip (12, 24, 36 gibi) film rulolarından birini seçerek yeni filminizi oluşturabilirsiniz.",
+    "sourceHash": "e0cb4211b878270a872c4c8990f91fa8"
   },
   "_faq_section_my_cameras": {
-    "translation": "Aktivitelerim",
-    "sourceHash": "1ea9910ba8fdde2afd2e279e2216421f"
+    "translation": "Filmlerim",
+    "sourceHash": "e93d408458b84121b5a649a75e2b60fb"
   },
   "_faq_q_camera_cards": {
-    "translation": "Aktivite kartları ne anlama geliyor?",
-    "sourceHash": "37fe8ef493d289a80e77c2faaa35d99f"
+    "translation": "Film kartları ne anlama geliyor?",
+    "sourceHash": "4568eeed1fe76565c3a14459100addd7"
   },
   "_faq_a_camera_cards": {
-    "translation": "Her kart bir sanal kamerayı temsil eder ve üzerinde şu bilgileri gösterir:\n- **Başlık:** Değiştirebileceğiniz aktivite adı.\n- **Tarih ve Konum:** aktivitenin oluşturulduğu tarih ve (varsa) son fotoğrafın çekildiği konum.\n- **Fotoğraf Bilgisi:** Kullandığınız film rulosundaki kullanılan poz sayısı (örn. 15/24).",
-    "sourceHash": "66b1667f5f725e4b5b12f3a052e4cb47"
+    "translation": "Her kart bir sanal film kamerasını temsil eder ve üzerinde şu bilgileri gösterir:\n- **Başlık:** Değiştirebileceğiniz film adı.\n- **Tarih ve Konum:** filmin oluşturulduğu tarih ve (varsa) son fotoğrafın çekildiği konum.\n- **Fotoğraf Bilgisi:** Kullandığınız film rulosundaki kullanılan poz sayısı (örn. 15/24).",
+    "sourceHash": "caa97abd53d1a061aca4ec135fe7c629"
   },
   "_faq_q_add_photo": {
-    "translation": "Mevcut bir aktiviteye nasıl fotoğraf eklerim?",
-    "sourceHash": "6f91b3299c5e86262cb77b3b9cdff62e"
+    "translation": "Mevcut bir filme nasıl fotoğraf eklerim?",
+    "sourceHash": "3bd48768a5598b2cec2e9fe0b61b569c"
   },
   "_faq_a_add_photo": {
-    "translation": "Eğer film rulosunda boş poz varsa, \"Aktivitelerim\" ekranındaki ilgili kamera aktivitesinin üzerine dokunarak doğrudan kamera ekranına geçiş yapabilir ve fotoğraf çekmeye devam edebilirsiniz.",
-    "sourceHash": "a335737aa9940c67930d8eec0a1f6917"
+    "translation": "Eğer film rulosunda boş poz varsa, \"Filmlerim\" ekranındaki ilgili film kartı üzerine dokunarak doğrudan kamera ekranına geçiş yapabilir ve fotoğraf çekmeye devam edebilirsiniz.",
+    "sourceHash": "47b69a2245281878476343206bcc67af"
   },
   "_faq_q_rename_camera": {
-    "translation": "Aktivite adını nasıl değiştiririm?",
-    "sourceHash": "c0d9880127814b67323aff2dffa03ceb"
+    "translation": "Film adını nasıl değiştiririm?",
+    "sourceHash": "d57b3c64c7008dd68ceed97c963b0fb0"
   },
   "_faq_a_rename_camera": {
-    "translation": "Her aktivite kartının yanındaki kalem simgesine dokunarak aktivitenize özel bir isim verebilirsiniz.",
-    "sourceHash": "8e18442ddb4e7810f53e48b065243536"
+    "translation": "Her film kartının yanındaki kalem simgesine dokunarak filminize özel bir isim verebilirsiniz.",
+    "sourceHash": "52d91084f655e1cef22dad63aa135011"
   },
   "_faq_q_send_to_print": {
     "translation": "Fotoğraflarımı nasıl banyoya gönderirim?",
     "sourceHash": "f72492dc2b00cbe5c914c0db3ff3cd74"
   },
   "_faq_a_send_to_print": {
-    "translation": "Kamera aktivitesinin altındaki \"Banyoya Gönder\" butonuna dokunun. Ardından, fotoğraflarınızın ne kadar sürede hazırlanmasını istediğinizi seçin (örn. 8, 12, 24, 36 saat). Unutmayın, daha kısa süreler (Express) için ödüllü reklam izlemeniz gerekebilir.",
-    "sourceHash": "f2304e5c4925b4db1551a6b3bd11aa61"
+    "translation": "Film kartının altındaki \"Banyoya Gönder\" butonuna dokunun. Ardından, fotoğraflarınızın ne kadar sürede hazırlanmasını istediğinizi seçin (örn. 8, 12, 24, 36 saat). Unutmayın, daha kısa süreler (Express) için pro üye olmanız gerekebilir.",
+    "sourceHash": "eb79d52683863ef51538198731f419e7"
   },
   "_faq_section_shared_cameras": {
-    "translation": "Paylaşımlı Aktiviteler",
-    "sourceHash": "936979acaeda843e3f831f8b57879a10"
+    "translation": "Paylaşımlı Filmler",
+    "sourceHash": "ea2e454869c6a7e7a7b10958cc75e7aa"
   },
   "_faq_q_how_to_share": {
-    "translation": "Bir aktiviteyi nasıl paylaşıma açarım?",
-    "sourceHash": "a6982d9cc49fe87f6ab30d24d1724b38"
+    "translation": "Bir filmi nasıl paylaşıma açarım?",
+    "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "\"Aktivitelerim\" ekranında, paylaşmak istediğiniz aktivite kartındaki davet et simgesine dokunun. Bu, aktiviteyi paylaşımlı aktivite hale getirecek ve aktiviteye özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
-    "sourceHash": "29f2f0644547c11d85a40d4b21ce0782"
+    "translation": "\"Filmlerim\" ekranında, paylaşmak istediğiniz film kartındaki \"Katılımcılar\" simgesine dokunun. Bu, filmi paylaşımlı film hale getirecek ve filme özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
+    "sourceHash": "93e356768942ba6307ba9acde06485ff"
   },
   "_faq_q_join_shared": {
-    "translation": "Paylaşımlı bir aktiviteye nasıl katılırım?",
-    "sourceHash": "268fc74a58de1392f865f55de4f694f7"
+    "translation": "Paylaşımlı bir filme nasıl katılırım?",
+    "sourceHash": "83659273325e0e65d138bf249a5f4e7a"
   },
   "_faq_a_join_shared": {
-    "translation": "Size gönderilen davet linkine tıklayın. Uygulama açıldığında, aktiviteye katılma isteğiniz aktivite sahibine gönderilecektir. Aktivite sahibi isteğinizi onayladıktan sonra, kamera sizin \"Aktivitelerim\" ekranınızda görünecek ve fotoğraf çekmeye başlayabileceksiniz.",
-    "sourceHash": "7817fff38a09f950460ee883ad87de74"
+    "translation": "Size gönderilen davet linkine tıklayın. Uygulama açıldığında, filme katılma isteğiniz film sahibine gönderilecektir. Film sahibi isteğinizi onayladıktan sonra, film kamerası sizin \"Filmlerim\" ekranınızda görünecek ve fotoğraf çekmeye başlayabileceksiniz.",
+    "sourceHash": "f8aaaaae57cb7cf250a4405bfbc852f8"
   },
   "_faq_q_requests_and_notifications": {
     "translation": "Katılım İstekleri ve Bildirimler",
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "Aktivite sahibi, aktivite kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir. Tüm bildirimlerinizi, \"Aktivitelerim\" ekranının sağ üst köşesindeki zil simgesinden takip edebilirsiniz.",
-    "sourceHash": "3327ad99ea2d88444154012fcb4b70c2"
+    "translation": "Film sahibi, film kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir.",
+    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Güvenlik ve Gizlilik (Uçtan Uca Şifreleme)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Paylaşımlı aktivitelerdeki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, aktivite sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (Filmcam36 ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı aktivite için sadece katılımcıların cihazlarında bulunan özel bir \"oturum anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı aktivitedeyken, uygulamayı yanlışlıkla siler ve \"oturum anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili kamera aktivitesi üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı kamera aktiviteleri için, o aktivitenin katılımcılarından tekrar \"oturum anahtar\" isteyebilirsiniz.",
-    "sourceHash": "d802fe5691925de986bc11bbc8242425"
+    "translation": "Paylaşımlı filmlerdeki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, film sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (Filmcam36 ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı film için sadece katılımcıların cihazlarında bulunan özel bir \"film anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı filmdeyken, uygulamayı yanlışlıkla siler ve \"film anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili film kartı üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı film kameraları için, o filmin katılımcılarından tekrar \"film anahtarı\" isteyebilirsiniz.",
+    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
   },
   "_faq_section_album": {
-    "translation": "Albüm",
-    "sourceHash": "9bb604df6acd28f02bd3b430fb7fd0f7"
+    "translation": "Banyodan Çıkanlar",
+    "sourceHash": "da494c6708c01db41a23650979a3dfbb"
   },
   "_faq_q_album_tabs": {
-    "translation": "Albümler nedir?",
-    "sourceHash": "cdd4f7e22ffeabbc14073b2ab8301c04"
+    "translation": "Banyodan Çıkanlar nedir?",
+    "sourceHash": "602ea9cc603a371d3cb7446ae35cfecb"
   },
   "_faq_a_album_tabs": {
-    "translation": "- **Albümler:** Oluşturduğunuz aktivitelerdeki kameranızdan banyo edilmiş fotoğraflarınızı albümler halinde burada bulabilirsiniz.\n",
-    "sourceHash": "91d2a103ac3f3bbeb40ab4b632fd419b"
+    "translation": "- **Banyodan Çıkanlar:** Oluşturduğunuz film kameranızdan banyo edilmiş fotoğraflarınızı film halinde burada bulabilirsiniz.\n",
+    "sourceHash": "d335e64fea49df652e245682894a3d12"
   },
   "_faq_q_photo_actions": {
     "translation": "Fotoğraflarımla ne yapabilirim?",
     "sourceHash": "1f3462c677886c1796aadb6474b1360d"
   },
   "_faq_a_photo_actions": {
-    "translation": "Tam ekran modundayken:\n- **Kaydet:** Fotoğrafı cihazınızın galerisine kaydedebilirsiniz.\n- **Paylaş:** Fotoğrafı diğer uygulamalar üzerinden paylaşabilirsiniz.\n- **Sil:** Fotoğrafı uygulamadan kalıcı olarak silebilirsiniz.\n- **Profil Fotoğrafı Yap:** Fotoğrafı uygulama içi profil resminiz olarak ayarlayabilirsiniz.",
-    "sourceHash": "2a3e4fcc4f5026790ae34c1e04d54cdd"
+    "translation": "Tam ekran modundayken:\n- **Kaydet:** Fotoğrafı cihazınızın galerisine kaydedebilirsiniz.\n- **Paylaş:** Fotoğrafı diğer uygulamalar üzerinden paylaşabilirsiniz.\n- **Sil:** Fotoğrafı uygulamadan kalıcı olarak silebilirsiniz.",
+    "sourceHash": "7c541e94649ac3c848026a47c9f6d20f"
   },
   "_faq_section_settings": {
     "translation": "Ayarlar ve Profil",
@@ -1148,8 +1156,8 @@
     "sourceHash": "fb3eca23db815df6a275a6c7e4a0f4d5"
   },
   "_faq_a_edit_profile": {
-    "translation": "\"Albüm\" sekmesindeyken en üstteki profil bölümünden veya Ayarlar menüsünden \"Hesap\" seçeneğine giderek profil bilgilerinizi ve fotoğrafınızı güncelleyebilirsiniz.",
-    "sourceHash": "4179b5cb8aa38219643436b85aa45dff"
+    "translation": "\"Filmlerim\" ekranından en üstteki profil bölümünden veya Ayarlar menüsünden \"Hesap\" seçeneğine giderek profil bilgilerinizi ve fotoğrafınızı güncelleyebilirsiniz.",
+    "sourceHash": "091e1c688cb669c3346526297c4fe6f6"
   },
   "_faq_q_theme": {
     "translation": "Uygulama temasını (Koyu/Açık Mod) nasıl değiştiririm?",
@@ -1336,8 +1344,8 @@
     "sourceHash": "0b71ac3bb9b90472f9cfbfa2ed944833"
   },
   "termsOfService_SharedActivity": {
-    "translation": "Paylaşımlı Aktivite: Kullanıcıların bir grup oluşturarak birlikte fotoğraf çekmesi, filtrelemesi ve albüm paylaşması. Tüm içerikler uçtan uca şifrelenir.",
-    "sourceHash": "35a4dbb320d83bb9dc7dc188d05e8722"
+    "translation": "Paylaşımlı Film: Kullanıcıların bir grup oluşturarak birlikte fotoğraf çekmesi, filtrelemesi ve filmi paylaşması. Tüm içerikler uçtan uca şifrelenir.",
+    "sourceHash": "df377c8f89d7099a02637dee57d8b5c0"
   },
   "termsOfService_E2E": {
     "translation": "E2E Şifreleme: İçeriğin yalnızca gönderici ve alıcı cihazlarda çözülebildiği, FilmCam36 sunucularının içeriğe erişemediği şifreleme sistemi.",
@@ -1348,8 +1356,8 @@
     "sourceHash": "ec3ce3e206e3f6e2ddf0c50e640570d3"
   },
   "termsOfService_ServiceUse_1": {
-    "translation": "FilmCam36, fotoğraf çekme, düzenleme, filtre uygulama ve paylaşımlı aktiviteler oluşturma özellikleri sunar. FilmCam36 hizmetleri en az 13 yaşındaki kullanıcılar içindir. Kullanıcılar yaşadıkları ülkenin yasal yaş gereksinimlerini karşılamakla yükümlüdür. Uygulamayı kullanarak bu şartların sağlandığı beyan edilmiş olur.",
-    "sourceHash": "ac96d8eee125dfc93499da2bbb259927"
+    "translation": "FilmCam36, fotoğraf çekme, düzenleme, filtre uygulama ve paylaşımlı filmler oluşturma özellikleri sunar. FilmCam36 hizmetleri en az 13 yaşındaki kullanıcılar içindir. Kullanıcılar yaşadıkları ülkenin yasal yaş gereksinimlerini karşılamakla yükümlüdür. Uygulamayı kullanarak bu şartların sağlandığı beyan edilmiş olur.",
+    "sourceHash": "c6c71c25e612c76648d99a51b5dae4bf"
   },
   "termsOfService_ServiceUse_2": {
     "translation": "Uygulamayı yalnızca yasal amaçlarla kullanabilirsiniz. Uygulamayı kullanabilmek için gerekli izinleri (kamera, galeri vb.) vermeniz gerekir.",
@@ -1380,20 +1388,20 @@
     "sourceHash": "2248328b8b0904f33af0b0873ad26bd2"
   },
   "termsOfService_SharedActivities_UserContent": {
-    "translation": "4. Paylaşımlı Aktiviteler ve Kullanıcı İçeriği:",
-    "sourceHash": "0ee2aeb5a3079d9afd6101f92ef319b5"
+    "translation": "4. Paylaşımlı Filmler ve Kullanıcı İçeriği:",
+    "sourceHash": "520804b9ff73784118784e7088297314"
   },
   "termsOfService_SharedActivities_UserContent_1": {
-    "translation": "Bir aktivite içindeki tüm fotoğraflar sadece aktivite üyeleri tarafından görülebilir.",
-    "sourceHash": "db46bf79c4002bd6c55ff0ead10da1c0"
+    "translation": "Bir film içindeki tüm fotoğraflar sadece film üyeleri tarafından görülebilir.",
+    "sourceHash": "145b8f7ded5386353b47eface7395b24"
   },
   "termsOfService_SharedActivities_UserContent_2": {
     "translation": "FilmCam36 ekibi dahil hiç kimse içeriklere erişemez, çünkü uygulama uçtan uca şifreleme kullanır.",
     "sourceHash": "73ed7993891fe69936e16c9a316d9176"
   },
   "termsOfService_SharedActivities_UserContent_3": {
-    "translation": "Paylaşımlı aktivitelerde gönderdiğiniz içeriklerden tamamen siz sorumlusunuz.",
-    "sourceHash": "51e3295ac7d250084e5c57d617616622"
+    "translation": "Paylaşımlı filmlerde gönderdiğiniz içeriklerden tamamen siz sorumlusunuz.",
+    "sourceHash": "3328bdbf7989ba404f95653c7cd7945e"
   },
   "termsOfService_SharedActivities_UserContent_4": {
     "translation": "Yasadışı, zararlı, telif hakkı ihlali yapan içerik kullanmak yasaktır.",
@@ -1404,8 +1412,8 @@
     "sourceHash": "e59e7cc124c30596aef7932df7bfabb6"
   },
   "termsOfService_E2E_Crypto_1": {
-    "translation": "FilmCam36, paylaşımlı aktivitelerdeki tüm fotoğrafları ve mesajları E2E olarak şifreler:",
-    "sourceHash": "b1b25262d2fe31ec1d10b01c4bae5207"
+    "translation": "FilmCam36, paylaşımlı filmlerdeki tüm fotoğrafları ve mesajları E2E olarak şifreler:",
+    "sourceHash": "b02a3cc85bc8f4012c657a6f4eb87872"
   },
   "termsOfService_E2E_Crypto_2": {
     "translation": "İçerik, cihazınızda şifrelenir.",
@@ -1420,8 +1428,8 @@
     "sourceHash": "5e9f0c8ac064caebe59a2838aabc6181"
   },
   "termsOfService_E2E_Crypto_5": {
-    "translation": "Çözme anahtarları yalnızca aktivite üyelerinin cihazlarındadır.",
-    "sourceHash": "2e5b61cb92ea4c07ae4c1acc137a865a"
+    "translation": "Film anahtarları yalnızca film üyelerinin cihazlarındadır.",
+    "sourceHash": "ab1f18acadd022aa35647c1de6febe94"
   },
   "termsOfService_E2E_Crypto_6": {
     "translation": "Bu nedenle: FilmCam36 kullanıcı içeriğine erişemez, göremez, düzenleyemez veya üçüncü taraflarla paylaşamaz.",
@@ -1560,12 +1568,12 @@
     "sourceHash": "5cfca368855e535991a2ba746c019615"
   },
   "privacyPolicy_CollectedData_SharedActivityData": {
-    "translation": "1.3. Paylaşımlı Aktivite Verileri:",
-    "sourceHash": "2b9d0abb769c9067c58ee552e7f26797"
+    "translation": "1.3. Paylaşımlı Film Verileri:",
+    "sourceHash": "df0adce1b83baee67ffd9b6d0ee33222"
   },
   "privacyPolicy_CollectedData_SharedActivityData_1": {
-    "translation": "Aktivite isimleri, Aktivite üyeleri, Fotoğraflar (tamamı E2E şifreli), Her fotoğraf için meta veriler",
-    "sourceHash": "6a0d21a4e30fe2de1aff23b17c1bc92b"
+    "translation": "Film isimleri, Film üyeleri, Fotoğraflar (tamamı E2E şifreli), Her fotoğraf için meta veriler",
+    "sourceHash": "9c4bd52687f7f5d9c11c4256a23f448a"
   },
   "privacyPolicy_CollectedData_SharedActivityData_2": {
     "translation": "Not: FilmCam36 ekibi hiçbir fotoğrafı görüntüleyemez. Fotoğraflar çözülemez formatta saklanır.",
@@ -1584,8 +1592,8 @@
     "sourceHash": "d5c03a619ca84bfb08573a7110c17b06"
   },
   "privacyPolicy_UncollectedData_3": {
-    "translation": "Aktivite içi mesajlar",
-    "sourceHash": "41365914f7913faed1b2782edebc5ae0"
+    "translation": "Film içi mesajlar",
+    "sourceHash": "217f4984967d9e8e67c7862769c828a3"
   },
   "privacyPolicy_UncollectedData_4": {
     "translation": "Kullanıcı galerisindeki diğer fotoğraflar",
@@ -1608,8 +1616,8 @@
     "sourceHash": "b18450ea443d17728b0194358bc71827"
   },
   "privacyPolicy_DataStorage_2": {
-    "translation": "Aktivite fotoğrafları şifreli olarak saklanır; anahtarlar cihazlarda kalır.",
-    "sourceHash": "0bf856da4456699b99079c6207bed93a"
+    "translation": "Film fotoğrafları şifreli olarak saklanır; anahtarlar cihazlarda kalır.",
+    "sourceHash": "e11b9847cac606ad4320d1be7052bcb5"
   },
   "privacyPolicy_DataStorage_3": {
     "translation": "Kullanıcı içerikleri “geliştirici tarafından görüntülenemez” yapıdadır.",
@@ -1640,8 +1648,8 @@
     "sourceHash": "8fdd3c67e072ad54e6f9be1e71868e3f"
   },
   "privacyPolicy_DataSharing_6": {
-    "translation": "FilmCam36 ekibi hiçbir zaman Fotoğraflarınıza, Mesajlarınıza, Şifre çözme anahtarlarınıza erişemez",
-    "sourceHash": "a1d17179476ae904113d15347bf52ef9"
+    "translation": "FilmCam36 ekibi hiçbir zaman Fotoğraflarınıza, Mesajlarınıza, Şifre film anahtarlarınıza erişemez",
+    "sourceHash": "c0da892ef857a4ecc1c4e98ca77518e1"
   },
   "ContactUs": {
     "translation": "Bize Ulaşın: Bu Hizmet Şartları veya Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin: filmcam36@themachineco.com",
@@ -1708,8 +1716,8 @@
     "sourceHash": "6284ae00ceb7a250ff29213455a57e2f"
   },
   "deleteAccount_policy3": {
-    "translation": "Silinecek Veriler: Kullanıcı hesabınız, profil bilgileriniz, oluşturduğunuz tüm aktiviteler ve bu aktivitelere yüklediğiniz tüm fotoğraflar.",
-    "sourceHash": "97e10dc25413135f18b30d1b021feda6"
+    "translation": "Silinecek Veriler: Kullanıcı hesabınız, profil bilgileriniz, oluşturduğunuz tüm filmler ve bu filmlere yüklediğiniz tüm fotoğraflar.",
+    "sourceHash": "5fe8921a02908a3fca4111a11dd40f66"
   },
   "deleteAccount_policy4": {
     "translation": "Saklanacak Veriler: Yasal yükümlülükler veya meşru iş amaçları (örneğin, anonimleştirilmiş ve toplu analiz verileri) dışında hiçbir kişisel veriniz saklanmayacaktır.",
