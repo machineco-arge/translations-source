@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "Up to % {{percent}} off!",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "Save % {{percent}} with an annual subscription!",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "When you purchase an annual subscription, you'll save up to 50%.",

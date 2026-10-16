@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "最大% {{percent}} の割引！",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "年間サブスクリプションで % {{percent}} の割引！",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "年間サブスクリプションを購入すると、最大約50％の割引が受けられます。",

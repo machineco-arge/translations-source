@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "最高可享 % {{percent}} 的折扣！",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "订阅年度套餐，立省 % {{percent}} ！",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "购买年度订阅可享受最高约50%的折扣。",

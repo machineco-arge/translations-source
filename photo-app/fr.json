@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "Jusqu'à % {{percent}} de réduction !",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "Économisez % {{percent}} grâce à l'abonnement annuel !",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "En souscrivant à un abonnement annuel, vous bénéficiez d'une réduction pouvant aller jusqu'à environ 50 %.",

@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "% {{percent}} 까지 할인!",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "연간 구독으로 % {{percent}} 를 절약하세요!",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "연간 구독을 구매하시면 최대 약 50%의 할인을 받으실 수 있습니다.",

@@ -1320,8 +1320,8 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "Sconto fino al % {{percent}} !",
-    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
+    "translation": "Risparmia il % {{percent}} con l'abbonamento annuale!",
+    "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
     "translation": "Acquistando un abbonamento annuale, potrete usufruire di uno sconto che arriva fino al 50% circa.",
