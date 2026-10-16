@@ -122,7 +122,8 @@
             "_notifications_printReminderBody": "Your film roll for \"{{bestName}}\" is 80% full. Don't forget to send it for development.",
             "_common_sendToPrint": "Send for Development",
             "_selectFilm_selectFilmCount": "Select Film Roll",
-            "_homeScreen_selectFilmRoll": "Select a film roll and start shooting."
+            "_homeScreen_selectFilmRoll": "Select a film roll and start shooting.",
+            "month": "Month"
         },
         "de": {
             "_selectFilm_activityCooldownHours": "{{hours}} Stunden",
@@ -233,7 +234,8 @@
             "_notifications_printReminderBody": "Ihre Filmrolle für \"{{bestName}}\" ist zu 80 % voll. Vergessen Sie nicht, sie zur Entwicklung zu senden.",
             "_common_sendToPrint": "Zur Entwicklung senden",
             "_selectFilm_selectFilmCount": "Filmrolle auswählen",
-            "_homeScreen_selectFilmRoll": "Wählen Sie eine Filmrolle aus und starten Sie das Aufnehmen."
+            "_homeScreen_selectFilmRoll": "Wählen Sie eine Filmrolle aus und starten Sie das Aufnehmen.",
+            "month": "Monat"
         },
         "es": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -344,7 +346,8 @@
             "_notifications_printReminderBody": "Tu rollo de película para \"{{bestName}}\" está al 80 %. No olvides enviarlo a desarrollo.",
             "_common_sendToPrint": "Enviar a Desarrollo",
             "_selectFilm_selectFilmCount": "Seleccionar rollo de película",
-            "_homeScreen_selectFilmRoll": "Selecciona un rollo de película y comienza a grabar."
+            "_homeScreen_selectFilmRoll": "Selecciona un rollo de película y comienza a grabar.",
+            "month": "Mes"
         },
         "fr": {
             "_selectFilm_activityCooldownHours": "{{hours}} heures",
@@ -455,7 +458,8 @@
             "_notifications_printReminderBody": "Votre pellicule pour « {{bestName}} » est remplie à 80 %. N'oubliez pas de l'envoyer au développement.",
             "_common_sendToPrint": "Envoyer au développement",
             "_selectFilm_selectFilmCount": "Sélectionner la pellicule",
-            "_homeScreen_selectFilmRoll": "Sélectionnez une pellicule et commencez à photographier."
+            "_homeScreen_selectFilmRoll": "Sélectionnez une pellicule et commencez à photographier.",
+            "month": "Mois"
         },
         "it": {
             "_selectFilm_activityCooldownHours": "{{hours}} ore",
@@ -566,7 +570,8 @@
             "_notifications_printReminderBody": "Il tuo rullino per \"{{bestName}}\" è pieno all'80%. Non dimenticare di inviarlo allo sviluppo.",
             "_common_sendToPrint": "Invia allo sviluppo",
             "_selectFilm_selectFilmCount": "Seleziona il rullino",
-            "_homeScreen_selectFilmRoll": "Seleziona un rullino e inizia a fotografare."
+            "_homeScreen_selectFilmRoll": "Seleziona un rullino e inizia a fotografare.",
+            "month": "Mese"
         },
         "ja": {
             "_selectFilm_activityCooldownHours": "{{hours}} 時間",
@@ -677,7 +682,8 @@
             "_notifications_printReminderBody": "「{{bestName}}」のフィルムロールが80%満杯です。現像への送信をお忘れなく。",
             "_common_sendToPrint": "現像に送信",
             "_selectFilm_selectFilmCount": "フィルムロールを選択",
-            "_homeScreen_selectFilmRoll": "フィルムロールを選択して撮影を開始します。"
+            "_homeScreen_selectFilmRoll": "フィルムロールを選択して撮影を開始します。",
+            "month": "月"
         },
         "ko": {
             "_selectFilm_activityCooldownHours": "{{hours}} 시간",
@@ -788,7 +794,8 @@
             "_notifications_printReminderBody": "\"{{bestName}}\"의 필름롤이 80% 찼습니다. 현상으로 보내는 것을 잊지 마세요.",
             "_common_sendToPrint": "현상으로 보내기",
             "_selectFilm_selectFilmCount": "필름롤 선택",
-            "_homeScreen_selectFilmRoll": "필름롤을 선택하고 촬영을 시작합니다."
+            "_homeScreen_selectFilmRoll": "필름롤을 선택하고 촬영을 시작합니다.",
+            "month": "월"
         },
         "pt": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -899,7 +906,8 @@
             "_notifications_printReminderBody": "Seu rolo de filme para \"{{bestName}}\" está 80% cheio. Não se esqueça de enviá-lo para revelação.",
             "_common_sendToPrint": "Enviar para Revelação",
             "_selectFilm_selectFilmCount": "Selecionar rolo de filme",
-            "_homeScreen_selectFilmRoll": "Selecione um rolo de filme e comece a fotografar."
+            "_homeScreen_selectFilmRoll": "Selecione um rolo de filme e comece a fotografar.",
+            "month": "Mês"
         },
         "ru": {
             "_selectFilm_activityCooldownHours": "{{hours}} часов",
@@ -1010,7 +1018,8 @@
             "_notifications_printReminderBody": "Ваша плёнка для «{{bestName}}» заполнена на 80%. Не забудьте отправить её на проявку.",
             "_common_sendToPrint": "Отправить на проявку",
             "_selectFilm_selectFilmCount": "Выбрать плёнку",
-            "_homeScreen_selectFilmRoll": "Выберите плёнку и начните фотографировать."
+            "_homeScreen_selectFilmRoll": "Выберите плёнку и начните фотографировать.",
+            "month": "Месяц"
         },
         "zh": {
             "_selectFilm_activityCooldownHours": "{{hours}} 小时",
@@ -1121,7 +1130,8 @@
             "_notifications_printReminderBody": "「{{bestName}}」的胶卷已满 80%。别忘了送去冲印。",
             "_common_sendToPrint": "送去冲印",
             "_selectFilm_selectFilmCount": "选择胶卷",
-            "_homeScreen_selectFilmRoll": "选择胶卷并开始拍摄。"
+            "_homeScreen_selectFilmRoll": "选择胶卷并开始拍摄。",
+            "month": "月"
         },
         "tr": {
             "_common_delete": "Sil",
