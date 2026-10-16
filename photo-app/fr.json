@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Nombre maximal de participants",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Limite d'amis",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "Lorsque ce film deviendra un film partagé, il sera limité à 10 utilisateurs. Devenez membre Pro pour des participants illimités.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "La pellicule est pleine, attendez que le propriétaire du film envoie le film au développement",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Les participants",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Les amis",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Il n'y a pas encore de demandes pour ce film.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "Aucune information sur les participants n'a été trouvée.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "Aucune information sur cet ami n'a été trouvée.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "Une erreur s'est produite lors de la confirmation du participant.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "Une erreur s'est produite lors de la validation de votre ami.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Une erreur s'est produite lors du rejet du participant.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "Une erreur s'est produite lors du refus de votre ami.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Propriétaire",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "Dans l'écran « Mes Films », appuyez sur l'icône « Participants » de la carte du film à partager. Cela transformera le film en film partagé et créera un lien d'invitation spécifique. Envoyez ce lien à vos amis pour les inviter.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "Comment rejoindre un film partagé ?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "Le propriétaire du film peut appuyer sur l'icône « Participants » de la carte pour voir les demandes entrantes et les approuver ou les refuser. Vous recevrez une notification en cas d'approbation ou de refus.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Sécurité et confidentialité (chiffrement de bout en bout)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "Toutes vos photos dans les films partagés sont **chiffrées de bout en bout**. Cela signifie que **PERSONNE** d'autre que le propriétaire du film et les participants approuvés (y compris l'équipe Filmcam36) ne peut voir vos photos. Pour chaque film partagé, une « clé de film » spéciale est créée uniquement sur les appareils des participants, et tout le chiffrement/déchiffrement se fait directement sur votre appareil. Ainsi, vos souvenirs restent privés pour vous et vos amis.\n- Si vous supprimez accidentellement l'application pendant un film partagé et perdez la « clé de film », après la réinstallation vous verrez un avertissement sur la carte de film concernée. Pour chaque appareil film partagé affichant cet avertissement, vous pouvez redemander la « clé de film » aux participants de ce film.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Films développés",

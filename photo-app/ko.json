@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "참가 인원 제한",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "친구 제한",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "이 필름이 공유 필름이 되면 10명의 사용자로 제한됩니다. 무제한 참가를 위해 Pro 회원이 되세요.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "필름롤이 가득 찼습니다. 필름 소유자가 필름을 현상으로 보내기를 기다리세요",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "참가자",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "친구들",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "이 필름에 대한 요청이 아직 없습니다.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "참가자 정보를 찾을 수 없습니다.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "해당 친구에 대한 정보를 찾을 수 없습니다.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "참가자를 확인하는 동안 오류가 발생했습니다.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "친구를 승인하는 과정에서 오류가 발생했습니다.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "참가자를 거부하는 동안 오류가 발생했습니다.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "친구를 거부하는 과정에서 오류가 발생했습니다.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "소유자",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "\"내 필름\" 화면에서 공유하려는 필름 카드의 \"참가자\" 아이콘을 탭하세요. 그러면 필름이 공유 필름이 되고 필름 전용 초대 링크가 생성됩니다. 이 링크를 친구에게 보내 초대할 수 있습니다.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "공유 필름에 참가하려면 어떻게 하나요?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "필름 소유자는 필름 카드의 \"참가자\" 아이콘을 탭하여 들어온 요청을 보고 승인하거나 거절할 수 있습니다. 승인되거나 거절되면 알림을 받습니다.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "보안 및 개인정보 보호(종단 간 암호화)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "공유 필름의 모든 사진은 **종단 간 암호화**됩니다. 즉, 필름 소유자와 승인된 참가자 외에는 **누구도**(Filmcam36 팀 포함) 사진을 볼 수 없습니다. 각 공유 필름마다 참가자 기기에만 있는 특별한 \"필름 키\"가 생성되며, 모든 암호화/복호화는 기기에서 직접 이루어집니다. 이렇게 추억은 당신과 친구들만의 것이 됩니다.\n- 공유 필름 사용 중 앱을 실수로 삭제해 \"필름 키\"를 잃으면, 재설치 후 해당 필름 카드에 경고가 표시됩니다. 이 경고가 있는 모든 공유 필름 카메라에 대해 해당 필름 참가자에게 \"필름 키\"를 다시 요청할 수 있습니다.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "현상된 필름",

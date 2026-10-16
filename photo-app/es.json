@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Límite de participantes",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Límite de amigos",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "Cuando este film se convierta en un film compartido, estará limitado a 10 usuarios. Hazte miembro Pro para participantes ilimitados.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "El rollo de película está lleno, espera a que el propietario del film envíe el film a desarrollo",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Participantes",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Amigos",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Aún no hay solicitudes para este film.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "No se ha encontrado información sobre los participantes.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "No se ha encontrado ninguna información sobre este amigo.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "Se ha producido un error al confirmar el participante.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "Se ha producido un error al validar a tu amigo.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Se ha producido un error al rechazar al participante.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "Se ha producido un error al rechazar a tu amigo.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Propietario",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "En la pantalla \"Mis Films\", toca el icono \"Participantes\" de la tarjeta del film que quieras compartir. Esto convertirá el film en un film compartido y creará un enlace de invitación específico. Envía este enlace a tus amigos para invitarlos.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "¿Cómo me uno a un film compartido?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "El propietario del film puede tocar el icono \"Participantes\" de la tarjeta para ver las solicitudes entrantes y aprobarlas o rechazarlas. Recibirás una notificación cuando te aprueben o rechacen.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Seguridad y privacidad (cifrado de extremo a extremo)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "Todas tus fotos en films compartidos están **cifradas de extremo a extremo**. Esto significa que **NADIE** aparte del propietario del film y los participantes aprobados (incluido el equipo de Filmcam36) puede ver tus fotos. Para cada film compartido se crea una \"clave del film\" especial que solo existe en los dispositivos de los participantes, y todo el cifrado/descifrado ocurre directamente en tu dispositivo. Así, tus recuerdos se quedan solo entre tú y tus amigos.\n- Si borras la app por accidente estando en un film compartido y pierdes la \"clave del film\", tras reinstalarla verás una advertencia en la tarjeta del film correspondiente. Para cada cámara de film compartido con esa advertencia, puedes solicitar de nuevo la \"clave del film\" a los participantes de ese film.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Films revelados",

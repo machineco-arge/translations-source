@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Katılımcı Limiti",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Arkadaş Limiti",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
-    "translation": "Bu film paylaşımlı film olunca 10 kullanıcı ile sınırlandırılacaktır. Sınırsız katılımcı için Pro üye olun.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "translation": "Bu film paylaşımlı film olunca 10 arkadaş ile sınırlandırılacaktır. Sınırsız arkadaş için Pro üye olun.",
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Film rulosu doldu, film sahibinin filmi banyoya göndermesini bekleyin",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Katılımcılar",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Arkadaşlar",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Bu film için henüz bir istek yok.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "Katılımcı bilgisi bulunamadı.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "Arkadaş bilgisi bulunamadı.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "Katılımcıyı onaylarken bir hata oluştu.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "Arkadaşınızı onaylarken bir hata oluştu.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Katılımcıyı reddederken bir hata oluştu.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "Arkadaşınızı reddederken bir hata oluştu.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Sahip",
@@ -1100,8 +1100,8 @@
     "sourceHash": "7209682ab8039516e27cbe848e142e2e"
   },
   "_faq_a_how_to_share": {
-    "translation": "\"Filmlerim\" ekranında, paylaşmak istediğiniz film kartındaki \"Katılımcılar\" simgesine dokunun. Bu, filmi paylaşımlı film hale getirecek ve filme özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "translation": "\"Filmlerim\" ekranında, paylaşmak istediğiniz film kartındaki \"Arkadaşlar\" simgesine dokunun. Bu, filmi paylaşımlı film hale getirecek ve filme özel bir davet linki oluşturacaktır. Bu linki arkadaşlarınıza göndererek onları davet edebilirsiniz.",
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "Paylaşımlı bir filme nasıl katılırım?",
@@ -1116,16 +1116,16 @@
     "sourceHash": "6b12194240cbda14819d90953e7f25a8"
   },
   "_faq_a_requests_and_notifications": {
-    "translation": "Film sahibi, film kartındaki \"Katılımcılar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "translation": "Film sahibi, film kartındaki \"Arkadaşlar\" simgesine dokunarak gelen istekleri görebilir, onaylayabilir veya reddedebilir. Onaylandığınızda veya reddedildiğinizde size bir bildirim gelir.",
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Güvenlik ve Gizlilik (Uçtan Uca Şifreleme)",
     "sourceHash": "52f73f2ae0dca719263a2ba252cc3588"
   },
   "_faq_a_e2e_encryption": {
-    "translation": "Paylaşımlı filmlerdeki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, film sahibi ve onaylanmış katılımcılar dışında **HİÇ KİMSENİN** (Filmcam36 ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı film için sadece katılımcıların cihazlarında bulunan özel bir \"film anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı filmdeyken, uygulamayı yanlışlıkla siler ve \"film anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili film kartı üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı film kameraları için, o filmin katılımcılarından tekrar \"film anahtarı\" isteyebilirsiniz.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "translation": "Paylaşımlı filmlerdeki tüm fotoğraflarınız **uçtan uca şifrelenir**. Bu, film sahibi ve onaylanmış arkadaşlar dışında **HİÇ KİMSENİN** (Filmcam36 ekibi dahil) fotoğraflarınızı göremeyeceği anlamına gelir. Her paylaşımlı film için sadece arkadaşlarınızın cihazlarında bulunan özel bir \"film anahtarı\" oluşturulur ve tüm şifreleme/şifre çözme işlemleri doğrudan cihazınızda yapılır. Bu sayede anılarınız tamamen size ve arkadaşlarınıza özel kalır.\n- Bir paylaşımlı filmdeyken, uygulamayı yanlışlıkla siler ve \"film anahtarı\" kaybedilirse, uygulamayı tekrar indirdikten sonra, ilgili film kartı üzerinde uyarı göreceksiniz. Bu uyarıyı gördüğünüz bütün paylaşımlı film kameraları için, o filmdeki arkadaşlarınızdan tekrar \"film anahtarı\" isteyebilirsiniz.",
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Banyodan Çıkanlar",

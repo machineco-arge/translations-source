@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Participant Limit",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Friend Limit",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "When this film becomes a shared film, it will be limited to 10 users. Become a Pro member for unlimited participants.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Film roll is full, wait for the film owner to send the film for development",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Participants",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Friends",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "There are no requests for this film yet.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "No participant information found.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "No information about this friend was found.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "An error occurred while confirming the participant.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "An error occurred while confirming your friend.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "There was an error rejecting the participant.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "An error occurred while rejecting your friend.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Owner",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "On the \"My Films\" screen, tap the \"Participants\" icon on the film card you want to share. This will make the film a shared film and create a film-specific invite link. Send this link to your friends to invite them.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "How do I join a shared film?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "The film owner can tap the \"Participants\" icon on the film card to see incoming requests and approve or reject them. You will receive a notification when you are approved or rejected.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Security and Privacy (End-to-End Encryption)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "All of your photos in shared films are **end-to-end encrypted**. This means that **NO ONE** other than the film owner and approved participants (including the Filmcam36 team) can see your photos. For each shared film, a special \"film key\" is created that exists only on participants' devices, and all encryption/decryption happens directly on your device. This way, your memories stay private to you and your friends.\n- If you accidentally delete the app while in a shared film and lose the \"film key,\" after reinstalling the app you will see a warning on the related film card. For every shared film camera where you see this warning, you can request the \"film key\" again from that film's participants.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Developed Films",

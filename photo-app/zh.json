@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "参与人数上限",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "好友上限",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "此胶卷成为共享胶卷后，将限制为 10 名用户。成为 Pro 会员可获得无限参与者。",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "胶卷已满，请等待胶卷所有者将胶卷送去冲印",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "与会者",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "朋友们",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "此胶卷尚无请求。",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "未找到与会者信息。",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "未找到该好友的信息。",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "确认与会者时发生错误。",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "在确认好友时出现了一个错误。",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "拒绝该与会者时出现错误。",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "在拒绝好友时出现了一个错误。",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "业主",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "在「我的胶卷」屏幕，点按要共享的胶卷卡片上的「参与者」图标。这会将该胶卷设为共享胶卷，并创建专属邀请链接。将链接发给朋友即可邀请他们。",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "如何加入共享胶卷？",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "胶卷所有者可点按卡片上的「参与者」图标查看收到的请求，并批准或拒绝。当你被批准或拒绝时会收到通知。",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "安全与隐私（端到端加密）",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "共享胶卷中的所有照片均经过**端到端加密**。这意味着除胶卷所有者和已批准的参与者外，**任何人**（包括 Filmcam36 团队）都无法查看你的照片。每个共享胶卷都会创建仅存在于参与者设备上的特殊「胶卷密钥」，所有加密/解密都直接在你的设备上完成。这样，你的回忆只属于你和朋友。\n- 如果在共享胶卷期间误删应用并丢失「胶卷密钥」，重新安装后你会在相关胶卷卡片上看到警告。对于出现此警告的每个共享胶卷相机，你都可以向该胶卷的参与者再次请求「胶卷密钥」。",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "已冲印胶卷",

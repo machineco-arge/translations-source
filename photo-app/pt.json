@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Limite de participantes",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Limite de amigos",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "Quando este filme se tornar um filme compartilhado, será limitado a 10 usuários. Torne-se membro Pro para participantes ilimitados.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "O rolo de filme está cheio, aguarde o proprietário do filme enviar o filme para revelação",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Participantes",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Amigos",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Ainda não há solicitações para este filme.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "Não foram encontradas informações sobre os participantes.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "Não foi possível encontrar informações sobre o amigo.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "Ocorreu um erro ao confirmar o participante.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "Ocorreu um erro ao aprovar o seu amigo.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Ocorreu um erro ao rejeitar o participante.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "Ocorreu um erro ao rejeitar o seu amigo.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Proprietário",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "Na tela \"Meus Filmes\", toque no ícone \"Participantes\" do cartão do filme que deseja compartilhar. Isso tornará o filme um filme compartilhado e criará um link de convite específico. Envie este link aos amigos para convidá-los.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "Como entro em um filme compartilhado?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "O proprietário do filme pode tocar no ícone \"Participantes\" do cartão para ver as solicitações recebidas e aprová-las ou rejeitá-las. Você receberá uma notificação quando for aprovado ou rejeitado.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Segurança e privacidade (criptografia de ponta a ponta)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "Todas as suas fotos em filmes compartilhados são **criptografadas de ponta a ponta**. Isso significa que **NINGUÉM** além do proprietário do filme e dos participantes aprovados (incluindo a equipe Filmcam36) pode ver suas fotos. Para cada filme compartilhado, é criada uma \"chave do filme\" especial que existe apenas nos dispositivos dos participantes, e toda a criptografia/descriptografia ocorre diretamente no seu dispositivo. Assim, suas memórias ficam privadas entre você e seus amigos.\n- Se você apagar o app por engano durante um filme compartilhado e perder a \"chave do filme\", após reinstalar verá um aviso no cartão do filme correspondente. Para cada câmera de filme compartilhado com esse aviso, você pode solicitar novamente a \"chave do filme\" aos participantes desse filme.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Filmes revelados",

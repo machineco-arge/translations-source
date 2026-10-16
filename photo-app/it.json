@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Limite di partecipanti",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Limite di amici",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "Quando questo film diventerà un film condiviso, sarà limitato a 10 utenti. Diventa un membro Pro per partecipanti illimitati.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Il rullino è pieno, attendi che il proprietario del film invii il film allo sviluppo",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Partecipanti",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Ragazzi",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Non ci sono ancora richieste per questo film.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "Non sono state trovate informazioni sui partecipanti.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "Non è stato possibile trovare informazioni sull'amico.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "Si è verificato un errore durante la conferma del partecipante.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "Si è verificato un errore durante l'approvazione del tuo amico.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Si è verificato un errore nel rifiutare il partecipante.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "Si è verificato un errore durante il rifiuto del tuo amico.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Proprietario",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "Nella schermata \"I miei Film\", tocca l'icona \"Partecipanti\" sulla scheda del film da condividere. Questo renderà il film un film condiviso e creerà un link di invito specifico. Invia questo link agli amici per invitarli.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "Come mi unisco a un film condiviso?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "Il proprietario del film può toccare l'icona \"Partecipanti\" sulla scheda per vedere le richieste in arrivo e approvarle o rifiutarle. Riceverai una notifica quando vieni approvato o rifiutato.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Sicurezza e privacy (crittografia end-to-end)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "Tutte le tue foto nei film condivisi sono **crittografate end-to-end**. Ciò significa che **NESSUNO** oltre al proprietario del film e ai partecipanti approvati (incluso il team Filmcam36) può vedere le tue foto. Per ogni film condiviso viene creata una \"chiave del film\" speciale presente solo sui dispositivi dei partecipanti, e tutta la crittografia/decrittografia avviene direttamente sul tuo dispositivo. Così i tuoi ricordi restano privati tra te e i tuoi amici.\n- Se elimini accidentalmente l'app durante un film condiviso e perdi la \"chiave del film\", dopo la reinstallazione vedrai un avviso sulla scheda del film correlata. Per ogni fotocamera film condivisa con questo avviso, puoi richiedere di nuovo la \"chiave del film\" ai partecipanti di quel film.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Film sviluppati",

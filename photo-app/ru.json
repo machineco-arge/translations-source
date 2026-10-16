@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "Ограничение по количеству участников",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "Лимит друзей",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "Когда этот фильм станет общим, он будет ограничен 10 пользователями. Станьте участником Pro для неограниченного числа участников.",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "Плёнка заполнена, дождитесь, пока владелец фильма отправит фильм на проявку",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "Участники",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "Ребята",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "Для этого фильма пока нет запросов.",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "Информация об участнике не найдена.",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "Информация об этом друге не найдена.",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "При подтверждении участника произошла ошибка.",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "При подтверждении вашего друга произошла ошибка.",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "Произошла ошибка при отклонении участника.",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "При отказе другу произошла ошибка.",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "Владелец",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "На экране «Мои фильмы» нажмите значок «Участники» на карточке фильма, которым хотите поделиться. Это сделает фильм общим и создаст специальную ссылку-приглашение. Отправьте её друзьям, чтобы пригласить их.",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "Как присоединиться к общему фильму?",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "Владелец фильма может нажать значок «Участники» на карточке, чтобы видеть входящие запросы и одобрять или отклонять их. При одобрении или отклонении вы получите уведомление.",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "Безопасность и конфиденциальность (сквозное шифрование)",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "Все ваши фото в общих фильмах **шифруются сквозным шифрованием**. Это значит, что **НИКТО**, кроме владельца фильма и одобренных участников (включая команду Filmcam36), не может видеть ваши фото. Для каждого общего фильма создаётся специальный «ключ фильма», который есть только на устройствах участников, и всё шифрование/расшифровка выполняется прямо на вашем устройстве. Так ваши воспоминания остаются только у вас и друзей.\n- Если вы случайно удалите приложение во время общего фильма и потеряете «ключ фильма», после повторной установки вы увидите предупреждение на соответствующей карточке фильма. Для каждой общей плёночной камеры с этим предупреждением вы можете снова запросить «ключ фильма» у участников этого фильма.",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "Проявленные фильмы",

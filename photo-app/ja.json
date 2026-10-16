@@ -556,12 +556,12 @@
     "sourceHash": "5ae4cc034c51f617ddde1fb9ed54d1bd"
   },
   "_filmScreen_participantLimitTitle": {
-    "translation": "参加人数の上限",
-    "sourceHash": "de76b41756559d6ecf1a8cea8fb287c4"
+    "translation": "友達の上限",
+    "sourceHash": "ecbf3ea460b07c548203e93f4a123535"
   },
   "_filmScreen_participantLimitMessage": {
     "translation": "このフィルムが共有フィルムになると、10ユーザーまでに制限されます。参加者を無制限にするにはProメンバーになってください。",
-    "sourceHash": "c36d50860d17baef3fd880fee83caaa8"
+    "sourceHash": "9f645a516da435dcb7a64e6bedc0b774"
   },
   "_filmScreen_filmIsFullAlertMessageParticipant": {
     "translation": "フィルムロールがいっぱいです。フィルムの所有者がフィルムを現像に送信するのをお待ちください",
@@ -680,24 +680,24 @@
     "sourceHash": "3aa2e8a6fccbc330d29a800e406f3bcb"
   },
   "_participantModal_title": {
-    "translation": "参加者",
-    "sourceHash": "b5c83e1447130a5702fe8230c5cd85b1"
+    "translation": "みんな",
+    "sourceHash": "6d4b0bb33e53ef8170d3dae586b4e2d6"
   },
   "_participantModal_noParticipants": {
     "translation": "このフィルムへのリクエストはまだありません。",
     "sourceHash": "8192c7b661ecaf6431371013d980311b"
   },
   "_participantModal_noRequestId": {
-    "translation": "参加者の情報は見つかりませんでした。",
-    "sourceHash": "aa777811bb5c7ab6a2363a65185d0fd2"
+    "translation": "その友人の情報は見つかりませんでした。",
+    "sourceHash": "b30efcf78360240aa04e38fdfb64890b"
   },
   "_participantModal_approveError": {
-    "translation": "参加者の確認中にエラーが発生しました。",
-    "sourceHash": "d5b7190f48870b6b696f6c85fb5ce0d2"
+    "translation": "友達の承認中にエラーが発生しました。",
+    "sourceHash": "a6028a09d70f370d3928d82a48439029"
   },
   "_participantModal_rejectError": {
-    "translation": "参加者を拒否するエラーが発生しました。",
-    "sourceHash": "7498b83ee83b7e1bd3be4c72b1b4d017"
+    "translation": "友達の申請を拒否する際にエラーが発生しました。",
+    "sourceHash": "50244e1b1d4912450d41b7283d969493"
   },
   "_participantModal_owner": {
     "translation": "オーナー",
@@ -1101,7 +1101,7 @@
   },
   "_faq_a_how_to_share": {
     "translation": "「マイフィルム」画面で、共有したいフィルムカードの「参加者」アイコンをタップします。これによりフィルムが共有フィルムになり、フィルム専用の招待リンクが作成されます。このリンクを友達に送って招待できます。",
-    "sourceHash": "93e356768942ba6307ba9acde06485ff"
+    "sourceHash": "837622fa8a92496898c9a3ab7c98d982"
   },
   "_faq_q_join_shared": {
     "translation": "共有フィルムに参加するには？",
@@ -1117,7 +1117,7 @@
   },
   "_faq_a_requests_and_notifications": {
     "translation": "フィルム所有者は、フィルムカードの「参加者」アイコンをタップして受信したリクエストを確認し、承認または拒否できます。承認または拒否されると通知が届きます。",
-    "sourceHash": "c593a8d453ac86e19c80d708deb90550"
+    "sourceHash": "7d4fc5173eb338610ecd67aeea980326"
   },
   "_faq_q_e2e_encryption": {
     "translation": "セキュリティとプライバシー（エンドツーエンド暗号化）",
@@ -1125,7 +1125,7 @@
   },
   "_faq_a_e2e_encryption": {
     "translation": "共有フィルム内のすべての写真は**エンドツーエンド暗号化**されます。つまり、フィルム所有者と承認済み参加者以外の**誰も**（Filmcam36チームを含む）あなたの写真を見ることはできません。各共有フィルム用に、参加者のデバイスにのみ存在する特別な「フィルムキー」が作成され、すべての暗号化／復号はデバイス上で行われます。こうして思い出はあなたと友達だけのものです。\n- 共有フィルム使用中に誤ってアプリを削除して「フィルムキー」を失った場合、再インストール後に該当フィルムカードに警告が表示されます。この警告がある共有フィルムカメラごとに、そのフィルムの参加者から再度「フィルムキー」をリクエストできます。",
-    "sourceHash": "b5db0f49c4c80b699eec4b9fae8c4ac0"
+    "sourceHash": "3a880728a3357edc67d6146e4df5833c"
   },
   "_faq_section_album": {
     "translation": "現像済みフィルム",
