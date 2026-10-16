@@ -88,11 +88,11 @@
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   },
   "onboardingGoToHomeTitle": {
-    "translation": "Ahora crea tu propia película",
-    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+    "translation": "Descubre ahora las cámaras",
+    "sourceHash": "d8414990bd54f234dd33314c4fd97312"
   },
   "onboardingGoToHomeMessage": {
-    "translation": "Crea tu propia película probando las cámaras y eligiendo la que mejor se adapte al momento.",
-    "sourceHash": "de21aa56baeec831d6c4d23779605706"
+    "translation": "Cada cámara tiene su propia textura y personalidad. Elige la que mejor se adapte al momento.",
+    "sourceHash": "040b3eaaf8f8a15bcec63fd5b6c59a70"
   }
 }

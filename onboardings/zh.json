@@ -88,11 +88,11 @@
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   },
   "onboardingGoToHomeTitle": {
-    "translation": "现在来制作你自己的电影吧",
-    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+    "translation": "立即探索相机系列",
+    "sourceHash": "d8414990bd54f234dd33314c4fd97312"
   },
   "onboardingGoToHomeMessage": {
-    "translation": "通过探索各种相机，并选择最适合当下场景的那一款，创作属于你自己的影片。",
-    "sourceHash": "de21aa56baeec831d6c4d23779605706"
+    "translation": "每台相机都有其独特的质感与个性。选择最适合当下时刻的那一台吧。",
+    "sourceHash": "040b3eaaf8f8a15bcec63fd5b6c59a70"
   }
 }

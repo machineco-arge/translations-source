@@ -88,11 +88,11 @@
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   },
   "onboardingGoToHomeTitle": {
-    "translation": "Ora crea il tuo film",
-    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+    "translation": "Scopri subito le fotocamere",
+    "sourceHash": "d8414990bd54f234dd33314c4fd97312"
   },
   "onboardingGoToHomeMessage": {
-    "translation": "Crea il tuo filmato esplorando le diverse fotocamere e scegliendo quella più adatta al momento.",
-    "sourceHash": "de21aa56baeec831d6c4d23779605706"
+    "translation": "Ogni fotocamera ha una sua atmosfera e un suo carattere. Scegli quella più adatta al momento.",
+    "sourceHash": "040b3eaaf8f8a15bcec63fd5b6c59a70"
   }
 }

@@ -88,11 +88,11 @@
     "sourceHash": "02a7753fccd15db802eb00bb27fb1f27"
   },
   "onboardingGoToHomeTitle": {
-    "translation": "À vous de créer votre propre film ",
-    "sourceHash": "c6124025dd1854b43dd9727d29401a74"
+    "translation": "Découvrez dès maintenant nos appareils photo",
+    "sourceHash": "d8414990bd54f234dd33314c4fd97312"
   },
   "onboardingGoToHomeMessage": {
-    "translation": "Créez votre propre film en découvrant les différents appareils photo et en choisissant celui qui correspond le mieux à l'instant.",
-    "sourceHash": "de21aa56baeec831d6c4d23779605706"
+    "translation": "Chaque appareil photo a sa propre personnalité et son propre style. Choisissez celui qui correspond le mieux à l'instant.",
+    "sourceHash": "040b3eaaf8f8a15bcec63fd5b6c59a70"
   }
 }
