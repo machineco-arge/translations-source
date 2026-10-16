@@ -123,7 +123,8 @@
             "_common_sendToPrint": "Send for Development",
             "_selectFilm_selectFilmCount": "Select Film Roll",
             "_homeScreen_selectFilmRoll": "Select a film roll and start shooting.",
-            "month": "Month"
+            "month": "Month",
+            "subscription_headline_yearly": "Save {{percent}}% with yearly!"
         },
         "de": {
             "_selectFilm_activityCooldownHours": "{{hours}} Stunden",
@@ -235,7 +236,8 @@
             "_common_sendToPrint": "Zur Entwicklung senden",
             "_selectFilm_selectFilmCount": "Filmrolle auswählen",
             "_homeScreen_selectFilmRoll": "Wählen Sie eine Filmrolle aus und starten Sie das Aufnehmen.",
-            "month": "Monat"
+            "month": "Monat",
+            "subscription_headline_yearly": "Spare {{percent}}% mit dem Jahresabo!"
         },
         "es": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -347,7 +349,8 @@
             "_common_sendToPrint": "Enviar a Desarrollo",
             "_selectFilm_selectFilmCount": "Seleccionar rollo de película",
             "_homeScreen_selectFilmRoll": "Selecciona un rollo de película y comienza a grabar.",
-            "month": "Mes"
+            "month": "Mes",
+            "subscription_headline_yearly": "¡Ahorra un {{percent}}% con el anual!"
         },
         "fr": {
             "_selectFilm_activityCooldownHours": "{{hours}} heures",
@@ -459,7 +462,8 @@
             "_common_sendToPrint": "Envoyer au développement",
             "_selectFilm_selectFilmCount": "Sélectionner la pellicule",
             "_homeScreen_selectFilmRoll": "Sélectionnez une pellicule et commencez à photographier.",
-            "month": "Mois"
+            "month": "Mois",
+            "subscription_headline_yearly": "Économisez {{percent}} % avec l'annuel !"
         },
         "it": {
             "_selectFilm_activityCooldownHours": "{{hours}} ore",
@@ -571,7 +575,8 @@
             "_common_sendToPrint": "Invia allo sviluppo",
             "_selectFilm_selectFilmCount": "Seleziona il rullino",
             "_homeScreen_selectFilmRoll": "Seleziona un rullino e inizia a fotografare.",
-            "month": "Mese"
+            "month": "Mese",
+            "subscription_headline_yearly": "Risparmia il {{percent}}% con l'annuale!"
         },
         "ja": {
             "_selectFilm_activityCooldownHours": "{{hours}} 時間",
@@ -683,7 +688,8 @@
             "_common_sendToPrint": "現像に送信",
             "_selectFilm_selectFilmCount": "フィルムロールを選択",
             "_homeScreen_selectFilmRoll": "フィルムロールを選択して撮影を開始します。",
-            "month": "月"
+            "month": "月",
+            "subscription_headline_yearly": "年額で{{percent}}%お得！"
         },
         "ko": {
             "_selectFilm_activityCooldownHours": "{{hours}} 시간",
@@ -795,7 +801,8 @@
             "_common_sendToPrint": "현상으로 보내기",
             "_selectFilm_selectFilmCount": "필름롤 선택",
             "_homeScreen_selectFilmRoll": "필름롤을 선택하고 촬영을 시작합니다.",
-            "month": "월"
+            "month": "월",
+            "subscription_headline_yearly": "연간으로 {{percent}}% 절약!"
         },
         "pt": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -907,7 +914,8 @@
             "_common_sendToPrint": "Enviar para Revelação",
             "_selectFilm_selectFilmCount": "Selecionar rolo de filme",
             "_homeScreen_selectFilmRoll": "Selecione um rolo de filme e comece a fotografar.",
-            "month": "Mês"
+            "month": "Mês",
+            "subscription_headline_yearly": "Economize {{percent}}% no anual!"
         },
         "ru": {
             "_selectFilm_activityCooldownHours": "{{hours}} часов",
@@ -1019,7 +1027,8 @@
             "_common_sendToPrint": "Отправить на проявку",
             "_selectFilm_selectFilmCount": "Выбрать плёнку",
             "_homeScreen_selectFilmRoll": "Выберите плёнку и начните фотографировать.",
-            "month": "Месяц"
+            "month": "Месяц",
+            "subscription_headline_yearly": "Сэкономьте {{percent}}% с годовой!"
         },
         "zh": {
             "_selectFilm_activityCooldownHours": "{{hours}} 小时",
@@ -1131,7 +1140,8 @@
             "_common_sendToPrint": "送去冲印",
             "_selectFilm_selectFilmCount": "选择胶卷",
             "_homeScreen_selectFilmRoll": "选择胶卷并开始拍摄。",
-            "month": "月"
+            "month": "月",
+            "subscription_headline_yearly": "年付立省 {{percent}}%！"
         },
         "tr": {
             "_common_delete": "Sil",
