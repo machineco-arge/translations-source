@@ -1212,8 +1212,20 @@
     "sourceHash": "f99f2053d079b59166b202c3faf43f03"
   },
   "month": {
+    "translation": "Lune",
+    "sourceHash": "8f32590bad0ccf7b22f10a7d2fa1ba83"
+  },
+  "year": {
+    "translation": "Année",
+    "sourceHash": "e7c18eefc9c9f938a57f4520db9af2aa"
+  },
+  "monthly": {
     "translation": "Mensuel",
     "sourceHash": "f76607633472c9f03f5a672608069de4"
+  },
+  "yearly": {
+    "translation": "Annuel",
+    "sourceHash": "765fbbdbfefe077332ecd07d65e4d124"
   },
   "subscribe_now": {
     "translation": "S'abonner",
@@ -1238,6 +1250,10 @@
   "subscription_product_display_name": {
     "translation": "FilmCam36 Pro — Monthly Subscription",
     "sourceHash": "f941f0b9a8c57c3b989b4c626c22e73e"
+  },
+  "subscription_product_display_name_yearly": {
+    "translation": "FilmCam36 Pro — Abonnement annuel",
+    "sourceHash": "3d1cf88d667f61f04f390068452ddf3a"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "Produit non trouvé",
@@ -1302,6 +1318,14 @@
   "subscription_trial_note": {
     "translation": "Si l'abonnement n'est pas résilié dans les 7 jours, un abonnement mensuel automatique prendra effet. Les utilisateurs qui bénéficient d'un abonnement gratuit commencent directement par un abonnement mensuel.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
+  },
+  "subscription_trial_headline_yearly": {
+    "translation": "Jusqu'à 50 % de réduction !",
+    "sourceHash": "891f20a00c5234110f879eeb6e6cfa4b"
+  },
+  "subscription_trial_note_yearly": {
+    "translation": "En souscrivant à un abonnement annuel, vous bénéficiez d'une réduction pouvant aller jusqu'à environ 50 %.",
+    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
   },
   "subscription_auto_renew_notice": {
     "translation": "L'abonnement est renouvelé automatiquement et peut être géré via l'App Store d'Apple ou Google Play.",

@@ -1212,8 +1212,20 @@
     "sourceHash": "f99f2053d079b59166b202c3faf43f03"
   },
   "month": {
-    "translation": "Ежемесячно",
+    "translation": "Месяц",
+    "sourceHash": "8f32590bad0ccf7b22f10a7d2fa1ba83"
+  },
+  "year": {
+    "translation": "Год",
+    "sourceHash": "e7c18eefc9c9f938a57f4520db9af2aa"
+  },
+  "monthly": {
+    "translation": "Ежемесячный",
     "sourceHash": "f76607633472c9f03f5a672608069de4"
+  },
+  "yearly": {
+    "translation": "Ежегодный",
+    "sourceHash": "765fbbdbfefe077332ecd07d65e4d124"
   },
   "subscribe_now": {
     "translation": "Подписаться",
@@ -1238,6 +1250,10 @@
   "subscription_product_display_name": {
     "translation": "FilmCam36 Pro — Monthly Subscription",
     "sourceHash": "f941f0b9a8c57c3b989b4c626c22e73e"
+  },
+  "subscription_product_display_name_yearly": {
+    "translation": "FilmCam36 Pro — годовая подписка",
+    "sourceHash": "3d1cf88d667f61f04f390068452ddf3a"
   },
   "_subscription_productNotFoundTitle": {
     "translation": "Продукт не найден",
@@ -1302,6 +1318,14 @@
   "subscription_trial_note": {
     "translation": "Если в течение 7 дней не будет отменено, автоматически начнёт действовать ежемесячная подписка. Пользователи, воспользовавшиеся правом на бесплатную подписку, сразу переходят на ежемесячную подписку.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
+  },
+  "subscription_trial_headline_yearly": {
+    "translation": "Скидка до 50 %!",
+    "sourceHash": "891f20a00c5234110f879eeb6e6cfa4b"
+  },
+  "subscription_trial_note_yearly": {
+    "translation": "При покупке годовой подписки вы получаете скидку до 50 %.",
+    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
   },
   "subscription_auto_renew_notice": {
     "translation": "Подписка продлевается автоматически и управляется через Apple App Store или Google Play.",
