@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "En souscrivant à un abonnement annuel, vous bénéficiez d'une réduction pouvant aller jusqu'à environ 50 %.",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "En choisissant un abonnement annuel, vous pouvez économiser {{percent}} % par rapport au paiement mensuel.",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "L'abonnement est renouvelé automatiquement et peut être géré via l'App Store d'Apple ou Google Play.",

@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "When you purchase an annual subscription, you'll save up to 50%.",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "By choosing an annual subscription, you can save {{percent}}% compared to paying monthly.",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "The subscription renews automatically and is managed through the Apple App Store or Google Play.",

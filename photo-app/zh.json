@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "购买年度订阅可享受最高约50%的折扣。",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "选择年度订阅，相比按月付费可节省 {{percent}}%。",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "订阅会自动续订，并可通过 Apple App Store 或 Google Play 进行管理。",

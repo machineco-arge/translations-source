@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "연간 구독을 구매하시면 최대 약 50%의 할인을 받으실 수 있습니다.",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "연간 구독을 선택하면 월간 결제보다 {{percent}}% 절약할 수 있습니다.",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "구독은 자동으로 갱신되며, Apple App Store 또는 Google Play를 통해 관리됩니다.",

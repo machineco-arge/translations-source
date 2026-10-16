@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "Yıllık abonelik satın alırken yaklaşık %50'e varan indirim kazanırsınız.",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "Yıllık abonelik seçerek aylık ödemeye kıyasla %{{percent}} tasarruf edebilirsiniz.",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "Abonelik, otomatik olarak yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",

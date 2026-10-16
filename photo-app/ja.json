@@ -1324,8 +1324,8 @@
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
-    "translation": "年間サブスクリプションを購入すると、最大約50％の割引が受けられます。",
-    "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
+    "translation": "年間サブスクリプションを選ぶと、月額払いと比べて{{percent}}%節約できます。",
+    "sourceHash": "d591ac8522a2d4694882fe27b8ced66b"
   },
   "subscription_auto_renew_notice": {
     "translation": "サブスクリプションは自動的に更新され、Apple App StoreまたはGoogle Playから管理できます。",
