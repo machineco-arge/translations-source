@@ -1320,7 +1320,7 @@
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
   "subscription_headline_yearly": {
-    "translation": "订阅年度套餐，立省 % {{percent}} ！",
+    "translation": "年付立省 {{percent}}%！",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
   },
   "subscription_note_yearly": {
