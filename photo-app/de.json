@@ -1319,12 +1319,12 @@
     "translation": "Wenn die Kündigung nicht innerhalb von 7 Tagen erfolgt, beginnt automatisch ein monatliches Abonnement. Nutzer, die ihr Recht auf ein kostenloses Abonnement in Anspruch nehmen, beginnen direkt mit einem monatlichen Abonnement.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
-  "subscription_trial_headline_yearly": {
-    "translation": "Bis zu 50 % Rabatt!",
-    "sourceHash": "891f20a00c5234110f879eeb6e6cfa4b"
+  "subscription_headline_yearly": {
+    "translation": "Bis zu % {{percent}} Rabatt!",
+    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
   },
-  "subscription_trial_note_yearly": {
-    "translation": "Beim Kauf eines Jahresabonnements erhalten Sie einen Rabatt von bis zu 50 %.",
+  "subscription_note_yearly": {
+    "translation": "Beim Kauf eines Jahresabonnements erhalten Sie einen Rabatt von bis zu ca. 50 %.",
     "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
   },
   "subscription_auto_renew_notice": {

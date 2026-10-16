@@ -1319,11 +1319,11 @@
     "translation": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
-  "subscription_trial_headline_yearly": {
-    "translation": "%50'e varan indirim!",
-    "sourceHash": "891f20a00c5234110f879eeb6e6cfa4b"
+  "subscription_headline_yearly": {
+    "translation": "%{{percent}}'e varan indirim!",
+    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
   },
-  "subscription_trial_note_yearly": {
+  "subscription_note_yearly": {
     "translation": "Yıllık abonelik satın alırken yaklaşık %50'e varan indirim kazanırsınız.",
     "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
   },

@@ -1319,11 +1319,11 @@
     "translation": "如果7天内未取消，将自动开始月度订阅。使用免费试用权益的用户将直接开始月度订阅。",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
-  "subscription_trial_headline_yearly": {
-    "translation": "最高可享50%的折扣！",
-    "sourceHash": "891f20a00c5234110f879eeb6e6cfa4b"
+  "subscription_headline_yearly": {
+    "translation": "最高可享 % {{percent}} 的折扣！",
+    "sourceHash": "7962288bbcb19007e0a4bf9c7f08ef7c"
   },
-  "subscription_trial_note_yearly": {
+  "subscription_note_yearly": {
     "translation": "购买年度订阅可享受最高约50%的折扣。",
     "sourceHash": "6e58d02cd6c38239d8922f1fe6d6ff30"
   },
