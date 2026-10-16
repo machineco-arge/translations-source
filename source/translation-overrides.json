@@ -124,7 +124,8 @@
             "_selectFilm_selectFilmCount": "Select Film Roll",
             "_homeScreen_selectFilmRoll": "Select a film roll and start shooting.",
             "month": "Month",
-            "subscription_headline_yearly": "Save {{percent}}% with yearly!"
+            "subscription_headline_yearly": "Save {{percent}}% with yearly!",
+            "subscription_note_yearly": "By choosing an annual subscription, you can save {{percent}}% compared to paying monthly."
         },
         "de": {
             "_selectFilm_activityCooldownHours": "{{hours}} Stunden",
@@ -237,7 +238,8 @@
             "_selectFilm_selectFilmCount": "Filmrolle auswählen",
             "_homeScreen_selectFilmRoll": "Wählen Sie eine Filmrolle aus und starten Sie das Aufnehmen.",
             "month": "Monat",
-            "subscription_headline_yearly": "Spare {{percent}}% mit dem Jahresabo!"
+            "subscription_headline_yearly": "Spare {{percent}}% mit dem Jahresabo!",
+            "subscription_note_yearly": "Wenn Sie ein Jahresabo wählen, können Sie im Vergleich zur monatlichen Zahlung {{percent}}% sparen."
         },
         "es": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -350,7 +352,8 @@
             "_selectFilm_selectFilmCount": "Seleccionar rollo de película",
             "_homeScreen_selectFilmRoll": "Selecciona un rollo de película y comienza a grabar.",
             "month": "Mes",
-            "subscription_headline_yearly": "¡Ahorra un {{percent}}% con el anual!"
+            "subscription_headline_yearly": "¡Ahorra un {{percent}}% con el anual!",
+            "subscription_note_yearly": "Al elegir una suscripción anual, puedes ahorrar un {{percent}}% en comparación con el pago mensual."
         },
         "fr": {
             "_selectFilm_activityCooldownHours": "{{hours}} heures",
@@ -463,7 +466,8 @@
             "_selectFilm_selectFilmCount": "Sélectionner la pellicule",
             "_homeScreen_selectFilmRoll": "Sélectionnez une pellicule et commencez à photographier.",
             "month": "Mois",
-            "subscription_headline_yearly": "Économisez {{percent}} % avec l'annuel !"
+            "subscription_headline_yearly": "Économisez {{percent}} % avec l'annuel !",
+            "subscription_note_yearly": "En choisissant un abonnement annuel, vous pouvez économiser {{percent}} % par rapport au paiement mensuel."
         },
         "it": {
             "_selectFilm_activityCooldownHours": "{{hours}} ore",
@@ -576,7 +580,8 @@
             "_selectFilm_selectFilmCount": "Seleziona il rullino",
             "_homeScreen_selectFilmRoll": "Seleziona un rullino e inizia a fotografare.",
             "month": "Mese",
-            "subscription_headline_yearly": "Risparmia il {{percent}}% con l'annuale!"
+            "subscription_headline_yearly": "Risparmia il {{percent}}% con l'annuale!",
+            "subscription_note_yearly": "Scegliendo un abbonamento annuale, puoi risparmiare il {{percent}}% rispetto al pagamento mensile."
         },
         "ja": {
             "_selectFilm_activityCooldownHours": "{{hours}} 時間",
@@ -689,7 +694,8 @@
             "_selectFilm_selectFilmCount": "フィルムロールを選択",
             "_homeScreen_selectFilmRoll": "フィルムロールを選択して撮影を開始します。",
             "month": "月",
-            "subscription_headline_yearly": "年額で{{percent}}%お得！"
+            "subscription_headline_yearly": "年額で{{percent}}%お得！",
+            "subscription_note_yearly": "年間サブスクリプションを選ぶと、月額払いと比べて{{percent}}%節約できます。"
         },
         "ko": {
             "_selectFilm_activityCooldownHours": "{{hours}} 시간",
@@ -802,7 +808,8 @@
             "_selectFilm_selectFilmCount": "필름롤 선택",
             "_homeScreen_selectFilmRoll": "필름롤을 선택하고 촬영을 시작합니다.",
             "month": "월",
-            "subscription_headline_yearly": "연간으로 {{percent}}% 절약!"
+            "subscription_headline_yearly": "연간으로 {{percent}}% 절약!",
+            "subscription_note_yearly": "연간 구독을 선택하면 월간 결제보다 {{percent}}% 절약할 수 있습니다."
         },
         "pt": {
             "_selectFilm_activityCooldownHours": "{{hours}} horas",
@@ -915,7 +922,8 @@
             "_selectFilm_selectFilmCount": "Selecionar rolo de filme",
             "_homeScreen_selectFilmRoll": "Selecione um rolo de filme e comece a fotografar.",
             "month": "Mês",
-            "subscription_headline_yearly": "Economize {{percent}}% no anual!"
+            "subscription_headline_yearly": "Economize {{percent}}% no anual!",
+            "subscription_note_yearly": "Ao escolher uma assinatura anual, você pode economizar {{percent}}% em comparação com o pagamento mensal."
         },
         "ru": {
             "_selectFilm_activityCooldownHours": "{{hours}} часов",
@@ -1028,7 +1036,8 @@
             "_selectFilm_selectFilmCount": "Выбрать плёнку",
             "_homeScreen_selectFilmRoll": "Выберите плёнку и начните фотографировать.",
             "month": "Месяц",
-            "subscription_headline_yearly": "Сэкономьте {{percent}}% с годовой!"
+            "subscription_headline_yearly": "Сэкономьте {{percent}}% с годовой!",
+            "subscription_note_yearly": "Выбрав годовую подписку, вы можете сэкономить {{percent}}% по сравнению с ежемесячной оплатой."
         },
         "zh": {
             "_selectFilm_activityCooldownHours": "{{hours}} 小时",
@@ -1141,7 +1150,8 @@
             "_selectFilm_selectFilmCount": "选择胶卷",
             "_homeScreen_selectFilmRoll": "选择胶卷并开始拍摄。",
             "month": "月",
-            "subscription_headline_yearly": "年付立省 {{percent}}%！"
+            "subscription_headline_yearly": "年付立省 {{percent}}%！",
+            "subscription_note_yearly": "选择年度订阅，相比按月付费可节省 {{percent}}%。"
         },
         "tr": {
             "_common_delete": "Sil",
