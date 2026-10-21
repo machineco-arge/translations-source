@@ -877,6 +877,22 @@
         "translation": "번트 효과\n그런지 스타일",
         "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
       },
+      "instelladescription": {
+        "translation": "인디고 그림자\n내슈빌의 영혼",
+        "sourceHash": "7a8a6dc0b01a5d9621bb58a28aefd025"
+      },
+      "metrochromedescription": {
+        "translation": "제한된 색상 팔레트\n무광 질감",
+        "sourceHash": "765d5ac71d9c966623191d827125a97b"
+      },
+      "digidescription": {
+        "translation": "밝은 색조\n초기 디지털",
+        "sourceHash": "ce7ed66a90b0c835b6a7ba9a96dc1e32"
+      },
+      "silverdescription": {
+        "translation": "흑백\n모노크롬의 영혼",
+        "sourceHash": "23f3ee442a0406ed27b7dc54d4a0af58"
+      },
       "nofilterdescription": {
         "translation": "원본 사진\n휴대폰 카메라",
         "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"

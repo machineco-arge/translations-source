@@ -877,6 +877,22 @@
         "translation": "Efecto quemado\nEstilo grunge",
         "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
       },
+      "instelladescription": {
+        "translation": "Sombras índigo\nEl espíritu de Nashville",
+        "sourceHash": "7a8a6dc0b01a5d9621bb58a28aefd025"
+      },
+      "metrochromedescription": {
+        "translation": "Gama limitada de colores\nAcabado mate",
+        "sourceHash": "765d5ac71d9c966623191d827125a97b"
+      },
+      "digidescription": {
+        "translation": "Tonos brillantes\nLas primeras etapas de la era digital",
+        "sourceHash": "ce7ed66a90b0c835b6a7ba9a96dc1e32"
+      },
+      "silverdescription": {
+        "translation": "Blanco y negro\nEspíritu monocromático",
+        "sourceHash": "23f3ee442a0406ed27b7dc54d4a0af58"
+      },
       "nofilterdescription": {
         "translation": "Tu foto original\nCámara del teléfono",
         "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"

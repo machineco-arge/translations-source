@@ -877,6 +877,22 @@
         "translation": "烧焦效果\n格调风格",
         "sourceHash": "d6c87daf0f3f79f6f539d9fac63404b1"
       },
+      "instelladescription": {
+        "translation": "靛蓝的阴影\n纳什维尔之魂",
+        "sourceHash": "7a8a6dc0b01a5d9621bb58a28aefd025"
+      },
+      "metrochromedescription": {
+        "translation": "有限的色板\n哑光质感",
+        "sourceHash": "765d5ac71d9c966623191d827125a97b"
+      },
+      "digidescription": {
+        "translation": "明亮的色调\n早期数字技术",
+        "sourceHash": "ce7ed66a90b0c835b6a7ba9a96dc1e32"
+      },
+      "silverdescription": {
+        "translation": "黑白\n单色之魂",
+        "sourceHash": "23f3ee442a0406ed27b7dc54d4a0af58"
+      },
       "nofilterdescription": {
         "translation": "您的原始照片\n手机摄像头",
         "sourceHash": "2a2b0f7faf4bd37fedfcf4eac55aff36"
