@@ -1363,6 +1363,22 @@
     "translation": "使用条款（EULA）",
     "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
   },
+  "subscription_choose_plan": {
+    "translation": "选择套餐",
+    "sourceHash": "471319d037964c165b7155c55d86e731"
+  },
+  "subscription_try_free_trial": {
+    "translation": "免费试用7天",
+    "sourceHash": "b6cda70ec2d21ba00258332a1b08f4af"
+  },
+  "subscription_plan_trial_then_price": {
+    "translation": "7天免费，然后{{price}}",
+    "sourceHash": "80e5f1ff861d5fabad3ab2897e696d51"
+  },
+  "subscription_yearly_savings_badge": {
+    "translation": "%{{percent}} 节省",
+    "sourceHash": "de31a10d16781109b027bb2be442658c"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "服务条款和隐私政策",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"

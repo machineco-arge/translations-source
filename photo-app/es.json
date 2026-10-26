@@ -1363,6 +1363,22 @@
     "translation": "Condiciones de uso (EULA)",
     "sourceHash": "bddefceef7a6235cba826b75b83b1c6f"
   },
+  "subscription_choose_plan": {
+    "translation": "Elige tu plan",
+    "sourceHash": "471319d037964c165b7155c55d86e731"
+  },
+  "subscription_try_free_trial": {
+    "translation": "Prueba gratuita de 7 días",
+    "sourceHash": "b6cda70ec2d21ba00258332a1b08f4af"
+  },
+  "subscription_plan_trial_then_price": {
+    "translation": "7 días gratis, luego {{price}}",
+    "sourceHash": "80e5f1ff861d5fabad3ab2897e696d51"
+  },
+  "subscription_yearly_savings_badge": {
+    "translation": "Ahorro del %{{percent}}",
+    "sourceHash": "de31a10d16781109b027bb2be442658c"
+  },
   "termsOfServiceAndPrivacyPolicy": {
     "translation": "Condiciones del servicio y política de privacidad",
     "sourceHash": "3de1561eb113c45c124cb455b482b0d0"
