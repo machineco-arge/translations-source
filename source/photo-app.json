@@ -355,6 +355,8 @@
     "_subscription_verifyInactiveMessage": "Satın alma alındı ancak aktif bir abonelik doğrulanamadı. Lütfen birkaç dakika sonra tekrar deneyin veya satın alımları geri yükleyin.",
     "subscription_trial_headline": "7 gün ücretsiz dene!",
     "subscription_trial_note": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
+    "subscription_yearly_trial_title": "7 gün ücretsiz, sonrasında:",
+    "subscription_yearly_trial_note": "7 gün içinde iptal edilmezse otomatik yıllık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcı direkt yıllık abonelik ile başlar.",
     "subscription_headline_yearly": "Yıllık abonelikle %{{percent}} tasarruf edin!",
     "subscription_note_yearly": "Yıllık abonelik seçerek aylık ödemeye kıyasla %{{percent}} tasarruf edebilirsiniz.",
     "subscription_auto_renew_notice": "Abonelik, otomatik olarak yenilenir ve Apple App Store veya Google Play üzerinden yönetilir.",
