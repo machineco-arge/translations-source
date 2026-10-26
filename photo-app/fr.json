@@ -1335,6 +1335,14 @@
     "translation": "Si l'abonnement n'est pas résilié dans les 7 jours, un abonnement mensuel automatique prendra effet. Les utilisateurs qui bénéficient d'un abonnement gratuit commencent directement par un abonnement mensuel.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 jours gratuits, puis :",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "Si l'abonnement n'est pas résilié dans les 7 jours, un abonnement annuel automatique prendra effet. L'utilisateur qui bénéficie d'un abonnement gratuit commence directement par un abonnement annuel.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "Économisez {{percent}} % avec l'annuel !",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

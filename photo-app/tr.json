@@ -1335,6 +1335,14 @@
     "translation": "7 gün içinde iptal edilmezse otomatik aylık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcılar direkt aylık abonelik ile başlar.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 gün ücretsiz, sonrasında:",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "7 gün içinde iptal edilmezse otomatik yıllık abonelik başlar. Ücretsiz abonelik hakkını kullanan kullanıcı direkt yıllık abonelik ile başlar.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "Yıllık abonelikle %{{percent}} tasarruf edin!",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

@@ -1335,6 +1335,14 @@
     "translation": "If not canceled within 7 days, an automatic monthly subscription will begin. Users who have used their free subscription entitlement will start directly with a monthly subscription.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 days free, then:",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "If not canceled within 7 days, an automatic annual subscription will begin. Users who take advantage of the free trial will start with an annual subscription right away.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "Save {{percent}}% with yearly!",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

@@ -1335,6 +1335,14 @@
     "translation": "如果7天内未取消，将自动开始月度订阅。使用免费试用权益的用户将直接开始月度订阅。",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "前7天免费，之后：",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "如果7天内未取消，将自动开始年度订阅。使用免费订阅权益的用户将直接开始年度订阅。",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "年付立省 {{percent}}%！",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

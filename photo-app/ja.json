@@ -1335,6 +1335,14 @@
     "translation": "7日以内にキャンセルされない場合、自動的に月額サブスクリプションが開始されます。無料サブスクリプションを利用しているユーザーは、最初から月額サブスクリプションが開始されます。",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7日間無料、その後は：",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "7日以内に解約しない場合、自動的に年間サブスクリプションが開始されます。無料サブスクリプションを利用しているユーザーは、最初から年間サブスクリプションが開始されます。",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "年額で{{percent}}%お得！",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

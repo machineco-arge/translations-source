@@ -1335,6 +1335,14 @@
     "translation": "Si no se cancela en un plazo de 7 días, se activará automáticamente la suscripción mensual. Los usuarios que hagan uso de la suscripción gratuita comenzarán directamente con la suscripción mensual.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 días gratis, y después:",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "Si no se cancela en un plazo de 7 días, se activará automáticamente la suscripción anual. Los usuarios que hagan uso de su derecho a una suscripción gratuita comenzarán directamente con la suscripción anual.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "¡Ahorra un {{percent}}% con el anual!",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

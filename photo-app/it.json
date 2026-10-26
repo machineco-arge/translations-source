@@ -1335,6 +1335,14 @@
     "translation": "Se non viene annullato entro 7 giorni, avrà inizio automaticamente l'abbonamento mensile. Gli utenti che usufruiscono del periodo di prova gratuito iniziano direttamente con l'abbonamento mensile.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 giorni gratuiti, dopodiché:",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "Se non viene annullato entro 7 giorni, avrà inizio automaticamente l'abbonamento annuale. L'utente che usufruisce del diritto all'abbonamento gratuito inizia direttamente con l'abbonamento annuale.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "Risparmia il {{percent}}% con l'annuale!",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"

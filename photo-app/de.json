@@ -1335,6 +1335,14 @@
     "translation": "Wenn die Kündigung nicht innerhalb von 7 Tagen erfolgt, beginnt automatisch ein monatliches Abonnement. Nutzer, die ihr Recht auf ein kostenloses Abonnement in Anspruch nehmen, beginnen direkt mit einem monatlichen Abonnement.",
     "sourceHash": "7fa44599310ec3b7d342f46a36e8a784"
   },
+  "subscription_yearly_trial_title": {
+    "translation": "7 Tage kostenlos, danach:",
+    "sourceHash": "0381161d673d43e554b05bd8070ddf08"
+  },
+  "subscription_yearly_trial_note": {
+    "translation": "Wenn die Kündigung nicht innerhalb von 7 Tagen erfolgt, beginnt automatisch ein Jahresabonnement. Nutzer, die ihr Recht auf ein kostenloses Abonnement in Anspruch nehmen, beginnen direkt mit einem Jahresabonnement.",
+    "sourceHash": "9de8b6d5cc0b9aca6fcd3d7ef85ab758"
+  },
   "subscription_headline_yearly": {
     "translation": "Spare {{percent}}% mit dem Jahresabo!",
     "sourceHash": "0fbfef19d89b6a530347cea87384858a"
