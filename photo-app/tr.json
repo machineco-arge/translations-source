@@ -2122,9 +2122,5 @@
   "_common_download": {
     "translation": "İndir",
     "sourceHash": "35361958fa862147ff8a86279870f8a2"
-  },
-  "_common_newRequest": {
-    "translation": "Yeni İstek",
-    "sourceHash": "314ed4f47ad0c312fa1356cec3a6d16a"
   }
 }
