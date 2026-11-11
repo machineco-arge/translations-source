@@ -275,6 +275,7 @@
     "_settings_termsOfServiceAndPrivacyPolicy": "Şartlar ve Politikalar",
     "_settings_aboutTheApp": "Uygulama Hakkında",
     "_settings_billingsAndSubscriptions": "Faturalandırma ve Abonelikler",
+    "_auth_sessionExpired": "Oturumunuz sona erdi, tekrar giriş yapınız.",
 
     "_helps_faq_": "Yardım ve SSS",
     "_faq_title": "Yardım ve Sıkça Sorulan Sorular (SSS)",
