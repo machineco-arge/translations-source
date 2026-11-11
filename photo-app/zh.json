@@ -1023,6 +1023,10 @@
     "translation": "账单和订阅",
     "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
+  "_auth_sessionExpired": {
+    "translation": "您的会话已结束，请重新登录。",
+    "sourceHash": "60e5da4abe37718ca844e44a58650b29"
+  },
   "_helps_faq_": {
     "translation": "帮助和常见问题",
     "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"

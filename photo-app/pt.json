@@ -1023,6 +1023,10 @@
     "translation": "Faturação e assinaturas",
     "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
+  "_auth_sessionExpired": {
+    "translation": "A sua sessão terminou. Por favor, inicie sessão novamente.",
+    "sourceHash": "60e5da4abe37718ca844e44a58650b29"
+  },
   "_helps_faq_": {
     "translation": "Ajuda e FAQ",
     "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"

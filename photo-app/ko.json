@@ -1023,6 +1023,10 @@
     "translation": "청구 및 구독",
     "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
+  "_auth_sessionExpired": {
+    "translation": "세션이 종료되었습니다. 다시 로그인해 주세요.",
+    "sourceHash": "60e5da4abe37718ca844e44a58650b29"
+  },
   "_helps_faq_": {
     "translation": "도움말 및 FAQ",
     "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"

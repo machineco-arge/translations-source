@@ -1023,6 +1023,10 @@
     "translation": "Facturation et abonnements",
     "sourceHash": "c6b57499abf1d5ccb46c8c17b54eb27e"
   },
+  "_auth_sessionExpired": {
+    "translation": "Votre session a expiré, veuillez vous reconnecter.",
+    "sourceHash": "60e5da4abe37718ca844e44a58650b29"
+  },
   "_helps_faq_": {
     "translation": "Aide et FAQ",
     "sourceHash": "bcd62fa9a332dadb84e28b55d97f2c31"
